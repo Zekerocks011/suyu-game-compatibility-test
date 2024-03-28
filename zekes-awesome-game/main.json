@@ -3,8 +3,8 @@
   "generalCompat": "Perfect",
   "releases": [
     {
-      "all": "0100438012EC8000",
-    },
+      "all": "0100438012EC8000"
+    }
   ],
   "detailedCompat": [
     {
@@ -15,7 +15,7 @@
       "testGPU": "NVIDIA GeForce RTX 4050 Laptop GPU",
       "testOS": "Windows 11",
       "buildVersion": "v0.01",
-      "rating": "Perfect",
-    },
-  ],
+      "rating": "Perfect"
+    }
+  ]
 }
