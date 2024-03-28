@@ -1,0 +1,21 @@
+{
+  "gameName": "Zeke's Awesome Game",
+  "generalCompat": "Perfect",
+  "releases": [
+    {
+      "all": "0100438012EC8000",
+    },
+  ],
+  "detailedCompat": [
+    {
+      "buildDate": "03/28/2024",
+      "testUser": "Zeke",
+      "testDate": "03/28/2024",
+      "testCPU": "Intel(R) Core(TM) i7012650H",
+      "testGPU": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "testOS": "Windows 11",
+      "buildVersion": "v0.01",
+      "rating": "Perfect",
+    },
+  ],
+}
