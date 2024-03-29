@@ -1,0 +1,18 @@
+{
+    "gameName": "maddie's awesomer game",
+    "gameSummary": "in this new game by nobody other than maddie, e-whore online for money !! cam girls not included",
+    "titleId": "0100438012EC8000",
+    "generalCompat": "Good",
+    "detailedCompat": [
+      {
+        "buildDate": "03/28/2024",
+        "testUser": "notnullptr",
+        "testDate": "03/28/2024",
+        "testCPU": "AMD Ryzen 7 5700X 8 Core Processor",
+        "testGPU": "NVIDIA GeForce RTX 3080",
+        "testOS": "Windows 10.0.19044.4170",
+        "buildVersion": "v0.01",
+        "rating": "Good"
+      }
+    ]
+}
