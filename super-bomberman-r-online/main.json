@@ -1,0 +1,19 @@
+{
+  "name": "SUPER BOMBERMAN R ONLINE",
+  "description": "Drop bombs and collect power-ups to blast your way through SUPER BOMBERMAN R ONLINE! \n\nYou can compete against up to 64 players from around the world in this explosive survival battle! Fight your way to the end and outlast all other players to be BOMBER ONE!\n\nFREE TO PLAY ONLINE BATTLE ROYALE\nBack to classic Bomberman fun,  the original survival battle format gets supercharged to 64 players online! \n\nCUSTOMIZABLE CHAOS\nSelf-explode in style with fresh outfits and bomb skins bursting with pop-corn, or try on the latest head accessories available to customize your look!\n\nPICK YOUR POWER-UPS\nFrom essential Punching Gloves to the return of the iconic Louies,  pick your power-ups fast to your kick your friends out with a spark!",
+  "title_id": "01007380121FE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0ecc261e5596ef2e105ab36b2e3cbd1d35be63211a54c07a36fefb7c9b607c48.jpg",
+  "tests": [
+    {
+      "tester": "MasterChief117",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-28T18:41:52.906",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 980",
+      "version": "7b86a68",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}
