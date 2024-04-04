@@ -1,18 +1,64 @@
 {
-    "gameName": "maddie's awesomer game",
-    "gameSummary": "in this new game by nobody other than maddie, e-whore online for money !! cam girls not included",
+    "name": "maddie's awesomer game",
+    "description": "in this new game by nobody other than maddie, e-whore online for money !! cam girls not included",
     "titleId": "0100438012EC8000",
-    "generalCompat": "Good",
+    "img": "https://img-eshop.cdn.nintendo.net/i/0f9b01186ac3e3663853f9be978fa2e9a40d71f15bfa88e3a4512e5f410120f8.jpg",
     "detailedCompat": [
-      {
-        "buildDate": "03/28/2024",
-        "testUser": "notnullptr",
-        "testDate": "03/28/2024",
-        "testCPU": "AMD Ryzen 7 5700X 8 Core Processor",
-        "testGPU": "NVIDIA GeForce RTX 3080",
-        "testOS": "Windows 10.0.19044.4170",
-        "buildVersion": "v0.01",
-        "rating": "Good"
-      }
-    ]
+ "tests": [
+        {
+          "tester": "ong_ong",
+          "rating": 3,
+          "details": null,
+          "test_date": "2021-07-28T18:41:52.906",
+          "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+          "gpu": "GeForce GTX 750 Ti",
+          "version": "d48b2b7",
+          "os": "Windows",
+          "from_yuzu": true
+        },
+        {
+          "tester": "zeke",
+          "rating": 5,
+          "details": null,
+          "test_date": "2021-07-28T18:41:52.906",
+          "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+          "gpu": "GeForce GTX 750 Ti",
+          "version": "d48b2b7",
+          "os": "Windows",
+          "from_yuzu": true
+        },
+        {
+          "tester": "maddie",
+          "rating": 4,
+          "details": null,
+          "test_date": "2021-07-28T18:41:52.906",
+          "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+          "gpu": "GeForce GTX 750 Ti",
+          "version": "d48b2b7",
+          "os": "Windows",
+          "from_yuzu": true
+        },
+        {
+          "tester": "someguy",
+          "rating": 1,
+          "details": null,
+          "test_date": "2021-07-28T18:41:52.906",
+          "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+          "gpu": "GeForce GTX 750 Ti",
+          "version": "d48b2b7",
+          "os": "Windows",
+          "from_yuzu": false
+        },
+        {
+          "tester": "ong_ong",
+          "rating": 2,
+          "details": null,
+          "test_date": "2021-07-28T18:41:52.906",
+          "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+          "gpu": "GeForce GTX 750 Ti",
+          "version": "d48b2b7",
+          "os": "Windows",
+          "from_yuzu": false
+        }
+  ]
 }
