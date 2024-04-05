@@ -1,0 +1,30 @@
+{
+  "name": "Metal Commando",
+  "description": "This game will take you through series of classic levels, various enemies, and boss battles with amazing experience of side-scrolling platformer games. Use various weapons filled with slugs and power-ups to fight your way through multiple enemies, metal tanks, copters and put an end to the evil army leader's and his world of terror.\n\nDifferent enemies have different patterns of attack, which is great when you're fighting them one on one, but once there's more than a few on the screen you're going to be jumping and running your way through storms of bullets from every angle.\n\nGame Features:\n- Jump and shoot. Use special guns and character's skill to defeat enemies.\n- Unlock and upgrade guns!\n- Different kind of enemies.\n- Challenging boss fights.\n\nWhat are you waiting for? Start Metal Commando now and let the shooting begin!",
+  "titleId": "0100BE5015B7C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/019cd3d3c8d6a74cd22dfe0522a2b4c4d975b17ab1bd2ff3e15f3df6fa630ba0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-02T11:37:43.878",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5a2bacb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-27T20:59:26.037",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e931df8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

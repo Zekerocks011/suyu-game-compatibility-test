@@ -1,0 +1,118 @@
+{
+  "name": "ONE PIECE: Unlimited World Red Deluxe Edition",
+  "description": "With over 1 million units sold worldwide, dive back into the wayfaring journey from ONE PIECE: Unlimited World Red, with the fun-filled escapades, action-packed battles and powerful comrades from the original Island of Promises storyline, now all with enhanced graphics and previously released DLC in ONE PIECE: Unlimited World Red Deluxe Edition.\n\nPlay as members of the Straw Hat pirate crew and experience an original storyline that introduced new characters, Pato and Red Count, both designed and developed by series creator Eiichiro Oda. This action-adventure game allows for free exploration through the colorful central town with fun town folk that provide additional quests and entertainment, but be prepared to test your skills and face-off against famous bosses like Rob Lucci, Caesar Clown, and more.",
+  "titleId": "0100574002AF4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/685240979350d1e154637b06b66404b3c92f41ea2b72015ac4f4c8d21f23a1db.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-04-19T01:49:44.618",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6cd0dc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-04T20:00:54.467",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ec2ec29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-16T20:47:58.918",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ben1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-23T15:43:32.845",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 Ti",
+      "version": "91830b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-14T01:58:06.454",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f5be216",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-04T11:15:02.559",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "711f3c8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-03-03T20:55:55.577",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d2433e8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-20T02:21:48.986",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "403113f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-08T02:37:06.313",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ccd7bbd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-04T00:41:27.518",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d2433e8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "KATANA KAMI: A Way of the Samurai Story",
+  "description": "Rediscover the ways of old in KATANA KAMI: A Way of the Samurai Story!\n\nPlay as a ronin during Japan's Meiji Restoration in the volatile Rokkotsu Pass. The swordsmith Dojima falls into debt and his beautiful daughter is taken as collateral. Help repay the debt by crafting swords by day and exploring the mysterious, twisting dungeons of the Ipponmatsu Cave for valuable materials at night. But be careful: three powerful factions, the Post Town ronin, Akadama Clan, and Kurofu Family, vie for dominance of Rokkotsu Pass, and your fate lies in the balance!\n\nHone Your Skills - Over 100 different weapons and 9 fighting styles means you can fight any way you please!\nMysterious Dungeons - An isometric hack and slash with randomly-generated dungeons to explore.\nBalance of Power - Ally, betray, or maintain neutrality in dealing with the town's three factions. The fate of Rokkotsu Pass is balanced by the tip of a blade!\nTwo Swords are Better Than One - Explore dungeons with your friends, or cross swords and fight them!",
+  "titleId": "0100F9800EDFA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/983d84ba42952061206239e0944f5f19be9678a28a91527f07619b48b4b2890b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-18T09:20:15.896",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c7bf412",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

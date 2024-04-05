@@ -1,0 +1,19 @@
+{
+  "name": "Digerati Presents: The Dungeon Crawl Vol. 1",
+  "description": "Explore, loot, and battle! Four adventure-filled worlds in one unmissable bundle:\n\nFall of Light: Darkest Edition: A story-driven action RPG set within a world consumed by darkness. An old warrior and his luminescent daughter embark on a dangerous journey to reach the last place on Earth still touched by sunlight.\n\nReverse Crawl: A fast-paced turn-based strategy RPG that lets you lead mobs of monster minions and back-from-the-grave goons into battle against the elite ‘heroes’ of the Red Queen. Includes a local PvP mode, created exclusively for the Nintendo Switch™.\n\nSkelly Selest: A score-attack slash dash run ‘n’ gun-athon that places players in the skeletal shoes of a Heavenly Keeper. Only the Selestial Order can defeat the sinful horrors that lurk in the depths of Hell.\n\nUnexplored: Unlocked Edition: Descend into the Dungeon of Doom, steal the Amulet of Yendor, and make it out alive. An accessible yet challenging action RPG, Unexplored is the roguelite that feels like a roguelike.",
+  "titleId": "010035D0121EC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/039181e6c33cfbce67325fe523644182a49d15594ff075d1562b17f2f97de41b.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-28T10:14:51.095",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

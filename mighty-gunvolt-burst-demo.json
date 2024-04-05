@@ -1,0 +1,19 @@
+{
+  "name": "MIGHTY GUNVOLT BURST Demo",
+  "description": "null",
+  "titleId": "010045B00849C000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-05T00:57:01.701",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

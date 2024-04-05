@@ -1,0 +1,30 @@
+{
+  "name": "Asdivine Hearts II",
+  "description": "Picking up two years after the events of their first adventure, Zack and friends find themselves off on another quest, but this time to save the parallel world of Archelio, which is on the verge of being frozen in ice.\n\nWith a convenient summary of the previous title included, players can jump right into Asdivine Hearts II without having played the first!\n\nUtilizing a brand new team system, lead up to six characters into battle, and destroy onslaughts of powerful foes! See the amalgamation of years of RPG-crafting expertise and plug in jewels to boost character parameters as the beloved rubix makes its triumphant return.\nUpgrade rare weapons to make one's own personal slayer of evil! Dispatch buddies to earn Guild Coins while the party works on their quest! Or simply equip their jewels to learn their skills!",
+  "titleId": "01007D300CD8C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3977ae65442e18d52fe930df3b8beb16e561f5b89ff085e13cfdfa361dbe2b1f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-12T05:08:04.472",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "9874dfb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-03T15:46:49.713",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

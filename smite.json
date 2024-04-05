@@ -1,0 +1,30 @@
+{
+  "name": "SMITE",
+  "description": "Enter the Battleground of the Gods\n\nJoin 40+ million players in SMITE, the world’s most popular action multiplayer online battle arena.  Become a legend of myth, enter the Battleground of the Gods, and play FREE now!\n\n100+ Gods\nUnleash each deity’s unique strategies, legendary weapons, and earth-shattering powers. Rain lightning down upon your foes as Zeus, assassinate from the shadows as Loki, or transform and trick your foes as the Monkey King, Sun Wukong. Which God will you choose?\n\nUnique Perspective\nUnlike other MOBAs, SMITE puts you directly onto the battlefield with a third-person action viewpoint. From blind-side ambushes to aimed shots, a new pantheon of strategic possibilities awaits.\n\nBecome Godlike\nNever played a battle arena before? Don’t worry. Auto-buy, auto-level, and the deathmatch-like Arena mode let you jump right into divine MOBA action. Aspiring pro? Top the ladders, join a competitive team, and you too could be playing at the SMITE World Championship.",
+  "titleId": "01005A600C318000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/95245c4623fb0c3e46958ba2429d22d81b1fe3b6844c0e1c13d231ea8cc7d336.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T01:22:34.339",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-30T00:12:47.38",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "5754111",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

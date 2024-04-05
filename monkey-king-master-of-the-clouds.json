@@ -1,0 +1,19 @@
+{
+  "name": "Monkey King: Master of the Clouds",
+  "description": "A huge Japanese coin-op hit developed by HOT-B in 1989, the game was later renamed Cloud Master when released outside Japan on the Sega Master System. This upgraded release of the original arcade version includes HD ready elements by developer Starfish-SD, the company formed by the original HOT-B development team. \n\nFor the first time, live online leaderboards will add a worldwide competitive quality to the game not possible before.\n\n\nMonkey King: Master of the Clouds is loaded:\n\n•\tCharming pixel Chinese Legends\n•\t5 stages of pure action\n•\tTwo-player local co-op.\n•\tOnline leaderboards\n",
+  "titleId": "01004C500B8E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/98ee34dc34f6141590a6a508a3bf5957907bd3d95ecb8f2b02f37478a312e055.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-08T16:20:54.941",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "f6bf40b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

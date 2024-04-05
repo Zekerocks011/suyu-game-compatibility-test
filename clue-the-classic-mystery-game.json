@@ -1,0 +1,30 @@
+{
+  "name": "Clue: The Classic Mystery Game",
+  "description": "You’re invited to an exclusive party! Play this award winning adaptation of the beloved classic mystery board game.  Join your friends and family, become iconic characters, and enter the Mansion! Soon after you arrive the host’s body is discovered at the bottom of the stairs. The house is on lockdown until the puzzle is solved and the criminal is revealed.\n\n■ CHOOSE YOUR CHARACTER \nGather up to 6 players and become Miss Scarlett, Colonel Mustard, Doctor Orchid, Reverend Green, Mrs. Peacock or Professor Plum.\n\n■ LAUNCH YOUR INVESTIGATION \nAsk questions and gather answers from your fellow suspects. Your in-game clue sheet will record your discoveries while you note your suspicions.\n\n■ MAKE YOUR ACCUSATION \nYou must be on the scene of the crime to make your accusation. Roll the dice, get to the correct room and unravel the mystery!\n\n■ UP-TO 6 PLAYERS \nJoin friends and family offline and online, challenge AI characters, or gather friends and AIs in a single game.\n\n■ DISCOVER NEW MYSTERIES\nBecome the best detective in Hollywood. Solve the mystery of Snowy Peaks. Be a sparkling suspect at the Venetian Masquerade. Question Sherifs in the Wild West! Each theme comes with new characters, weapons and locations to explore.\n\n■ UNLOCK THE  ULTIMATE DETECTIVE'S PACKAGE\nSolve mysteries in 5 MORE themes that transform the suspects, weapons and locations! Become the Great Detective himself and play as Sherlock Holmes. Catch criminals from the Vampire Castle to an Egyptian dig site and beyond!\n\n*Note: \nFor local multiplayer mode, each player requires a mobile device and the free Cluesheet Companion app or Clue: The Official Edition app to participate. ",
+  "titleId": "010029400CA20000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/224c5f1c480a69d834d1f6360474f18ab7efd26c22a711b82785d869e96732dd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-13T05:43:25.899",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "5f4d5dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-22T06:06:00.259",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

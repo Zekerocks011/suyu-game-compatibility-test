@@ -1,0 +1,41 @@
+{
+  "name": "DOUBLE DRAGON Ⅱ: The Revenge",
+  "description": "■Introduction\nThe Lee brothers are back to avenge the death of Marian at the hands of the Shadow Warriors!\nFight your way through street gangs, ninjas, giant mutant fighters \nas well as spiked ceilings and mechas with sharp claws, \nby using the newly acquired \"Hyper uppercut\" or  the \"Flying knee kick\"!\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering",
+  "titleId": "0100DD900E498000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/640a30fca7ea8e6ffc98f63a11414d8e0e35e3575de5c7d3448764d59cf69dfd.jpg",
+  "tests": [
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-16T12:34:26.507",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ef0c991",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-02T22:18:05.141",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-10T20:17:17.569",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

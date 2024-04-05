@@ -1,0 +1,118 @@
+{
+  "name": "Immortals Fenyx Rising™",
+  "description": "Immortals Fenyx Rising™ brings grand mythological adventure to life. \n\nPlay as Fenyx, a new, winged demigod, on a quest to save the Greek gods. The fate of the world is at stake – you are the gods’ last hope.\n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
+  "titleId": "01004A600EC0A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/60064f20bd80b9938eb2bb375a3d4477d5e91ad1c5c186d926c0bbd3305b6831.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-23T15:21:14.537",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-01T14:17:09.735",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-14T08:38:24.712",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "1c5eac8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-26T20:27:19.185",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "bb21460",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-06T04:45:16.595",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "804235f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-20T15:50:43.718",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0a937d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T08:25:43.531",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-19T00:47:19.089",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-28T06:43:01.765",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "tank120",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-08T23:22:05.662",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "630c550",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

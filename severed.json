@@ -1,0 +1,30 @@
+{
+  "name": "Severed",
+  "description": "Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family. Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in.\n \nDungeon Combat: Master offensive and defensive touch combat techniques to survive intense battles against a menagerie of enemies.\n \nSevering: Best enemies in combat for a chance at severing their body parts -- then wear them to gain new powers or consume them to upgrade your equipment and abilities.\n \nExploration: Follow branching routes through the unknown, using your wits to avoid hazards and solve puzzles. \n \nMusic: Original soundtrack from Juno-nominated band YAMANTAKA // SONIC TITAN featuring Pantayo.\n\n\nPLEASE NOTE: Severed is played using touch screen controls.  TV mode is not supported.",
+  "titleId": "0100157004512000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c62fa3cf1426ad0ffa1225b88b22c0e3eb8a3982e8679bd6033ca30a7c579468.jpg",
+  "tests": [
+    {
+      "tester": "Rivalus",
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-24T22:51:49.258",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-29T10:02:53.821",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "fdecfac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

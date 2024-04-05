@@ -1,0 +1,41 @@
+{
+  "name": "FOX n FORESTS",
+  "description": "FOX n FORESTS is a 2D action platformer with RPG and puzzle elements inspired by the glorious days of 16-bit! Switch between various seasons on the fly, shoot and slash with your magic melee crossbow and snatch loot to unveil the mystery of the 5th seasons. A thrilling pixel art fable with rewarding super secrets, screen filling bosses and thriving exploration. This is 16-bit how you remember it!\n\n5 SEASONS! Switch between various seasons to explore new areas, outfox enemies and uncover amazing secrets.\nMAGIC MELEE CROSSBOW! Wield a weapon like no other to shoot, slash, slide and switch seasons.\nFOXTASTIC FABLE! Help Rick the Fox uncover the mystery of the 5th season and bring back justice to the forests and its inhabitants.\nRETROTAINMENT! 16-bit how you remember it with gorgeous pixel art and a catchy chiptunes soundtrack.\nACTION PLATFORMER! A thrilling adventure with engaging RPG elements, clever puzzles and pixel perfect platforming.\n",
+  "titleId": "01008A100A028000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/86fdd9e53fa1e6ba8209d49a7f9df8181f8b96bda375c737f199036789564b2c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-05-15T17:48:29.139",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T18:39:38.631",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-01T21:28:10.151",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

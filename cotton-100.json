@@ -1,0 +1,19 @@
+{
+  "name": "Cotton 100%",
+  "description": "The world has fallen into darkness, and the fairy Silk sets out to look for help. She crosses paths with a young witch called Nata de Cotton, who seems rather uninterested in helping her. That is until Silk tells her that along the way, giant Willows, a candy that Cotton has a massive craving for, are waiting for her, so the two set out to find out what's causing the darkness... or look for Willows!\n\nCotton 100% was released in 1994 and is based on the original Cotton: Fantastic Night Dreams. It offers a stunning and fresh new look with the more vibrant color palette of the Super Famicom. \n\nExperience the beautiful and authentic Cute 'em Up action from the 90s in all its glory and charm!\n",
+  "titleId": "0100D5A01692C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2b918e08fa9affa9eb0115b7df809458dafedbd92cd066aba580e62dcb9bf66d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-29T19:20:47.091",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "5dac236",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

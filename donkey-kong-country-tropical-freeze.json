@@ -1,0 +1,118 @@
+{
+  "name": "Donkey Kong Country: Tropical Freeze",
+  "description": "Barrel-blast into a critically acclaimed Donkey Kong adventure as this beloved franchise makes its Nintendo Switch™ debut with a banana-bunch of new features. Traverse islands packed with platforming perfection and nonstop action as the classic Kongs in the original game, or mix things up by playing the story as Funky Kong in new Funky Mode!\n\nArctic invaders have turned Donkey Kong Island into their personal frozen fortress, and it’s up to you to save the day. Play as Donkey Kong in Original Mode and team up with Diddy Kong, Dixie Kong, and Cranky Kong—each with unique abilities—to overcome platforming challenges and frosty foes. \n\nFor a more accessible experience, start a game in Funky Mode to enjoy a range of gameplay updates and a new main-character option, spectacular surfing simian Funky Kong! His extra hearts and unique abilities make for a more relaxed gaming experience. And no matter which mode you choose, a wealth of collectibles and two-player co-op round out the fun!",
+  "titleId": "0100C1F0051B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1370a702e715506557628f669adc9108529ce211d62eae628954331e26c8fd2e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T10:52:55.003",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T17:50:27.097",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "03bd85a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fander",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-15T15:06:52.566",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "cbb7987",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T21:40:40.196",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "version": "2655193",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Matteo_Villa",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-28T18:48:15.74",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 with Max-Q Design/PCIe/SSE2",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marc_Lemieux",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-08T21:08:06.286",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "cac3f48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-14T02:43:59.993",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "moznr",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T13:44:58.931",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "3522529",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bdmariobd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-01T19:17:06.825",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 6600 XT",
+      "version": "6770ef3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "moznr",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T13:42:00.244",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "3522529",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dead Effect 2",
+  "description": "This action sci-fi shooter is looking to push the boundaries of first-person shooters to new levels with slick graphics, rich narrative and RPG elements. Train, develop your character, collect and upgrade countless weapons, gear and body implants and take control of the monster-infested ship.\n\nThe story will take you back to the ESS Meridian, right to where the original plot ended. However, you are not meant to take a rest; something is brewing deep within the recesses of the spaceship. It is much more dangerous than a horde of the undead – it is threatening to enslave your mind and bend it to its will. Are you going to fight back?\n\nCore Features\n\n• breathtaking graphics\n• exciting gameplay\n• clever storyline\n• three characters to choose from\n• a large variety of enemies\n• unique boss fights\n• hundreds of items to upgrade your gear\n• implants to enhance your character’s body\n• more than 100 unique types of upgradable weapons",
+  "titleId": "01007860152EE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc97a18878ad87d7dd1f51ed55b31d17d142661b28c10ed13eda702d92ed5e00.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T12:12:49.367",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "fa1b404",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

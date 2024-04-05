@@ -1,0 +1,52 @@
+{
+  "name": "Atelier Lulua ~The Scion of Arland~",
+  "description": "Once again, the hands of the clock have begun to move...\nAnd the future of \"this world\" rests on the shoulders of a single girl.\n\nThe long awaited 4th installment of the popular \"Arland\" series that had begun with the \"Atelier Rorona\"!\nIn this new story, players will revisit the nostalgic world of Arland and embark on exciting journey of alchemy together with Rorona's daughter, Lulua.\n\nThe dream of this young girl living in the small town on the border of the Arland Republic is to overcome her legendary mother in the mastery of alchemy.\nUnravel the future that awaits her beyond the mystery of this \"ancient manuscript\" and join Lulua and her companions on a new adventure through Arland!",
+  "titleId": "0100B1400CD50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8dd8e0e77d367da17444bf71cbaa77e6567e918a92edb9a2716087f69f5bdd23.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-11T14:52:57.193",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f83d9ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-23T16:33:38.342",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "dc26ad4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "messier",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-03T00:49:45.614",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "a928dbb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-29T14:17:59.886",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

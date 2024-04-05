@@ -1,0 +1,107 @@
+{
+  "name": "Just Dance 2017",
+  "description": "Just Dance® 2017 is more fun to play than ever! Grab your friends and family and start dancing anytime, anywhere, with anyone on Nintendo Switch™. Be sure to keep the party going with the included three-month trial of Just Dance® Unlimited, giving you access to an online catalog with 300+ of your favorite Just Dance tracks!",
+  "titleId": "0100BCE000598000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fba16e45cb0ec7d01e3fd834a2ee88db885f13db9f13dffede361b98fd29c23d.jpg",
+  "tests": [
+    {
+      "tester": "DeathFreak0990",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-13T17:12:31.727",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-19T17:01:12.662",
+      "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "0a0abcc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "shivanshu100",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-05T11:38:11.755",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1660 Ti",
+      "version": "ea28d02",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cid",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-06T06:11:41.147",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1d6b8b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cid",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-03T00:31:17.514",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "f0ad2fa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FlexBy",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-26T13:28:47.564",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LerainL",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-02T21:03:28.249",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DeathFreak0990",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-09T18:07:22.299",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX",
+      "version": "1873394",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:02:24.637",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

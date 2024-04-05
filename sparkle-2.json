@@ -1,0 +1,19 @@
+{
+  "name": "Sparkle 2",
+  "description": "Sparkle 2 is a superbly polished marble shooter action puzzle game with beautiful graphics, mighty powerups and an amazing soundtrack. Match the orbs before they fall into the abyss and find your way through mysterious lands of startling beauty!\n\nA long time ago five enchanted keys were created. The keys were scattered around mysterious lands and still remain undiscovered. Many have come to find them, and so far all have failed. Will you find the keys and unlock the secrets, or will you join the endless ranks of souls forever trapped within these lands?\n\nFEATURES\nSuperbly polished action puzzle gaming\nState of the art special effects\nFour game modes: Story, Survival, Challenge, and Cataclysm\nMore than 90 levels throughout the story\nSupercharge your Orb Slinger with 16 powerful Enchantments\nImmersive mystery storyline with voiceovers\nCinematic soundtrack by the award-winning composer Jonathan Geer",
+  "titleId": "010028D0045CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5169dcd4f1e1f5b4bc6972427a5ec96587e7e2435ff13fb359cc8e9a23c7b6b3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-21T09:13:51.51",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "28f0101",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

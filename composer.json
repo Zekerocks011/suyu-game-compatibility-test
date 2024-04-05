@@ -1,0 +1,19 @@
+{
+  "name": "Composer",
+  "description": "Composer is a unique way to write music. It includes hundreds of instruments/drumsets across many styles. You can create music that sounds like a real orchestra, or compose a track that sounds like it's from a retro game console. \n\nIncludes a multi-touch piano with over 100 sounds to choose from - as well as drum pads. Use these to practice, brainstorm a song, or to record in music in real time.",
+  "titleId": "0100BDA0165A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ccb88daa7810e9a023baa2095b662ae2523404cdcbec8166d58122ad91956a93.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T19:53:52.221",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

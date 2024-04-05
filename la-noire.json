@@ -1,0 +1,52 @@
+{
+  "name": "L.A. Noire",
+  "description": "L.A. Noire full game download is 29 GB.  Download requirements may change, visit rockstargames.com/lanoire/storage for details.  MicroSD card (sold separately) with a minimum of 29 GB of free space required to download the game.  Insert MicroSD card before beginning the download.  Minimum 60 MB/sec read speed required. \n\nA dark and violent crime thriller set against the backdrop of 1940’s Los Angeles.\n \nAmid the post-war boom of Hollywood's Golden Age, Cole Phelps, an LAPD detective is thrown headfirst into a city drowning in its own success. Corruption is rampant, the drug trade is exploding, and murder rates are at an all-time high. In his fight to climb the ranks and do what's right, Phelps must unravel the truth behind a string of arson attacks, racketeering conspiracies and brutal murders, battling the L.A. underworld and even members of his own department to uncover a secret that could shake the city to its rotten core.\n \nUtilizing revolutionary facial animation technology that captures every nuance of an actor's facial performance in astonishing detail, L.A. Noire blends the breathtaking action of chases and shootouts with true detective work for an unprecedented interactive experience. Solve brutal crimes, plots and conspiracies inspired by real crimes from 1947 Los Angeles, one of the most corrupt and violent times in L.A. history. Search for clues, chase down suspects and interrogate witnesses as you struggle to find the truth in a city where everyone has something to hide.\n\n• Includes the complete original game and all additional downloadable content plus new collectibles and detective suits to unlock, each with unique special abilities.\n• Features an array of new enhancements specifically for Nintendo Switch™  gaming including a Joy-Con™ mode with gyroscopic, gesture-based controls, HD rumble and new wide and over-the-shoulder camera angles, plus contextual touch screen controls for portable detective work.",
+  "titleId": "0100830004FB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0037322bc05eb3105010a7cd53ff29cf2925abfeb43927a7069c4f47147dfb4d.jpg",
+  "tests": [
+    {
+      "tester": "RocKit",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-10T19:55:46.539",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-20T18:30:06.368",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d184ae0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-02T11:53:25.223",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "121d223",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GDhex12",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-11T19:29:26.285",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7382025",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

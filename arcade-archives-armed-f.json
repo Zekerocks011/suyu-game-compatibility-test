@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives Armed F",
+  "description": "“Armed F' is a shooting game that was released from Nichibutsu in 1988.\nPlayers equip 'Armor' what can make variety attacks, and fight in variety world such as the insect stage and the machine stage. Wipe out enemies in a wide range attack with reversing the Armor to change formations.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010014F001DE2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ca6e82195922914df5775d0166c3ff8903a157cef13f88a3fa41285b16589569.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T22:35:01.958",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-16T19:21:33.934",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2fb5b39",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

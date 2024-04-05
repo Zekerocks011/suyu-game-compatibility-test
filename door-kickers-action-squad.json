@@ -1,0 +1,52 @@
+{
+  "name": "Door Kickers: Action Squad",
+  "description": "Door Kickers: Action Squad is a crazy old school side scroller action game that puts you in the role of a SWAT trooper and sends you to deal with the bad guys in Nowhere City USA.\n\nChoose your gear, then kick the doors down and face the action. Adapt and react by the seat of your pants, and if needed - restart without a care and rethink. Master weapons recoil and time your reloads, use distance and cover to your advantage and use the in-game Strategic Abilities to decide for yourself when healthpacks or gear refills are needed, or if that team-mate of yours is worth saving. Or just save up the Points earned and unleash your Ultimate to waltz through that tricky final room.\nAnd when it gets too hard, bring over a friend to help.\nQuick Points:\n•\tHigh detail retro graphics:\n•\t6 playable characters, each with unique gameplay \n•\tUnique in-game Strategic Abilities system\n•\t84 non linear levels to complete \n•\tEndless tower mode\n•\t60 weapons and gear items\n•\t20+ enemy types and 4 mission objectives\n•\tZombie invasion mode \n•\tCouch and Online Cooperative Multiplayer\n",
+  "titleId": "01005ED00CD70000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eb62150a5c1d7dbd884f843a18695b90b98c24cd461fc67b24bf3288a79981df.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-25T16:47:13.508",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-28T10:27:54.122",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-16T06:40:50.642",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5620cfd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-16T14:56:35.326",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "4260be6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

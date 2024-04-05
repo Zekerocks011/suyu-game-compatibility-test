@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO AGGRESSORS OF DARK KOMBAT",
+  "description": "AGGRESSORS OF DARK KOMBAT is a fighting game released by SNK in 1994. Pick one of eight intense fighters and go into battle to accomplish their goals. Use the full playing field and dash combined with fierce attacks in this intense, unrestricted battle! Will you win by techniques or by force?! Experience the true rampage of battles.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100B4800AFBA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/85ea60dae9c7702de323ca565bcf3a7b718eb69bae50f54fac922bf909439cd8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:28:37.475",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T14:48:29.967",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

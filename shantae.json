@@ -1,0 +1,74 @@
+{
+  "name": "Shantae",
+  "description": "The original Shantae adventure returns! First released in 2002, Shantae is the classic action-adventure-platformer that introduced players to the fan-favorite Half-Genie heroine. In her debut title, Shantae hair-whips, dances, and transforms as she seeks out four elemental stones hidden throughout Sequin Land to put a stop to the nefarious lady pirate, Risky Boots. During her quest, she'll explore treacherous labyrinths, gain amazing new powers, conquer mini-games, and meet up with friends such as Bolo, Sky, and Rottytops! This version of the game includes both the standard Game Boy™ Color mode and the Game Boy™ Advance-enhanced mode!\n\nKey Features:\n-Shantae's acclaimed original 8-bit adventure - now on Switch!\n-Use dance magic to transform into a monkey, an elephant, a spider, and more!\n-Travel across Sequin Land, from forests and deserts to swamps and frigid peaks!\n-Explore challenging labyrinths where devious bosses await!\n-Buy a variety of items and upgrades to gain new abilities!\n-Environments change from day to night!\n-Discover secret passages! Find hidden Warp Squids and fireflies!\n-Select between standard Game Boy™ Color mode or Game Boy™ Advance-enhanced mode, featuring a bonus Tinkerbat transformation!\n-Updated with save states, multiple display options, control improvements, and a mini art gallery!",
+  "titleId": "0100430013120000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/305407d38ba4e8d8cdb27d262369295083f3380e1824088c07a8e44f540d1d7d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-28T22:25:55.77",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 950/PCIe/SSE2",
+      "version": "86a61ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-01T20:10:20.757",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "dharmang1910",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-04T13:47:03.088",
+      "cpu": "Intel(R) Core(TM) i5-4430S CPU @ 2.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "a7a5be1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-27T19:53:38.645",
+      "cpu": "Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "bff5d86",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-24T09:07:17.082",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "K_Pedersen",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-07T17:45:31.759",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "0f58978",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

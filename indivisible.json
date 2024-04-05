@@ -1,0 +1,74 @@
+{
+  "name": "Indivisible",
+  "description": "Indivisible is an action RPG / platformer featuring stunning hand drawn art and animation combined with unique real-time combat mechanics. Immerse yourself in a fantastical world with dozens of playable characters, a rich storytelling experience, gameplay that’s easy to learn but difficult to master, and the trademark razor-sharp quality that Lab Zero Games is known for!\nOur story revolves around Ajna, a fearless girl with a rebellious streak. Raised by her father on the outskirts of their rural town, her life is thrown into chaos when her home is attacked, and a mysterious power awakens within her.\nThe game’s huge fantasy world, characters and aesthetic design are inspired by various cultures and mythologies. Throughout Ajna’s quest she’ll encounter many “Incarnations”: people whom she can absorb and manifest to fight alongside her. There are many Incarnations to recruit, each with their own story and personality. By uniting people from faraway lands, Ajna will learn about herself, the world she inhabits, and most importantly, how to save it.",
+  "titleId": "01001D3003FDE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d43edb0e2274d064c05724e08f59264172774604f1c69c4d31d015ecf485bb32.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-11T20:29:17.312",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PacoAvelar",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-17T00:33:26.644",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "98f6f1d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-13T16:30:07.53",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "a192278",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-26T16:24:01.255",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-08T00:03:37.198",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-08T00:09:02.755",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

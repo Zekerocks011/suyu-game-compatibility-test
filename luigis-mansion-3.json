@@ -1,0 +1,118 @@
+{
+  "name": "Luigi's Mansion 3",
+  "description": "Luigi’s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that’s just the Last Resort. Enter the ScareScraper for 8-player local wireless* or online** co-op gameplay. \n\nSee if you can defeat all the ghosts, rescue all the toads, or clear other objectives before time runs out…in the ScareScraper! And for more mini-game madness, compete on teams at the ScreamPark! Whether you play with friends or wander the hotel alone, you’ll be sucked in by the atmospheric music and ghoulish décor of every cobwebby corner you explore. Why not take in the cinematic sights and sounds with a friend? In the main adventure, you and a friend can play together as Luigi and Gooigi in two-player co-op! Gooigi can walk on spikes, slip through tight spaces, and help Luigi overcome obstacles he can’t tackle alone. Never hurts to have a friend in this hotel; it may not be very spooky, but Luigi begs to differ!\n\n•\tCatch ghosts and solve puzzles to rescue Mario and friends in the Last Resort hotel\n•\tEach floor of this towering hotel is themed, from the décor to the puzzles to boss!\n•\tUtilize the functions of the all-new Poltergust G-00: Pummel ghosts with a Slam, break through defenses with the Suction Shot, and blow back groups with a Burst\n•\tLuigi can call upon and control Gooigi, his all-green doppelganger, who can do what Luigi can’t\n•\tGooigi can slip through tight spaces, walk on spikes, and help Luigi overcome obstacles\n•\tChange between Luigi and Gooigi in single player, or let a friend play as Gooigi for 2-player co-op\n•\tUp to 8 players can work together to ascend the ScareScraper via local wireless or online\n•\tIt’s Team Luigi vs. Team Gooigi in a mini-game battle to see which is the ultimate team of ghost hunters",
+  "titleId": "0100DCA0064A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/60601a0a7cd4f96b7b736dd4fe6da14bcefc9f1d3b649084302dcd409618f23f.jpg",
+  "tests": [
+    {
+      "tester": "Tobs",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T18:15:15.526",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-24T21:05:34.293",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Night_Rider",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-31T02:33:13.594",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "52e6b55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mauricio_Castillo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-06T15:38:46.322",
+      "cpu": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jack01",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-18T23:39:50.164",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2",
+      "version": "a7f13ed",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bai0012",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-22T14:33:35.109",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "5dac236",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AlonCV",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-28T06:07:14.744",
+      "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "d6cc030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Luqmaan_Ismail",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-31T05:20:29.897",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "gpu": "NVIDIA GeForce MX330",
+      "version": "d6cc030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bai0012",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-22T03:23:26.738",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "637465a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-25T16:17:37.508",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

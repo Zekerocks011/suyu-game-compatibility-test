@@ -1,0 +1,41 @@
+{
+  "name": "OVERWHELM",
+  "description": "Horror-world Exploration: Explore the oppressive caverns of the hive, guided only by a sparse map. Enemies can appear from anywhere at any time.\n\nBosses Give Enemies Power-Ups: As you defeat each of the five unique bosses, their abilities get distributed to the enemies of the world with escalating difficulty.\n\nTactile, Tense Combat: Combat is crunchy and fast. One hit and you die. Three deaths and the run is over. Defeat bosses in different orders to optimize your playthrough.\n\nIntense Soundtrack & Soundscape: The sparse but powerful soundscape keeps you focused and scared. The soundtrack provides occasional ominous synths to compliment intense boss fights and big moments.\n\nCo-op Mode: For the first time ever, fight with a friend through OVERWHELM. Distract enemies, team-up and revive each other to make it out alive.\n",
+  "titleId": "01005F000CC18000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/89fe55715deeed697a7b2f9f560d67920d89f4b653ddf737aa576d33d414dd8b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-05-07T16:12:47.894",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "711985a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T21:50:30.534",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T21:00:54.926",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Panzer Paladin",
+  "description": "The sinister Ravenous and his legions of brutal demons are poised for battle. The situation is dire, but humanity has one final ace in the hole: the Panzer Paladin!\n\nIt's up to a rescue android named Flame to pilot the Paladin and track down all the diabolical Weapon Keepers. The showdown between the forces of the occult and the power of cutting-edge technology has begun!\n\nSeize weapons from the demonic invaders and use your swordsmanship to slash, bash and thrust your way through 17 mind-blowing levels! Hop in your Paladin and take up arms!\n\nForge your own custom melee weapons with the Blacksmith and find them on the Panzer Paladin Steam Workshop. \n\n\nChallenge Core Content Update:\n\nThis free content update includes the following new features:\n- New Challenge Mode with 11 rooms to truly test your skills \n- Speedrun replay and leaderboard now available for all new rooms\n- Brand new Classic 8-bit Soundtrack option \n- Blacksmith weapons storage increased",
+  "titleId": "01004AE0108E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/706fd9ca7ab04da855910c32ae595b7d0ea10b2b250ef3ac8734d675a4ac7656.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-28T23:57:58.972",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-28T23:57:33.822",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-25T03:51:47.244",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "1b28d01",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-17T19:47:50.228",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "1e245bf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

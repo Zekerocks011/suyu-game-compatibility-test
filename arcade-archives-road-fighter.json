@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives ROAD FIGHTER",
+  "description": "\"ROAD FIGHTER\" is a racing game released by KONAMI in 1984.\nControl your monster machine at speeds of up to 400 km/h, avoiding enemy cars and oil spills to finish all 6 stages faster than anyone else.\nIf you start to swerve off-course, countersteer and use your driving techniques to power through it!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100FBA00E35C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fd8abca965af36a8068ffd9981686c90d24682a9191c955caddfc5c1147c9472.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T22:24:24.029",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

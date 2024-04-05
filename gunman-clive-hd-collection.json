@@ -1,0 +1,52 @@
+{
+  "name": "Gunman Clive HD Collection",
+  "description": "In the year of 18XX, the west is overrun by thugs and outlaws. A group of bandits have kidnapped Mayor Johnsons daughter and are spreading havoc across the land.  Gunman Clive must rescue the girl and and bring order to the west, then finish the fight in Gunman Clive 2. His battle against the bandits takes him all around the world and beyond.\n\nJump and shoot your way across diverse and challenging levels and fight massive bosses. Gunman Clive is an old-school sidescrolling action platform game set in the old west.  Bring out your inner cowboy and get ready for some real gunslinger action.",
+  "titleId": "010061000D318000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/da27a1c695c4f18bf8929384ab887d2c48f5d0c5dc63375ef395285e6a4e8596.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-10T07:53:06.915",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "dc8585c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T06:40:05.992",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mastercho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-20T09:28:15.385",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mastercho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-22T14:11:56.513",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

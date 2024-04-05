@@ -1,0 +1,30 @@
+{
+  "name": "Azkend 2: The World Beneath",
+  "description": "Step aboard a fantastic adventure! Enjoy amazing match-three gameplay and discover one of the most astonishing worlds ever imagined.\n\nWhile traveling from Liverpool to New York, your ship was pulled down into a massive maelstrom. You woke up in a place that may never have been gazed upon by the eyes of men. From now on, your goal is to ascend from the center of the Earth and find your way back to civilization.\n\nAzkend 2 is a casual match-three puzzle game with more than 60 levels of impeccably polished gameplay. Discover and equip more than a dozen unique powerups, and complete hidden object minigames on your journey.\n\nFEATURES\nMagnificently polished match-three puzzle gameplay\nBeautifully illustrated storyline with hidden object minigames\nCinematic soundtrack by Jonathan Geer\nMore than 60 levels in the Story Mode\nThree game modes; Adventure, Time and Medals",
+  "titleId": "0100EB800868C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bc3d8ddf3f7a9fc802e3e1f56b3d2097237542103efa9ab714d2bca0f9269a2f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:42:59.34",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:42:32.045",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

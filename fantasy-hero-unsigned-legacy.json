@@ -1,0 +1,19 @@
+{
+  "name": "FANTASY HERO ～unsigned legacy～",
+  "description": "Save the world in \"Fantasy Hero -Unsigned Legacy-\", by choosing from one of four heroes, and reclaiming what was lost to the Decoders!\n\nSet yourself on fire and charge head in, or pulverize them with powerful throws. Like keeping a safe distance from your opponents? \n\nThen, pick them off with projectiles, or send your robot in to do your bidding. \n\nThe variety of combat styles and skills will let players build heroes to their liking.",
+  "titleId": "0100767008502000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/40e04e147908240f9ca25c91bb8b805bc6ed114c37e8a47d1d0731a7f5f5d830.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T19:43:30.528",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

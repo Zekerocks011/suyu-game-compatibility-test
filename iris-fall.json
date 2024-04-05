@@ -1,0 +1,30 @@
+{
+  "name": "Iris.Fall",
+  "description": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game’s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+  "titleId": "0100945012168000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6aa7652cd6236f4b0d5ecc4672fa6293d5adfbf1a287bc0ad29ea20faf885984.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-26T16:53:48.289",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-28T21:02:14.816",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

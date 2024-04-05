@@ -1,0 +1,118 @@
+{
+  "name": "FINAL FANTASY IX",
+  "description": "Selling over five million copies since its release in 2000, FINAL FANTASY IX proudly returns on Nintendo Switch™!\n\nExperience the adventure once again with characters and pre-rendered movies featured in high definition, as well as a new booster system with a selection of various modes such as \"high speed\" or \"no encounters\"!\n\n■Story\nZidane and the Tantalus Theater Troupe have kidnapped Princess Garnet, the heir of Alexandria. To their surprise, however, the princess herself yearned to escape the castle. Through a series of unusual circumstances, she and her personal guard, Steiner, fall in with Zidane and set out on an incredible journey.\n \nMeeting unforgettable characters like Vivi and Quina along the way, they learn about themselves, the secrets of the Crystal, and a malevolent force that threatens to destroy their world.\n\n■Gameplay Features\n\n・Abilities\nLearn new abilities by equipping items. When fully mastered, these abilities can be used even without equipping items, allowing for nearly endless customization options.\n\n・Trance\nFill your Trance gauge as you sustain hits in battle. When fully charged, your characters will enter Trance mode, granting them powerful new skills!\n\n・Synthesis\nNever let items go to waste. Combine two items or pieces of equipment together and make better, stronger items!\n\n・Minigames\nWhether it's Chocobo Hot and Cold, Jump Rope, or Tetra Master, there are plenty of minigames to enjoy when you're not off saving the world. You can even earn special item rewards!\n\n■Additional Features\n・7 game boosters including high speed and no encounter modes\n・Autosave\n・High-definition movies and character models",
+  "titleId": "01007EF00B094000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/841546d304edf6d98426cf7fde0bca543c3f7ac5b22c5a27d5defe04acee6a7f.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-11T18:09:19.023",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-04T20:42:09.173",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "259f709",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-16T12:31:15.185",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ac974d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-11-28T02:04:35.501",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2674a3b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-16T12:33:59.667",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ac974d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-28T21:02:41.068",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-11-16T02:58:47.71",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9530112",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-09T08:53:35.476",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a59d433",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-04T19:50:19.263",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "41cfb93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-12-07T18:51:14.344",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e9e7631",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

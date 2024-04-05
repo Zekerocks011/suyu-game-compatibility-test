@@ -1,0 +1,118 @@
+{
+  "name": "Monster Hunter Generations Ultimate",
+  "description": "Hunting season is open! This critically acclaimed action RPG series makes its debut on Nintendo Switch. Take on epic hunts on the go or from the comfort of your own home! Choose from 14 different weapon types, mix and match them with unique Hunting Styles and Hunter Arts, or even play as an adorable but ferocious Felyne in Prowler Mode! Featuring the largest cast of monsters for any game in the series, from returning fan favourites to mysterious never-before-seen monsters!\n\nYou can join up to three other players for co-op multiplayer action, either online or in person using local wireless. Join the hunt in Monster Hunter Generations Ultimate for Nintendo Switch!",
+  "titleId": "0100770008DD8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/aa2d7f8741902915cea613b813715bf597088daa056f59adcc1ea7805b69655b.jpg",
+  "tests": [
+    {
+      "tester": "Zero-0-zero",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-04T09:18:53.344",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "AMD Radeon(TM) 530",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Accelgor15",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-12T15:33:46.984",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5019df4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "IceCrown",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-29T17:27:49.568",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zero-0-zero",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-04T09:19:45.32",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "AMD Radeon(TM) 530",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fabio_Silva",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-15T17:54:44.253",
+      "cpu": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "dd43a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rynaldy_Tegar",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-03T04:24:35.905",
+      "cpu": "AMD Ryzen 3 3300U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 6 Graphics ",
+      "version": "fbeaa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Overkiller324",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-16T15:05:50.363",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "IceCrown",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-23T17:31:06.745",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "229324b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JowOliveira",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-19T07:50:53.667",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lqjlqj1997",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T07:32:27.898",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 950M/PCIe/SSE2",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

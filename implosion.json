@@ -1,0 +1,30 @@
+{
+  "name": "IMPLOSION",
+  "description": "\"IMPLOSION\" is a Sci-Fi Hack and Slash game where the protagonist fights against enemies known as XADA using WM-III (WarMech-3) battle suits.\n\nThe story:\n20 years after the fall of Earth, the remaining survivors of the human race once again face the threat of extinction from an unknown life form known as XADA.\n\nThe humans developed a countermeasure technology, creating a series of battle suits through a program dubbed the War-Mech III. Ride the \"Avalon\", one of the deadliest battle suits made, and defend your people!\n\nGameplay:\nImplosion is a hack and slash action game. Clear each stage of the game to move forward. Combine two action controls (slash attack and heavy blow) to destroy your enemies.\n\nFully scored orchestral music\nHigh quality graphics\nCharacters voice-acted\nExplosive gameplay",
+  "titleId": "0100737003190000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/195b3d0f26d76ecdc65788213230652548c3a37105127c1f7154fedcf973c516.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-02T13:56:27.23",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "e5c296e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-24T23:11:10.797",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Shinsekai Into the Depths™",
+  "description": "Capcom presents a fresh and original undersea exploration game, filled with unique visual and audio experiences for you to discover.\n\nThe land has slowly but steadily been covered with ice, forcing mankind to take refuge in the ocean. Even the sea cannot protect them forever. The ice overtakes the undersea home of a lone aquanaut, forcing an unplanned journey of exploration and discovery. Take control and follow a mysterious mechanical creature ever deeper... Could there be others still living on so far beneath the surface?\n\nManage your oxygen reserves as you make your way through this magnificent underwater world teeming with life. Maintain your suit's pressure resistance as you proceed deeper into the ruins of past civilizations. This hauntingly beautiful aquascape is truly the final frontier for this intrepid last aquanaut.\n\nWe hope you'll enjoy this incredible adventure — the result of Capcom's signature creativity and design.",
+  "titleId": "01004EE0104F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/13d3d262dc4fb1f5b2cec8cfa600957a49b5974bfb8e979b5823e468427c3cc4.jpg",
+  "tests": [
+    {
+      "tester": "Rei",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-23T11:47:10.147",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "177bb24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-12T19:29:50.317",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-02T04:23:04.076",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "fbaa963",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T01:37:52.648",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "d2a0bb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-29T18:36:33.493",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T11:48:25.644",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-05T15:28:37.635",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3abab80",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

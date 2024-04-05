@@ -1,0 +1,118 @@
+{
+  "name": "ASTRAL CHAIN",
+  "description": "The few survivors of a massive global disaster gather together in a futuristic megacity. Now it’s your job to protect them against otherworldly invaders–but you’re not alone as a member of a special police task force equipped with sentient armaments called Legions. In this brand-new action game from PlatinumGames, control the protagonist and a Legion simultaneously to chain stylish combos. Change Legions on the fly to vary your style and unleash a variety of abilities. The last remnants of humanity depend on you, and to save the world, you must investigate its dark side. Explore a near-future cyberpunk metropolis, solving crimes and seeing how the last remnants of humanity struggle to survive. As you save the world from extradimensional invaders called chimeras, you’ll also interact with citizens, question suspects, and team up with members of your task force to solve cases. Utilizing the abilities of Legions will be necessary in these investigations; you may need to track the scent of a missing person or subdue aggressive criminals! Beyond this last land left to humanity lies the Astral Plane, the alternate dimension from which the chimeras invade. As you explore its labyrinthine corridors, you must use your Legions to solve environmental puzzles and expose the secrets of this strange realm. ",
+  "titleId": "01007300020FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b5d62b0aa33e044693136763637b7c5eb94eb3c0541838e1eee5677dc28933a1.jpg",
+  "tests": [
+    {
+      "tester": "BigZhuang",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T07:31:41.645",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti with Max-Q Design",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SirNoobs",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-19T05:37:28.453",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "AMD Radeon RX 6600M",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "magisait",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-16T03:01:46.509",
+      "cpu": "Intel(R) Core(TM) i3-4330 CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "4b8a61d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-19T22:19:31.055",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Androu1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-23T03:34:16.491",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3b95cad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jellybit",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-04T22:58:21.083",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SirNoobs",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-19T05:26:17.232",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "AMD Radeon RX 6600M",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Melocoton",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-21T23:54:02.476",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-25T18:25:51.113",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jrazorman",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-04T06:32:05.122",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

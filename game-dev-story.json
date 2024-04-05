@@ -1,0 +1,63 @@
+{
+  "name": "Game Dev Story",
+  "description": "Manage your own game company and try to create a million-selling game in this unique simulation.\n\nFeatures the ability to develop your company's own game console, plus a system for changing your staff members' professions.\n\nYour staff members can have a variety of game-related professions, from programmer to sound engineer.\n\nWork hard and you may reach the top of the video game industry!\n\n--\nTry searching for \"Kairosoft\" to see all of our games!!",
+  "titleId": "0100AF700BCD2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3099575f38bbdac3995eb61fe9b9d1571f2b90495abf7aec1bb606097a001057.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T15:09:57.991",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T00:30:47.084",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-29T20:38:35.405",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ong_ong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-28T12:21:19.026",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "c6ce901",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Afzal",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-01T14:43:48.157",
+      "cpu": "Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "3c891d8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

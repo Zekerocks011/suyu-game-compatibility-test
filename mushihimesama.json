@@ -1,0 +1,85 @@
+{
+  "name": "Mushihimesama",
+  "description": "This is the story of a princess who goes to meet the \"Koujin\" in order to save her family from a mysterious plague.\n\nThe world is decorated with meticulously drawn graphics, intense perfection, and a beautiful barrage of bullets. Take on five stages, including a lush forest, a blazing desert, and a solemn cave!\n\nThere are three different game modes and difficulty levels to choose from, including a Novice mode that even novice shooters can enjoy. There are three game modes and difficulty levels to choose from, including \"Novice\" mode, which is great for beginners, and \"Ultra\" mode, which will make even the most experienced shooters scream!\n\nGet through the oncoming barrage and beat the high score!\n\nFeatures\n*Three modes, including one for beginners\n*You can choose the difficulty level from beginner to expert.\n*Set in a fantasy world of vast deserts, lush forests, and underground caves\n*Sound created by highly acclaimed sound creators both in Japan and overseas to add color to the game world.",
+  "titleId": "010045800FBD0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6f19914e8322d27bc6020103218f41aa04c349fa0a3bf3e7c485346af5a3e556.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-27T19:16:46.535",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-19T20:05:46.282",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d22784c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-01T20:14:23.469",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-19T08:08:51.173",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "f345914",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ragnar_es",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-03T18:47:30.034",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "fd8d8b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Abee263",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-22T19:41:18.958",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2",
+      "version": "74e96d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T11:42:31.511",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

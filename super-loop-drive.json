@@ -1,0 +1,19 @@
+{
+  "name": "Super Loop Drive",
+  "description": "The most addicting crash game is here!\nPlay tracks with easy and hard difficulty options, unique environments and iconic cars from the '70s!\nAdjust your speed as you accelerate and brake at the right moments to avoid crashing into another vehicle.\nEarn more coins with every loop, unlock cars, expand your collection and see what suits you best.\n",
+  "titleId": "01003E300FCAE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3dc10772b729180bad698d8447f631ed79440ba7663b9ba274120e4b8d4eb23a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-29T21:43:18.33",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

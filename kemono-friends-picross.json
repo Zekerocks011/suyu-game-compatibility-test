@@ -1,0 +1,52 @@
+{
+  "name": "KEMONO FRIENDS PICROSS",
+  "description": "Picross now has KEMONO FRIENDS!\nNow you can make dot pictures of cute Friends.\nThere are 300 Picross and Mega-Picross puzzles! \nPlus Clip Picross, where you solve puzzle pieces to complete an image.\nHelp functions and tutorials to help new players.\nFriends will appear in the Gallery when you clear a puzzle.\nMimamori Friends watch over your progress in the corner of the screen.\nKEMONO FRIENDS PICROSS, filled with the world of KEMONO FRIENDS! Give it a try!\n\n*Not compatible with the Touch Screen.",
+  "titleId": "01004B100BDA2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df5a5cfb14e8407820501cefb8d813a4f242b2ab2e9daf361fb093cc4736339e.jpg",
+  "tests": [
+    {
+      "tester": "Konata400",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-13T20:47:37.172",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070",
+      "version": "8d61914",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Konata400",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-13T01:10:37.313",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070",
+      "version": "1092799",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gigaskun",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-01T15:20:30.791",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "d954e4d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "stuken",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-23T15:36:58.923",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "ed8afd8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

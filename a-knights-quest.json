@@ -1,0 +1,52 @@
+{
+  "name": "A Knight's Quest",
+  "description": "Rusty begins his adventure with just a trusty sword and basic shield, but he’ll soon unlock ‘Spirit Powers’ – spectacular abilities which have the power to transform not only himself but also the world around him. Harness the powers of Fire, Ice and Time to devastating effect, using them to conquer enemies in battle or solve environmental puzzles.\n\nKey features\n•\tA massive action-adventure set in a breathtaking open world\n•\tMeet a huge cast of hilarious characters\n•\tPull off epic combos with a simple-to-use combat system\n•\tExplore the world in style as you wall-run, grind and leap through each vast area\n•\tColossal bosses. And we mean colossal.\n",
+  "titleId": "01005EF00CFDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/42afca0c16ee891c56391d970e1ff4ab5c05b19a0031a6203ca9509a579b2859.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T07:45:57.984",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-31T09:19:04.349",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5ab619a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-02-06T10:50:56.572",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-13T07:38:07.759",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "a192278",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

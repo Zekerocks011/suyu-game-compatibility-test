@@ -1,0 +1,30 @@
+{
+  "name": "Adam's Venture™: Origins",
+  "description": "Start your adventure in Adam’s Venture: Origins. Set in the roaring 20’s, you play as explorer Adam Venture and go on a journey to unravel the secret of Eden. Together with your companion Evelyn, you explore ancient ruins and solve ingenious puzzles to find mysterious locales. As you travel to unique locations, you’re opposed by the evil Clairvaux company, who’s intentions for exploring artifacts could unleash chaos around the world.\n\nFeatures\nDelve into ancient ruins and recover mysterious artifacts\nTry to solve clever and creative puzzles on your journey \nTraverse long forgotten tombs and crumbling cities using the grappling hook\nGet involved in a rich storyline that weaves adventure with historical overtones",
+  "titleId": "0100C0C0040E4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1728c61ebd47d38a95de33215cc98a4acede8a545283eaa3101d65b299b5d5c4.jpg",
+  "tests": [
+    {
+      "tester": "gamer_tug",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-24T07:39:55.215",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "f863208",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-02T21:09:41.675",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2b2ccce",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

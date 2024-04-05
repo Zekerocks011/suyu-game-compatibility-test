@@ -1,0 +1,30 @@
+{
+  "name": "Yono and the Celestial Elephants",
+  "description": "Elephants are a mighty protectors of the world, born from the stars once per millennium. This is the age of Elephant Yono. But Yono is still so very young and in a kingdom inhabited by feudal Humans, undead Bonewights and robotic Mekani, it's not easy to keep one's trunk out of trouble. \n\nYono and the Celestial Elephants is a grand adventure, featuring carefully designed puzzles, treasure hunts, a sprinkling combat and a world full of people. Play as a young elephant tasked to save a world he’s never seen before, and explore the rich history of a kingdom where humans, zombies and robots live side by side.\n\nFeatures\nUse your elephant trunk to solve puzzles and find secrets. Load it up with air, water and other things for different effects.\n\nVisit 4 towns full of people, shops and side-quests.\n\nSolve 3 deep dungeons of puzzles, monsters and finally a scary boss.\n\nExplore forests and caves to find treasures and upgrades.\n\nDiscuss ascetic virtue ethics with the undead, existentialism and freedom of will with the robots, and political philosophy and the roots of power and authority with the humans. \n\nPiece together ancient texts to uncover the history of the world, the development of human kind and the influence of past Elephants.",
+  "titleId": "0100BE50042F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e0f9915157f1314c228e396dd656aefd7d96bfcd175152fecb1cf86374620566.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-17T16:18:36.306",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-09T16:15:00.627",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

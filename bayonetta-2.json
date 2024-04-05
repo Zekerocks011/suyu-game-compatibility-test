@@ -1,0 +1,118 @@
+{
+  "name": "Bayonetta 2",
+  "description": "Bayonetta’s back and more powerful than ever. Wield wild weapons and execute deadly moves—like the powerful Umbran Climax—to take out angels and demons in this breathtaking action game. You can even team up with friends in 2-player online or local wireless co-op fights (additional accessories required; sold separately.) Bayonetta is a butt-kicking, havoc-wreaking witch who wields sweet weapons like pistols, whips, hammers, flamethrowers, and poison bows. But it’s not just about brawn—it’s also about style. Bayonetta is deadly but sleek, with moves like Witch Time that slows down time itself, and the all-new Umbran Climax—a special magic attack that summons Infernal Demons to devastate enemies. The Bayonetta™ 2 game also features an online and local wireless 2-player cooperative mode where players bet halos on their performance and work together to amplify their sass, cause destruction, and score some riches.",
+  "titleId": "01007960049A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/415c0b34a1a3b802767a633ed85b4fd0ccece7ab6185d33c5b5c4ed1524727a5.jpg",
+  "tests": [
+    {
+      "tester": "Invocacao_Game",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-02T15:11:25.885",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "87e3903",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiegoXD",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-14T17:42:02.295",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-24T05:36:13.536",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-22T07:54:35.095",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-19T06:45:06.811",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "e04c91f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-02T18:50:51.654",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "3200520",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-07T11:40:36.216",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-06T02:34:47.793",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "7ea3550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiegoXD",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-14T17:45:11.259",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-21T21:33:08.622",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

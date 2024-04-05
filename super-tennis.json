@@ -1,0 +1,19 @@
+{
+  "name": "Super Tennis",
+  "description": "Simply tap in the right time to launch ball across the court! Fun quick matches awaits you in cities like Tokyo, Berlin, New York City and London. Unlock new characters to play and take part in various game modes.\n",
+  "titleId": "01002950102CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/08ea74ee6844dc1e154c428281650848e30040f49dcf014cd32583fd16722573.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-02T18:56:55.205",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

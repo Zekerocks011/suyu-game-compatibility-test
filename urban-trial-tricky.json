@@ -1,0 +1,41 @@
+{
+  "name": "Urban Trial Tricky",
+  "description": "Become a crazy trickster!\nHold on to your seat and pull off the most savage tricks and combos on your motorbike. Ride free, spin in the air, move back and forth and let yourself be carried away by the exciting, fast-paced gameplay, colorful visuals, and smooth controls.\n\nGet stylish!\nLearn new freestyle, breakdance and FMX moves to fit your own style. Unlock crazy costumes and customize your motorbike however you like.\n\nPush yourself and others to greatness!\nComplete challenges, master maneuvers and pull off loads of amazing tricks to rule the leaderboards.\n\nKey Features:\n1. Exciting casual gameplay\n2. Amazing variety of tricks, platforming and racing\n3. Killer tricks and loads of combos\n4. Super-smooth experience in 60 FPS\n5. Three single-player modes\n6. Over 30 levels + side challenges\n7. Savage customization options\n8. Rule the leaderboards\n9. Infinite gameplay\n10. More freedom, more fun. Ride in both directions.",
+  "titleId": "0100A2500EB92000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a14ccb3b2b836bfdbd4471d9593ae558ad9fb69187c20064ba1d3f1d4a5ec280.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-24T19:32:52.264",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-09T19:54:54.38",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "e8c06f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-24T19:38:13.333",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Wizard of Legend",
+  "description": "Wizard of Legend is a fast-paced dungeon crawler with an emphasis on dynamic magical combat. Quick movement and even quicker use of spells will allow you to chain spells together to unleash devastating combinations against your enemies! Unlock over 100 unique spells and discover powerful spell combinations! A wide variety of elemental spells allows you to create a hand best suited to your play style. Dive head first into the fray or stand back and let your minions do the work for you. Play solo or co-op! The choice is yours!",
+  "titleId": "0100522007AAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7d9fb141c8650330eee79dff26033346f41d10a96e90bf43c053556ff87e2d73.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-14T18:43:05.462",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-16T13:50:38.218",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

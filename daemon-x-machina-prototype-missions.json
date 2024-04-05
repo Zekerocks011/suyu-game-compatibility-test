@@ -1,0 +1,19 @@
+{
+  "name": "DAEMON X MACHINA: Prototype Missions",
+  "description": "Defend Earth across four fast-paced demo missions and defeat corrupted A.I. controlled robots using your Arsenal, a fully customizable mechanized battle suit. Choose and equip your Arsenal with a multitude of weapons, obtain more from downed enemy Arsenals, and swap them on the fly to suit your strategy in the face of ever-changing threats that may bring the end of the world.\n\nThey say it was the greatest disaster in recorded history… The moon tore apart, turning the sky into a kaleidoscope of red light that illuminated all who watched from below. Survive this apocalyptic new age when the self-evolving weapons called “Immortals” have turned on their creators and waged war on humanity. ",
+  "titleId": "0100BF600D83A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9d946f0b9d322eb6086cc01f421630a7f87f820aa90ff7177d5321f5a9c42a94.jpg",
+  "tests": [
+    {
+      "tester": "BSoD_Gaming",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-03-24T16:36:41.735",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "a7f49e6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

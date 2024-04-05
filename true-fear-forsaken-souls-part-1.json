@@ -1,0 +1,19 @@
+{
+  "name": "True Fear: Forsaken Souls - Part 1",
+  "description": "True Fear: Forsaken Souls combines the best of the psychological thriller with intuitive gameplay mechanics for a mind-bending mystery escape game.\nIf you're looking for a horror game that doesn’t sacrifice the story, this is the game for you!\nSkeptical that a point and click adventure can be compelling or scary? Try the free demo!\n\nMain Features:\n- An intense adventure brimming with psychological suspense in a plot filled with twists and turns.\n- Choose your adventure! Play with or without the hidden object scenes.\n- Play using Joy-Con™, Pro Controller or touch screen.\n- Unlock 40 achievements, find 15 collectibles.\n- Includes the bonuses from the Collector's version of True Fear: Forsaken Soul: an additional level, wallpapers, making of and deleted content.\n- True Fear: Forsaken Souls Part I is the first game of the trilogy.",
+  "titleId": "0100E75004766000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0eea9c089876e4651264feb962b7d54d7c2481fc03b680c85a674a39073ebeaa.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-16T05:32:40.976",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1e0c683",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

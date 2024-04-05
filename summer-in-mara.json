@@ -1,0 +1,52 @@
+{
+  "name": "Summer in Mara",
+  "description": "Take care of your own island and explore the ocean in this farming adventure. 'Summer in Mara' mix farming, crafting and exploring mechanics in a tropical archipelago with a colorful style and strong narrative.\n\n‘Summer in Mara’ is a single-player experience in a calm, relaxing environment, with a handmade look and an exciting narrative. You will be Koa, a little adventurer girl who has to explore the world and discover the secrets that the ocean keeps. \n\n- An open ocean with over 20 islands to explore. \n\n- Customize your own island with buildings, crops and farm animals.\n\n- Over 25 characters to meet and befriend. \n\n- More than 300 quests to make Mara a better place. \n\n- Day and night cycle that have an effect on the world with climatic events.",
+  "titleId": "0100A130109B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/56c603d02df0a03563b2edb0e953daf9462bdc608d92e420593b82af89b2e916.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T23:19:50.895",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "d49473f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-19T04:29:39.967",
+      "cpu": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "78964e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T17:17:46.718",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-19T04:22:51.098",
+      "cpu": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "78964e9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

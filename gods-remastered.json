@@ -1,0 +1,41 @@
+{
+  "name": "GODS Remastered",
+  "description": "Join the nameless warrior on a dangerous journey through four worlds to defeat the Great Guardians who have stolen the homes of the gods. As a reward you will receive immortality and a place in the eternal hall of fame…\nExperience the 2D-action classic \"Gods\" by the legendary Bitmap Brothers in a new look! Exciting levels full of monsters and puzzles await you, which you can play either in the original pixel graphics or in a modern 3D mode with an extensive new soundtrack.",
+  "titleId": "0100BAA00AE16000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e01a9ecb298f4da2eed75dfe6a457d805114ee4ff4d101e5546d9b92f525ebce.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-26T06:19:17.366",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "76b65f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T17:02:01.933",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-26T06:15:03.909",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "76b65f7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

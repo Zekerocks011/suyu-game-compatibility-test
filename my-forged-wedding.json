@@ -1,0 +1,19 @@
+{
+  "name": "My Forged Wedding",
+  "description": "The Story:\nDue to a twist of fate, you're now pretending to be the wife of a man you've just met. At first, you're against the idea of this fake marriage, but as the days go on and you get to know one another, your mutual attraction deepens...\n\nCharacters:\nYamato Kougami  \"Physics teacher\"\nTakamasa Saeki  \"Author\"\nRen Shibasaki     \"Scientist\"\nTakao Maruyama \"Lawyer\"\nYuta Kajima        \"Comedian\"\n\nContents\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story.\"\nFollows Yamato, Saeki, Ren, and Takao's stories up to \"Honeymoon: Epilogue.\"\nStories for Yuta are included up until \"Wedding Bells: Epilogue.\"",
+  "titleId": "0100D37011F42000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b81185063c216333df7d78e9d897915c2eaef0afbf618b3b17eb8961acd4b211.jpg",
+  "tests": [
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-24T21:41:37.683",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ragdoll Fighter",
+  "description": "Ragdoll Fighter is a game where you need to test your battling skills against another ragdoll. Both you and the enemy have a blood bar and a specific blood count. You can use the joystick in order to control the character direction.\nHow to play:\nYou need to attack with your hands and feet, even use any weapons at your disposal in order to kill the enemy. When the health bar of your enemy reaches 0, you win. If your health bar reaches 0, then you will lose. \nTest out your skills and become the ultimate Ragdoll Fighter today!\nFeatures:\nIntense ragdoll fighting\nSimple, beautiful graphics\nTest and improve your skills\nEasy to play, hard to master!",
+  "titleId": "0100400013A46000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c93dbf6dcebe0e0188507e8a82a3ec71dd24a36d140a6b3dd52a9a5c33f68d2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-03T19:05:17.942",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

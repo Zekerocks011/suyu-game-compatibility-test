@@ -1,0 +1,30 @@
+{
+  "name": "Cubicity",
+  "description": "Welcome to Cubicity, a beautiful cube-based adventure! Get caught up in this unique world, which has its own rules and laws that must be followed if you want to reach the finish line.\nSelect your character — there are more than enough to choose from!\nGameplay involves solving a wide range of puzzles, with something for everyone! First, you must move your characters into the given formation, then pass a test at the end of each level. Each level gets progressively harder, so you’ll have to keep your skills sharp. There’s only one finish line, and your goal is to get all your characters there, any way you can.\nIt’s up to you to decide how to solve these challenges — you have complete freedom! To complete your mission, you’ll have to employ logic and strategic thinking. Each level you complete earns you a new reward!",
+  "titleId": "010040D011D04000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c4dd034f196d57c27009327df4706014521f1592a34c12559b344e76f4e663d9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-03T15:37:10.772",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-26T13:31:51.083",
+      "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "1941f39",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

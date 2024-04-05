@@ -1,0 +1,74 @@
+{
+  "name": "Capcom Beat 'Em Up Bundle",
+  "description": "This comprehensive collection includes seven classic games, each with various multiplayer options, online capabilities and detailed galleries!\n\nSay goodbye to game overs! Adjust your difficulty settings or give yourself more lives to battle through each game in its entirety. You can also play the English or Japanese versions of each title!\n\nGames included: Final Fight, Captain Commando, The King of Dragons, Knights of the Round and Warriors of Fate, as well as two games that were previously unavailable on consoles: Armored Warriors and Battle Circuit!\n\nGrab some friends, stare down the bad guys and BEAT 'EM UP!",
+  "titleId": "010094E00B52E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ec23522cc5d0f60cfc9c6d3414ad705bef7d58e4eeaf77bbd8d1223830d3602e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-07T10:27:54.01",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-31T09:05:38.767",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T16:34:29.024",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-16T18:27:38.579",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-25T22:58:40.726",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-11T03:12:28.523",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c8e29c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

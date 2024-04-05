@@ -1,0 +1,30 @@
+{
+  "name": "UnderMine",
+  "description": "Delve deep into the UnderMine and discover its secrets, one peasant at a time! UnderMine is an action-adventure roguelike that blends combat and dungeon crawling with rpg-like progression. Mine gold, die, upgrade yourself, and try again! Discover hundreds of items including relics, potions, blessings, and curses that all combo and stack for a new experience every run. Challenge dangerous bosses and rescue helpful characters that provide new upgrades for your adventure. Decipher the cryptic messages of the Undermine’s residents and unfold the mystery at the heart of the dungeon.",
+  "titleId": "01000B3012F3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/77e0ec6f9adbc1e6dbc04edb90fbbdd934439e6590fa8d6b9c033081c5ddcae8.jpg",
+  "tests": [
+    {
+      "tester": "Cyucyu",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T02:43:47.673",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "620537f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cyucyu",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-18T02:54:33.069",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "620537f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

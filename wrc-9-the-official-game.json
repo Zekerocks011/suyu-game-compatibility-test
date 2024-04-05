@@ -1,0 +1,19 @@
+{
+  "name": "WRC 9 The Official Game",
+  "description": "WRC 9 is the leading off-road simulation franchise endorsed by the world's top drivers. It is the most in-depth rally game on the market:\n3 new rallies (Kenya, Japan, New Zealand), over 15 classic cars and 100 special stages to tackle!\n\nWRC 9 has new game modes specially designed for the community, including a Clubs system where each player can create their own championship and compete in it online with the rest of the world!\n\nTake control of all official drivers and cars in 3 WRC categories with improved physics for even greater realism, redesigned environments and all-new pacenotes for total immersion.",
+  "titleId": "01001A0011798000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2ee76314861ad68bafca584d0b3bc40fbf9ae90a18a6045d765ff270e3950a6a.jpg",
+  "tests": [
+    {
+      "tester": "MarcoEstevez",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-10T13:20:03.124",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

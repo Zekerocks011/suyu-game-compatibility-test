@@ -1,0 +1,41 @@
+{
+  "name": "Waifu Uncovered",
+  "description": "Eight beautiful maidens are under threat of alien attack. Their lives and the fate of the world now rest in your hands. In this simple yet rewarding shoot’em up, take command of multiple ship types, each balanced for a different play style, and blast away clothing that’s been deeply infected by a deadly virus. Evade and destroy enemies as they feverishly work against you, team up in multiplayer or bravely battle alone, save the girl of your dreams and perhaps even unlock a convenient one-finger mode.\n\nFeatures:\n\n• Meet 8 female characters presented in high-quality hand-drawn style.\n• Undress your targets to save them from lethal infection!\n• Select different ships focused on speed, power or add-ons.\n• Take down enemies and bosses unique to each stage.\n• Play solo or team up with a friend for cooperative action.\n• Unlock more revealing content as you progress!",
+  "titleId": "0100B130119D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/733074cc05352fc50c49a36d4992bbcec0c09f4a9a3d3772c09ab87744446b98.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-17T07:26:57.776",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "6be5de4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-19T04:08:08.434",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "c14cf79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-26T21:51:15.372",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "758433f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

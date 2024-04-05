@@ -1,0 +1,19 @@
+{
+  "name": "AO Tennis 2",
+  "description": "A PLAYING FIELD MADE FOR YOU, BY YOU\n• Use the comprehensive Academy editing suite to create a player just like YOU as well as your own courts, or you can download thousands of community creations.\n\nTHE BEST PLAYERS IN THE WORLD\n• See how you compare to the big names on the ATP & WTA circuits, including Rafael Nadal, Ash Barty, Angelique Kerber and many more.\n\nA COMPLETELY REDESIGNED CAREER MODE\n• Set out to conquer the world rankings  in a singles career or in doubles with a friend. Manage your Reputation, sponsors and performance to reach the top.\n\nNEW GAME MODES\n• Relive legendary matches or create new challenges using the scenario editor.",
+  "titleId": "010047000E9AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8000c4c1514cd969ab3f8efdbd7a7f319497fd79aa8684f77866851076e79b39.jpg",
+  "tests": [
+    {
+      "tester": "gkfisher",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-15T18:11:39.815",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "7c6b4b7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

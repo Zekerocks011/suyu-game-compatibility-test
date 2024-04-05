@@ -1,0 +1,63 @@
+{
+  "name": "KukkoroDays",
+  "description": "In this love-adventure game set in Akihabara, you can enjoy living together with a lady knight. It's a little serious, a little sad, and a little sexy, but most of all, it's fun!\n\n＜STORY＞\nThe main character's mundane daily life is turned upside down when a certain woman appears in his life.\nOne day, a magic circle suddenly appears in the main character's room, out of which materializes an injured woman holding a sword and clothed in knight's armor.\n\nThis woman's name is \"Cattleya\".\nShe claims to have been reincarnated from another world.\nUntil she finds a way to return to her own world, she will be an unexpected guest in the main character's home...\n\nWill Cattleya be able to safely return to her own world? Or could her fate take another turn...\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+  "titleId": "010022801242C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/298b6b14d85cdca562ca1a86cceddb4a0f756f5f813c216743f1299000388234.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-01T00:42:47.658",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "bb06235",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-16T19:53:15.68",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e8a9a26",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-23T17:16:21.409",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "cf1d298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-23T17:16:12.498",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "cf1d298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-15T03:46:56.049",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "52e7221",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

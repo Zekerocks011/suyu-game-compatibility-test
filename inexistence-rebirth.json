@@ -1,0 +1,19 @@
+{
+  "name": "Inexistence Rebirth",
+  "description": "Hald and his sister were chosen by the gods to be \"Keepers\".\n\nTheir shared duty is to maintain order and balance in the world; but peace was not something everyone desired.\nClaos, a man filled with dark purpose, decides to plunge Hald's sister in a deep slumber and break the balance.\nHald begins his quest to find Claos and break the spell – throwing him into a vast world full of mystery and danger...\n\nDiscover this great Metroidvania game and explore a vast world full of mysteries and action in this game inspired by the classics of the 16-bit era.\n\nFeatures\n\n- Many varied places, in a pixel art style worthy of the great hits of the 16-bit era.\n- RPG Elements enabling customize the stats and equipment of heroes, and get new abilities as you go\n- Varied bestiary, with imposing bosses\n- Many annex quests and hidden places\n- Multiple difficulty levels.",
+  "titleId": "010001D014348000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/631f9f39e3f6ec70486f37af4634761c0fdcd6a6f86ff52339c458d29ab4b679.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-13T19:17:00.8",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "378da6f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

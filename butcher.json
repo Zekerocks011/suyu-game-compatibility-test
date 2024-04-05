@@ -1,0 +1,30 @@
+{
+  "name": "BUTCHER",
+  "description": "BUTCHER is a fast-paced 2D shooter and a blood-soaked love letter to the cult classics of the genre. As a cyborg programmed to eradicate the last remnants of humanity, your sole purpose is to… well... annihilate anything that moves.\n\nSo grab your weapon of choice (from chainsaws, to shotguns, to grenade launchers) and kill your way through underground hideouts, post-apocalyptic cities, jungles, and more. And if you’re feeling creative, there are plenty of other ways to end your enemies’ misery – hooks, lava pits, saws... no death will ever be the same again.\n\nIf kicking corpses into a lava pit and adorning walls with blood is your idea of a good time, BUTCHER is THE game for you.\n\nThe easiest mode is ‘HARD’!",
+  "titleId": "0100177005C8A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/69e55322bccc95ce09a26367530dbde15eae5890451a6544769ad90c4cae2ae6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T02:36:22.367",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f65a442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-27T04:37:05.797",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

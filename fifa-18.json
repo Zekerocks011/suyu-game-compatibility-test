@@ -1,0 +1,63 @@
+{
+  "name": "FIFA 18",
+  "description": "There is a newer release in this EA Sports franchise. Check out the latest release for all new gameplay features.\n\nEA SPORTS™ FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players, teams, and atmospheres that immerse you in the emotion of The World’s Game. Celebrate with the addition of football’s biggest tournament: the 2018 FIFA World Cup Russia™. Available to FIFA 18 owners through a free* content update on May 29.",
+  "titleId": "0100F7B002340000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/34cd07989901f5b43edaf37a79c58d80b168d2ec2624f429b090bd23928ae4ae.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-24T18:04:11.118",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "4cf8851",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-17T20:07:03.362",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "af7c548",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-10T15:03:25.215",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "d3797be",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-26T05:50:10.623",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "3d81e93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-22T16:48:12.209",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

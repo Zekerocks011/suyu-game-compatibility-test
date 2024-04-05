@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO KARNOV'S REVENGE",
+  "description": "\"KARNOV'S REVENGE\" is a fighting game released by Data East in 1994. Thirteen combatants have once again gathered to compete in the Great Grapple. The Weak Point system allows for enjoyable and deep combat.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010014E004FA8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa2f526210d4d9c1a5219a41b8a64a1ce578d68a51bf2d7977d23c78266a26b2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T21:27:03.702",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T23:20:58.701",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

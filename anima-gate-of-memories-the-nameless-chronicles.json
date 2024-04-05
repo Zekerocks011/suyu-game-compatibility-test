@@ -1,0 +1,41 @@
+{
+  "name": "Anima: Gate of Memories - The Nameless Chronicles",
+  "description": "Anima The Nameless Chronicles is a third person action RPG that tells the story of a man without name, an immortal being cursed to walk the world until the end of time.\nWhen a shadow of his past rises again, he will be forced to take part in a conflict in which the very existence is in question.\nBut... Will he be our last hope, or our doom?\nThe Nameless Chronicles is the second videogame set in the world of Gaia, from the Anima: Beyond Fantasy RPG table-top books. You will enjoy a deep and multifaceted story where your choices directly impact the journey and decide your fate.\n \n• Use the Hand of Tanathos, a unique action system that allows The Nameless to improve any attack becoming temporarily one with the Death. \n \n• Customize your character playstyle each time you level up with a vast set of unique skills developing them as in a traditional RPG.\n \n• A great story full of memorable characters.\n \n• Epic battles with formidable opponents. Challenge legendary enemies, each with their own special features.\n \n• Equip yourself with dozens of unique weapons and artifacts.\n \n• A huge world. You can move with freedom, allowing you to retrace your steps and unlock access to previously inaccessible places.\n",
+  "titleId": "01007A400B3F8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6027daab5d8e81c68329ac23d5058639e3913bd67f549a4b1df0cea10668a854.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T22:07:57.577",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "0b39ab1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T22:15:32.07",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "0b39ab1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T22:10:03.425",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "0b39ab1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

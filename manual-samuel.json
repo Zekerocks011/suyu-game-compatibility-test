@@ -1,0 +1,30 @@
+{
+  "name": "Manual Samuel",
+  "description": "Manual Samuel is a classic adventure game with a wild twist. After making a deal with Death, our hero, the spoiled rich-kid Samuel, must survive for 24 hours controlling his entire body manually. From breathing and blinking to driving and working, all these tasks will fall to you. It won’t be easy, with Death himself tagging along for the ride, you might be in some very deep feces!\n\nNow updated to take advantage of the Nintendo Switch™ Joy-Con™ features such as motion sensors and split Joy-Con support for 2 player co-op.\n\nFeatures:\n•\tA hilarious story of love, redemption and death with \nsecrets to uncover along the way.\n•\tUnique, hand-drawn 2D art and animation bring the \nworld of Manual Samuel to life.\n•\tPlay solo or share control of Sam’s body with a friend for local co-op fun.\n•\tMaster the brutal time-attack mode.\n•\tScintillating soundtrack by Sondre Jensen and Ozan \nDrøsdal.\n•\tOver 600 lines of dialogue expertly executed by eloquent voice actors.",
+  "titleId": "0100748009A28000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3cfb36922d6eb712ca605bd5db1e19a132a9c2ed6f3115b0337bbb5ad1821ab2.jpg",
+  "tests": [
+    {
+      "tester": "BluelyTASer",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-21T08:00:23.455",
+      "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "6e7df35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BluelyTASer",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-17T23:17:57.412",
+      "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "1aef9b0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Goat Simulator: The GOATY",
+  "description": "Goat Simulator is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat your dreams have finally come true!\nGoat Simulator is all about causing as much destruction as you possibly can as a goat. It has been compared to an old-school skating game, except instead of being a skater, you're a goat, and instead of doing tricks, you wreck stuff. Destroy things with style and you'll earn even more points! \n\nGame Contains: Goat Simulator, Goat MMO Simulator, Goat Simulator: GoatZ, Goat Simulator: Payday and Goat Simulator: Waste of Space.",
+  "titleId": "010032600C8CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/10759b23fb5479371ec6531de1eb63f66af7ecf738a8fa0bbbf92f214798b801.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-04-11T04:17:48.935",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-25T09:52:25.729",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a4ca339",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

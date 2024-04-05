@@ -1,0 +1,85 @@
+{
+  "name": "The Complex",
+  "description": "After a major bio-weapon attack on London, two scientists find themselves in a locked-down laboratory with time, and air, running out. With choose-your-own-adventure style gameplay, your actions and your relationship with other characters will lead you to one of eight suspenseful endings.\n\nHaving treated the victims of a chemical attack in the totalitarian state of Kindar, Dr Amy Tenant is a leader in the advancement of Nanocell Technology. Now, in London, news breaks of a blood-vomiting civilian whose identity is far from coincidental. Reunited with an old friend, Amy is trapped in an impenetrable HQ of laboratories—a womb of scientific advancement with a perilous secret. \n\nThroughout the game you will interact with characters and—depending on your choices—will either strengthen or weaken your relationship. The relationship scores are calculated from the start right through to the very end and will affect certain scenarios as well as having major consequences in the concluding scenes. \n\n•\tMulti-optional storytelling with 8 different outcomes.\n•\tReal-time Relationship Status Tracking that influences the story as you play.\n•\tReal-time Personality Trait Tracking that evolves based on your choices.\n•\tGuest acting performance by live streamer and presenter, LeahViathan\n•\tUnlockable features include Skip Scene, Personality Assessment and a Hidden Event\n",
+  "titleId": "01004170113D4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/85050b2eecfae4e6610e768e08fe409bd26a908e5650a6d36423d3e476f3192b.jpg",
+  "tests": [
+    {
+      "tester": "BigJB00",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-14T04:38:55.711",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-16T08:32:01.359",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "943304c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-18T04:41:30.44",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "d80cea8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-14T15:05:04.654",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-08T10:13:59.02",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "7b71879",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T12:13:35.648",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BigJB00",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-14T04:38:01.033",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

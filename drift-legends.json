@@ -1,0 +1,19 @@
+{
+  "name": "Drift Legends",
+  "description": "The ultimate drift racing experience in the most realistic drifting game around. Drive legendary drift cars on different tracks, beat records, take part in different drift racing events, rise from Beginner to Professional League driver. \n\nMain Features:\n- Realistic physics, simulating every aspect of car behavior\n- Drive more than 40 powerful and exciting, highly detailed drift cars\n- Customize your cars with exclusive paint jobs and rims\n- Realistic engine sounds for every car\n- Turbocharger, gearbox and tires sounds\n- Every car behaves differently: feel the power and weight, find your balance\n- Drift on detailed tracks with different layouts\n- Career mode allows you to get more drift experience, complete achievements and unlock powerful secret cars\n- Win special cars and tuning parts in Daily Events!\n- Race photo mode - make pics of your car\n- Race replay video, filmed by drone\n- Realistic 3D graphics\n\nIf you're a car enthusiast, this game is definitely for you!",
+  "titleId": "010018E00BA22000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a995b63dd894546d2d5f5b8de80f6c5a9d2bc884b335ef8827beb43a3847a8d6.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-06-29T15:02:37.865",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

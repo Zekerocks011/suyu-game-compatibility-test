@@ -1,0 +1,41 @@
+{
+  "name": "LEGO NINJAGO Movie Video Game",
+  "description": "Find your inner ninja with the all-new LEGO NINJAGO Movie Video Game! Play as your favorite ninjas, Lloyd, Jay, Kai, Cole, Zane, Nya and Master Wu to defend their home island of Ninjago from the evil Lord Garmadon and his Shark Army. Master the art of Ninjagility by wall-running, high-jumping and battling the foes of Ninjago to rank up and upgrade the ninja's combat skills. Only in the LEGO NINJAGO Movie Video Game will you experience the film across 8 action packed locations each with its own unique Challenge Dojo. And with the Battle Maps, play against friends and family in competitions for up to four players!   ",
+  "titleId": "01007FC00206E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ca2855bd91c3e1062fde48a178b682041916961b6a0d9763b65c89949390349e.jpg",
+  "tests": [
+    {
+      "tester": "dylan_smit",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-13T16:24:15.832",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "dylan_smit",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-21T19:35:58.374",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "ac8299e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-01-12T10:39:00.353",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Blackmoor 2",
+  "description": "Experience a platformer with genre defining beat-em-up combat based on classics from the 90s. Journey through the world via story mode or traverse player made dungeons with up to 4 players co-operative play! Or if you wish, challenge your friends to an old school style street fight in the VS mode!\n\nWhether it be bone dragons or masked owls, giant lobsters or fallen kings, taverns or castles… it’s a fantasy world that is like no other.\n\n• STORY mode with twists and turns, no filler, meaningful enemies and bosses full of character.\n\n• HEROES with individual stories, levels and abilities to power up.\n\n• BUILD with our user-generated dungeon builder.  Build your own challenges and share them with ease.\n\n• MULTIPLAYER co-op in real time with up to 4 players.\n\n• PVP challenge other players OR challenge a series of CPU warriors.",
+  "titleId": "0100A0A00E660000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e095bc8d48e5413b9ccd86a2268372f15ef843c1110bb64bd0e40e11aa795c70.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-26T04:09:46.415",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070 Ti",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-31T20:05:32.722",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "40cad9b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

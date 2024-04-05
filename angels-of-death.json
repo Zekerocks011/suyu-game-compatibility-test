@@ -1,0 +1,52 @@
+{
+  "name": "Angels of Death",
+  "description": "\"Please... kill me.\" \n\"Help me get outta here, and I'll kill you.\" \n\nThis dark promise deepens the peculiar bond between two reluctant partners.\n\nWhere is this place in which they’ve found themselves trapped? \n\nWhy have they been imprisoned here? What does fate have in store for them? \n\nThus begins a dangerous and terrifying escape mission from a mysterious sealed building!",
+  "titleId": "0100AE000AEBC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a527952127bb68c11fe036e15dc66f770f7b6a1de8cb70b9b336ce1c97334cd6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T19:01:08.307",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-09T20:49:54.821",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "enduringsoul",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-31T22:58:28.74",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "enduringsoul",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-31T22:57:36.909",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dread Nautical",
+  "description": "Your cruise was so relaxing until the monsters from another dimension showed up to kill everyone.\n\nA tactical turn-based RPG with roguelike elements, Dread Nautical combines immersive gameplay with a cartoonish—yet captivatingly eerie—tone. Supernatural forces have overwhelmed a cruise liner called Hope with mysterious malevolent monstrosities. Fight them off as one of four unlikely heroes. Manage your scarce resources effectively, and convince scattered survivors to fight alongside you. You’ll need them for any hope of escaping this “vacation” alive. \n\nTraverse all 20 decks to unlock the mysteries of the Hope. Think several steps ahead during each battle, plotting the optimal use of each character’s action points. Your weapons, bandages, and other items deteriorate, and your resources are very limited. Make sure your companions rest, or panic may overtake them.\n\nOh… And expect to die. A lot.",
+  "titleId": "010045500D0F4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/744f852a0b8f99374c5c6592863fc1ac7991d6ba20922ba70d4909e547fe95e8.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-27T10:19:43.906",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

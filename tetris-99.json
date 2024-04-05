@@ -1,0 +1,118 @@
+{
+  "name": "Tetris 99",
+  "description": "The Tetris® 99 digital game includes an online mode that is a special offer for Nintendo Switch Online members*. In large-scale, 99-player battles, it’ll take speed, skill, and strategy to knock out the competition and become the last player standing. You can target opponents by sending them Garbage Blocks, but be careful… Your rivals can target you back! Defeat opponents to acquire K.O. Badges that may give you the advantage on future attacks. Nintendo Switch Online members can also look forward to upcoming online events*!\n",
+  "titleId": "010040600C5CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7188207423d75e4793d0ce31c50c1e26032faf232c8dad74bc8eb6358ac85f93.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-23T13:26:19.651",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "0750835",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "latrell_llana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-21T13:16:30.878",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "e3672ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-30T00:14:39.579",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-08T06:13:45.593",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "e106f88",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-13T23:09:42.74",
+      "cpu": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+      "gpu": "AMD Radeon (TM) RX 580X",
+      "version": "1d6a50a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FehlBan",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-28T14:43:13.313",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2e0e691",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-13T14:05:54.272",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "dbf907d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NayToon",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-13T07:14:06.485",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "NVIDIA GeForce GTX 1660",
+      "version": "9a5a85e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-29T14:38:29.58",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 980/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zeper",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-03T12:48:21.324",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "36d1eaa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

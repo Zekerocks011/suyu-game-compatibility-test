@@ -1,0 +1,19 @@
+{
+  "name": "Skybolt Zack",
+  "description": "A New Generation of arcade game\nSkybolt Zack is the result of a unique way of mixing platformer mechanics and color matching gameplay. \n\nControls are tight and Zack’s ability to rocket punch, dash, focus, change direction when destroying an enemy and more, offers more depth than what meets the eye - following the “easy to learn, hard to master” mantra.\n\nIt’s a platformer where you don’t jump, and a music game where you dictate your own rhythm. It feels like no other game!\n\nFeatures\n• 48 frantic challenging levels that can all be completed without putting a foot back on the ground\n• Branching routes with different levels of difficulty\n• More than 15 environments divided into 5 distinct worlds\n• An art style combining 3D assets and digital painted textures with tons of FX and explosions!\n• Evolutive soundtrack inspired by famous platformers from the 90’s\n• More than a dozen types of robotic enemies for renewed challenges throughout the game\n• Dedicated speedrun and score attack modes\n• 2 different leaderboards: one for the best scores and one for the best times on every level\n• Fully customizable controls and color-blind options\n• No boring dialogue! (You’d have skipped them anyway...)\n\nDifferent routes\nDiscover multiple routes that lead to different exists across every level, allowing for tons of replayability!\n\nThere are no difficulty settings in Skybolt Zack - beginners will take the easier lower routes, only the best will reach the upper paths to unlock the most challenging levels!\n\nSuperplayer modes\nIn addition to the story mode, Skybolt Zack offers two additional gameplay modes for an extra challenge for the more competitive players!\n\nTime Attack - dedicated to those in search of the fastest times, providing them with tools to work on improving their run.\nScore Attack - ideal for those wanting to focus on achieving the possible highest score.\n\nLeaderboards\nAs focusing on scoring points and playing for the fastest time leads to very different strategies, Skybolt Zack includes 2 worldwide leaderboards: one for the highest score and one for the best times. Just go for it!",
+  "titleId": "010041C01014E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c4b6456ffe06b728fec87c54ea696d1649972e93678d617910fb74b2f71c6624.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T09:48:04.752",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

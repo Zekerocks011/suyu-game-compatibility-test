@@ -1,0 +1,30 @@
+{
+  "name": "Shantae: Half-Genie Hero",
+  "description": "Shantae embarks on her first full HD adventure! When a mysterious crime wave sweeps Sequin Land, it’s up to Half-Genie Hero Shantae to save the day! Use Shantae’s devastating Hair-Whip Attack to send monsters flying, or Belly Dance to transform into a more powerful creature form! Topple the masterminds behind each criminal caper and prepare for the ultimate showdown against Shantae’s arch nemesis: the bodacious buccaneer Risky Boots!\n\nKey Features:\n\nFeel the beat with over 150 different HD Rumble events!\n\nShantae’s trademark moves return! Dance to transform into all-new and classic creatures, or summon magical attacks! Over a dozen dances to discover in all!\n\nNew Relic System allows players to unlock new powers and customize moves for Shantae and her many forms!\n\nConquer arcade-style action stages that unfold into a full world to explore. Fast action and quest-style exploration rolled into one!\n\nWhen Shantae’s story ends, you’re just getting started! DLC Modes introduce new characters, levels, and bosses!\n\nHuge Bosses, humorous dialogue, and the wonderfully weird Shantae cast return, now in fully animated HD!",
+  "titleId": "0100AE0003424000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2307d7e1d40f18fd98655cdfb87dc5cf8f7f0140824eac7d9e9094ef9211d32d.jpg",
+  "tests": [
+    {
+      "tester": "Alyptix",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-22T00:36:16.745",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f444647",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "juan_lopes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-29T08:10:31.038",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

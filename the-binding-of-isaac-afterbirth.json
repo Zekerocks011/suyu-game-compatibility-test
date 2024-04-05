@@ -1,0 +1,107 @@
+{
+  "name": "The Binding of Isaac: Afterbirth+",
+  "description": "Isaac has discovered a labyrinth beneath his own house, filled with monsters, power-ups and unimaginable treasure. Can he survive the physical challenges and psychological trials of a world he never made?\n\nThe Binding of Isaac: Afterbirth+ is a dungeon-crawling shoot-'em-up that’s literally a different game each and every time you play it! The randomly generated maps are built with over 11,000 unique room configurations, each populated with a nearly endless variety of enemies, items, challenges and secrets!\n\nThe Binding of Isaac: Afterbirth+ includes:\nOver 600 different items to collect\n13 unique playable characters\nMore than 180 individual enemy types\n90+ terrifying, deadly bosses\nMultiple difficulty settings and game modes\nBestiary to record enemy encounters\n20 professionally animated cartoon endings\nAND MANY MORE SECRETS!",
+  "titleId": "010021C000B6A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3c1a8f954b40e3247eddcfc0491a7aed3d84cb3d8320eef4a17d2ba03147d155.jpg",
+  "tests": [
+    {
+      "tester": "Blinkerfluidsout",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-27T00:26:46.177",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-03-18T20:06:38.39",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a3d6039",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-01-03T04:13:15.676",
+      "cpu": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
+      "gpu": "GeForce 940MX/PCIe/SSE2",
+      "version": "e3731fb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-26T17:29:45.97",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "3bdf92c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-10-01T12:03:29.536",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "7b0a8a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GDhex12",
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-11-11T19:39:38.97",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7382025",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-07T21:36:55.209",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-12-26T14:35:39.043",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "daaeb90",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-24T21:00:51.527",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

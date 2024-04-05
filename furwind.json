@@ -1,0 +1,30 @@
+{
+  "name": "Furwind",
+  "description": "Furwind is a colorful, pixel art style, action-platformer game that evokes the challenging classics of the old days. Embark on this epic adventure in which a little fox will fight the ominous darkness that is invading its world.\n\n\nФ FIGHT A TERRIBLE DARKNESS Ф\nThe old war between ancestors​ ended with the imprisonment of one of them. Darhûn, who was caged for eras, has been released from his captivity and is ready to take the dark and madness to the forest.\n\n​Furwind, a young inhabitant of Moontail, is not aware that soon will go to one of the biggest and most dangerous adventures of his life.​\n\n◤​If you like the classic platform games, colorful pixel art style, an OST that will immerse you and challenging adventures, Furwind is your game!!◢\n\n₪ PUT YOURSELF IN FURWIND´S SKIN ₪\nGuide a little fox in his adventure to defeat the big evil forces that is devastating the Forest.​\n\n₪ EXPLORE EVERY CORNER OF THE FOREST ₪\nComplete the different episodes, exploring levels full of life and color with a unique pixel art style.​\n\n₪ LIVE A CHALLENGING EXPERIENCE ₪\nMove yourself by the dangerous areas, fulled with traps and risks wich will challenge your skills.​\n\n₪ Use your powers ₪\nThe ancestors have blessed you to reach the most inaccessible places, heal your wounds and fire up your enemies.​\n\n₪ Improve your abilities ₪\nIn Korvo's Mystic Shop ​you will be able to improve your power-ups and abilities\n\n₪ ​Fig​ht strong enemies! ₪\nDefeat the frightening bosses that are destroying your world.\n\n₪ ​Enjoy an awesome OST ₪\n\nLive this adventure with a surrounding and inspiring OST with ambient and atmospherics sound effects that reveal an environment full of life.",
+  "titleId": "0100A6B00D4EC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6578c4ca3e641ce5c98565bd524943b89be3ade4967c811402fe5b8d70a5e23d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-25T15:15:03.386",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0159182",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:07:32.425",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

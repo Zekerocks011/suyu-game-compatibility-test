@@ -1,0 +1,41 @@
+{
+  "name": "Dragon's Dogma: Dark Arisen",
+  "description": "The critically acclaimed action-RPG Dragon’s Dogma: Dark Arisen combines exhilarating and deep combat with the freedom to explore a huge open world. Enter the high-fantasy setting of Gransys, a land where dragons, chimeras, and other fabled monsters roam. Choose between three different starter vocations, which you can further develop for a total of nine unique vocations. Use a dynamic combat system to wield devastating skills and magicks to tackle deadly foes. Embark on your epic adventure with three AI companions, known as Pawns. These partners fight independently, demonstrating prowess and ability that they have developed based on traits learned from your playing style. Share these Pawns online and reap rewards of treasure, tips, and strategy hints for taking down the terrifying enemies. Pawns can also be borrowed when specific skills are needed to complete various challenging quests.",
+  "titleId": "010032C00AC58000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4ccd807a7a582a3540d3bca04cdcf1847d37e081cbf927fe44b6ede8750cfa37.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T15:00:46.849",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-08T00:16:58.784",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2147945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Bill_Samson",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-15T19:14:01.106",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "95a65b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

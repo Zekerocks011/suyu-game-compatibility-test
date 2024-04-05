@@ -1,0 +1,19 @@
+{
+  "name": "Sundered: Eldritch Edition",
+  "description": "Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! \n\nYou play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace. \n\nSundered: Eldritch Edition includes the Magnate of the Gong update, adding local co-op multiplayer support for up to 4 players, along with new areas and a chaotic battle against the new Magnate of the Gong boss!\n\n Features:\n \n ● Beautiful hand­-drawn art and animation\n ● Chaotic encounters against hordes of enemies\n ● Epic boss fights\n ● Optional local co-op for up to 4 players\n ● Hundreds of upgrades and multiple character builds\n ● A mix of hand-crafted & procedural levels\n ● Multiple endings and over 15 hours of gameplay\n",
+  "titleId": "01002D3007962000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/38aadfa2fbbee01ea5203531d1f172bf3c5dd64369d3b5a26efebb7f93e9d64d.jpg",
+  "tests": [
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-21T11:01:45.457",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

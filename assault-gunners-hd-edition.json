@@ -1,0 +1,19 @@
+{
+  "name": "ASSAULT GUNNERS HD EDITION",
+  "description": "ASSAULT GUNNERS HD EDITION puts you in control of the Peace Keeping Force known as DAT and along with your three allied Battle Mechs, you must attempt to save Earth’s Migrants and the Mars Colonies as a whole from the threat of the ANTS uprising. Who or what could be leading this threat against Mars, and the new planned perfect utopia for humanity?\n\nWith 35 full-length battle-heavy missions, a horde gameplay mode known as “Inferno Mode” covering 5 varied maps and over 100 mech-customisation possibilities for yourself and your allies, there’s plenty of replayability and content present in the standalone version of ASSAULT GUNNERS HD EDITION.",
+  "titleId": "01009A400A97C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e380176f2ddda4a03f9362870aba1801d1e53a62b60c3e9f6d44e7a38156c6d6.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-09T02:11:13.659",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "97cb034",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

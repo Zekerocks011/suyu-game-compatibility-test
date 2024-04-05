@@ -1,0 +1,19 @@
+{
+  "name": "A Pretty Odd Bunny",
+  "description": "A Pretty Odd Bunny is a 2D stealth platformer about a rabbit who likes eating pigs. You play as a red-eyed rabbit and help him reach the pig at the end of the levels without letting other rabbits see you! \n\nFind the right path through the levels so your fellow bunnies don't see you. They don't approve of your food choices and will try to stop you if they see your intentions. \n\nWalk, run and jump into a colorful but dangerous world full of beautiful graphics and smooth animations. Created frame by frame with love and passion.\n\nExplore more than 80 levels in 4 unique worlds, collect hidden coins, unlock extra challenges with cute characters, gorey action, blood, and a lot of severed pig's heads.\n\nIf you read until here I wish you a happy day full of Bacon!\n\nLove!\n\nA pretty odd bunny’s features include:\n- 80 levels in 4 unique worlds\n- Unlock extra challenges with cute characters \n- Beautiful graphics and smooth animations\n- Test your stealth!\n- Precise controls that will help you achieve your goal: eat all the pigs!",
+  "titleId": "010046D01431C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9211a8751de560d43f15efcacb7c6724e80ed60d55be235fe2462df75c4a891d.jpg",
+  "tests": [
+    {
+      "tester": "jijo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-13T10:12:12.81",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "e690e64",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

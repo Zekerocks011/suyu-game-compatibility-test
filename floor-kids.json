@@ -1,0 +1,30 @@
+{
+  "name": "Floor Kids",
+  "description": "Floor Kids is a new breakdance battle game featuring unique freestyle gameplay, rhythm challenges, and multiplayer sessions. Discover stylized hand-drawn graphics by award-winning animator JonJon set to an original soundtrack by world-renowned scratch DJ/producer Kid Koala. Innovative controls allow you the freedom to play the way you like with a dynamic scoring system that rewards your moves based on musicality, originality, and style. Build up your crew of bboys and bgirls, unlocking new characters and locations as you cross the city, busting hundreds of different moves and countless combinations on your journey from the corner to the club. Bring Your Skills. Build Your Crew. Find Your Style.\n\nUnlock 8 unique characters each with 16 moves and over 100 transitions between them.\n\nFind your style with innovative freestyle controls that perform toprock, downrock, power, freeze, and combo moves.\n\nWin over the crowds with a scoring system that rewards musicality, originality, feel, and style\n\nDance in many different locations, either in solo freestyle mode or two-player local party mode\n\nStylized hand-drawn animations by JonJon\n\nOriginal music and sound design by Kid Koala",
+  "titleId": "0100DF9005E7A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5071a58a63ae9998a8c2c5e5faa11e0629f20bf494cf5985618b8e6fbaf7281c.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T20:12:38.268",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T18:49:56.368",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

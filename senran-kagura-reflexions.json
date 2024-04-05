@@ -1,0 +1,41 @@
+{
+  "name": "SENRAN KAGURA Reflexions",
+  "description": "Can you feel it? The beating of her heart... In a classroom after school, learn the ways of \"Reflexology\" by syncing with her heart and body. SENRAN KAGURA combines with HD Rumble on the Nintendo Switch!\n\nShe called you into the classroom after school. She's waiting there for you. But she might not be her usual self...\n\nDelve into intimacy by massaging her hands and helping her relax. Explore her many daydreams to see her in different lights. Get to know her as an energetic admirer, an experienced warrior, a curious classmate...and much more. ♪\n\nMassage her with everything you've got, and you just might restore a piece of her lost heart. Help her put all the pieces back together, and her feelings for you just might change...\n\nEnjoy an exciting Reflexology experience together with a special girl. ♡",
+  "titleId": "0100E0C00ADAC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/672f92e26f62a2d0000ca250412e4002e72e271f1dad0bb69f0d62d814d4c688.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-07T01:23:04.268",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "f4165bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-02T16:02:17.381",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-15T20:03:57.266",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c2e5f47",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Under Leaves",
+  "description": "Under Leaves will take you on a journey around the world where you’ll discover charming animals. \n\nTHE BEST WAY TO REST\nRelaxing music, amazing scenery, peaceful gameplay—all this will make you slow down. Let your thoughts flow freely as you collect items for your next animal.\n\nBEAUTIFUL GRAPHICS\nHand-painted backgrounds delight with their detail and colors. Practically every frame looks literally like a picture ready to hang on the wall.\n\nVISIT THE ENTIRE WORLD\nOn your journey you’ll find yourself in the land of ice, stop in the sultry jungle or dive under the water. 9 locations scattered around the world are waiting for you.\n\nCUTE ANIMALS\nAll nature lovers will be charmed by 29 animated animals from all over the world. A polar bear, a big-eyed owl, a turtle or a parrot—they need a bit of your help.\n\nAVAILABLE FOR EVERYONE\nControls are very simple, and there is no text in the game—only numbers—so everyone can enjoy it.\n\nRelax today with a journey around the world in the company of charming animals.\n\nKEY FEATURES\n— relaxing gameplay and audio\n— gorgeous hand-drawn watercolor visual\n— 9 different locations over the world\n— 29 animated animals to discover\n— for everyone",
+  "titleId": "01008F3013E4E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d1a92328433c834b62aad4a5dd6d60ec7ed75303a2f345116c5224658aaa96f3.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-23T14:32:27.314",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-30T23:02:37.368",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

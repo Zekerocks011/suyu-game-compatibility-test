@@ -1,0 +1,41 @@
+{
+  "name": "SEGA AGES Alex Kidd in Miracle World",
+  "description": "Over three decades since its humble beginnings, Alex Kidd is back to smash rocks, collect items, and play Rock, Paper, Scissors with evil henchmen! The beloved boy martial artist must traverse the kingdom of Radaxian to face off against evil villain Janken the Great. Does he have what it takes to save the kingdom, or will all be lost to evil?\n\nFeaturing a new ranking system, AGES mode rewind option, two Time-Attack challenge modes, and more!",
+  "titleId": "0100A8900AF04000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2b8bbdde2ea4b85459a97f2ec69aa3dc870663fb6308c4f40e58ac599107c58c.jpg",
+  "tests": [
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-02T14:53:05.48",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "68c6683",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-05T17:25:20.934",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-09T15:28:07.487",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

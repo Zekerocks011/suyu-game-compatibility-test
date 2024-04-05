@@ -1,0 +1,85 @@
+{
+  "name": "Overcooked Special Edition",
+  "description": "Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out in a huff. Sharpen your knives and dust off your chef’s whites, there isn’t mushroom for error and the steaks are high in these crazy kitchens!\n\nOn the Nintendo Switch™, you can now experience the crazy couch co-operative action of Overcooked wherever you choose. Simply remove the Nintendo Switch console from the Nintendo Switch Dock™ to take your culinary adventures on the road, just like our plucky chefs travelling around the Onion Kingdom!\n\nThe Onion Kingdom is in danger and only the finest cooking can save it! In Overcooked players must journey through a variety of cruel and unusual kitchens on their quest to become master chefs capable of conquering an ancient edible evil which plagues the land.\n\nOvercooked Special Edition features all the exhilarating (and enraging) kitchens from the main game, as well as both expansions, ‘The Lost Morsel’ and ‘Festive Seasoning’.\n\nA CULINARY QUEST\nThe Onion Kingdom is a rich world full of cruel and unusual kitchens for you to conquer. Take part in an epic journey and tackle an increasingly challenging and bizarre gauntlet of kitchens which will push your skills of co-operation and \nco-ordination to the very limits. Each level brings a new challenge for you and your team to overcome, whether it's sliding around on a pirate ship, moving between speeding trucks, cooking on an ice floe or serving food in the bowels of a fiery underworld, each level will test the mettle of even the bravest chefs.\n\nSIMPLE CONTROLS/DEEP CHALLENGE\nOvercooked is so easy to pick up that anyone can join in the fun, but finding a team who can communicate and co-ordinate their actions when the pizza hits the fan, that's when only a\nwell-oiled team of super-chefs will come out on top!\n\nWith Nintendo Switch HD Rumble, become immersed in the crazy culinary antics like never before.\n\nDIFFERENT WAYS TO PLAY\nWhether indulging in deep fried local co-op or sautéed single player, as you play through the game you'll unlock new levels, new chef characters and even competitive challenge levels which allow teams of two to engage in hard boiled head-to-head in the kitchen.\n\nJust like cooking itself, Overcooked is best enjoyed with friends! Call in backup from a buddy by detaching the Joy-Con™ controllers and get to work! Add in an extra set of Joy-Con controllers or two Nintendo Switch Pro Controllers™ and you can play with up to four players for even more frantic fun.\n\nYou’ll have to cook a range of different dishes and work together in order to become the most effective and ultimate team! However you want to play, if you think you can stand the heat, then get ready to enter the kitchen!\n",
+  "titleId": "01009B900401E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/76181f318f0069cdece2c05b68fe49b26a33e667cd4e8edc69ce87c05227b9d1.jpg",
+  "tests": [
+    {
+      "tester": "naruga",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-13T03:51:05.756",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-27T12:24:33.824",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "03a06b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-31T01:03:37.579",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e09a8bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-01-14T15:21:00.558",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "b8e84ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-24T19:43:27.911",
+      "cpu": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "953b744",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-11T15:57:44.38",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "6d1ddaf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-13T15:54:03.655",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "17a7442",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

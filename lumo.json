@@ -1,0 +1,41 @@
+{
+  "name": "Lumo",
+  "description": "Witness the rebirth of a genre in Lumo – a classic isometric adventure with a modern twist for gamers young and old alike!\n\nA modern take on the long-lost isometric platform genre, Lumo can be enjoyed by anyone looking for an absorbing, challenging and rewarding adventure. But for those who lived through the golden age of videogames – the 80s and early 90s – or know about the games and culture from that time, layer upon layer of nods, winks and touches to those times help build upon an experience that’s as heart-warming as it is exciting!\n\nWith over 400 rooms across four unique zones, six hidden mini-games and all kinds of secrets to uncover, Lumo is a true voyage of discovery. How much you discover just depends on how hard you look…",
+  "titleId": "0100FF00042EE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/96eeea0e458fa6e42b1d1c1fd5b4bf0953498e165ff9db81ac207acaf1490efc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-13T18:43:39.472",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9b29ce4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-10T09:43:36.688",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e2566eb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-12-22T12:41:56.011",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

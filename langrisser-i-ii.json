@@ -1,0 +1,96 @@
+{
+  "name": "Langrisser I & II",
+  "description": "You are the arbiter of fate in a world ravaged by wars through generations of heroes who battle for peace, order, or chaos.\n\nCommand Ledin, Elwin, and their companions in their quest to obtain the Sacred Sword Langrisser and restore peace to a war-stricken land. Decide who your allegiance lies with in Langrisser I & II, remastered for modern consoles.",
+  "titleId": "0100BAB00E8C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16c54dc9f82a3c9c048090d51e0f6e496afc531972365a65ab68be35d4a48874.jpg",
+  "tests": [
+    {
+      "tester": "SquallRamza",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-12T21:27:46.174",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "9d7a03d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-24T18:13:52.259",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-01T14:26:05.921",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "906944b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-23T21:18:20.228",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "205e97e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-14T13:05:25.699",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "b22be5f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T01:36:01.931",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "d2a0bb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-17T06:39:56.548",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "7872c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-27T11:31:01.098",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "0c998f4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "UNBOX: Newbie's Adventure",
+  "description": "The ultimate postal service has arrived - self-delivering cardboard boxes! Unbox: Newbie’s Adventure is a unique physics-platformer. Enjoy an epic single player adventure or grab up to four friends for local multiplayer races, battles and challenges!\n\nThe Global Postal Service is nearing bankruptcy! To save themselves, they have created self-delivering boxes. Play as the GPS’ latest cardboard creation, Newbie, as you attempt to save the day. Dress to impress with a massive range of over 40,000 combinations of hats, clothes accessories and funny faces. Explore huge worlds full of challenges, collectibles and boxy boss battles as you compete against the dastardly Wild Cards!\n\nDon’t be a square! Think outside the box and create your very own cool cube! ",
+  "titleId": "0100592005164000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5869147a5559a18799e8d40d50c510cce812fecd34279c240942f0610125f31c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-04T05:17:34.092",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5fb0739",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-02T14:03:27.24",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-23T15:37:17.728",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

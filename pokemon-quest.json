@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon Quest",
+  "description": "Set off for adventure in the Pokémon™ Quest game. Venture out with your Pokémon buddies on expeditions across Tumblecube Island in search of loot in this free-to-start action-adventure for the Nintendo Switch™ system. Modify your Pokémon buddies with discovered Power Stones to make your ultimate expedition team. \n\nWith a cube-shaped art style, Pokémon™ Quest is unlike any Pokémon game you’ve seen before. The simple gameplay makes it easy to hop into expeditions and start exploring Tumblecube Island with the help of your Pokémon buddies. Afterwards, head back to your base camp where you can use the loot you found during your adventure to befriend more Pokémon. Attract various Kanto Region Pokémon to your base camp by cooking up dishes made with collected ingredients! You can even decorate your base camp with fun items that provide helpful bonuses that make your expeditions more beneficial.",
+  "titleId": "01005D100807A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4bbdd3ca2f33b56cbf2e2475f855a19dbc24a0476faefdf797b5440dde7fa3d5.jpg",
+  "tests": [
+    {
+      "tester": "lori19981",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-27T13:03:33.811",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "10a16fa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-22T15:02:09.831",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-22T15:02:15.198",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HermitNeko",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-19T11:25:39.692",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "1478b2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mantazzo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-11T17:23:15.999",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "900be73",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-28T20:54:10.615",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "5df0e06",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-22T15:02:04.428",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pu_posho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-17T17:37:25.272",
+      "cpu": "AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-16T18:41:22.02",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "7487f5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-14T10:06:35.952",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

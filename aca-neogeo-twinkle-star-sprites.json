@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO TWINKLE STAR SPRITES",
+  "description": "“Twinkle Star Sprites” is a competitive shooting game released by SNK in 1996. Utilize Chain Explosions, Power Shots, and Bombs to defeat the incoming Enemy Golems, changing them into Attack Characters to assault your opponent! Experience a new style of shooting game with more than enough cute characters flying around to fill the sky!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100B8300AFD8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e36f34ec4150eb1f6fe66192c29c6379a1c9d323acc5ee3e02963c95c736c4cf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T22:02:32.605",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

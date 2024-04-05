@@ -1,0 +1,19 @@
+{
+  "name": "WRC 8 FIA World Rally Championship",
+  "description": "The WRC championship is the most challenging motor racing competition in the world.\n\nWith the new dynamic weather system, climatic conditions have true-to-life effects:  rain and snowfall is now an important game feature as variable traction, different set-ups for each stage, tyre choice and shrewd use of the weather forecasting team all need to be considered.\n\nThe single-player Career mode has been rebuilt from the ground up: calendar management, R&D to improve performance, staff recruitment and management (mechanics, engineers, medical and weather teams, finance manager, etc.). \n\nFor multiplayer, weekly challenges and WRC eSports return, but the challenge and competition is now even stiffer.\n\nWith 50 teams, 14 rallies and over 100 special stages in the 2019 season, WRC 8 has the deepest content ever included in an off-road racing game.\n",
+  "titleId": "010087800DCEA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2aa775772922d2beb234291bc64601475ee1dd4323ecbd6e63cd747e29476f00.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-07T14:15:14.33",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "3f36ad4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

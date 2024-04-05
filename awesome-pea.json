@@ -1,0 +1,52 @@
+{
+  "name": "Awesome Pea",
+  "description": "Welcome to the Awesome Islands World!\n\nAwesome Pea is a classic run-and-jump platformer, where you must jump through many challenging levels and help the greedy Pea, who is ready to undergo any trials for the sake of gold. Dangerous dungeons, deceptively beautiful nature, hidden deadly traps, and many MANY coins await you!\n\nWhat you will definitely find in this game:\n- Stylish pixel graphics inspired by Game Boy games\n- 30 different levels\n- Stunning retro soundtrack",
+  "titleId": "0100B8C00CFCE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/46681cafdf4e4986da9f91187d9c3889c783902ff5433d6cbc9d9d2aca177540.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-22T10:57:55.668",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fbf35b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T09:28:17.337",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T18:55:11.114",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-18T17:41:52.979",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

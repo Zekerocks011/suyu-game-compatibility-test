@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives ELEVATOR ACTION",
+  "description": "“ELEVATOR ACTION” is an action game released by TAITO in 1983. As a Spy, your goal is to infiltrate the building and escape with all the confidential documents. Use elevators to crush enemies, attack them by shooting down lamps, and more.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100BF8006EC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16ca20c337be7fe1c9a0cca550162c7f1e1b53d493c6404987d0bdb5ec043f91.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T01:31:59.577",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T14:51:40.453",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "STAR OCEAN First Departure R",
+  "description": "Space Date: 346. \n\nFrom a power yet undiscovered, a new generation will be born.\n\nOur tale begins on the primitive planet of Roak where Roddick lives in the peaceful and uneventful town of Kratus.\n\nAs a member of the village’s local “Defence Force” tasked with the protection of Kratus, Roddick learns of a mysterious disease that has broken out in the neighboring town. Those infected turn to stone, but continue to live on in a petrified state. \n\nRoddick, along with his two friends Millie and Dorne, make their way to the neighboring town.  Informed of a cure for the sickness, they head to Mt. Metorx where a healing herb is rumored to grow. When they reach the summit, the party encounter Ronyx and Ilia, who appear before them in a pillar of light. \n\nThus, the story of STAR OCEAN begins... ",
+  "titleId": "0100EBF00E702000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a06f117b3668dbdb41798c40f80e37af6ea62b668b96e3a5febf3047b9314273.jpg",
+  "tests": [
+    {
+      "tester": "Gamedev1909",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-10T18:52:43.745",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "d28ae5f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Feargewinnt",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-10T08:22:04.707",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "fd62490",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Gamedev1909",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-12-06T23:23:29.449",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "3d9dbd5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-13T14:35:11.022",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "20c42dc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

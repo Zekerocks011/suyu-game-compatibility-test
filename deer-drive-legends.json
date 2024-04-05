@@ -1,0 +1,30 @@
+{
+  "name": "Deer Drive Legends",
+  "description": "Show those bucks what you’re made of. Take out the biggest and most vicious animals of the wild in this high caliber action fest! But be careful, or dangerous animals like grizzly bears and moose will be taking YOU out!   \n\n•\tSingle player Challenge mode\n•\tWireless local multiplayer challenges\n•\tMore than 30 unique stages\n•\tNo blinds, decoys, or endless tracking – just pure shooting action!\n•\tTons of power-ups and bonus items!",
+  "titleId": "0100C8900DC54000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1164e57cc420cad3b678a8054c498d7585da9496312d2b46fd2d23d6f842f444.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-09T08:23:21.595",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a59d433",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-01T12:13:06.243",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "fc1b0af",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

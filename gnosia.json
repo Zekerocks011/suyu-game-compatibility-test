@@ -1,0 +1,30 @@
+{
+  "name": "Gnosia",
+  "description": "The crew of a drifting spaceship, facing off against a mysterious and deadly threat known as the “Gnosia” and having no idea who among them is really the enemy, formulate a desperate plan for survival. The most suspicious among them will be put into “cold sleep” one by one, in an effort to rid the ship of Gnosia.\n\nGnosia is a Sci-Fi Social Deduction RPG in which you will engage in discussion with a variety of unique characters, with the aim of identifying the Gnosia among the group. Players will have to use what information they can gather during the discussions to ascertain whom they think is Gnosia and then vote to put them into cold sleep. As you progress, your abilities will improve - but so will those of the crew. \nAs the numbers of crew members, Gnosia, and various “roles” increase, it will become increasingly difficult to determine who is telling the truth. Work in collaboration with or against other crew members to ensure your survival until the end.\n\n・Repeatedly play through “loops”, triggering special events to unravel mysteries in a uniquely original narrative. Certain events will unlock new commands for you to use during discussions.\n\n・Step into a variety of roles to develop different character builds. Your stats will determine how effectively you can sway the group’s opinion or lie, and will also affect your likelihood of being selected for cold sleep.  \n\n・Engage with an engrossing and eclectic cast of characters and experience randomly triggered events, each one unique to its subject. Character events will reveal information about your crewmates in the form of special “Notes”.",
+  "titleId": "01008EF013A7C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ab7d14723d07bde8c989ed9872cce37e9bea11c187a0f04f292dfa453edf08fa.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-07T20:06:04.112",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "dc22e6b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-07T20:05:46.875",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "dc22e6b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

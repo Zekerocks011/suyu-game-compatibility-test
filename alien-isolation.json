@@ -1,0 +1,118 @@
+{
+  "name": "Alien: Isolation",
+  "description": "When she left Earth, Ellen Ripley promised her daughter she would return home to celebrate her 11th birthday. She never made it.\n \nFifteen years later, Amanda Ripley learns that the flight recorder from her mother’s ship has been recovered. Amanda enters Sevastopol space station to finally solve the mystery of her mother’s disappearance, only to confront an unknown menace.\n\nEngage in a terrifying quest for survival as you navigate the labyrinthine Sevastopol station. Unprepared and underequipped, you will need all your wits and daring to get out alive.\n \nINSPIRED BY THE 1979 FILM ‘ALIEN’\nA game that returns to the roots of Ridley Scott’s sci-fi horror masterpiece, using its atmosphere, art direction and production values to deliver the same terrifying thrills.\n\nIMPROVISE AND SURVIVE\nExplore Sevastopol station and scavenge for hidden resources, crafting items and tech to improvise weapons and deterrents against the ultimate threat.\n\nADAPT TO THE ALIEN’S MOVES\nTo evade the Alien as it hunts you down, make calculated moves and use your environment, from crawling through ventilation ducts to hiding in the shadows.\n \nTHE COMPLETE COLLECTION\nLoaded with all seven DLCs including ‘Last Survivor’, a recreation of Ellen Ripley’s final mission on board the Nostromo. \n\nFEEL THE FEAR ANYTIME, ANYWHERE\nFrom gyroscopic aiming to HD rumble, Nintendo Switch™ technologies will keep you immersed in the horror.",
+  "titleId": "010075D00E8BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/92ca1de4edc8b658b763274c38a42cf883bd362fc3e2ab1bc3ee40991744cb17.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-18T14:20:23.369",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "8060880",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-01T21:55:40.492",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "22bf8ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-30T13:25:40.383",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-27T18:42:00.064",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "b81a3cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-10-30T09:52:28.19",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "8f5c62c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Feargewinnt",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-10T09:23:36.577",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "fd62490",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T14:11:47.494",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "34ece38",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Gamedev1909",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-20T18:52:44.681",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "441bc5d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-15T06:43:20.792",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "d951952",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-10T10:00:30.299",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

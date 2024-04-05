@@ -1,0 +1,19 @@
+{
+  "name": "Air Strike: WW2 Fighters Sky Combat",
+  "description": "The Arcade Shooter Game has arrived and it brings you one of the most compelling and satisfying experiences in the world! Enjoy the unique atmosphere of WW2 and discover the air combat shooter with outstanding retro graphic style!\nFeatures:\n- Unlock 5 epic heroes and upgrade their stats!\n- Choose the plane for your liking and become the flying ace!\n- Take part in the battles that changed the world!\n- Go back into the past and explore 4 historical sites!\n- Enjoy multiple extreme boss battles!\n- Defeat enemies and become the War Hero!\n- Discover 40 challenging levels of aerial combat!\n- Enjoy outstanding graphic style!\n- Play Air Attack that meets casual gamers' expectations, as well as die-hard FPS shooting game lovers!\n\nJOIN THE BATTLES THAT CHANGED THE WORLD!\nJoin famous military forces and choose one of the best flying fighters from WW2! Become the best military aviator that has been trained to engage in air-to-air combat while in the cockpit of a fighter aircraft. Take the rudder of your plane and prove your flying skills as a pacific warrior! ",
+  "titleId": "0100E2F016680000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b9394a3c74ee1d0d8034f54624ae627e41a4f482c70991b2f98a1687ec63edfe.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-30T22:19:51.145",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "52e6b55",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

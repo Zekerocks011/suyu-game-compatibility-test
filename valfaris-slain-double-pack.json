@@ -1,0 +1,30 @@
+{
+  "name": "Valfaris & Slain Double Pack",
+  "description": "Experience two of the most metal games ever made in this gore-drenched double-pack from Big Sugar and developer Steel Mantis. This bundle contains cult hit Slain: Back From Hell, and the critically acclaimed Valfaris. \n\nSlain: Back From Hell: A heavy metal inspired arcade combat game with stunning pixel art visuals, challenging old-school gameplay, and a brutal soundtrack. Fight through a Gothic world and face the deadly overlords that reign over each of its cursed realms. Defeat them to continue your quest, or fail and die gruesomely…\n\nValfaris: A 2D action-platformer forged from heavy metal. Wield an array of deadly weaponry as you venture into the mysterious fortress of Valfaris. Uncover the truth of its doomed fate and challenge the arcane evil at its very heart. Brutal combat. Deadly enemies. Amazing pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole.",
+  "titleId": "0100CBF0115F2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cee54da8f33b527c7d1ca03ab3ea4e84e1d37111095db23d5296e3c25b05f1d6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-23T18:49:37.673",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-23T18:35:38.133",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

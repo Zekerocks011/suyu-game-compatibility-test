@@ -1,0 +1,19 @@
+{
+  "name": "Biped",
+  "description": "Biped is a coop action adventure game with a strong focus on moment-to-moment collaboration between 2 players. Two little bipedal robots, Aku and Sila, will walk side by side and embark on a fun and bonding journey.\n\nYou control the robot's two legs using two sticks. This allows you to perform various moves—from simple walking and sliding to more advanced actions, like operating machinery or cutting wood.\n\nEnjoy the adventure solo or grab a friend or a family member and have a blast together in co-op mode. Communicate and coordinate to conquer challenges together and find out how good a pair you truly are.\n\nYour adventure will take you to many beautiful and mysterious location on the planet. Explore secrets in forests, valleys, waterfalls and icy mountains and find your way through the puzzling paths that lead to the planetary beacons.\n\nCollect treasures and buy a goofy hats! Dress up your biped the way you like. Better yet, match your partner’s look and become the most dazzling adventurers in this epic quest.",
+  "titleId": "010053B0117F8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/14240d7e922516640593ed208b1489f027361702aa1dbf94dda94f2f72768170.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-22T03:55:08.272",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

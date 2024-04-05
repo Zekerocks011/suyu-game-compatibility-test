@@ -1,0 +1,52 @@
+{
+  "name": "Baldo\nThe guardian owls",
+  "description": "Journey through a magical land teeming with mysteries to unravel.\nBaldo: The guardian owls is full of challenging puzzles to solve and intricate dungeons to explore.\nTraverse this captivating open world as Baldo, and meet a host of quirky and unforgettable characters, as you struggle to decipher the cryptic prophecy, and thwart destiny.\nFrom delightful whimsy to thrilling adventure, discover new towns and their distinctive inhabitants, fight ferocious foes, locate hidden temples, and collect objects both magical and mundane to obtain powerful new weapons, or to help unveil the myriad secrets of this strange land.",
+  "titleId": "0100A75005E92000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8d13a173be0c1953feada16f76371375b511a82eb45496e5bcd19f3aa33a805a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-09T17:33:32.404",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-27T15:19:13.629",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-10T18:02:56.449",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Martin_Knaak",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-08T14:12:57.602",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "662a417",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

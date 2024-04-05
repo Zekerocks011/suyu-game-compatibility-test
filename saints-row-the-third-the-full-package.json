@@ -1,0 +1,96 @@
+{
+  "name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+  "description": "Saints Row®: The Third™ - The Full Package gives you control of the Saints at the height of their power, and you live the life to show for it.\nPut the wildest chapter of the Saints Row saga in the palms of your hands for the first time on Switch.  You bring the fight to Steelport, a sordid city of sin drowning in sex, drugs, and (a lot of) guns.  This is your City.  These are your rules.\nYears after taking Stilwater for their own, the Third Street Saints have evolved from street gang to household brand name, with Saints sneakers, Saints energy drinks and Johnny Gat bobblehead dolls all available at a store near you.  The Saints are kings of Stilwater, but their celebrity status has not gone unnoticed.  The Syndicate, a legendary criminal fraternity with pawns in play all over the globe, has turned its eye on the Saints and demands tribute.\nRefusing to kneel to the Syndicate, you take the fight to Steelport, a once-proud metropolis reduced to a struggling city of sin under Syndicate control.  Take a tank skydiving, call in a satellite-targeted airstrike on a Mexican wrestling gang, and defend yourself against a highly-trained military force using only a sex toy in the most outlandish gameplay scenarios ever seen.\nSaints Row®: The Third™ - The Full Package is the definitive release of one of gaming’s most beloved entries, playable on a Nintendo system for the first time ever with new features for Nintendo Switch™.\nKey Features:\n• City of Sin - Disrupt and dismantle the Syndicate stranglehold on weapons, cybercrime, and sex trades.  Discover the secrets of Steelport, where there is action on every street corner, for better or, more likely, worse.\n• Weapons of Crass Destruction – It’s one thing to defeat your enemies.  It’s another to humiliate them.  Hover jets, human cannonball cars and sex-toy warfare are all part of the fun. \n• Crazy Character Customization – Create the most outlandish characters every seen, from washed-up celebrities to naked ninja pirates.  Inside every sinner, there is a Saint.  Who will you become?\n• Portable Over The Top Co-op – Fly solo, or play online with a homie and for the first time – two players can play side to side via online or local multiplayer.  Give naked skydiving a try, landing in your partner’s flaming pickup as you make a suicide run toward a heavily armed Syndicate brothel.  Steelport is more fun with a friend.\n• The Full Package – Includes all three mission packs and more than 30 DLC items.  All previously released content is included on the game card.*\n* Two DLC packs - the Bloodsucker Pack and the Unlockable Pack, have been omitted for game balance and improvement based on feedback.",
+  "titleId": "0100DE600BEEE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c8e7bd27f922394e242ecb5cdaa012fcda061bc6da3bc5e9592a61e9c8a078c0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T18:28:12.537",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-29T15:23:46.804",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T18:28:05.462",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-03T16:08:02.3",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "53ae051",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-19T04:21:13.64",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "5235cb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-22T16:51:13.934",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "229324b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T04:02:57.588",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "6a24780",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-23T19:16:52.343",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

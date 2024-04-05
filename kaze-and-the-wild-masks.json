@@ -1,0 +1,74 @@
+{
+  "name": "Kaze and the Wild Masks",
+  "description": "In Kaze and the Wild Masks, you journey through the Crystal Islands in 90’s classics platformer style. Play as Kaze and save your friend Hogo from a curse that spread chaos around the islands. Face enraged living vegetables by invoking the powers of the Wild Masks. Pounce ferociously like a tiger, soar through the sky like an eagle, sprint fiercely like a lizard and rule the sea like a shark.\n \nFeatures\n• Unleash the skills of the Wild Masks to get powers from the tiger, eagle, lizard and shark\n• Uncover the secrets of the Crystal Islands in 30+ levels with over 50 bonus levels\n• Relive your childhood memories of classic platformers with high quality frame by frame pixel art\n• Pave your way through a satisfyingly smooth, but challenging platformer",
+  "titleId": "010038B00F142000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7809b79effe792169015291799789bdb7d8de80167c349a1ffe0ac8714836a6d.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-07T23:54:36.395",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-21T22:50:52.991",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "06cb8c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-07T16:08:20.775",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "09de8e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-28T21:24:27.189",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-14T17:02:40.798",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d767bc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-07T09:08:34.376",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "1fa39fb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

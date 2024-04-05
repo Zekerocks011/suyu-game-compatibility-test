@@ -1,0 +1,52 @@
+{
+  "name": "Call of Juarez: Gunslinger",
+  "description": "STAND AGAINST THE DEADLIEST GUNSLINGERS WHO EVER LIVED\nFrom gold mines to saloons, Call of Juarez: Gunslinger is a real homage to the Wild West tales. Live the epic and violent journey of a ruthless bounty hunter on the trail of the West’s most notorious outlaws. Blurring the lines between man and myth, this adventure made of memorable encounters unveils the untold truth behind some of the greatest legends of the Old West.\n\nHUNT THE LEGENDARY OUTLAWS\nBilly the Kid, Pat Garrett, Jesse James… Face down the Wild West’s most notorious gunslingers and live the untold stories behind the legends.\n\nBECOME THE WILD WEST’S FINEST\nPersonalize your skills and master your weapons to unleash lethal combos and become the best gunslinger the Wild West has ever seen.\n\nRELIVE THE GLORY OF THE WILD WEST\nBlaze a trail through the wilderness and stunning landscapes of the Old West and live an epic adventure of a ruthless bounty hunter on a journey made of all-out gun battles.\n\nENHANCED FOR NINTENDO SWITCH™\nFeel like a true Gunslinger thanks to motion control and HD rumble.",
+  "titleId": "0100B4700BFC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fe64ad1a093062aae74233cef94b168a908817ba34d15c064d135667011ee73d.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-01T22:10:03.434",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-23T07:27:15.834",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "adf14a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T07:35:58.685",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "57d5103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-08T21:00:04.306",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "cac3f48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "SWORD ART ONLINE: Hollow Realization Deluxe Edition",
+  "description": "The SAO series finally arrives on Nintendo Switch!\n\n\"SWORD ART ONLINE: Hollow Realization Deluxe Edition\" features the main game, as well as the additional content \"Abyss of the Shrine Maiden\" and the large-scale update \"Warriors of the Sky!\"\n\nA virtual world, now recreated...\nBut humans were never meant to be part of the picture.\n\nThe year is 2026. A new VRMMORPG, \"Sword Art: Origin,\" was suddenly unveiled to the world.\nDuring a closed beta test, Kirito meets a mysterious girl, an NPC without so much as a name, who is offering a strange quest.\nWill the meeting between this NPC girl and the Black Swordsman prove to be the world's salvation, or its undoing? Watch as a new death game begins to play out...\n\nA chance encounter with a mysterious NPC sets into motion a new story surrounding the creator of Aincrad, set in the vast world of Sword Art Online.",
+  "titleId": "0100EC400D54E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f3d0280abd0364552fcfceb806bd255f54cd871606d14f62e9f7a47607cd00d5.jpg",
+  "tests": [
+    {
+      "tester": "Kamil",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-09T16:22:32.019",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-04T20:51:23.824",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "dbd03a1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-11T10:04:28.177",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-28T12:06:38.898",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "acimoru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-20T01:51:39.58",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "acimoru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-20T01:55:30.766",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-07T14:56:20.796",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "d95e28d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-13T14:35:37.874",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "b2f8bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T12:08:02.774",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T12:08:53.27",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

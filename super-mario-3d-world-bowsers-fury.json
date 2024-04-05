@@ -1,0 +1,118 @@
+{
+  "name": "Super Mario™ 3D World + Bowser’s Fury",
+  "description": "Pounce and climb through dozens of colorful courses! Multiply the fun by teaming up with or competing against friends locally* or online** to reach each stage’s goal. Work together to explore and uncover collectibles, or compete for the crown by earning the highest score, making for a friendly frenzy! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Power up to complete stages and take the crown! \n\nExplore a seamless feline world in the new Bowser’s Fury adventure\n\nFree-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.\n\nNew and improved features pounce in\n\nThe Super Mario 3D World + Bowser’s Fury game features the same lively co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!\n\nIn Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.\n\nCollect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.\n\nIn Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.\n\nNeed some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!",
+  "titleId": "010028600EBDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4b24fd7398f9b569642ed7846edf633456dfbf5f85ae98479eaf5c49a797c4d0.jpg",
+  "tests": [
+    {
+      "tester": "JefEV",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-06T20:04:13.446",
+      "cpu": "Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "6561008",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FireD4sher",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-11T13:52:05.488",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:12:08.725",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T00:10:45.141",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheDixe",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-29T18:35:20.061",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-25T01:55:12.451",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Night_Rider",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-23T00:09:20.107",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "78fecdc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rayyan_Asif",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-31T05:48:27.221",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CosmicNebula",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-10T02:12:55.503",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "c9e536c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-19T19:19:37.967",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

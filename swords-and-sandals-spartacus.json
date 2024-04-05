@@ -1,0 +1,41 @@
+{
+  "name": "Swords and Sandals: Spartacus",
+  "description": "You are Spartacus, the gladiator who defied the corrupt tyrants of Rome!\n\nOne man who broke free from a brutal gladiator arena. One man who took on the most powerful legions in Ancient Rome. This is the story of the legendary ... SPARTACUS!\n\nNow for the first time, take up the sword of the greatest gladiator ever and do battle with Rome yourself in this thrilling action combat platformer. From the dark dungeons under the Arena of Capua to the heights of Mt Vesuvius and beyond, you will battle brutal slave drivers, grizzled legionnaires and mighty centurions as you free the slaves of Rome.\n\n- Huge action packed levels filled with challenging retro combat platforming. Fighting, fencing, zip lining, traps beyond belief. Spartacus will test you!\n- A rich and detailed adventure across Ancient Rome and beyond. Climb mountains, explore brooding castles and dark mines on your great quest!\n- Collect fabulous treasures and spend them on upgrading your weapons, shield and powers!\n- Simple and intuitive combat. Block with your shield, throw javelins, unleash the power of your sword arm on your hapless foes.\n- Beautiful retro pixel art straight out of a 1980s arcade cabinet. Moonlit nights come alive, trackless forests sway in the wind, demons saunter between worlds.\n- Fight dozens of different enemy types from roman soldiers and rabid dogs to the demons of the underworld and even the gods themselves!\n- No metroidvania gimmickry, no backtracking, no grinding. Just one man, his sword and a legion of Romans standing in his way.\n- Test your mettle on permadeath mode for even more challenge!",
+  "titleId": "0100241012432000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/38784d00d857f0e404e5ad541abe8aac02c9d26b73ccc3aef2ae7b639cca8cc8.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T16:15:12.614",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-21T11:57:17.254",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "7197438",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-23T19:52:32.411",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "1e6a5bf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

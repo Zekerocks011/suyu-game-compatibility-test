@@ -1,0 +1,52 @@
+{
+  "name": "Beach Buggy Racing",
+  "description": "Drive into an action-packed, surprise-filled world of off-road kart racing mayhem. Race against a field of rival drivers, each with unique personalities and special abilities. Build a collection of crazy powerups, like Dodgeball Frenzy, Fireball, and Oil Slick. Unlock and upgrade a variety of cars, from dune buggies to monster trucks. Test your skills in 6 different game modes on 15 imaginative 3D race tracks, against a pack of tropical-loving rivals with a serious case of road rage!\n\nFast, furious, and fun, Beach Buggy Racing™ is a kart-racing island adventure for all ages.\n\nGAME FEATURES\n\nEXCITING KART-RACING ACTION\nUtilize your driving skills and a collection of creative powerups to fight your way to the finish line. It’s not just a great looking 3D racing game, it’s an epic battle with spectacular physics-based gameplay!\n\nCOOL CARS TO CUSTOMIZE\nUse your winnings to collect and upgrade a garage full of unique cars, from monster trucks to muscle cars to lunar rovers!\n\nTONS OF AMAZING POWERUPS\nBeach Buggy Racing crushes other kart racers with over 25 totally unique powerups!\n\n15 SPECTACULAR RACE TRACKS\nExplore dinosaur-infested jungles, lava-spewing volcanoes, beautiful beaches, and mysterious swamps.\n\nCOLLECT A TEAM OF RACERS\nRecruit a team of drivers to play with, each with a unique special power like teleportation, flaming fire tracks, and confusion spells.\n\nSPLIT SCREEN MULTIPLAYER\nRace shoulder-to-shoulder with up to 4 friends on one screen!",
+  "titleId": "010095C00406C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/50dde13e27375d94bd959de32c6db39cd412573acd001585d3c8a5968f4ea3b2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T17:48:16.882",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-26T21:32:39.409",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-30T08:53:24.613",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "29fd3c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-30T00:20:14.448",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2cff0ca",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

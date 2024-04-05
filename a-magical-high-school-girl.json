@@ -1,0 +1,19 @@
+{
+  "name": "A Magical High School Girl",
+  "description": "A Magical High School Girl is a magic crafting rogue-like RPG! The only weapon you possess is the magic you conjure from within. You can freely name your magic. The elemental properties and effects are generated automatically with what you typed in.  ",
+  "titleId": "01008DD006C52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5761a38d2dd757dbf5b9d0c961c1e7c1861ffa31ec572a1b96c50d0fe9040c20.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T17:47:52.982",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

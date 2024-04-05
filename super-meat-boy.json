@@ -1,0 +1,118 @@
+{
+  "name": "Super Meat Boy",
+  "description": "Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.\n\nOur meaty hero will leap from walls, over seas of buzz saws, through crumbling caves and pools of old needles. Sacrificing his own well being to save his damsel in distress. Super Meat Boy brings the old school difficulty of classic titles and stream lines them down to the essential no BS straight forward twitch reflex platforming.\n\nRamping up in difficulty from hard to soul crushing SMB will drag Meat boy though haunted hospitals, salt factories and even hell itself. And if 300+ single player levels weren't enough SMB also throws in epic boss fights, tons of unlockable secrets, warp zones and hidden characters.\n\nAnd now coming first to Nintendo Switch™ is a brand new way to play Super Meat Boy with your friends. Introducing \"RACE MODE\"! In this 2 player split screen race, friends (or enemies) can compete against each other through individual chapters, randomized levels, or the entire game! Choose light world, dark world, or both and have at it. Side effects may include: elevated heartbeat, severe anxiety, hubris, and schadenfreude.",
+  "titleId": "01004F8006A78000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4502a28cf0a70c00b0f68944f1b74eb65a6aeb6976f761f6e5b73feaf69262b4.jpg",
+  "tests": [
+    {
+      "tester": "EliasM108",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-06-08T17:44:13.117",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "45867b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-28T14:48:06.875",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "0327688",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T11:07:08.344",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-15T20:51:44.488",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "ac974d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T00:43:23.08",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-05T13:08:09.486",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "569ac6b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-06-07T09:49:38.283",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "eb6e511",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-03-06T19:28:49.226",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-04T15:19:52.672",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "a0950a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-06-10T15:54:59.424",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Shu",
+  "description": "When the great and terrible Storm destroys Shu's village, he embarks on a desperate journey to survive. On his travels he'll encounter stranded villagers; survivors of the devastation that need his help. In return for his assistance, these peculiar characters will grant Shu unique special abilities that he can use to traverse the treacherous path ahead.\n\nTheir only hope is to work together, in search of sanctuary - and a way to stop the Storm. Can you outrun the end of world?\n\nGame features:\n\n• 21 lush, expansive levels, set in 6 diverse lands \n• A plethora of collectibles and secrets to discover\n• 10 recruitable characters, each with their own unique power\n• An incredible original soundtrack",
+  "titleId": "01001DE0076A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/00bf8020a377682410db49f9e6ae93330c49c6ef73a0f1f7d19a1255b92f44e5.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-03T21:13:18.776",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "97315ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-06T09:30:26.31",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "0f58978",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

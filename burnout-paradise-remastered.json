@@ -1,0 +1,118 @@
+{
+  "name": "Burnout™ Paradise Remastered",
+  "description": "The multi-million selling Burnout™ franchise races onto Nintendo Switch for the first time ever.  \n\nMake action your middle name as you rule the open streets of Paradise City, in Burnout™ Paradise Remastered.  Test the limits of skill and endurance as you push the boundaries of speed itself.  Hurtle through hectic downtown avenues to wild mountain roads.  Smash through traffic, wreck your opponents, and use the open city to find shortcuts.  Leave your friends in the dust and define your route to victory – or crash out in spectacular and devastating effect.  \n\nPacked with 8 pieces of extra content, with 130+ vehicles, new areas to explore such as Big Surf Island, and hundreds of online challenges, embrace high-octane stunts and wanton destruction in one of the greatest arcade racers.  Fully optimized for the Nintendo Switch in 60 FPS, including pinch-and-pull map control for ease of navigation.  Burnout Paradise Remastered is the ultimate driving playground to play with friends or on-the-go.  \n\nKEY FEATURES\n- THE ULTIMATE DRIVING PLAYGROUND\nThrow out that driver’s handbook and blaze your own path to victory, leaving a trail of speed and destruction across the streets.  Send your car launching, spinning, and smashing through traffic.  Leave a very expensive trail of wreckage in your rearview.  Race hard and crash harder, wrecking your friends online, or joining forces in hundreds of online challenges\n\n- THE DEFINITIVE BURNOUT PARADISE EXPERIENCE\nBurnout Paradise Remastered delivers the complete original game and 8 main DLC packs, including Big Surf Island, Burnout Bikes, and the Cops and Robbers pack.  With new locations, challenges, and 130+ vehicles to explore, from hot rods to vintage classics – ready to race and ready to wreck!\n\n- FULL-THROTTLE GRAPHICS\nExperience high-octane races and cinematic crashes in glorious 60 FPS.  Fully optimized for the Nintendo Switch, Burnout Paradise Remastered delivers high resolution textures and a range of technical enhancements for greater visual fidelity and ease-of-play, including pinch-and-pull map control",
+  "titleId": "0100DBF01000A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1d40d097ee8ef5638f53e4590655e4fe080df3268fc170fcf70ba05e35578294.jpg",
+  "tests": [
+    {
+      "tester": "EdgeGMR",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-09T07:39:26.635",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "e926439",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "meyo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-05T20:01:00.134",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER",
+      "version": "ccd49b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rogerio_Lima_Soma",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-16T18:10:08.061",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-10T10:05:25.85",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-02T21:30:46.292",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "f0ad2fa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cyucyu",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-28T04:46:44.985",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "b0c7e20",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-14T00:31:25.644",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "c3ea199",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "envol",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-26T19:15:41.507",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070 with Max-Q Design",
+      "version": "ab679ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-15T12:01:00.934",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "e717de9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cyucyu",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-01T02:43:07.717",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "b2ee6aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

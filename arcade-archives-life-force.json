@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives LIFE FORCE",
+  "description": "\"LIFE FORCE\" is a shooting game released by KONAMI in 1986.\nThe player will challenge against the aggressions from the Bacterian special force known as SALAMANDER.\nThis title will include 'SALAMANDER' which is the Japanese version of the game, and 'LIFE FORCE' which is rearranged as the Japanese version of “LIFE FORCE” that was released in 1987 in Japan.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100F380105A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/25e86624ddb1209496ee751c7d7ab3a7ccec3cb0cf4a44cb41756280f1b10d41.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T16:57:21.165",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

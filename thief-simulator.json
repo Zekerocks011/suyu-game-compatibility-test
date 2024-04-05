@@ -1,0 +1,118 @@
+{
+  "name": "Thief Simulator",
+  "description": "Become the thief. Steal in free roam sandbox neighborhoods. Observe your target and gather information that will help you with the burglary. Take the challenge and rob the best secured houses. Buy some hi-tech burglar equipment and learn new thief tricks. Sell stolen goods to the passers. Do anything that a real thief does!\n\nA good thief always observes his target. Find out when the house is empty and does it have nosy neighbours. Choose from lots of possible approaches to prepare the best plan. Many modern devices available in Thief Simulator might come in handy with gathering intel about your target and it's neighbourhood.\n\nFind and steal as many valuables as possible in the shortest time possible. Infinite backpacks don't exist. In every house you'll find tons of useless stuff. If you're not sure that you can take some serious money for it, maybe a good idea would be to leave it behind and save space for some expensive goods. Worthless items, will waste your time. Be careful, cause some things can draw police attention to you!\n\nA real, experienced thief can spot places where there's most probability of finding some valuables on the fly. Use the flashlight at night to highlight all the valuables in sight and places where you can expect them to be.\n\nDisassemble a stolen car and sell parts on the internet. Prepare phones and tablets before selling them in a pawn shop by removing their security. \n\nLook around for any useful items. They will save you some time on lockpicking or hacking. Those things can make life of an aspiring thief so much easier and reduce your burglary time even by a half. Of course many of them are just useless trash... Or maybe they aren't?\n\nBe careful! In some houses you can meet unexpected guests. If they catch you in the act, they will call the police. In this case hide and wait till they stop looking for you or you can always leave the loot and run away as fast as possible.\n",
+  "titleId": "0100CE400E34E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d48352460ee72de56d29ea82d1c5da73b50308081f85450a4cfe9149f5a83a60.jpg",
+  "tests": [
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-10T08:04:30.579",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-04T07:45:26.23",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2c0d8c8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-14T03:51:10.173",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9d01800",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-08T07:41:34.897",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "b5679dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-28T11:28:09.784",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "c949e25",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T19:03:58.641",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-11T15:00:56.746",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f83d9ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-19T07:56:52.792",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "8907b1d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-07T09:54:46.893",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "eb6e511",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EliasM108",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-08T21:17:51.306",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "b137091",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

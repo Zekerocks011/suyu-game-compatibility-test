@@ -1,0 +1,19 @@
+{
+  "name": "The Bunker",
+  "description": "The Bunker is a live-action psychological horror game starring Adam Brown (The Hobbit) and Sarah Greene (Penny Dreadful) with writing talent behind The Witcher, Broken Sword and SOMA. \n\nAs the last remaining survivor in a nuclear bunker, John’s daily routine is the one thing that keeps him sane. But when an alarm goes off, his mind starts to self-destruct. Venture into long forgotten areas, recover repressed childhood memories and unlock the dark secrets of The Bunker. ",
+  "titleId": "01001B40086E2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5f6886e9d362e58f18f1cc2818f7d3d8baa8a448af02e42944bea6d6d0f39191.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-19T21:32:40.276",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

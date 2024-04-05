@@ -1,0 +1,19 @@
+{
+  "name": "Banner Saga 2",
+  "description": "The award-winning adventure continues in Banner Saga 2! This epic, story-based, role-playing game continues its emotional journey across a breaking world. Bold leadership decisions, wise use of resources, and skillful battle tactics are vital to ensure your Viking clans make it through alive. If played, your choices will carry over from the first game, or you can start fresh with new preset characters.\n\nAs the world continues to crumble around you, only one bastion of hope remains, but getting there will require strong leadership, hard sacrifices, influencing new heroes, and sound strategy in combat.\n\n• New Characters and a New Race, the Horseborn.\n• Improved Strategic combat with consequences – improved, more strategic battle boards enhance combat and permanent loss of characters will still weigh heavy on your mind long after the battle is over. \n• The journey is as important as battle – your role is critical in building and managing your caravan as you travel the vast landscape.",
+  "titleId": "0100388008758000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/77a3e9d3b29c9092f459106ef8eb181d7592ac9c04b495ea1ee98c67a0c1a133.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T20:27:19.267",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Speed Brawl",
+  "description": "Speed Brawl is a 2D combat-racer about moving fast and hitting hard! Maintain your momentum, build your combos, and unleash powerful special moves. Find your own fighting style, and assemble the finest team of brawlers ever seen. Then do it all again faster... faster... FASTER!!!\n\nFeatures\n-6 Unique Brawlers with their own play styles\n-Loads of upgrades to customize each fighter and blast through the competition\n-Razor sharp visuals and beautifully animated characters\n-Over 50 unique action-packed events and races to wade through across multiple Speed Brawl Leagues.\n-Local and online co-operative play through the whole campaign!\n\nStory\nLondon, 1888. After a decade of war with the Lunar invaders we named the Selenites, the British Empire finally vanquished the insect-like menace thanks to a dashing officer by the name of Hugo Wells. He crushed the colony’s queen and in doing so cemented his status as both a hero of the empire, and the de facto patriarch of the drone-like Selenites. \n\nFollowing the war, the Selenites became the new workforce of our industrial revolution, ushering in a new era of progress and prosperity. Freed from the shackles of employment, man could pursue more earthly endeavors. However, listlessness and disobedience rampaged throughout the middle and working classes. In order to satiate the masses, Hugo Wells conceived of the ultimate entertainment. An elite sport where only the bravest, the fastest and the most worthy warriors could wage a petty war against the enslaved Selenite hordes. Welcome… to Speed Brawl!",
+  "titleId": "010040F00AA9A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/55065f46cd871b63c4f107352be5be3c350fa9c37abeb1c5dee28a4bf4842799.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-18T02:24:31.98",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

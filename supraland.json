@@ -1,0 +1,30 @@
+{
+  "name": "Supraland",
+  "description": "Embark on a valiant quest to save your toy village in the hit first-person open-world puzzle platformer! \n \nRoam and explore a huge interconnected world. Unlock powerful new abilities and combine them to overcome imaginative puzzles or uncover shrouded secrets. Defeat charging hordes in fast, frenetic first-person combat as you battle your way towards an audience with the Blue King.  \n \nGame features:\n- 12–25 hours of open-world puzzle, action and platformer gameplay\n- A grand adventure in a tiny \"sandbox\", with rewarding exploration gameplay and hundreds of secrets to discover\n- Discover exciting upgrades and unlock a wide range of game-changing weapons and abilities\n- Family-friendly visuals combined with countless crafty puzzles",
+  "titleId": "0100A6E01201C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d3dd9c5431e7da05f846f0b030c400f7f1e10f561b7199cd8ab31f44f351b57a.jpg",
+  "tests": [
+    {
+      "tester": "viktor2",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-23T16:13:43.751",
+      "cpu": "AMD Ryzen 5 1400 Quad-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-22T14:27:34.913",
+      "cpu": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "30bfc17",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

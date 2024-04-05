@@ -1,0 +1,96 @@
+{
+  "name": "resident evil 4",
+  "description": "Ushering in a new phase in the Resident Evil franchise, this game focuses on the events following the dissolution of Umbrella Corporation. The pioneering over-the-shoulder camera perspective is a departure from the fixed-camera views found in earlier entries, allowing for unrivaled action gameplay which has been met with widespread critical acclaim.\n\nIn the wake of the completely unprecedented biological disaster of Raccoon City, the corporation exposed as the initiator of those atrocities, Umbrella, has been dissolved. Leon S. Kennedy, a survivor of the incident, has gone on to become a special agent in the direct employ of the president of the United States. The president's daughter has been kidnapped, and Leon has followed eyewitness reports to a cold village in Europe. In that village, a new intrigue awaits...",
+  "titleId": "010099A00BC1E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1e49b77fa40a770854330377099dadd101ffc887ac40f4c9564aed9f779bb24.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-11T00:09:39.828",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "a6ea0f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-05-22T08:57:18.314",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-22T08:49:32.641",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-26T20:23:30.464",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "6ed1633",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-11T05:47:59.62",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "buggei",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-18T15:14:03.198",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "Radeon RX 5500 XT",
+      "version": "1e245bf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T15:23:14.994",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-20T09:48:08.46",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "6977c3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

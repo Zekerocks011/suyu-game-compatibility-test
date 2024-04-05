@@ -1,0 +1,118 @@
+{
+  "name": "Mario Golf™: Super Rush",
+  "description": "Hit the green with up to four players locally* or online** and golf with friends from the Super Mario™ series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt.\n\nPick up the pace in Speed Golf and Battle Golf\n\nTee off at the same time with up to three other players* and race through the course to get your ball in first. Mayhem is par for the course as you hinder your opponents with dashes and Special Shots. Yoshi can dash atop a giant egg and King Bob-omb can pelt the green with explosions! In Battle Golf, watch out for obstacles like Thwomps, Chain Chomps, and banana peels as you navigate the neon-themed Super Golf Stadium.\n\nRise through the ranks in Golf Adventure\n\nEnroll your Mii™ character in golf training at the famous Bonny Greens country club and go from beginner to pro! The stakes are high—you must also watch out for Wario and Waluigi’s tricks and even battle fearsome bosses. You’ll face off against your Mushroom Kingdom classmates and level up your character. You can bring your character (and their customized stats) into other modes, too.\n\nA free Mario Golf™: Super Rush update*** includes Toadette, New Donk City, and more!\n\nTee off as Toadette, who hits the green in the Mario Golf: Super Rush game! Boasting excellent control and cute pink pigtails, Toadette’s excellent at hitting shots with accuracy. Her high control will come in handy on the added New Donk City course—these 18 holes will have you bouncing balls off of buildings and golfing across skyscrapers!\n\nBecome a global contender in Ranked Match**...and receive in-game rewards!\n\nIn this update, a new ranked mode will be available via the main menu. You can select Standard Golf or Speed Golf and tee off with 3 other players*. Depending on your performance, you’ll earn points that increase your rank (and boost your ego). Reach a certain rank each month to obtain special character variants, like different colors for Yoshi and more!\n\nAnother free update*** brings additional characters, new courses, and more!\n\nThe shell-shielded Koopa Troopa and nimble Ninji dash (and glide) across the green in the latest free update to the Mario Golf: Super Rush game. Koopa Troopa can make the ball bounce several times and Ninji can use Glide Dash and float over opponents on the way to the next hole. Chill out on the snowy Blustery Basin course as you navigate mountains and avoid blizzards. Stay sharp on the Spiky Palms course, a desert oasis with plenty of perilous points. Take it easy or give yourself a challenge with the newly added ability to change the CPU skill level!",
+  "titleId": "0100C9C00E25C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6d017de1dd9cdd46cc932237cf28584df5713f35f0353347768e85ed218d1ae6.jpg",
+  "tests": [
+    {
+      "tester": "OkaHachiko",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-01T03:42:06.632",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OkaHachiko",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-01T03:42:08.102",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-07T22:38:21.347",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-26T17:25:19.736",
+      "cpu": "11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "3Dpoly",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-22T21:33:36.282",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "9dac609",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-14T02:36:20.323",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:14:13.111",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-13T08:24:22.136",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-15T01:56:30.011",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "bc7083d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Plus96",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-30T04:25:25.138",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Oceanhorn 2: Knights of the Lost Realm",
+  "description": "A GRAND ADVENTURE\nOceanhorn 2: Knights of the Lost Realm, set a thousand years before the events of the first chapter, takes you on a magical journey across the vast world of Gaia, brimming with mythology and lore. A young Knight faces an impossible challenge, as Warlock Mesmeroth has returned with a formidable Dark Army. Will our hero be able to unite the Owrus, Gillfolk, and men in a fight for the fate of the world?\n\nTHIS TIME YOU'RE NOT ALONE\nYou will not be taking this journey alone. Trin, the granddaughter of Arcadia's leader Archimedes, and Gen, a mysterious robot wielding an old samurai weapon, will join forces with you, and fight at your side against Mesmeroth's Dark Army. Contextual commands will allow you to direct these allies into battle, or have them help you with the solution of the game's most clever puzzles!\n\nFIGHT, SOLVE, EXPLORE\nBigger, better, and packed with new features – Oceanhorn 2 is not only one of the best-looking adventure games out there, but it also builds a unique experience on the shoulder of classic video games. Collect powerful items, wield the Caster Gun, solve the mysterious puzzles of the ancients, and discover all that Arcadia and its neighboring kingdoms have to offer! Accept the challenge and become a true hero.\n\nFEATURES\n• An epic RPG main quest spanning 20+ hours of gameplay\n• Massive boss fights test your reflexes and combat skills\n• Dozens of side quests grant incredible rewards\n• Clever puzzles to solve and mysterious dungeons to explore\n• Beautiful, handcrafted graphics paint a world of legends and intrigue",
+  "titleId": "01006CB010840000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/61ec9e6424fdd1f8d1bb703d0d331208e4b54bd0b471e7ae04edd6a4296faa4e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-25T00:09:56.996",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "atherio",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-05T23:06:55.493",
+      "cpu": "AMD Ryzen 5 PRO 4650G with Radeon Graphics",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "23d6568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-06T04:45:35.75",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "804235f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-26T15:53:54.035",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-27T16:57:16.324",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-23T02:59:55.922",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "usrunknwn",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-31T20:15:05.906",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-19T03:13:49.929",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

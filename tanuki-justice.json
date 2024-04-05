@@ -1,0 +1,30 @@
+{
+  "name": "Tanuki Justice",
+  "description": "Features:\n• Dynamic gameplay with visuals that fit the atmosphere.\n• Dozens of different types of enemies.\n• Classical shurikens over the head and a giant shuriken for difficult moments.\n• Playable in single or two-player mode.\n\nDescription:\nTanuki Justice is a continuous intensive action run’n gun in which you incarnate a tanuki brother and sister. You’ll face hundreds of enemies in feudal Japan. Varied environments with landscapes of all kinds, retro and fast rhythmic music, numerous and difficult situations reminiscent of good old arcade games. A gameplay both simple and rich allowing spectacular actions. Possibility to play with 2 people for even more fun. And challenges that will challenge even the most skilled players. Time will be your worst enemy.",
+  "titleId": "01007A601318C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7380dd1250a4792b057024fff5bfcbb5bfdc6d684ddbc290ac57d1cbc16b80e9.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-13T07:56:05.559",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "75c9ab4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T16:57:42.694",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

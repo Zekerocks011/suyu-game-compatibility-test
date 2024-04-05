@@ -1,0 +1,19 @@
+{
+  "name": "Kingdoms of Amalur: Re-Reckoning",
+  "description": "The hit RPG returns! From the minds of the bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston, comes Kingdoms of Amalur: Re-Reckoning.  Remastered with stunning visuals and refined gameplay Re-Reckoning delivers intense, customizable RPG combat inside a sprawling game world.\n\n----------\n\nUncover the secrets of Amalur, from the vibrant city of Rathir to the vast region of Dalentarth to the grim dungeons of the Brigand Hall Caverns. Rescue a world torn apart by a vicious war and control the keys to immortality as the first warrior ever to be resurrected from the grips of death.",
+  "titleId": "0100EF50132BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/39d62b8fec4988f27986313482f0b8e8b4f808db670f8203f519459c7e8edd7a.jpg",
+  "tests": [
+    {
+      "tester": "9nOOm",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-10T05:08:12.822",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 with Max-Q Design/PCIe/SSE2",
+      "version": "9aa3dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

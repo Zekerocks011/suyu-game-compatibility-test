@@ -1,0 +1,19 @@
+{
+  "name": "Reptilian Rebellion",
+  "description": "The Reptilian Rebellion has just started. \nWait, don’t you know what reptilians are? There are thousands of these green lizard-men living amongst us, but now they have become too dangerous and want to take control of the planet.\nDon’t let reptilians rule the world and send them to hell.\n\nReptilian Rebellion is a casual and challenging game, kill as many reptilians as you can, keeping an eye on your ammunition, and looking for powerups and friends.\nBe careful with the vehicles, find the leader of the Illuminati, unlock different characters and collect bitcoins to enter the leaderboards.\n\nStop the New World Order!",
+  "titleId": "010094800D3DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c51c4fcead1c02e0150d3cf0c120d845fab1b40781fffb1bb3b44587af6712ea.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T02:59:58.634",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

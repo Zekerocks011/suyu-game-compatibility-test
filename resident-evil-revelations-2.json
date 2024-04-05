@@ -1,0 +1,118 @@
+{
+  "name": "Resident Evil Revelations 2",
+  "description": "The beginning of the Resident Evil Revelations 2 tale sees fan favorite Claire Redfield make a dramatic return. Survivor of the Raccoon City incident depicted in previous Resident Evil games, Claire now works for the anti-bioterrorism organization Terra Save. Moira Burton, is attending her welcome party for Terra Save when unknown armed forces storm the office. Claire and Moira are knocked unconscious and awaken later to find themselves in a dark and abandoned detention facility. Working together, they must find out who took them and to what sinister end. Will Claire and Moira make it out alive and discover what’s led to them being taken to this remote island? A story of twists and turns will have players guessing the next step at every turn.\n\nEnhance your gameplay experience even further with additional motion controls that let you aim and wield your weapons with greater accuracy on the Nintendo Switch™.",
+  "titleId": "010095300212A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c4ae8e6f29c8e411dd59b9affa773b00dbdbfe5a7f2349d444c98bb4dcbb1383.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-21T13:32:24.96",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "38d5741",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-22T14:07:19.411",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-02T16:52:47.034",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-02T11:04:37.795",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "46222ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-04T18:32:51.177",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070",
+      "version": "1472eee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-22T03:18:33.217",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "170be43",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-26T15:07:08.904",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-27T13:30:18.761",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "0ad2ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-04T00:58:10.715",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "1472eee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-22T14:26:13.408",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

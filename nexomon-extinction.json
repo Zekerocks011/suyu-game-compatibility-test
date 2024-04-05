@@ -1,0 +1,41 @@
+{
+  "name": "Nexomon: Extinction",
+  "description": "Nexomon: Extinction is a return to classic monster catching games, complete with a brand new story, eccentric characters and over 300 unique Nexomon to trap and tame. \nThe world is on the brink of extinction as mighty Tyrant Nexomon fight for dominion over humans and monsters. Join the Tamer's Guild and begin an epic journey to restore balance before all hope is lost…\n\nBegin Your Journey – Leave the orphanage you grew up in, choose your first Nexomon and start your life as a tamer. \n\nExplore a world teeming with Nexomon – Trap and tame 381 Nexomon from nine elemental types, with powerful evolutions.  \n\nJoin the Fight – Tyrant Nexomon roam free and the Tamer's Guild is stretched to the limit, can you change the tide of the battle?\n\nBattle Trainers and Tyrants – Step up and take on would-be challengers and dangerous foes in beautifully animated turn-based battles. \n\nDiscover Diverse Regions – From arid deserts to freezing tundra, navigate challenging environments and manage their effects on your Nexomon. \n\nImmerse yourself in the world of Nexomon – Uncover secrets, stumble upon side-quests and encounter a raft of eccentric characters. \n\nTrain hard to become the greatest – Dynamic difficulty will see the world around you get more challenging as you progress, as even defeated trainers come back stronger than before and ready to battle again! ",
+  "titleId": "01005A5011A44000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f585f5cf83c12a280c0e5bc5e30a3ec0c99c2e3c5290ddd2c4aa42826240929d.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T16:59:28.311",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-30T00:24:53.979",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "32acb9f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-18T11:26:38.297",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "a2a8216",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

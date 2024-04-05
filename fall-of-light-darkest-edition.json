@@ -1,0 +1,30 @@
+{
+  "name": "Fall of Light: Darkest Edition",
+  "description": "Fall of Light is a story-driven action RPG set within a world consumed by darkness. You are Nyx, an old warrior who has embarked on a dangerous journey with his daughter, Aether, an ‘indigo child’ who radiates luminescence. Only together will they be strong enough to complete their quest: reach the last place on Earth still touched by sunlight. \n\nFeatures\n• 20 different battle stances: get ready to face hordes of shadowy enemies!\n• 10 weapon classes: pick your favorite combo of close-range weapons, crossbows, and shields\n• All-new dungeon: complete with new enemies and dangers, exclusive to the Darkest Edition \n• Protect Aether: her light pierces the darkness and you are stronger together, so keep her safe! \n• Unlock hidden secrets: learn more about the history and lore of Nyx’s world\n• Supports the following languages: French, Italian, German, Spanish, Russian, Portuguese-Brazil, Simplified Chinese, Hungarian.\n",
+  "titleId": "01005A600BE60000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/80f727f8acb0b9ed12bf6c58d796f2932a4770474684aa5c97210827393d17ca.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-01T19:13:41.819",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-25T18:12:07.007",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

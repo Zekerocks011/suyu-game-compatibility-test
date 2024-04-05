@@ -1,0 +1,118 @@
+{
+  "name": "The TakeOver",
+  "description": "The TakeOver is a side-scrolling beat'em up inspired by the genre defining classic games of the 90's. Battle solo or alongside a friend in local co-op while listening to awesome tunes from Little V Mills, Richie Branson, James Ronald and industry legend Yuzo Koshiro!",
+  "titleId": "0100CAE01021A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/71303cafc666af6a65a0410ec9d754a62751d63a717becbfbb0e67c5cdbe0896.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-09T06:10:14.119",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "0f0e3e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T17:14:24.639",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-25T01:14:35.3",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "889d908",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-07T17:24:10.781",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-10T05:27:44.896",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "1766dd1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-05T19:22:59.679",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9ced620",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-09T18:59:30.804",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-11T23:07:38.729",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "d49473f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-09T18:59:35.448",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-10-02T17:02:10.798",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

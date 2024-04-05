@@ -1,0 +1,19 @@
+{
+  "name": "Outbreak: Endless Nightmares",
+  "description": "Outbreak: Endless Nightmares twists the series' survival horror gameplay by adding elements of roguelike gameplay. You'll need to explore, hunt for supplies, uncover clues, and fight your way through each anomaly – each consisting of semi-procedurally generated instances where both the environment, and the undead, are out to kill you!\n\nImmediately after the events of Outbreak: The Nightmare Chronicles, you find yourself trapped within the remains of Arzt Memorial Hospital – the hub to organize your inventory and storage cache, level up your character, or just to take a breather before venturing back out into the chaos. There’s more to discover in the world besides murderous hordes of the undead – find the journals scattered about to learn more about the outbreak and ultimately where to find refuge! Don’t think death can save you – every time you die, you'll awake trapped in this nexus.\n\nOutbreak: Endless Nightmares focuses on extreme replayability by offering multiple character options – each with their own abilities, upgrade paths and more! Each time you venture into the anomaly, it’ll change and become increasingly difficult as you grow in power. You'll need to think carefully about what weapons, healing items, and other supplies you'll bring along. If you're lucky, you may find storage caches that give you access to your expanded inventory, and offer an opportunity to restock. But it's all on you to search your environment for supplies. If you run out ... your fate is sealed!",
+  "titleId": "0100A0D013464000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/47808c63220d4cdbad311e39a0d1b627339bd598b262eaca81be9305906c3627.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-12T23:08:07.051",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "255d3b2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

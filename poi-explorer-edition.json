@@ -1,0 +1,30 @@
+{
+  "name": "Poi: Explorer Edition",
+  "description": "Explore magical worlds in search of 100+ Explorer Medallions\n\nUnlock special items and costumes fit for any explorer\n\nMaster classic platforming moves like wall jumps, triple jumps, and long jumps\n\nCollect fossils; take photos, fly through the air, and much more!\n\n\"Explorer Edition\" Exclusives:\nUnlockable Soundtrack and Digital Art Book\n\nNew costumes and hats only available within the \"Explorer Edition\"\n\nJoy-Con motion control and HD rumble support",
+  "titleId": "01005EC0039E4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1a6c875514162f26f3bb3f5aadca123509575b382109abd89c5e2f2d73a24464.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-23T07:38:26.374",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-23T07:40:41.258",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

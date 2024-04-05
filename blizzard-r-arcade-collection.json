@@ -1,0 +1,41 @@
+{
+  "name": "Blizzard® Arcade Collection",
+  "description": "Experience a blast from Blizzard's past! The Blizzard® Arcade Collection brings five of our classic console games to modern platforms and new audiences. \n\nINCLUDED GAMES:\n\n• Blackthorne® (BT): As mercenary captain Kyle “Blackthorne” Vlaros, traverse an alien planet, liberate the Androthi people, and claim your destiny. \n\n• The Lost Vikings® (TLV): Help three Vikings—Erik, Baleog, and Olaf—overcome challenging platforms and puzzles to find their way back home.\n• Lost Vikings® 2 (LV2): The three Vikings and their new friends, Fang and Scorch, need your help again to get home.\n• Rock N Roll Racing® (RNRR): Rock out in the raddest vehicular destruction derby, with the original rock and metal soundtrack hits plus a few new surprises. \n• RPM Racing® (RPMR): Return to the racetracks with all the classic features you love and plenty of vehicular mayhem. \nLEVEL UP THE LEGACY:\n\nThe Blizzard Arcade Collection contains two different Original Editions of each game plus a new Definitive Edition for BT, TLV and RNRR! LV2 and RPMR each come as the 16-bit Original Edition. \n\n•  The Original Editions are the games as you remember but with new quality of life improvements included—like the ability to set custom button mapping, rewind your gameplay up to 10 seconds, save and load your game, or watch playthroughs (and then jump in to play at any point). Improvements may vary by game and game edition. \n\n•  The Definitive Editions include all the same great gameplay content as the Original Editions plus a few extra upgrades—like enhanced local multiplayer for TLV and RNRR, a new level map for BT, localization for 12 languages*, and more. \n\nVISIT THE MUSEUM:\n\nThe Blizzard Arcade Collection Museum features a trove of treasures from each game's past. \n\n• Art & Artifacts: View game boxes, illustrations, and more from the original era.\n\n• Music Player: Listen to the in-game scores from the Original Editions of Blackthorne and The Lost Vikings. \n\n• Inside the Games: Peek under the hood of these classic games with development materials, unused content, and deep lore.\n\n• Interviews: Watch behind-the-scenes interviews and learn more about the developers of these classic games.\n• Design Documents: Find out how these games were translated from concept to the final products\n\n*English, German, Spanish (Spain), Spanish (Latin America), French, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Simplified Chinese (CN), and Traditional Chinese (TW)",
+  "titleId": "0100743013D56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/56fb112cb921ab06a150da0af69948ac6ee2ff07a6b958e3c235b09350919076.jpg",
+  "tests": [
+    {
+      "tester": "SirVH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-28T23:12:54.553",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8e162b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "axxlester",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-02T09:22:18.035",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-22T17:06:12.652",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

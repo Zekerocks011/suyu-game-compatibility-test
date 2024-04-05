@@ -1,0 +1,19 @@
+{
+  "name": "Chess",
+  "description": "Chess is the most famous strategic board game of all time. \n\nEasy to learn but difficult to master, play against the smart Ai (artificial intelligent) player and with four levels of difficulty to choose from anyone from a novice to a master can play.\n\nChess is also playable against another player, either way winning won't come easy.\n\nWith stunning 3D graphics and realistic game play you will feel you are playing on a real chess board and you can change change your viewpoint of the board in order to help you see that killer strategic move to win the game.\n\nThe built in chess engine automatically helps you make legal moves by highlighting the squares of any piece can move to.\n\nChess has a selection of different boards and pieces to choose from so no game will look the same.",
+  "titleId": "010088801200A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1024c448cf5d34cbbf2f993abb42b860f2d44463714f1ef05e79fd768372fc03.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-02T22:15:16.976",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

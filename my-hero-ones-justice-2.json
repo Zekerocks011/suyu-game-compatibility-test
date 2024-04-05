@@ -1,0 +1,96 @@
+{
+  "name": "MY HERO ONE'S JUSTICE 2",
+  "description": "Bonus for purchasing the previous game, MY HERO ONE'S JUSTICE:\n- Special customization item set for Izuku Midoriya\n\nMY HERO ONE'S JUSTICE 2, the over-the-top follow-up to the smash hit 3D arena fighter MY HERO ONE'S JUSTICE, makes its heroic debut! Make full use of characters' Quirks as you clash head-to-head in epic battles across huge arenas!\n\n*In addition to this product, the Deluxe Edition and Ultimate Edition are also available. Please be careful not to purchase the same content twice.\n*To receive the bonus for purchasing the previous game, you must have save data from MY HERO ONE'S JUSTICE.",
+  "titleId": "01007E700DBF6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/521bba8fdb753d4ed2646fbecd3f6882aceb2e881434851b554d352177477382.jpg",
+  "tests": [
+    {
+      "tester": "crazyandy316945",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-08T10:29:39.433",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:20:08.801",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-28T11:20:32.218",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-04T18:18:35.623",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "AMD Radeon R7 370 Series",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-14T15:33:17.341",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-14T05:32:40.044",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "dbf907d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jandri555",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-30T11:58:23.593",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "2cff0ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VersedMeat",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-01T00:26:46.331",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Walking Dead: A New Frontier",
+  "description": "When family is all you have left…how far will you go to protect it?\n\nAfter society was ripped apart by undead hands, pockets of civilization emerge from the chaos. But at what cost? Can the living be trusted on this new frontier?\n\nAs Javier, a young man determined to find the family taken from him, you meet a young girl who has experienced her own unimaginable loss. Her name is Clementine, and your fates are bound together in a story where every choice you make could be your last.",
+  "titleId": "010056E00B4F4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5725d7cc34166215655d0d688acd6219ee4ad4dd1823e84b562e7820ac60ac4a.jpg",
+  "tests": [
+    {
+      "tester": "magnuzera",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-10T08:56:52.473",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "GeForce MX150/PCIe/SSE2",
+      "version": "e8c06f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-26T02:09:59.391",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

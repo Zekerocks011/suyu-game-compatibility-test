@@ -1,0 +1,19 @@
+{
+  "name": "Creature in the Well",
+  "description": "Creature in the Well is a top-down, pinball-inspired, hack-and-slash dungeon crawler. As the last remaining BOT-C unit, venture deep into a desert mountain to restore power to an ancient facility, haunted by a desperate Creature. Uncover and upgrade powerful gear in order to free the city of Mirage from a deadly sandstorm.\n\n- Pinball with swords: Charge up energy orbs, then bounce and ricochet them to reactivate dormant machinery and stop the sandstorm.\n- Defeat the Creature: Escape the many challenges set by the Creature and confront it in intricate, skillful battles.\n- Dungeon-crawler: Delve deeper into the mountain as you unlock eight hand-crafted dungeons, each filled with unique gameplay themes, unlockables, and secrets to uncover. \n- Over 20 unique items: Customize your playstyle with upgradeable weapons and clothing that change how you play the game.",
+  "titleId": "01007C600D778000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/44a5230bd18213a8818653750895cf1332c6b605f045d6ef4d3f1bbf7b253257.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-10T03:45:18.647",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "72a7976",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

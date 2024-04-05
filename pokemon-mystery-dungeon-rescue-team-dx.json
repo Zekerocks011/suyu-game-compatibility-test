@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon Mystery Dungeon: Rescue Team DX",
+  "description": "What if you woke up one day, and you were a Pokémon? You can meet and recruit over 400 Pokémon in a dungeon-crawling adventure within their world! Build a rescue team to take on mysterious, changing dungeons and strategically plan your moves as you venture forth to make the Pokémon world a safer place…and uncover your true purpose along the way.\n\nAs you recruit Pokémon, these trusty teammates will need somewhere to stay, so build rescue team camps to house, manage, and strengthen your Pokémon friends. Think hard about who is right for the job and how to approach each mysterious dungeon as you prepare a rescue team. You’ll move a single square at a time or use Auto mode to speed up movement until you engage other Pokémon in turn-based battles—but don’t forget about Pokémon strengths, weaknesses and potential rare qualities! Even the most capable rescue teams need help sometimes, so if you find yourself in trouble you can send a rescue request to other players online*, or use an offline password system. This version adds Mega Evolved Pokémon, gorgeous watercolor-inspired graphics, and more! Get comfortable in being a Pokémon, there’s a lot of work to do.",
+  "titleId": "01003D200BAA2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/01bdf842194256f9948bf5ff6fb7b77bacc6905adfede8b7d69cd4ca70c5a216.jpg",
+  "tests": [
+    {
+      "tester": "Lubiandres",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-27T23:27:59.088",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Androu1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-23T03:31:06.642",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3b95cad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Banh_Mi",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-18T04:58:01.12",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Leoav03",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-22T04:36:44.021",
+      "cpu": "AMD Ryzen 3 4300U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "7488bc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lubiandres",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-30T14:18:29.684",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "ba73544",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NixDG",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-28T18:27:12.334",
+      "cpu": "AMD Ryzen 9 5950X 16-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Animaly0",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-22T13:49:57.007",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "74e96d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lubiandres",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-23T06:01:24.132",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "7687a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lubiandres",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-05T14:59:25.071",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "3200520",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Stijn_M_H_Germonpre",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-27T20:44:42.199",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

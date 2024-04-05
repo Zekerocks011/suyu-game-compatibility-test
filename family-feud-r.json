@@ -1,0 +1,74 @@
+{
+  "name": "Family Feud®",
+  "description": "Experience the exciting classic gameplay of one of America’s hottest gameshows at home now!\n\nCustomize your character, then challenge your friends, family, and even other players online for a chance to bring the big prize home.\n\nFeaturing four exciting game modes: \n\n- Classic mode features the authentic Family Feud® experience. Choose a difficulty and take on an AI team just as determined as you are!\n- Party Battle lets you get into teams with your family and friends as you battle each other in local multiplayer. \n- Couch vs. Couch brings the experience online! Play against others across the world. \n- The Live Show feature allows you to broadcast your game and play with your viewers!",
+  "titleId": "010060200FC44000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/86b114bbdd76b174e96e241e1ea34f4feefbd64580d6c18106020cd63ed9e2ee.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-27T21:25:20.212",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ThePaSch",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-15T11:19:50.31",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-25T15:26:17.788",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c017bcb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "landas1",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-14T03:27:52.696",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "297fc97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "the_epicboy",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-28T04:56:35.041",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "a6d1066",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-10T14:35:14.583",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "80d7c45",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Genesis Noir",
+  "description": "You play as No Man, a watch peddler caught in a love triangle with other cosmic beings, Miss Mass and Golden Boy. When your affair turns into a bitter confrontation, you will witness a gunshot fired by a jealous god—otherwise known as The Big Bang. Jump into the expanding universe and search for a way to prevent or destroy creation and save your love.\n\nA NON-TRADITIONAL POINT AND CLICK ADVENTURE\nWith a focus on tactile puzzles and exploration, you’ll experiment with objects in small slivers of the universe to discover how they can be manipulated to progress your journey. Dial a rotary phone; destroy a civilization; plant a garden; improvise with a musician; create life—all in your search for a way to save Miss Mass.\n\nJUMP INTO THE EXPANDING UNIVERSE\nThe Big Bang isn’t just the birth of creation as we know it, it's also a gun blast frozen in time, with the bullet speeding towards the love of your life. You’ll jump into pockets of time, explore moments throughout the lifespan of the universe, and search for a way to change the course of destiny.\n\nWITNESS THE BIRTH AND HISTORY OF MANKIND\nYou’ll observe moments in the history of the universe, from the first microseconds of Life to trillions of years in the future. What will you learn about these new creations, in your search to destroy them?",
+  "titleId": "01009C701165E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1e22697bfe01c896a592a63af58174ddaf42401ba56f07012287d72fefb1acf.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-23T07:10:50.234",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

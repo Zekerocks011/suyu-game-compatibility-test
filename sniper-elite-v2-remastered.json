@@ -1,0 +1,41 @@
+{
+  "name": "Sniper Elite V2 Remastered",
+  "description": "Experience the remaster of award-winning third-person shooter, Sniper Elite V2.\nTrapped between two desperate armies in a race against time, stealth is key. Stalk your target, set up the shot, and use your skill, patience and cunning to achieve the mission. \nAUTHENTIC SNIPING - Gravity, wind, velocity and more affect the shot. Providing the most realistic simulation of sniping yet\nALL DLC INCLUDED - Take down the Führer, with all DLC missions, maps and weapons\nSNIPER’S CHOICE – Will it be a perfect long range shot from the shadows or a rain bullets as you command centre stage?\nMULTIPLAYER & CO-OP – Compete in 7 multiplayer modes, for up to 4 players local and 8 online, or team up with a friend and battle through 4 co-op modes\nNINTENDO SWITCH™ EXCLUSIVE CONTROLS – Enhanced for the Pro Controller and support for motion controls \nREMASTERED VISUALS - Modernised graphics, textures and effects bring this classic to life\nPHOTO MODE – Capture and share stunning photos",
+  "titleId": "0100BB000A3AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7cea1befabe4a90dd1d8762303cc08e916ca2c32b6658e06b1a7dd95f98b0d9f.jpg",
+  "tests": [
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:38:27.598",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-29T15:26:21.994",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-27T22:53:59.922",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

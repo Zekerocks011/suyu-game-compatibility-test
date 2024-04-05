@@ -1,0 +1,118 @@
+{
+  "name": "DRAGON QUEST BUILDERS 2",
+  "description": "To stop the worshippers of an ancient evil, you must join forces with the mysterious Malroth and build a ravaged world into the realm of your dreams. In this RPG adventure, you’ll explore huge islands, gather and craft with materials, design towns, level them up, and defend them from monsters and bosses alongside townspeople. As you progress, you’ll unearth crafting and building recipes. Dash, glide, explore underwater, fast travel, and play in optional first-person perspective as you try to find them all. In the Isle of Awakening, you and up to three other Builders can explore together in local wireless*; or play online** together too.\n\nShare screenshots by posting them online through the Noticeboard, or visit other players’ islands and use the Magic Pencil to create a blueprint of a favorite creation.*** You can get recipes that let you craft the Legendary Builder’s outfit and the Dragonlord’s Throne by owning the original DRAGON QUEST BUILDERS game on the Nintendo Switch™ system. Why not adventure in style as you take quests to help those in need, engage in the daily lives of townspeople, and master the latest farming techniques? All in a day’s work for the Builder! ",
+  "titleId": "010042000A986000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/784d4b9be1fc6d2d1572afcc9d830337df2be46ecd623faf1f2f9470d147e4c7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-11T19:03:37.598",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-26T16:15:48.334",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "87dda97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T11:04:16.587",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-19T08:54:54.162",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "9850b7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-15T13:21:01.845",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "c4d9f17",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Leonard_Ib-ib",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-29T05:58:44.333",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GT 730",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-29T03:05:31.517",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "cebacd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-16T20:50:32.939",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "ad2e48e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-20T03:49:00.127",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-23T10:20:12.243",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "512f7d9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

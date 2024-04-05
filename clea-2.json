@@ -1,0 +1,30 @@
+{
+  "name": "Clea 2",
+  "description": "Four years have passed since the Whitlock Mansion tragedy. Florine, a former maid, is determined to resurrect the person who means everything to her. To succeed, she must travel past the third dimension and into the realms beyond. Otherworldly horrors lie in wait, but Florine is determined to soldier on.\n\nThis, after all, is her final chance at redemption.\n\n* * *\n\nSkill-focused horror:\n\nClea 2 is primarily a test of skills. Enemies roam the halls dynamically in real-time, reacting to the players' every noise. Clea is a challenging title, rewarding those who have mastered its mechanics.\n\nNo jump scares:\n\nClea 1 was a jump scare free experience, and the tradition continues here in this sequel.\n\nReplayability:\n\nUnlockable costumes/galleries/difficulty modes, multiple endings and even an arcade feature. Plenty of reasons for Florine to revisit her journey.\n\nFully voiced:\n\nEvery cutscene is fully voiced. Please enjoy the cast’s performance as we sink deeper into Clea’s lore than ever before.\n",
+  "titleId": "010045E0142A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eadce08de48ec4f660a9043cdf4fa1045d1ad69b8eafe3505fefe93c8757d7bb.jpg",
+  "tests": [
+    {
+      "tester": "gigaskun",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-17T15:17:22.637",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "66a4fc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ong_ong",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-10T08:37:17.92",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Deadly Premonition 2: A Blessing In Disguise",
+  "description": "The true sequel to Deadly Premonition is coming to Nintendo Switch.\n\nIn the year 2005, FBI agent York visits Le Carré, a small town in New Orleans where he encounters a mysterious serial murder case alongside his “friend” Zach.\n\nProduced by the original creator team. The story takes place in a small town in New Orleans which was created based on research and interviews.",
+  "titleId": "0100BAC011928000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c5d163dec8ba96a0498d523f2309abce81eee67760f64b7970a01c73fd653f46.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-30T14:15:58.137",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-21T19:27:07.719",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-23T20:38:01.18",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "0750835",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-29T16:27:57.492",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "f7d88bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-21T19:27:16.894",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-07T21:33:08.75",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "e926439",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-13T07:17:15.877",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080",
+      "version": "8d7b2cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-04T21:27:56.126",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "41b18d1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T22:02:22.896",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e7c0648",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dogmod",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T20:33:43.369",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

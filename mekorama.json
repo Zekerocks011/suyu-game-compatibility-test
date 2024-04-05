@@ -1,0 +1,30 @@
+{
+  "name": "Mekorama",
+  "description": "Guide the adorable robot \"B\" (because he looks like a Bee) to safety after he crash lands on a strange cubic planet.\n\nExplore each level, rotating it in 3D to see all sides, \nlooking for a way through to the goal. Make use of lifts and slide platforms to get around while looking out for dangers.\n\nThink outside of the box to find solutions sometimes in unconventional ways to find a way forward. You'll be amazed at what's possible (and necessary!) and before long captivated to get to the end.\n\n100 varied levels continuously throws up new surprises that you'll never know what to expect.\n\nA physics engine ensures everything moves realistically, such as balls, platforms and even B as he stumbles around the level.\n\nTry your hand at creating your own levels with the level editor and see what other unimaginable designs are possible.",
+  "titleId": "0100B360068B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ad774ce8cb7870e9d56640030b60ef5c6f253c30a840b6e276ebe67f3d98c917.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-27T10:04:54.46",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "veloxSZ",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-28T18:12:23.4",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

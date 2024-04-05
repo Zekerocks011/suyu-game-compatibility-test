@@ -1,0 +1,30 @@
+{
+  "name": "Fury Unleashed",
+  "description": "MAIN FEATURES\n\n• Ever-changing comic book – Explore the pages of a living comic book where ink is your most valuable resource and each room is a comic panel. Find out why John Kowalsky, creator of acclaimed Fury Unleashed series, is having a creativity crisis and see if you can help him deal with it.\n\n• Gameplay-impacting combo system – Kill enemies quickly enough to unleash your fury and rip through everything in your way without getting injured. Learn to play flawlessly and beat the entire game in one epic combo!\n\n• Game customization options – Choose either the challenging Hard mode (which will put your skills to the test) or Easy mode (where you can adjust the difficulty parameters any way you want). Beat Hard mode to unlock access to even harder Incredible and Legendary modes. Disable blood and gore if you don't like it, or if there are young children around. Go solo or bring in a friend for a local or online co-op session. Choose your hero's skills to match your playstyle and modify their appearance to your liking!\n\n• Roguelite with soft permadeath – Discover worlds created by a mix of hand-designed levels and procedural generation algorithms. Choose the best items to assist you in your playthrough and unlock permanent upgrades when you die for your subsequent runs.\n\n• Inspiring environments – Play through the pages of visually distinctive comic books and dive into the creator's sketchbook. Master each enemy's behavior patterns and overcome a total of 40 bosses.",
+  "titleId": "0100ECE00C0C4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0919876566e663a617dacb959bf0f3f7d96b0ff44b8d024d3b99421b1b531738.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-24T16:46:34.333",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-10T14:11:42.317",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "673cf86",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

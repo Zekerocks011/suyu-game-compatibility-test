@@ -1,0 +1,19 @@
+{
+  "name": "Star99",
+  "description": "Arcade-style battle-royale shoot 'em up. Perform chain kills on enemies, send special and boss attacks to wreak havoc on your opponents. Compete with up to 99 players, dominating matches until a single winner remains!\n\n* Play in matches of up to 99 players.\n* Private online lobbies\n* Cross-platform.\n* 6 playable characters, all with unique abilities and playstyles.",
+  "titleId": "0100E6B0115FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b9aa85a5a259e27d83eafa92d1eb9e79b8b2087b65da4abdf6c9a01f5d8bfd32.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T01:32:09.388",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d465a84",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

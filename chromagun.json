@@ -1,0 +1,41 @@
+{
+  "name": "ChromaGun",
+  "description": "Welcome to ChromaTec’s test lab! You’re here to test our newest, state-of-the-art military-grade color-technology: The ChromaGun (patent pending)! Use it to try and solve our meticulously designed test chambers. The basic principle is as easy as applying it is complex: Exit the chambers via the exit doors. But be weary of the WorkerDroids in charge of maintaining the chambers. They’re not exactly what you and I would call “human friendly”.\n\nUse the ChromaGun to colorize walls and WorkerDroids to progress in the chambers. WorkerDroids are attracted to walls of the same color. Using that mechanic, try to reach the exit door of each chamber. Some doors are more complicated to use than others: They can only be opened using door triggers and only stay open as long as the triggers are occupied.\n\nIf all of this sounds like your brain can handle it, congratulations! You’re the perfect candidate for our test chambers!\n\nThat being said, welcome and good luck! ",
+  "titleId": "010039A008E76000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ebecc9974eeb0b84a3c04c1f59750afb5d44a4400ad2a3056818d4dc0007e3fd.jpg",
+  "tests": [
+    {
+      "tester": "8BitF0x",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-19T00:52:28.435",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-24T19:33:22.352",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T09:54:29.832",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

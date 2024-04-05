@@ -1,0 +1,74 @@
+{
+  "name": "AER Memories of Old",
+  "description": "The gods of old are forgotten, lost in the events that shattered the world, leaving only fragments of islands in the sky. This mystic world of endless skies, colorful islands and ancient ruins is in danger of falling into darkness. As one of the last few shapeshifters, you are sent on a pilgrimage to the Land of Gods. Uncover the secrets that will help save reality itself.\n\nFly and explore by transforming into a bird at will\nA large open world of hidden secrets and new discoveries\nA pilgrimage of mysteries, puzzles and temples\nStrong focus on atmosphere and aesthetics with a vibrant minimalisitic art style",
+  "titleId": "0100A0400DDE0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9f4328e9c0c8da0acc0eff1560be39d29c11201256a497fed6ac526438807354.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-14T15:26:12.142",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "52e7221",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-27T21:55:57.605",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-06T06:21:26.455",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T21:11:02.219",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-26T19:18:38.874",
+      "cpu": "Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-22T19:40:52.29",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "aae7847",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

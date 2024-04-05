@@ -1,0 +1,52 @@
+{
+  "name": "The Room",
+  "description": "Following a trail of mysterious letters, you find yourself entangled in a journey shrouded with secrets and deception. Trapped in The Room with only an elaborate puzzle box, you must delve into the unknown using only your wits to unlock the answers you desperately seek. \n\nKey Features\n\nThought-provoking Puzzles: Solve intricate and unique challenges to make the box transform and unfold before your eyes in an enthralling combination of myth and machinery. Use an ornate eyepiece to uncover hidden messages, decipher codes and unlock sophisticated mechanisms, stepping you closer to the truth behind the cryptic letters that led you here while pulling you deeper into The Room's mysteries.\n\nEntrancing Artwork: Blurring the lines between the physical world and fantasy with stunningly realistic visuals, The Room invites players to lose themselves in a world of ornate wonder.\n\nCompelling Story: Driven by the desire to understand an ominous letter penned by an old friend you soon find yourself in their abandoned home, alone and trapped. With no option but to continue, you begin your journey into the unknown along a trail interwoven with secrets, deception and peril.\n\nOptimized for Nintendo Switch™: Adding a new depth to the series you can now experience a hands-on approach to mechanical puzzle solving. Explore The Room using either the touch screen or Joy-Con™ controller motion controls to feel each lock click and every key turn. The combination of innovative mechanics and interactive controls create a mesmerizing experience from beginning to end.",
+  "titleId": "010079400BEE0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/14ca9e309f81e28985f71423ac2db79b0786ef79f305f93a8114e377da763f89.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-28T02:51:00.773",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-17T16:40:17.563",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-21T14:17:51.983",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "f19f40d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tom_Berthault",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-28T01:50:40.643",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "fefdfd9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

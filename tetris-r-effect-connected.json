@@ -1,0 +1,118 @@
+{
+  "name": "Tetris® Effect: Connected",
+  "description": "Tetris® Effect: Connected is Tetris like you've never seen it, or heard it, or felt it before—an incredibly addictive, unique, and breathtakingly gorgeous reinvention of one of the most popular puzzle games of all time, from the people who brought you the award-winning Rez Infinite and legendary puzzle game Lumines.\n\nMusic, backgrounds, sounds, special effects—everything, down to the Tetriminos themselves—pulse, dance, shimmer, and explode in perfect sync with how you're playing, making any of the game's 30+ stages and 10+ modes something you'll want to experience over and over again.\n\nPlus cross-platform multiplayer modes for competitive and cooperative play!\n\nAn exhilarating single-player experience full of surprises.\n• Over 30 different stages, each with its own music, sound effects, graphical style and background that all evolve and change as you play through them.\n\nThe Zone is an all-new mechanic designed just for Tetris Effect: Connected!\n• Includes the all-new “Zone” mechanic, where players can stop time (and Tetriminos falling) by entering “the Zone” and either get out of a sticky situation that could otherwise lead to “Game Over,” or rack up extra Line Clears for bonus rewards.\n\nCross-platform multiplayer lets you play with players from all over the world!\n• Players on different platforms can easily join Friend Match rooms with the new Room ID feature.\n\nA wide variety of competitive and co-op modes!\n• Among the new modes is \"CONNECTED,\" where three players can team up and literally connect their Tetris Matrices to fight against A.I.-controlled Bosses; \"Zone Battle,\" a one-on-one match of standard competitive Tetris, but with a twist: the time-stopping Zone mechanic; and \"Score Attack\" and \"Classic Score Attack,” two single-player versus modes where two players compete separately to see who can get the best score.\n\nJoin in on the fun in Spectator mode!\n• Spectator mode is available in Friend Matches. A room can contain up to 8 total people. Spectators can use emotes during the match to liven up the competition.",
+  "titleId": "0100DE501433A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eecc612ef98615bd462ce8094f43fb7ba59c35d99388b6e975cfc236caf765b0.jpg",
+  "tests": [
+    {
+      "tester": "CengizKaan",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-16T13:25:33.399",
+      "cpu": "AMD FX-8320E Eight-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-09T19:54:27.002",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "70bdaca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Evomind",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-11T13:46:43.804",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD RADV VEGA10",
+      "version": "9a47a2f",
+      "os": "Linux",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-10T15:28:51.64",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "ecd5ff4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zach_morris",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-21T00:11:55.294",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 6800",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "chrisis123",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-14T19:33:03.362",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "a0431a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Moto_Is_Life",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T16:24:28.561",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 970/PCIe/SSE2",
+      "version": "662a417",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BornIncompetence",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-12T02:12:14.04",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9891b6e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Evomind",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-23T16:06:09.592",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD RADV VEGA10",
+      "version": "GITDIR-",
+      "os": "Linux",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BornIncompetence",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-12T04:47:21.02",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "653b6ac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

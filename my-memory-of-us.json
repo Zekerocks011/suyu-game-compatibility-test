@@ -1,0 +1,30 @@
+{
+  "name": "My Memory of Us",
+  "description": "The Evil King plunders the city and his robot soldiers are everywhere. Citizens are segregated, forced to move out of their homes, and live in a place separated from the rest of the city. As usually during war - the tragedy affects everyone, even the smallest ones…              \n\nExperience a story inspired by actual events from World War II from a perspective of two children and help them survive the times of absolute terror. With pure evil lurking around every corner, their friendship won’t be enough to stay alive, however, if they’ll combine their skills and cooperate, they may stand a chance.                     \n\nEnter the world of exploration, stealth, and puzzles; narrated by a familiar voice of a legendary Hollywood actor, and take part in a gripping adventure that will make you think about your beloved ones.",
+  "titleId": "0100E7700C284000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e8786ca1a084633a142dac89696d5ffb7be97f11a18c391abef0e3c926cfdc9c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-22T15:00:36.934",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "613f4ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-12T22:14:09.978",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

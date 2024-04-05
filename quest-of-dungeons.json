@@ -1,0 +1,52 @@
+{
+  "name": "Quest of Dungeons",
+  "description": "Quest of Dungeons is a turn-based dungeon crawler game: a roguelike featuring a good old 16-bit, retro artistic look. \n\nAn evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. \n\nBy playing as either a Warrior, a Wizard, an Assassin or a Shaman, you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops. \n\nThe entire game is procedural so you won't find items/enemies in the same place each time you play. \n\nFeatures:\nProcedural dungeons \nProcedural weapons \nBoss encounters \nQuests \n4 Difficulty levels \nPermadeath - Once you die, game over man, game over! \nShop - buy and sell items/weapons \nLeaderboards - compare your Adventure points with the community",
+  "titleId": "01001DE005012000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d93a46a794a44b2df40a18f009f492784fa49a2999f2176ca22eab117eb1ab27.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-07T10:04:54.778",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 780/PCIe/SSE2",
+      "version": "41d8952",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T01:01:22.493",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-30T07:40:46.152",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "adb39d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-24T12:22:06.461",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 780/PCIe/SSE2",
+      "version": "ed1e288",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

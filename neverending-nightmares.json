@@ -1,0 +1,19 @@
+{
+  "name": "Neverending Nightmares",
+  "description": "Neverending Nightmares is a psychological horror game inspired by the developer's actual battle with mental illness. In the game, you take on the role of Thomas who awakens from a terrible nightmare only to find that he is still dreaming. As he descends deeper through the layers of hellish dreamscapes, he must hide from horrifying apparitions and outrun his inner demons. He must discover which of the horrors he encounters are a manifestation of his own psychological state and figure out what reality will be when he finally wakes up.\n\n* Terrifying nightmare worlds inspired by real life struggles with OCD and depression.\n* Black and white artwork creates a distinctive moody and dark atmosphere. \n* Branching narrative features 3 completely different endings.\n* A dynamic lighting system gives the ever present darkness a character of its own.\n* IGF nominated composer Skyler McGlothlin delivers a haunting and oppressive dark ambient score. \n",
+  "titleId": "0100F79012600000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7ff7d6558ea0e11c586f6ededd56cee6666d4ce16b5347cb6ed45ef8b9152963.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-27T11:38:38.522",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

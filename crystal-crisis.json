@@ -1,0 +1,30 @@
+{
+  "name": "Crystal Crisis",
+  "description": "An all-star cast of heroes has gathered to test their mettle in Crystal Crisis, a cute and chaotic new color-matching combat game! Crystal Crisis is presented like a one-on-one fighting game, but instead of kicking and punching, players attack by arranging colorful falling crystals and clearing them from the screen. It’s the ultimate puzzle battle throwdown!\n\n• 20 unique playable characters, including Quote and Curly Brace from Cave Story, Isaac from The Binding of Isaac, Astro Boy and Black Jack from Tezuka Productions, and many more!\n• Build up your “Burst” Gauge with combos to unleash powerful special attacks!\n• Several unique single-player and multiplayer game modes, including Story Mode, Arcade, Survival, Tag Team, Versus Mode, Online Versus and more!\n• Innovative new “wrap-around” feature allows you to move falling pieces beyond the edge of the wall to reappear on the other side.\n• Each character has his or her own stage, musical theme, unique special attacks and voice-acted exclamations!",
+  "titleId": "0100972008234000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d25109b7032f6e0fb3613bbb2c66c5b36b25385fc93790a195e088e4b7ce0ea7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-06T14:57:26.015",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-10T17:49:23.075",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

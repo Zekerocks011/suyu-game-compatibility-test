@@ -1,0 +1,19 @@
+{
+  "name": "\"METAL SLUG 1st & 2nd MISSION\" Double Pack",
+  "description": "METAL SLUG 1ST MISSION released in 1999 for the NEOGEO POCKET COLOR, with its sequel METAL SLUG 2ND MISSION hitting shelves in 2000. Now both are available for Nintendo Switch™!\n\n- Experience the simple-yet-deep shooting mechanics the METAL SLUG series is known for!\n- Gone are the days of 1 shot deaths as now there is a life bar to get you through the mission!\n- It wouldn’t be a METAL SLUG game if there weren’t branching paths to explore!\n- Contains features like resuming where you left off or rewinding back time to avoid an early death!\n\n*Note: Both METAL SLUG: 1ST MISSION and METAL SLUG: 2ND MISSION are featured in the NEOGEO POCKET COLOR SELECTION Vol.1.\n*The manual included in the game it is from the NEOGEO POCKET Color edition. Therefore, some of the controls may vary on Nintendo Switch.",
+  "titleId": "0100F2B012E62000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/32abc4bd5181bcef63c9c99cdd8a99aeeac304bd4dd5cb544f800a13f4d223f7.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-24T16:43:26.407",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "98d0fcf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

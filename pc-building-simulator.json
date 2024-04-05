@@ -1,0 +1,52 @@
+{
+  "name": "PC Building Simulator",
+  "description": "The Ultimate PC Building Simulation has arrived!\nBuild your very own PC empire, from simple diagnosis and repairs to bespoke, boutique creations that would be the envy of any enthusiast. With an expansive marketplace full of real-world components you can finally stop dreaming of that ultimate PC and get out there, build it and see how it benchmarks in 3DMark!\n\nRun your own Business\nThe career mode in PC Building Simulator puts you in charge of your very own PC building and repair business. From your own cozy workshop, you must use all your technical skills to complete the various jobs that come your way.\n\nLearn to Build a PC\nDoes building your own PC seem like an impossible task?\nPC Building Simulator aims to teach even the most novice PC user how their machine is put together with step-by-step instructions explaining the order parts should be assembled and providing useful information on what each part is and its function.",
+  "titleId": "010072800CBE8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7d865a763a0cd2c499166a43b757b4d6facc53f983998e4a8db24820241c00b5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-09T01:53:53.036",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "Radeon RX 560X",
+      "version": "d0d76d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Morph",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-25T17:23:54.633",
+      "cpu": "Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "fb83ad3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-16T09:35:46.55",
+      "cpu": "Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "393cc3e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gucigucescu",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-28T08:47:00.706",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "570f510",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Wallachia: Reign of Dracula",
+  "description": "FEATURES:\n▪ 100% of retro,\n▪ 100% of action,\n▪ 7 action-packed levels,\n▪ story based on Vlad the Impaler,\n▪ waves of enemies to fight,\n▪ bosses that won't give you a chance,\n▪ minigames, unlockables and bonuses (e.g. exclusive bonus from Bloodstained Ritual of the Night),\n▪ full English voiceover by professional actors (Kira Buckland and Robert Belgrade),\n▪ unique & ultra ambient soundtrack!\n\nABOUT THE GAME:\nWallachia: Reign of Dracula is an action & shooter platformer inspired by great video game classics (e.g. Castlevania).\nThe game will challenge your reflex, aim and agility skills. \nIt's unparalleled difficulty will satisfy fans of old-school, unforgiving and complex gameplay. \nWatch out for enemies attacking you from every direction, hidden traps and ruthless bosses!\nThe game has a full, professional voice-over by professional actors, Kira Buckland and Robert Belgrade.\nYou will enjoy a unique soundtrack and story revolving around the one and only true vampire - Vlad the Impaler. \n\nThirsty for some blood? \nThen get ready for a brutal, yet satisfying adventure!\nTravel through the land of Wallachia and face the forces of Vlad Dracula!",
+  "titleId": "010017E012888000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a0b4f4f3854036fa472331913f57c4d1d619433b93e657dd711480b20ba75a09.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-16T21:26:44.884",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "ad2e48e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-21T12:02:43.209",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "7197438",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-20T03:39:53.311",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-28T03:34:22.281",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "cebacd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-04-20T03:22:48.245",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-08T01:50:26.748",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "f6bf40b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-20T03:23:22.322",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

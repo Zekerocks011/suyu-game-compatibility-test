@@ -1,0 +1,19 @@
+{
+  "name": "NBA 2K21",
+  "description": "NOTE: All multiplayer servers for NBA 2K21 will be shutdown as of 12/31/2022. After that time, all game functions requiring online servers will no longer function.\n\nNBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience.\n \nWith extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+  "titleId": "0100E24011D1E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc796a4be4f66acf75a5f54f6871af28d44730af93d11791cbf45d85f93821a1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-10-07T02:41:20.559",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

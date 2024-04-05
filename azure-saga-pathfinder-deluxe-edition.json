@@ -1,0 +1,19 @@
+{
+  "name": "Azure Saga: Pathfinder DELUXE Edition",
+  "description": "Far into the future, the human race survives through colonies scattered across the universe. One tale gives humanity’s remnants hope – one of the legendary planet, Azure, a world full of life and abundant resources that could bring humanity back from the brink of extinction. Join a young scientist, Synch, as he travels across the galaxy to meet new companions and find his father.\n\nFeatures:\n- Immerse yourself in a world with a classic storyline that will delight both veterans and new RPG fans, infused with highly detailed 2D illustrations\n\n- Traditional Turn-Based RPG Gameplay inspired by the classic JRPG of the 90s\n\n- Strategize and configure your characters’ gear and jewels in to enhance their maximum potential. \n\n- Unite, mix, and match your characters’ skills to discover powerful abilities, each with their special effects\n\n- Classic old school adventure with tons of puzzles and secrets to discover",
+  "titleId": "010029E00C780000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbd61e77482961cdb496a81ce455cb69295a1900e43fd16e3004219e7c1e3574.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T05:05:41.24",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

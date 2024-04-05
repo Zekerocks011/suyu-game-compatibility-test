@@ -1,0 +1,118 @@
+{
+  "name": "Mario Kart 8 Deluxe",
+  "description": "Burn rubber across Mushroom Kingdom raceways—underwater, in the sky, upside-down in zero-g, and past the finish—for the win! Get revved up for local multiplayer*, online** in-game tournaments, a revamped battle mode, and more!\n\nStay fresh in the Mario Kart™ 8 Deluxe game by playing as guest characters Inkling Girl and Inkling Boy! You can use their Splatoon inspired karts on their battle mode stage, Urchin Underpass. There are also returning items, like Boo, the item-stealing ghost, and the Feather, used exclusively in battle mode. Veterans rejoice—you can hold two items at once! Prove you’re the world’s best racer and battler in online tournaments, or simply race and battle friends online. With many control options and handheld mode, there’s always a way to play on the Nintendo Switch™ system!",
+  "titleId": "0100152000022000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/55e0720b1a064e28b5df173d30b343ecd91287dc86942f833ffbf979a7a66ec9.jpg",
+  "tests": [
+    {
+      "tester": "me_are_cool",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-26T16:44:42.339",
+      "cpu": "Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Luqmaan_Ismail",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-21T12:08:49.341",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+      "gpu": "NVIDIA GeForce MX330",
+      "version": "c9a8e69",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kappacite",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-22T21:06:11.21",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Valerian",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-18T10:07:56.193",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "slaprap",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-17T14:09:05.528",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f30f0d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MCgamin1738",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-24T19:32:00.311",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "slaprap",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-17T15:29:32.149",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AlphaNinjaLord",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-15T17:15:47.025",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8389c24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Valerian",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-18T10:07:32.236",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "svidchenkov",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T22:30:22.187",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

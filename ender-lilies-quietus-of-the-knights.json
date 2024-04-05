@@ -1,0 +1,118 @@
+{
+  "name": "ENDER LILIES: Quietus of the Knights",
+  "description": "Story:\nLong ago, in the distant reaches of Land's End...\nThe unforeseen descent of the \"\"Rain\"\" transformed all living things into frenzied undead monstrosities known as the Blighted.\nFaced with a calamity far beyond their understanding with no recourse, the kingdom fell into ruin, with no end in sight to the accursed rain.\nMeanwhile, in the remnants of this ruined world, a young girl named Lily awakens in the depths of a church.\n\nAbout This Game:\n\"\"ENDER LILIES\"\" is a dark fantasy 2D action RPG that sees the players try to unravel the mystery of the kingdom destroyed by the '\"\"Rain of Death.\"\"\nPlayers will journey through the sprawling and hauntedly beautiful locations of \"\"Land’s End,\"\" including a submerged forest, a sealed-off contaminated underground cavern, and a grand castle.\nIn the many places you will visit on this sorrowful adventure, formidable bosses await that will gladly claim your life given even the slightest chance. Defeat these powerful foes and release them from their unending curse to turn them into allies.\nOvercome the challenges before you and search for the truth with powerful knights at your side.\n\nKey Features:\n■ Immersive Exploration\n- An expansive and fully traversable map, open to numerous strategies.\n- Exploration will uncover many mysteries and discoveries to draw you in.\n- Complete freedom in which path to take and which bosses to confront.\n\n■ Tense Battles and a Rewarding Adventure\n- Enjoy tense battles, where a wavering focus can lead one to a swift death.\n- Employ evasive maneuvers along with your attacks to ensure victory.\n- Defeat the various Blighted met along the way to acquire new skills. (26 skills in total, utilizing swords, bows, magic, and much more).\n- Forge into battle armed with skills that cater to your own personal playstyle.\n- Customize your stats with relics and tune Lily for seamless gameplay.\n- A rewarding ending awaits those who persevere and overcome each death to inch closer to the conclusion.\n\n■ Beauty Shining Through in a World of Despair\n- A contrasting main cast, from the young and pure heroine to the complex and tainted immortal knights.\n- A fantasy world brought to life by beautiful 2D art, animation and music.\n- Lily's adventure through Land's End will see her reunite with and fighting alongside former friends. The conclusion of the story will change based on the player’s choices.",
+  "titleId": "0100CCF012E9A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5aadc4e14383077456fd0b24fcde7a584c1f7cf03a846dcf98dd09f5eb961843.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-20T00:47:48.968",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8e3c813",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-28T11:51:21.958",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-22T11:34:25.389",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "96238dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-09T06:57:37.05",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "caebd3f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-19T08:17:25.222",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-16T16:42:45.909",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Salteador_Nema",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T22:24:55.816",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "046ac86",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-28T11:09:35.635",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DRAGON_ZAKAN",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-16T13:45:41.94",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 970/PCIe/SSE2",
+      "version": "dd43a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-22T12:22:24.179",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080 SUPER",
+      "version": "96238dd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

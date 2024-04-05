@@ -1,0 +1,30 @@
+{
+  "name": "Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo -",
+  "description": "The Story\nYou're an average, 25-year-old girl whose life consists of working at the local library, keeping up your family's shrine, and not much else.\nHowever, that all changes when gorgeous men save you from mysterious, malevolent forces!\nThese men aren't all they appear to be, though. They're actually Ayakashi Spirits!\nYou discover that your blood is imbued with an ancient power, one that the spirit world covets, and these handsome strangers are willing to protect you... for a price, that is.\nAre you ready to make a deal with these otherworldly creatures?\n\nCharacter\nKiryu　　  \"The Aloof Dragon\"\nChikage　 \"The Icy Tengu\"\nYukinojo　\"The Enigmatic Snow Spirit\"\n\nContents\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story\".\nSeason1 Prologue\nMain Story\nHis PoV\nEpilogue\nSequel\nSequel His PoV\nSequel Epilogue\nSeason2 Prologue\nLove Nest For Two\nLove Nest For Two Epilogue\nSeeds of Doubt in Love's Garden\nSeeds of Doubt in Love's Garden Epilogue\nSeason3 Prologue\nThorns in the Bouquet\nThorns in the Bouquet Epilogue\nA Twisted Wedding Arch\n\n＊\"A Twisted Wedding Arch\" is recorded only for Kiryu.",
+  "titleId": "010068300E08E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f0ccb2c93e69cbcfa7906eb23b3fa2162509654031c222c9e3737e45cae1e321.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-30T20:50:48.499",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "452ea3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-04T08:57:08.524",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "ac346ec",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

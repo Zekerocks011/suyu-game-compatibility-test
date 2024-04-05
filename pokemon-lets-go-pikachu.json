@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon: Let’s Go, Pikachu!",
+  "description": "Partner up with Pikachu to catch and collect Pokémon on a rich and vibrant adventure in the Pokémon™: Let’s Go, Pikachu! game – available now on the Nintendo Switch™ system! Become the best Pokémon Trainer you can be as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con™ controller or a Poké Ball™ Plus accessory (sold separately), which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus. You can even connect to the Pokémon™ GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!\n\nExplore the vibrant region of Kanto—home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Pikachu and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game—catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball™. Battle and trade with other players who own the game via local wireless or online**. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO* to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!",
+  "titleId": "010003F003A34000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/68319146899bcac903887a25ff13c361b86c2980f5fb3231cc7863188ffce251.jpg",
+  "tests": [
+    {
+      "tester": "Snp_Games",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-06T15:28:14.146",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "phuclorddn",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-05T11:08:49.981",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "aa92ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "phuclorddn",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-02T16:09:54.209",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pollin0501",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-15T05:07:10.691",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VEGITO2029",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-29T18:13:42.058",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB",
+      "version": "5758498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mini_jo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-01T04:21:19.707",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "94b0256",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T13:27:18.895",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-11T19:55:20.246",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "c5c6e14",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "wizard",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-23T04:49:53.247",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "2705a56",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T10:50:37.264",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

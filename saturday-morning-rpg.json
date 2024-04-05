@@ -1,0 +1,30 @@
+{
+  "name": "Saturday Morning RPG",
+  "description": "Saturday Morning RPG is a Japanese style turn-based RPG set in world heavily inspired by 1980s Saturday morning cartoons and pop culture. Players take the role of Martin 'Marty' Michael Hall, an average high-school student who has just been granted an incredible power - a power that ultimately leads him to attract the ire of the world's most notorious villain, Commander Hood! \n\nSaturday Morning RPG features a full soundtrack by legendary composer Vince DiCola and his composing partner, Kenny Meriedeth.\n\nTech Specs:\n\n• Battle countless enemies in active turn-based combat across five thrilling and infinitely replayable episodes!\n\n• Explore diverse environments in Marty’s hometown, Shadow Valley, and beyond!\n\n• Level up and collect battle items to power Marty up and defeat the evil forces of the HOOD!",
+  "titleId": "0100F0000869C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fe96fcebf97fa107aa90be139d82d0f9fce96eeb98b05970b2f81f809b4ce95a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-05T21:52:16.64",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T04:46:12.068",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "931c521",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

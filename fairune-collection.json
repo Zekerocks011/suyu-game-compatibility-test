@@ -1,0 +1,30 @@
+{
+  "name": "Fairune Collection",
+  "description": "Fairune is a retro-styled adventure RPG. Our heroine embarks upon a journey to unlock three mysterious statues and seal away a great evil. Throughout the journey she will need to solve puzzles, fight monsters, discover new weapons and improve her abilities. \n\nFairune 2 brings our heroine back for another perilous quest, this time to find a lost fairy. This sequel delivers a bigger world for those that are ready for the challenge.\n\nFairune Origin, being released for the first time, offers an intriguing look at the beginnings of the IP. It provides a short but fun adventure and illustrates how SKIPMORE conceptualised the gameplay of the two games that followed.\n\nFairune Blast is an unlockable treat, meanwhile, to offer something completely different. It’s a colourful shoot-em-up, perfect for pick-up-and-play action on Nintendo Switch!\n\nFeatures:\n• Fairune and Fairune 2 have re-designed user interfaces for Nintendo Switch.\n• Explore, solve puzzles, level up and fight monsters on your journeys. \n• Simple controls make it accessible to all players ready for adventure!\n• Fairune Origin and Fairune Blast make their console debut and bring the game total to 4!\n• Retro 8-bit style visuals, designed for the modern era.\n• Perfect for headphones with a catchy chiptune soundtrack.",
+  "titleId": "01008A6009758000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7482907886dd8431b95cefd31f46201c80356ff9193542b882559597dad3e363.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-06T15:02:55.869",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T19:10:02.87",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Café Enchanté",
+  "description": "When Kotone inherits her grandfather’s Tokyo café, she discovers the shop holds more secrets than anyone could imagine. \n\nThe café is a meeting spot for beings from multiple, mystical worlds. You’ll meet the king of demons, a humanoid beast, a fallen angel, and more. \n\nAnd when government agents monitoring non-human activities show up at your door, your new café is about to become a lot more colorful.",
+  "titleId": "01005C00117A8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a77af8c767027cc7219a8ae762337ed56e69983041e2fd04ef965cdf3fcbb18a.jpg",
+  "tests": [
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-08T01:53:29.158",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6447aeb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-23T05:38:56.611",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T19:07:18.702",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "6977c3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

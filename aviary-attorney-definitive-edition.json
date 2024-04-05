@@ -1,0 +1,41 @@
+{
+  "name": "Aviary Attorney: Definitive Edition",
+  "description": "Take yourself back to 1848 in Aviary Attorney: Definitive Edition. Paris is on the brink of yet another revolution, and the prisons are overflowing with guilty and innocent alike.\n\nOne bird stands for justice amid society's chaos.\n\nPlay the role of Monsieur Jayjay Falcon, a bird of prey with a good heart and questionable lawyering expertise. Join him and his witty apprentice, Sparrowson, as the two take on clients, interview witnesses, collect evidence and deliver justice to the guilty.\n\nWith art by 19th-century caricaturist J. J. Grandville and music by legendary romantic-era composer Camille Saint-Saëns, this game promises to be a ~swanderful~ experience.\n\nFeatures:\n• Definitive edition graphics. These beaks have never looked so sharp!\n• Four chapters of talon-biting intrigue and suspense.\n• Three fully fleshed-out endings. Decisions have consequences!\n• Dozens of colorful characters to meet, interview, and bribe.\n• Did I say bribe? I meant persuade.\n• Real-life landmarks. Knock on the doors of Notre-Dame! Loot the Louvre!\n• Optional dyslexic font. No one has to miss out!\n• Earn medals to show everyone you're the fanciest bird around.\n• Visit the art gallery and see the characters in their natural habitats.\n• Try the jukebox! Listen to a romantic era soundtrack that spans from Hector Berlioz to Claude Debussy.\n• More bird puns than you can shake a feather at.",
+  "titleId": "0100B280106A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d0eff0b8e251706c39eda36bfa98c52011693b9d5765846e865dd0168225b2b3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-03T02:33:15.556",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "b36b57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-04T04:00:40.218",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "ba910b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-31T11:45:22.021",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "1cb9005",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

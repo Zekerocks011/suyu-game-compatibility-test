@@ -1,0 +1,30 @@
+{
+  "name": "Syberia 2",
+  "description": "After crossing Europe from west to east, Kate Walker finally found Hans Voralberg and got him to sign the papers approving the sale of the automaton factory.\n\nAn improbable pair, Kate Walker and the eccentric old Hans Voralberg set forth in search of a forgotten world, home to the last legendary mammoths of Siberia. Hans and Kate continue the impossible undertaking that Hans had begun several years before, and their courage and perseverance take them through a range of hostile environments.\n\nYet what lies ahead goes far beyond the limits of the imagination... ",
+  "titleId": "010028C003FD6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/be4c0a4404284d3674f1fd9ffb0e9aa751878fc7a0243ff79b05925d328d440e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-01T01:30:02.935",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-17T16:44:59.533",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

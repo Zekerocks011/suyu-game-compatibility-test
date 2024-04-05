@@ -1,0 +1,63 @@
+{
+  "name": "BloodRayne Betrayal: Fresh Bites",
+  "description": "The Brimstone Society has summoned Rayne for one last mission to lead a group of soldiers into a giant underground castle to do battle against none other than her own father, Kagan. When her escort proves ineffective against Kagan’s supernatural forces, it’s up to Rayne to run, jump, cut, and feed her way through gruesome foes, deadly traps, tricky platforming sections, and horrifying bosses. It’s Rayne’s last job — will she “clean house” or find herself six feet under?\n\nOriginal developer WayForward has upgraded its 2011 classic 2D hack ‘n slash platformer with high resolution visuals, modern features, and all-new voice acting performed by original BloodRayne cast members Laura Bailey (Rayne) and Troy Baker (Kagan). Bloodrayne Betrayal: Fresh Bites distills the best parts of the BloodRayne series into a bloody, twitchy, action-packed 2D hack ‘n slash adventure through fifteen challenging stages.\n\nFeatures\n\nAll-new voice acting\n• All-new A-List voice acting: Original BloodRayne cast members Laura Bailey and Troy Baker reprise their roles as Rayne and Kagan – alongside talented voice actors Todd Haberkorn and Patrick Seitz – to bring new life to the original written dialog.\n\nEnhanced visuals\n• Sharpened visuals and squashed bugs help make Fresh Bites the definitive Bloodrayne Betrayal experience.\n\nNew Difficulty Options\n• Play with a newly rebalanced difficulty tuned for a fun and engaging experience, or sink your teeth into the punishing original difficulty mode if you’re looking for a tough-as-nails challenge.",
+  "titleId": "01009AB013EE2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c1192bed0f19f35ff61357b228dc101b45dce888d68b62fd8fa5e3948bd99ba0.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-15T08:33:18.799",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-13T09:33:07.278",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3522529",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-12T09:08:46.619",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-29T11:09:41.005",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "5758498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-16T00:24:52.926",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

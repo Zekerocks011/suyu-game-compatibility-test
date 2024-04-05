@@ -1,0 +1,118 @@
+{
+  "name": "DORAEMON  STORY OF SEASONS",
+  "description": "Doraemon meets Story of Seasons in this new, fresh take on farming! \n\nJapan's adored Doraemon franchise comes to Nintendo Switch™ in Story of Seasons, a beloved farming simulation series lasting over 20 years. \n\nThe setting is Natura, and at the center of this land is the mystical Big Tree. Doraemon and friends will each take on a role to help out around town! \n\nThe theme of this experience is creating bonds with the town residents, and while doing so, enjoying the heart-warming interactions through each character and the part they play in the story.\n\nBut building a farm and raising horses and cattle like in other Story of Seasons games isn't the only thing to do. Explore the town of Natura, go on adventures, catch bugs and much much more! Fans of the Doraemon series will also be happy to know that Doraemon's gadgets can be used to assist you in your new, everyday life!\n\nEnjoy the nostalgia of Doraemon and Story of Seasons while helping Noby live his farm life in this unique, lovable land!",
+  "titleId": "010073700E412000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/844cb39e282b27f428838f17325f1b09ede1b05a0cceb371f32b961b71c92543.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-09T21:29:56.584",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "75af8c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-09T00:44:29.031",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5a37a9a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-07T20:00:57.671",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-26T15:05:32.15",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-06T12:14:30.323",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab5c515",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-07T20:04:28.788",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab0fb89",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-03T01:17:54.918",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "53ae051",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-28T17:36:43.624",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "eecd84d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-12T13:15:38.288",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "02d339c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-05T14:19:59.578",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

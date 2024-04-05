@@ -1,0 +1,19 @@
+{
+  "name": "Disgaea 5 Complete Demo",
+  "description": "null",
+  "titleId": "0100E67003A86000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T00:10:54.049",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "The Otterman Empire",
+  "description": "You must gear up, strap on your jetpack and travel across the galaxy in havoc causing, party game mayhem! With rapidly changing game modes, 8 customisable characters and game changing hazards, no round of The Otterman Empire will ever be the same!",
+  "titleId": "01004A700DBD6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e0c1d4719473f3a99934baf3ddc12772e37446c1c67af96d1e37ec59c78fb031.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-08T10:09:15.551",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "7b71879",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

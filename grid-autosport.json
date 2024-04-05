@@ -1,0 +1,74 @@
+{
+  "name": "GRID Autosport",
+  "description": "Step into a career as a pro-racer, mastering the world’s fastest cars to win motorsport’s most exciting races, from the hallowed asphalt of the Indianapolis Motor Speedway to the narrow city streets of Barcelona.\n\nRACE ANYTIME, ANYWHERE\nEnjoy best-in-class AAA racing at home or on the move!\n\nONLINE AND LOCAL MULTIPLAYER\nOutdrive your rivals in 8-player online or local wireless races, or go head-to-head in 2-player split-screen.\n\nSCALEABLE CHALLENGE\nCustomize your controls and difficulty level. From nice ’n easy to super hard, it’s up to you to set the bar.\n\nTAKE THE WHEEL\nSteer your way to success using the Nintendo LABO Toy-Con Car & Pedal or the HORI Pro Deluxe and Pro Mini wheels.\n\nMASTER FIVE DIFFERENT RACING DISCIPLINES\n• Touring: Take on aggressive pack races\n• Endurance: Test your strength in all-night events\n• Tuner: Keep control in Drift and Time Attack events\n• Open-Wheel: Perfect your racing line at top speed\n• Street: Ramp up the fear factor on tight city circuits \n\nCARS AND CIRCUITS\nFrom the McLAREN 12C GT3 to the MAZDA RX-7 (FD3S) DRIFT TUNED, unleash Muscle Cars, Super Modified motors, Hypercars, Hot Hatches and a huge range of other high-performance rides across a ton of tracks, roads, laps and loops.",
+  "titleId": "0100DC800A602000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bfa5e4de1d46c249b6275f3e67e76741d4c37b529e3d65e551367c7abb028c7c.jpg",
+  "tests": [
+    {
+      "tester": "magnuzera",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-18T15:33:07.894",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "NVIDIA GeForce MX150/PCIe/SSE2",
+      "version": "b0ffa8a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-10-09T06:12:48.87",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "9182657",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-12T01:54:45.429",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "d5cc9c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-10-09T15:14:31.483",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650 Ti",
+      "version": "e4fee37",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-10T08:37:25.106",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "teod",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-14T06:52:45.605",
+      "cpu": "Intel(R) Core(TM) i9-10920X CPU @ 3.50GHz",
+      "gpu": "NVIDIA TITAN Xp/PCIe/SSE2",
+      "version": "c195260",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

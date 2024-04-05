@@ -1,0 +1,41 @@
+{
+  "name": "Evil Tonight",
+  "description": "Silvia isn't afraid of evil. Evil is her job. As a modern exorcist, Silvia has overcome countless horrors with her ability to materialize the evil of haunted places... But tonight... things don't go as planned… Fight, survive, explore, solve puzzles and uncover the mystery of... Evil Tonight!\n\nNo map. No hand holding. Like classic survival horror games of old, Evil Tonight features exploration in its purest form. Find items, discover hidden paths, solve puzzles, manage scarce ammunition, and fight for your life against the evil that lurks in an abandoned Performing Arts School where no two rooms look alike... With an array of evil creatures and memorable boss battles, prepare to be challenged!\n\nFeaturing stunning audio-visuals, Evil Tonight is presented in the highest quality of detailed pixel art graphics, with custom color palettes, handmade lighting effects, and a haunting full original score... it is an unforgettable and immersive experience like no other!",
+  "titleId": "01001B2013D72000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc9fae9f6f4c0e7a822972f1a07263ca6b21e887033755ff4ba009c6c35bf8da.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-04T08:42:47.857",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "5fb0739",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-16T06:30:57.32",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "a6ed185",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-16T06:29:19.936",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "a6ed185",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

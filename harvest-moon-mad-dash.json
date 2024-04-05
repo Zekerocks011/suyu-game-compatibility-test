@@ -1,0 +1,19 @@
+{
+  "name": "Harvest Moon: Mad Dash",
+  "description": "Go solo or take along a few friends in this fast-paced farming frenzy! Harvest, fish, milk, and more as you fulfill orders to complete each level, but watch out for molten lava, raging boars, and other obstacles! Can you and your friends try to clear all the levels to restore the broken lighthouse?\n \n•       Fast-paced action means quick decisions are key!\n•       Use Harvest Sprite Powers to unlock special support skills!\n•       Easy-to-learn game mechanics means everyone can play!\n•       Take on farm, beach, Underworld, and Skyworld levels!",
+  "titleId": "010022400E71C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6d0bf950a55a5f8ade5073ec23bfac8d49e7ba790e5c190f10c1ac6975fe2005.jpg",
+  "tests": [
+    {
+      "tester": "faboocay",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-19T17:28:27.727",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 980/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

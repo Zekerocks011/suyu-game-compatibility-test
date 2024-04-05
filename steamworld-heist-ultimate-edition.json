@@ -1,0 +1,30 @@
+{
+  "name": "SteamWorld Heist: Ultimate Edition",
+  "description": "In SteamWorld Heist you command robot pirates in epic tactical shootouts. It’s turn-based strategy with an action twist: By manually aiming your weapons you'll pull off insane bullet-bouncing trick shots! \n\nSteamWorld Heist: Ultimate Edition is fully optimized for Nintendo Switch™. It comes with \"The Outsider\" campaign, including a mysterious ally and a shipload of weapons, upgrades, hats, and missions previously only available as DLC.\n\nAs the captain, you board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats! \n\nKey features: \n\n• Strategy focused on skill rather than chance\n• 15-20 hours of playtime, followed by New Game+\n• Kind to newcomers, deep and challenging for veterans\n• Soundtrack by real-life robot troupe Steam Powered Giraffe\n• Optional touch controls for ultimate precision\n• Procedurally generated levels\n\nWhat critics say: \n\n10/10 - USGamer: \"Everyone should play it” \n9/10 - Nintendo Life: \"Excellent\"\n8.8/10 - IGN: \"Stole my heart\"",
+  "titleId": "0100A21007FFA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1fadd5d9deadfeb756bece6f8b19ac61938e1a40169c6826f9fc3b73ede0f4e5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-05T14:09:29.499",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T14:26:26.765",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "bb8903e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Aluna: Sentinel of the Shards",
+  "description": "From the heavens, mystic shards rain down upon the earth defying both time and space. Superstition, mysticism and fear of the unknown gave life to a path that went beyond the land of its birth.  We meet our heroine Aluna, who as a child has was given the most powerful of these shards that is said to contain the heart of her mother, the goddess of Earth Pachamama.   Through a series of circumstances, Aluna must leave her home and journey to the new world.  Aluna is fulfilling her destiny, but  so is the evil that seeks to fulfill theirs. Aluna's past guides her future and her enemies  will stop at nothing to steal the shard and take control of the world... ",
+  "titleId": "010045201487C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6ec0767300da807b4f3536393e54340496317bfb82811d7e08b9abed52b0107d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-27T14:44:19.995",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "3c320a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "LIMBO",
+  "description": "Uncertain of his sister's fate, a boy enters LIMBO\n\nLIMBO is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.\n\n\nWinner of more than 100 awards, including:\n\nGameinformer’s “Best Downloadable”\nGamespot’s “Best Puzzle Game”\nKotaku’s “The Best Indie Game”\nGameReactor’s “Digital Game of the Year”\nSpike TV’s “Best Independent Game”\nX-Play’s “Best Downloadable Game”\nIGN’s “Best Horror Game”",
+  "titleId": "01009C8009026000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/489b102d61fe87db8089a5169987c6d472a97f42cc6fa57e2d55bbdc7ae2d949.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-29T00:07:27.913",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Martin_Knaak",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-09T08:30:05.568",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "662a417",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-11T15:24:03.166",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "6d1ddaf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-07T03:36:29.199",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "b96619e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "faboocay",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-20T23:02:39.811",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 980/PCIe/SSE2",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-26T07:31:30.843",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d5355f9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

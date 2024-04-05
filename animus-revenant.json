@@ -1,0 +1,30 @@
+{
+  "name": "ANIMUS: Revenant",
+  "description": "“Blood for blood. That which is taken shall be returned.”\n\nLeap into the story of tragedy and ruin a dead king has brought. Will you aid the herald? Who is the lady in the forest? Where are the jester’s pants? The retort from your war hammer will answer.\n\nKeeper of this unremembered refuge, a blood debt incurred long ago is to be collected to bring about the end. Summoned from humanity’s desperation, you are all that stands between Cadmeia and its annihilation. Find and seize the blood memories of old, lest those that intend suffering and harm unending should wield them.\n\nFeatures:\n· Single player Action RPG (Fantasy & Adventure)\n· 3D Isometric POV\n· Tactical and hack-n-slash combat\n· Gamepad required (remapping available in settings)\n· Linear gameplay (backtracking necessary)\n· Narrative: storytelling / lore in dialogue & items\n· 20~48hrs+ of gameplay (New Game):  main & side quests, boss battles, lore\n· Item crafting: weapons, armor, accessories\n· Items with various skills, effects, attributes\n· Character stats & management*\n *: Enemies have different elemental or status effect vulnerabilities. Stat placement & item attributes affect combat efficiency.\n· Material farming\n· Areas:\n - Unremembered Refuge (Camp)\n - Forgotten Forest\n - Myrgo Garrison\n - Citadel of Cadmus\n - Buried Dungeon\n - Sunken Parish\n - Dale of Strom\n - Lost Corridor\n - Abandoned Bridge\n - Shadow of the Votive Son\n - Grave of Strom",
+  "titleId": "01009C60152B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/83778b68532f155c0255ca5ed315bda82fff772cd95bb3fb06e399f03ab228b6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-09T18:39:31.609",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-16T03:16:27.56",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "c257f83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

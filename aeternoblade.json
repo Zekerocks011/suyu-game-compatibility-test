@@ -1,0 +1,30 @@
+{
+  "name": "AeternoBlade",
+  "description": "In the region of Awelsia, vengeful Freyja travels with an unknown weapon called 'AeternoBlade'. Freyja looks to take revenge on Beladim, the Lord of the Mist who destroyed her village, Ridgerode, and killed her tribe. Her vengeance is helped by Vernia, who has as much merit as Beladim. Vernia taught Freya about the abilities of AeternoBlade. Freya has to venture into many different world dimensions to discover how to annihilate Beladim.\n\nWhat is AeternoBlade? How can Freya take revenge on Beladim? Solve tons of mysteries in her adventure together!",
+  "titleId": "01006C40086EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1b5bd2569433d7f6e8480362b2cfcb21dbdb6cf86bf970d9800becab83f9ab1b.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-21T21:01:09.558",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-27T22:03:59.474",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

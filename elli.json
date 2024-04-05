@@ -1,0 +1,41 @@
+{
+  "name": "Elli",
+  "description": "A whimsical hand-crafted single-player adventure filled with a variety of puzzles and exciting platforming.\nWatch your step, there are many dangers to overcome!\nDiscover a delightful world, inhabited by the playful and usually helpful Mandragora.\nJourney from lavish beaches, through ancient temples, mountain tops and caverns filled with forgotten Mandragora technology, and more.\nA vast and ever-changing soundtrack, beautifully blending the themes of the world and underscoring Elli's adventure.\nCollect gems and and deviously hidden coins and exchange them for a variety of robes, staffs and hats.\nSimple pick up and play controls, suitable for kids and big kids!",
+  "titleId": "010073C00BDB0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d04caccf4cf47c8f21125835392542f07b63bdf38b379559fc8b5f6f6c387ae4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-14T14:30:09.875",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8ac568d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-29T02:05:39.453",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "8818f6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-14T14:49:14.695",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "1c5eac8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

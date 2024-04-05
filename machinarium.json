@@ -1,0 +1,19 @@
+{
+  "name": "Machinarium",
+  "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost and Botanicula.\n\nA little robot who’s been thrown out to the scrap yard behind the city must return and confront the Black Cap Brotherhood and save his robot-girl friend.",
+  "titleId": "01002D70049CA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/277f2898f49c73d864bcd44cba5c19db4efcf921219f235953d53ee036d1365d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-31T08:42:22.729",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "db61bcb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "American Ninja Warrior: Challenge",
+  "description": "Are you the next America Ninja Warrior?\nBegin your quest to achieve Total Victory with the action-packed obstacle course competition game, American Ninja Warrior Challenge! Do you have the strength and endurance to jump, swing, and sprint your way to hitting the buzzer at the end? Race against the clock with your friends and family while testing your skills in couch multi-player or take on the challenging career mode. Those who successfully complete the city courses move on to the finals will face a stunning four-stage course modeled after the famed Mt. Midoriyama in Japan. Enjoy all the thrills and spills to become the next American Ninja Warrior! \nFeatures:\n• Take on classic obstacles such as the Salmon Ladder, Warped Wall, Log Grip and more!\n\n• Build your own custom course and have your own personalized Ninja race through it\n\n• In-game commentary voiced by the TV show hosts Matt Iseman and Akbar Gbajabiamila\n\n• Offline multi-player & online leaderboards",
+  "titleId": "010089D00A3FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/db698799bc8b00fb66d0b51c09a5b1096a7f2dcaa8e6a6b8ac5fd235f733b72c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-10T19:27:04.027",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "a6ea0f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-27T23:44:39.115",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "d0c5bcf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T13:03:00.11",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-27T20:17:07.03",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

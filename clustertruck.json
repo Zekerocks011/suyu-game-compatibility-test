@@ -1,0 +1,19 @@
+{
+  "name": "Clustertruck",
+  "description": "Clustertruck is a new kind of platformer on top of a speeding highway!\n\nUse agility and acrobatics through insane levels in a game of \"the floor is lava\" on top of unpredictable, speeding trucks!\n\nThe game only gets harder when dangers such as swinging hammers, lasers and flamethrowers are added!\n\nUnlock new abilities like the Grappling Hook, Truck Cannon and Time-Control!",
+  "titleId": "010096900A4D2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/99c0226b82b964739eb739f25439cb5be23bad432724ba7f61e226c7b7c11b77.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T10:12:07",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

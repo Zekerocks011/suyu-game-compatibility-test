@@ -1,0 +1,19 @@
+{
+  "name": "Spaceland",
+  "description": "It is probably the most dynamic turn-based strategy in the spirit of the old school. Fewer shelters, more work to do. Land on a lost planet and show the mutants what you are made of. Shoot, kick, blow up and destroy. You will put together the most reckless team of fighters and unravel the mysteries of the mystical planet following the best traditions of science fiction.\n\n• The game is inspired by the best turn-based strategies of the old school\n• A unique system of dynamic turn-based battles lasting 10–15 minutes\n• A squad of space rangers made up of 7 fighters with a unique fighting style\n• A story about the mysterious planet in the spirit of the golden age of science fiction\n• A hand-drawn map of the game world\n• Assault rifles, machine guns, plasma guns, grenade launchers and a lot of other equipment to make your fighters even stronger\n• More than 20 different enemies from alien animals to dangerous monsters\n• Futuristic equipment which gives your fighters unique abilities and which can be upgraded\n• Intense dialogs between team members, which reveal unexpected plot twists\n• Colorful special effects that transform a turn-based combat into an exciting action movie\n• And, of course, the party headliners are dangerous bosses that show up at the end of each chapter of the adventure",
+  "titleId": "010034800FB60000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e2e6410318af45691458a861b565e8c4f90dde1aeb79852284e540371af6df92.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T10:09:38.119",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

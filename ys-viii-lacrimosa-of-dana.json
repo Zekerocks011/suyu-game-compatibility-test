@@ -1,0 +1,41 @@
+{
+  "name": "Ys VIII: Lacrimosa of DANA",
+  "description": "Ys returns with a brand new adventure for the first time in 8 years! Adol awakens shipwrecked and stranded on a cursed island. There, he and the other shipwrecked passengers he rescues form a village to challenge fearsome beasts and mysterious ruins on the isolated island. Amidst this, Adol begins to dream of a mysterious blue-haired maiden living in a unknown world. Join Adol as he unravels the riddle of the cursed isle and the blue-haired maiden Dana in Ys VIII: Lacrimosa of Dana!",
+  "titleId": "01007F200B0C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ced0853b383676f3cbeee52d200ca299e01c2cfb4ccceb7bd7e3496282a7a048.jpg",
+  "tests": [
+    {
+      "tester": "NazaireD",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-08T05:19:03.061",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "865a469",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T16:58:11.169",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-05T07:46:16.656",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

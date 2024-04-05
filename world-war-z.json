@@ -1,0 +1,19 @@
+{
+  "name": "World War Z",
+  "description": "World War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch™. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.",
+  "titleId": "010099F013898000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8c5822072fd86f69fd7282152aaa57b950c1fab518cc9751cc8c80745b232a5b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-10T15:32:39.557",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "ec1b5f1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

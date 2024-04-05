@@ -1,0 +1,19 @@
+{
+  "name": "Half Past Fate: Romantic Distancing",
+  "description": "When a pandemic puts the lockdown on a blooming relationship, will the new couple keep the romance alive, or will distance pull them apart?\n\nCozy up with their quarantine story and see if they’ll find a way to stay connected in the weirdest of times in this new episode of the Half Past Fate story.\n\nFeatures:\n- Learn to love from afar through the charismatic 3D pixel-art style of Half Past Fate\n- Enjoy a charming and honest slice-of-life story set in all-too-familiar circumstances\n- Play from both sides of the new relationship and see how each of your lives have changed\n- Judge (or admire) each other’s home decor, peculiar roommates, and musical tastes\n- Explore in endearing detail the intimate environs of each other’s quarantined lives\n- Maybe figure out what the heck “defragging” does\n",
+  "titleId": "0100095013EBA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/61a66793b3d2b737519a8c63fc3cfb49ec1dae8207474cd9e11e7dc7f47ee134.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T06:58:54.817",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

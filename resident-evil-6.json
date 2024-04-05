@@ -1,0 +1,118 @@
+{
+  "name": "Resident Evil 6",
+  "description": "Blending action and survival horror, Resident Evil 6 is a dramatic horror experience that cannot be forgotten. The game spans various areas across the globe starring multiple playable characters, including fan favorites and new faces.\n\nJump into the fray either solo or in 2-player co-op in 4 dramatic chapters of the campaign. Some missions even feature additional random matchmaking with other players for unique 4-player co-op crossover boss battles. For more multiplayer action, head into one of the extra modes such as Survivor - which pits up to 6-players head-to-head in a heated battle.\n\nThis edition includes all DLC, along with two costumes per main character that were originally Residentevil.net exclusives, but are now unlockable through the game itself.",
+  "titleId": "01002A000CD48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/247e81cf79a0a32496bef5b520f8edc7de59989152e2214f109f01e762c58f20.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-20T10:31:29.096",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "6977c3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-01T23:04:49.919",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "7cd8ee0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-18T12:48:35.839",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f444647",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Martin_Knaak",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-13T13:21:40.879",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "e690e64",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-13T00:37:13.097",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8e7734b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-02T16:47:27.492",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-02T16:47:43.61",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-19T16:11:38.686",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c55fddf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-20T10:16:56.333",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "6977c3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-28T17:52:03.079",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "eecd84d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

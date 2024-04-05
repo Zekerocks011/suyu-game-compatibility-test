@@ -1,0 +1,107 @@
+{
+  "name": "Pokémon Café Mix",
+  "description": "Link together Pokémon icons to clear puzzles as you work to build up your very own café in Pokémon Café ReMix, a free-to-start game for Nintendo Switch™ systems! Recruit Pokémon to help out at the café (in their stylish uniforms) by building friendships while expanding your café and menu offerings by completing puzzles. Each Pokémon staff member has a Café Skill that will come in handy solving puzzles!\n\nComplete touch-based challenges in this free-to-start puzzle game\n\nStrategize the best way to clear Pokémon icons within the turn limit in adorable-yet-challenging puzzles. Use your puzzle skills to complete the objective and employ the help of every Pokémon’s Café Skills for some extra oomph! In addition to Café Skills, each Pokémon staff member has a specialty and specialty gimmicks they can destroy with ease—Eevee can make quick work of sugar cubes, for example. Match a Pokémon’s specialty with the drink or dish you’re making to get bonuses in puzzles.\n\nRemixed fun for everyone\n\nPokémon Café ReMix is a revamped version of the original Pokémon Café Mix game. Puzzles have been refreshed and there are even more Pokémon to discover and recruit. Your Pokémon may outfit themselves in café chic with newly added dress-up options and can improve their abilities through training puzzles! If you’ve played the original, your golden acorns will all transfer over to Pokémon Café ReMix.",
+  "titleId": "010072400E04A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d4106b94468ef8a2605b52446585e32b07a86c2debf700a0767dcbe9054e09dd.jpg",
+  "tests": [
+    {
+      "tester": "Cyucyu",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-06T12:37:27.012",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "e9c4910",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lubiandres",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-01T23:11:23.9",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "07e6d20",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Androu1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-23T03:37:05.083",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3b95cad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "alpinrp02",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-31T16:10:49.238",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 960M/PCIe/SSE2",
+      "version": "edd87cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-03T22:12:15.879",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "b8192f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HermitNeko",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-23T08:51:00.844",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "e1fcb79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "UndeadChieftain",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-08T18:11:44.83",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "eee6ac6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-16T05:28:00.565",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "4ca283e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-23T07:13:47.97",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "512f7d9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

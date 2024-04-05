@@ -1,0 +1,19 @@
+{
+  "name": "Hashihime of the Old Book Town append",
+  "description": "After the release of many related titles, a Taisho Era boy's love mystery - \"Hashihime of the Old Book Town\", will be ported to Nintendo Switch™!\n\n[Synopsis]\nJinbouchou, Tokyo \nJune 1922, Taisho Era\nThe Rainy Season\n\nTamamori came to Tokyo with his sights set on getting accepted to the Imperial University. However, he doesn't pass the entrance exam, and is so undisciplined and wrapped up in endless fantasies that he's kicked out of his boarding house after only two years. Through a stroke of luck, Tamamori begins to live and work at Umebachidou, a used book store. There, he enjoys whiling away his time as a \"student preparing for entrance exams\" and taking advantage of friends who are also from his hometown. But one right after the other, mysterious deaths befall those friends and, realizing he's been repeating the same rainy three days over and over again, Tamamori finds himself racing throughout Jinbouchou to save them.\n\nIn this pop-occult mystery that surrounds the deaths of his friends...\nWhat is real, and what is a hallucination? \n\n <Specifications on Nintendo Switch>\n•Newly written short stories are included in novel mode for an immersive experience.\n•Brand new features such as Voice Collection, for you to save your favourite dialogues, and the Music Player function!\n•Switchable display languages between Japanese, English and Chinese (Traditional & Simplified)!! \n\n*This game is a boy's love visual novel game.",
+  "titleId": "0100EA9015126000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/876c48b81275f67d5841c5d39d0757879e5d3dff25413311209cbb7faeb43a11.jpg",
+  "tests": [
+    {
+      "tester": "bao172527",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-19T12:14:47.983",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

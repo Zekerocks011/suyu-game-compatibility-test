@@ -1,0 +1,19 @@
+{
+  "name": "Raging Loop",
+  "description": "Immerse yourself in a thrilling psychological horror story taking place in the secluded Japanese village of Yasumizu. A heavy mist surrounds the place, preventing everyone from ever leaving. Ancient gods have come back to hunt the villagers down one by one. The feast has begun, can you escape the village alive?\n\nA tribute to Japanese folklore \nHaruaki Fusaishi is a young man freshly arrived to Yasumizu, a remote settlement in a mountainous region of Japan. He will become involved in an ominous local tradition known as the feast. Among the villagers lurks the werewolf, an entity who has sworn to take revenge on everyone. \n\nA visual novel with a complex branching story\nKeep track of all your choices thanks to a comprehensible flowchart. Rewind the story and select other actions to see different outcomes and learn about the characters’ motivation. A death may be rewarded with a new piece of information, a Key that will give you access to new paths and bring you closer to the identity of the killer.\n \nAn extensive new game plus \nClear the game to unlock the Revelation Mode and discover the story in a new light. You will see the inner thoughts of the characters and unlock new scenes that will give you more insight about their motivation.\n\nAn endless spiral of deaths\nHaruaki Fusaishi will find himself stuck in inextricable loop from which he cannot escape. Conscious of his own fate, he will take advantage of all the knowledge acquired before his tragic deaths.",
+  "titleId": "010020400E1C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/90d4b3d63e0b002c97ea6373474318f859f514a85dd42351452e2b9564334ce8.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-13T20:22:41.261",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "172ef73",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

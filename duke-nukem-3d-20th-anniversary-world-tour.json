@@ -1,0 +1,107 @@
+{
+  "name": "Duke Nukem 3D: 20th Anniversary World Tour",
+  "description": "Frag like it’s 1996 – this time with even more asses to kick! Join the world’s greatest action hero in Duke Nukem 3D: 20th Anniversary World Tour as he saves Earth once again, saving babes across the globe. Blast your way through hordes of ugly aliens in four classic Duke Nukem 3D episodes. An all-new fifth episode from the game’s original episode designers includes a new weapon, new music from the game’s original composer, and all-new lines from the original voice of Duke.\n\n·         Switch enhanced: Come to grips with Duke with gyroscopic aiming support, motion controls, and HD Rumble, only on Nintendo Switch™\n·         Campaign co-op: Enjoy the full campaign with up to eight(!) players in ad hoc multiplayer or with Nintendo Switch Online\n·         Dukematch: Frag your friends in Duke’s take on classic deathmatch, playable with up eight players over ad hoc multiplayer or with Nintendo Switch Online\n·         New episode: Created by the original episode designers, Allen Blum III and Richard “Levelord®” Gray!\n·         New weapon: Duke Nukem roasts aliens with the Incinerator\n·         New Duke Voiceover: Enjoy colorful new Duke talk alongside high-fidelity re-recordings from Duke Nukem’s original voice actor, Jon St. John!\n·         New music: The score for Episode 5 was maestro’d by Duke’s theme song author and original game composer, Lee Jackson!\n·         Remastered: Play with the original 1996 look, or enjoy a remastered look in True 3D with higher fidelity and framerate\n",
+  "titleId": "01007EF00CB88000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/58ddf02ff700a6d98ecb7cc6cedc82c344cb06ebd5f38d4ca5ef283d8306ebb4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-24T06:38:37.504",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "1349ade",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-23T19:55:14.926",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "73621f0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-07T16:43:05.434",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "749605f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-28T21:45:54.382",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "ce842e5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-08T08:13:42.235",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-26T04:18:40.414",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f1a295f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-25T15:13:51.465",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-26T17:19:43.222",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "d5355f9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-26T21:16:32.482",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "54bc9c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

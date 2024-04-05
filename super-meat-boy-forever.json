@@ -1,0 +1,52 @@
+{
+  "name": "Super Meat Boy Forever",
+  "description": "Super Meat Boy Forever takes place a few years after the events of Super Meat Boy. Meat Boy and Bandage Girl have been living a happy life free of Dr. Fetus for several years and they now have a wonderful little baby named Nugget. Nugget is joy personified and she is everything to Meat Boy and Bandage Girl. One day while our heroes were on a picnic, Dr. Fetus snuck up on them, beat Meat Boy and Bandage Girl unconscious with a shovel and kidnapped Nugget! When our heroes came to and found that Nugget was missing, they knew who to go after. They cracked their knuckles and decided to never stop until they got Nugget back and taught Dr. Fetus a very important lesson. A lesson that can only be taught with punches and kicks.\n\nThe challenge of Super Meat Boy returns in Super Meat Boy Forever. Levels are brutal, death is inevitable, and players will get that sweet feeling of accomplishment after beating a level. Players will run, jump, punch and kick their way through familiar settings and totally new worlds.\n\nWhat’s better than playing through Super Meat Boy Forever once? The answer is simple: Playing through Super Meat Boy Forever several times and having new levels to play each time. Levels are randomly generated and each time the game is completed the option to replay the game appears and generates a whole new experience by presenting different levels with their own unique secret locations. We’ve handcrafted literally thousands of levels for players to enjoy and conquer. You can replay Super Meat Boy Forever from start to finish several times before ever seeing a duplicate level. It is truly a remarkable feat of engineering and a monumental example of ignoring the limits of rational game design and production.\n\nThey don’t give Oscars to games, but they probably will after Super Meat Boy Forever becomes the best movie of 2020 and 2021! Our story takes Meat Boy and Bandage Girl through several worlds in search of their darling little Nugget with beautifully animated cutscenes and musical accompaniment that makes Citizen Kane look like a reaction video to an sled unboxing. Players will laugh, they will cry, and when all is said and done maybe they’ll emerge from the experience a little better than when they started. Ok so that last part probably won’t happen but marketing text is hard to write.\n",
+  "titleId": "01009C200D60E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/56dbf8b6134be0eda646786966998098092f707b00c0bcfb8cc03f5ea928037a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-09T19:40:01.212",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "384c4ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-30T11:20:19.64",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-13T15:18:22.313",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unoaphex",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-07T02:16:58.692",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "9ff0a11",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

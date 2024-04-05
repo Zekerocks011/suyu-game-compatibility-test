@@ -1,0 +1,19 @@
+{
+  "name": "2048 CAT",
+  "description": "Mischievous cats are messing with your 2048 board (#`Д´)ﾉ\nWell, how could you blame them if they are so cute!!\nCome and join them to play with 2048 game!\n\nHow to play:\nUse joystick to move all tiles.\nWhen two tiles with the same number touch, they merge into one.",
+  "titleId": "01005E101014C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1536463f0743c29fe148fbc54135bbcc1901ff7b9c9bac8116a0a20533c14cfd.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T19:53:20.21",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

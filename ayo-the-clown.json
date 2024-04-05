@@ -1,0 +1,30 @@
+{
+  "name": "Ayo the Clown",
+  "description": "In Ayo’s hometown, things are generally peaceful. Accompanied by his talented circus dog, Bo, Ayo juggles in the park, hangs out at the carnival and longs after the Shoemaker’s granddaughter. Until one day, Bo goes missing!\n\nYou play as Ayo, your not-so-average clown, in search of his best friend and beloved dog who has mysteriously disappeared. What happened to Bo? Will they ever juggle together at the park again? Or set up that circus act they’ve always planned? You’ll find out along this incredible adventure as you strive to reunite clown and dog. Like all good adventures, you won’t be all on your own. Ayo’s world is full of friendly people and interesting creatures that are willing to lend a helping hand.\n\n\nFEATURES:\nUnique Platforms- The most important part of any platform game. Each stage has a unique theme and interesting platforms to ensure gaming is fun and not repetitive because Ayo is not the kind of clown to make the same old jokes over and over again. His jokes get better each time.\nHuge Bosses and loads of enemies- Take on bosses bigger than life itself and prove that clowns are much tougher than they seem. Don’t be fooled by Ayo’s sweet demeanor!\nWeapons - Tanks, helicopters, dinosaurs, toy hammers, balloon swords, water balloons, you name it. They can help uncover hidden places, extinguish fire, defeat enemies, prank your friends...etc.\nSkills- Head stomps, wall jumps, slope slides, and many more, Ayo sure has a lot of tricks up his sleeve.\nSide Quests- There’s plenty of side quests you can take on in Town or along your journey, so be prepared for some surprising rewards.\nCollectibles- Can you find and collect all the hidden items throughout the game? Rubber chicken and fart bag anyone?",
+  "titleId": "01006C6014878000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bd2397544eabeea55af1d86b1cc2f095ef2bc121d7fb89865a169e83d39febf7.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-14T05:55:46.865",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "434e3a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-25T05:14:52.841",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "693280d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

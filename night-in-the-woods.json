@@ -1,0 +1,52 @@
+{
+  "name": "Night in the Woods",
+  "description": "College dropout Mae Borowski returns home to the crumbling former mining town of Possum Springs seeking to resume her aimless former life and reconnect with the friends she left behind. But things aren't the same. Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.\n\nAnd there's something in the woods.\n\nJoin Mae on a trip through her hometown and into the dark on the other side.\n\nNIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world. Break stuff, play bass, hang out, walk on powerlines, jump between roofs, and discover strange and amazing and terrible things you never asked for. Come home and waste your life away in Possum Springs.",
+  "titleId": "0100921006A04000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/40cc1ee1afe55a423974659eb12de1f9db632b43f2bf658ede66c195b309640d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-09T04:09:34.328",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "7a39a25",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-29T02:52:38.877",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "fdecfac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-01-02T21:21:54.897",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-03T23:39:37.781",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "28901f5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

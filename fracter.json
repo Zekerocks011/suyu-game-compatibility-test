@@ -1,0 +1,19 @@
+{
+  "name": "FRACTER",
+  "description": "FRACTER is an emotive, isometric puzzle adventure game set in a mysterious labyrinth of glowing black architecture. The game follows a veiled young hero who has set out on a perilous quest to dispel the darkness within. Players must explore this world of shadows, discover secrets hidden in the dark, and outsmart ominous creatures while solving each meticulously designed puzzle using their only force against darkness: light. Dramatic landscapes in shades of gray, an eerie ambient soundtrack and a poetic, self-reflective narrative await you on this emotional journey restoring light to a darkened world.\n\nFeatures:\n\nMETICULOUSLY CRAFTED PUZZLES\nA series of intricate puzzles that must be solved using light.\n\nSTRIKING BLACK & WHITE VISUALS\nDramatic landscapes in shades of gray designed by an accomplished team of artists\n\nPOETIC SELF-REFLECTIVE JOURNEY\nA game experience that is both heart-pounding and at times deeply personal\n\nHAUNTINGLY BEAUTIFUL SOUNDTRACK\nAn eerie ambient soundscape that combines flavours of east and west with sounds both ancient and future",
+  "titleId": "010018F010CD2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/be93caf0f99b386384ae115feb522b27e88b5aeb87a2c71771f974706d95f402.jpg",
+  "tests": [
+    {
+      "tester": "MrArgon39",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-10T05:19:39.25",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "c9e536c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

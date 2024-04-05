@@ -1,0 +1,63 @@
+{
+  "name": "TY the Tasmanian Tiger HD",
+  "description": "STONE THE CROWS! Are you ready to explore the wilds of the Australian Outback in this remastered version of the classic game, TY the Tasmanian Tiger?\n\nJoin TY on a RIPPER of an adventure to free his family from the DREAMING and stop the nefarious evil genius BOSS CASS from removing mammals from the top of the food chain. \n\nTo help you on your quest, you've got a BEAUT arsenal of boomerangs, sharp teeth, and the help of a few friends!\n\nSo don’t be a galah - let's head down under, and have a CORKER of a time! BEAUTY, BOTTLER, BONZA!\n\n* Explore 17 levels of the Australian Outback in their old-school 3D platforming glory\n* 13 different boomerangs including the Frostyrang, Flamerang and powerful Doomerang\n* Improved graphics; including updated shadows, reflections, HD resolutions and 60fps\n* New Gamemode called \"Hardcore Mode\"\n* New TY character skins\n* Audio Director's cut\n\n* * * * *\n\nG'day mate! Things can be a bit confusing at times, so let me remind you what's going on... You are TY, the last of the Tasmanian Tigers. Raised by a family of Bilbies, you can only vaguely recall your real parents. You've always thought that all the other Tassie Tigers died a long time ago.\n\nBut then the Bunyip Elder found you, and told you that your family is alive, but trapped in the Dreaming. Now hold your horses... don't get upset... you see they're not stuck there forever, if you're up for a bit of an adventure!\n\nYou see, deep in the Outback, there's this kind of glowy portal thing that is a doorway to the Dreaming. And around that portal there are some carvings in the rock, where five ancient mystical Talismans used to lay. Now, all you have to do is find the five Talismans, put them in the carvings, and the portal to the Dreaming will open!\n\nNow, before you go off like a frog in a sock, there's just this one SMALL problem. You see there's this evil cassowary - Boss Cass - who's also after the Talismans. Yes. THAT Boss Cass. The one that trapped your family in the Dreaming in the first place, and told the school board to remove all the meat pies from the tuck shops. And if you didn't think that made him enough of a megalomaniac, he's ALSO trapped a whole bunch of your Bilby mates in cages all across the outback... something about overdue library books... Anyways, if you want to open the portal, you'll have to beat him and his henchmen to the Talismans!\n\nDon't worry though, you won't be alone! You'll have a bunch of friends to help you along the way, including me - your old mate, Maurie. Now let's get down to brass tacks, find those Talismans, and rescue your family!",
+  "titleId": "010038400C2FE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f190e31f6782bd31420187697b527e8799bb2b9fe098716f818e2a064d794a1.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-05T17:54:37.188",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "e5d0066",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-08T09:57:42.607",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "7b71879",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T04:00:29.959",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "6a24780",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-14T15:18:49.053",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T12:27:14.793",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

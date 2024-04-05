@@ -1,0 +1,30 @@
+{
+  "name": "West of Loathing",
+  "description": "West of Loathing is a single-player slapstick comedy adventure role-playing game set in the wild west of the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple with demon cows, and investigate a wide variety of disgusting spittoons.\n\nTalk your way out of trouble as a silver-tongued Snake Oiler, plumb the refried mysteries of the cosmos as a wise and subtle Beanslinger, or let your fists do the talking as a fierce Cow Puncher. Explore a vast open world and encounter a colorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly.\n\nFeatures:\n\n• A sprawling open world, chock full of danger, quests, puzzles, and mysteries\n• Lush hand-drawn black and white graphics\n• Thousands of jokes, gags, and goofs\n• Crunchy turn-based combat (but only if you want it)\n• Liberal use of the Oxford comma\n• Over 50 hats\n• Disreputable saloons\n• Several gulches\n• A drunk horse",
+  "titleId": "010031B00A4E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e5ac9566a607bacca9fa55939355dd60e07badde854a810460e61758882a9c30.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-19T14:48:55.751",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f21009b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-24T12:13:10.066",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "a7f49e6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

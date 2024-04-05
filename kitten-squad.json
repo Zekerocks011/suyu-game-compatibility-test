@@ -1,0 +1,30 @@
+{
+  "name": "Kitten Squad",
+  "description": "Kittens killing robots (for a good cause)!    \n\nSadistic robots have enslaved orcas at SeaLand Marine Park. The evil Sheep Puncher robot has kidnapped sheep for the twisted wool industry. Only the Kitten Squad is up to the task of saving these gentle animals. Players must guide the Kitten Squad, armed with weaponry ranging from carrot rocket launchers to yarn ball guns, on missions to defeat the evil robots and free the animals in this action game brought to you by PETA.",
+  "titleId": "01000C900A136000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc898452b93f5a34264028d6730e821077cce8d13ef7e51ac2c94f23842aac45.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-30T17:49:10.99",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d05b067",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-30T18:02:18.897",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d05b067",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

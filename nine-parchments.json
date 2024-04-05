@@ -1,0 +1,30 @@
+{
+  "name": "Nine Parchments",
+  "description": "Nine Parchments is a co-op action-RPG game of magic mayhem from Frozenbyte, the creators of the Trine series.\n\nA group of runaway wizard apprentices decide to skip their training to search for the Nine Parchments. \n\nAs the wannabe wizards rapidly discover powerful new spells and ignore all safety aspects, it's natural that their hasty progress results in lots of deadly accidents...\n\n- Wield the power of the elements and master a diverse and ever-changing arsenal of spells\n\n- Unlock new playable characters, wizard hats and magical staves\n\n- Level up and train your characters in the magical arts, but choose your path wisely!\n\n- Battle strange creatures and mighty bosses in a breathtakingly beautiful world, set in the Trine universe\n\n- Online and local co-op with 1-4 players",
+  "titleId": "0100D03003F0E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/948c60845aa7e9f9ca1e36d334bd436a04d1bfaec1322ac6b78e1c1d5d702fd0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-27T14:21:51.551",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-11T22:15:44.465",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "73f4466",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

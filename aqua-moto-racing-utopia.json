@@ -1,0 +1,96 @@
+{
+  "name": "Aqua Moto Racing Utopia",
+  "description": "Exotic courses, spectacular stunts, split-screen and online multiplayer: all the intensity of jet skiing on your own or with friends!\n\nAqua Moto Racing Utopia is fun and competitive:  have a blast in dozens of races, performing stunts in gorgeous environments and playing against up to 7 opponents.\n\n10 EXOTIC ENVIRONMENTS \nThe environments are based on real places: the Amazon, Greece, a mangrove swamp, the tropics, the Mediterranean coast, an Atlantic port... So each race is a different challenge.\n\n7 GAME MODES FOR ALL STYLES\nChampionship, Freestyle Championship, Custom Race, Freestyle, Time Trial, Leisure, and Party Games.\n\nMORE THAN 50 RACES \nTake part in 12 championships in the runabout, ski, and freestyle divisions and make waves on your way to the top of the podium.\n\n44 STAND-UP AND SIT-DOWN JET SKIS \nComplete races and events to earn money and unlock powerful watercraft.\n\nUP TO 28 STUNTS TO PERFECT\nBody flip, Indian air, stand up, no hander, backflip and the 360: find out how much fun a perfectly executed stunt can be.\n\nCUSTOMIZE YOUR AVATAR\nName, nationality, physical appearance, gear: make your driver look the way you want, down to the color of the jet ski.\n\nCHALLENGE YOUR FRIENDS\nWith up to 4 players on the same screen, or each with their own console in handheld mode for up to 8 players: challenge your friends anywhere, anytime! You can also use the online feature to take on up to 7 friends or other players from around the world.",
+  "titleId": "0100D0D00516A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7d3a99c97dea230b779633ddb4b60de943c09143f13001dfc00db5c42a51f3c9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-22T07:00:03.322",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "f7cc66a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-10T04:01:58.493",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "7da9417",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-01T21:51:28.204",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "22bf8ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T19:36:10.399",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-27T20:21:38.231",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-30T04:22:48.12",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "08c8d88",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-14T17:26:27.507",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080",
+      "version": "8582dd2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-11-23T21:55:55.804",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "66d3fe9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

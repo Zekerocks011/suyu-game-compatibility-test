@@ -1,0 +1,74 @@
+{
+  "name": "Mini Motor Racing X",
+  "description": "The classic Mini Motor career mode is back, with hundreds of races, dozens of cars to unlock and upgrade, and four fiendish championships to master, but that’s not all. MMRX adds some firepower to the mix in the new Type-X mode!\n\nMULTIPLAYER: Full online multiplayer with up to four friends or random player as well as local career mode co-op.\n\nLOCAL SPLITSCREEN ACTION: Race with upto 4 players on a single switch!\n\nMASSIVE CAREER MODE: Eight huge championships and 52 unique and vibrant environments to master, each with multiple day and night and weather variants. \n\nTYPE X’ BATTLE MODE: The same fast-paced racing action, but with the added chaos of weapons. Available for both career mode and multiplayer races.\n\nPARTY MODES: Play online or locally with friends with mini games such as Bumper Ball and Micro Motor Racing!",
+  "titleId": "01003560119A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6fd5994eb1c72ff7ad95b382fadb41de1cfe34e31a8e3fbd854b4ba6ca8fcce2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-28T20:25:02.814",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ee5a29a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-27T10:28:10.232",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T21:34:04.041",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-12T15:45:04.157",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T23:48:22.653",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-19T12:28:15.635",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "7595ee9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

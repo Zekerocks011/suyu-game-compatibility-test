@@ -1,0 +1,19 @@
+{
+  "name": "Mosaic",
+  "description": "You live a monotonous and repetitive lonely life in a cold overpopulated ever-expanding city. The phone is distracting you with meaningless notifications as you move through anonymous crowds on your way to work at a megacorporation where yet another long day with overtime awaits. You have no real sense of meaning - until one crucial day, when strange things start to happen on your commute to work and everything changes. \n\nMosaic is a dark surrealistic and atmospheric adventure game about urban isolation and the dread of being a piece in a giant machinery you can’t understand. \n\nFrom the creators of Among the Sleep, Krillbite Studio is going from horrors of childhood to the dreadful lonely adult life.",
+  "titleId": "010032800D740000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7aa58cfe64687aab95497c421955a41f396239192f028e946763b70037fbcf1a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T10:48:45.607",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

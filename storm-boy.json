@@ -1,0 +1,19 @@
+{
+  "name": "Storm Boy",
+  "description": "Based on Colin Thiele's 1964 children’s book of the same name, Storm Boy takes place on the beaches of South Australia near the mouth of the Murray River, where the titular protagonist rescues orphaned pelican chicks, one of whom later becomes the child’s pet and faithful companion, Mr. Percival.\n\nExperience an interactive retelling of the classic tale by taking control of both Storm Boy and Mr. Percival in key moments, such as when the pair rescued stranded sailors during a storm. Relive their friendship and enjoy seaside activities across a wide assortment of fun and relaxing mini-games, including sand drawing, sailing, cockle hunting, playing fetch, sand surfing, pelican feeding, and more.",
+  "titleId": "010040D00BCF4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/690e010c6e31101b26ad25b7afb611a58978d99e3c24de340c17350f9fa39a75.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-05T07:02:13.774",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "952e5ac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

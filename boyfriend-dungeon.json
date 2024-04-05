@@ -1,0 +1,30 @@
+{
+  "name": "Boyfriend Dungeon",
+  "description": "- Date up to nine weapons, from dancing swords to heart-piercing daggers\n- Generated action-combat dunj and challenges! Stay sharp!\n- Various combat styles. For example, hit hard and dodge quickly with the dagger, or take on crowds with Lasersaber\n- Inclusive, tasteful approach to gender and sexuality - male, female, and non-binary romance\n- Let's get to the point: take your weapon-babes on romantic outings, such as to the club or the beach\n\nFor your summer job, you’re tasked with clearing the creatures in “the dunj”. Soon you discover weapons you find transform into cuties… and they’re UP FOR GRABS! (What a craaazy coincidence because you also happen to be single yourself.) It's a shack-and-slash!\n\nSpend the cash you earn on romantic outings to forge precious moments with your lovers and work together to clear the rampant monster infestations, because after all, a couple that slays together, stays together.",
+  "titleId": "0100D2200BC82000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6b116f2ce1cbc0e5f57ff97dcdb504c865c3a37daf2105203daa30252e20c28a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-26T08:38:58.949",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "22734ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-13T09:56:35.483",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3522529",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

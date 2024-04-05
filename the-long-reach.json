@@ -1,0 +1,19 @@
+{
+  "name": "The Long Reach",
+  "description": "The Long Reach takes place in New Hampshire, in the fictional town of Baervox. The game draws its inspiration from Lone Survivor and The Cave and all the classical adventures (except that The Long Reach is set in the present day). You don't play in a post-apocalyptic world or explore a fairy-filled fantasy world. You’re in the thick of it, just around the corner from the place where you buy your groceries.",
+  "titleId": "010052B003A38000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4619d00ab2344c4fc7ccf480115549d79f5a66d73728561f862afbd67c3cdcf3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-23T11:07:29.778",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

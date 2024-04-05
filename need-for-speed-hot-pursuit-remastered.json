@@ -1,0 +1,118 @@
+{
+  "name": "Need for Speed™ Hot Pursuit Remastered",
+  "description": "Feel the thrill of the chase and the rush of escape in Need for Speed™ Hot Pursuit Remastered on Nintendo Switch™ . Unleash a savage sense of speed both as an outlaw and a cop in the world's hottest high-performance cars. Outsmart the heat or take down lawbreakers with the tactical weaponry at your disposal in a heart-pumping, socially competitive racing experience. Updated with enhanced visuals, cross-platform multiplayer – including the asynchronous competition powered by Autolog – plus all additional main DLC, this is the ultimate edition of Criterion Games’ critically acclaimed Need for Speed debut. It’s time to reignite the pursuit.\n\nCROSS-PLATFORM MULTIPLAYER AND AUTOLOG – Bolt down the winding Seacrest County roads headfirst in racing that is socially competitive at its core. The groundbreaking Autolog connects you and your friends in head-to-head pursuits and races and instinctively delivers challenges based on your friends’ activities. This highly dynamic system is fueled by friendly competition and is now supported with cross-platform sync and new multiplayer gameplay so that you can race each other no matter what platform you are on.\n\nALL MAIN DLC INCLUDED, PLUS MORE UPDATES – Get all the additional main DLC  delivered at launch including an extra six hours of gameplay and more than 30 challenges. Brand new achievements, wraps, car colors, reduced hard stops, an updated photo mode and gallery, and multiple quality of life updates create an even more well-rounded gameplay experience this time around. \n\nEXOTIC CARS WITH WEAPONS – Drive the world’s most desirable supercars on both sides of the law. Bust suspects in supercharged cop interceptors enhanced with tactical weaponry, or level the playing field with counterattacks and defensive maneuvers as an elite racer. Strategize to gain an edge over the competition, no matter what side you’re on!\n\nCHASE AND ESCAPE – A deep and fully-defined single-player career delivers the action of both cops and racers, with a seamlessly linked multiplayer experience across all race modes. Take on friends or play through the career solo to earn Bounty and unlock new cars, weapons, and equipment.\n\nENHANCED VISUALS – Need for Speed Hot Pursuit Remastered delivers a timeless racing experience updated for today’s generation of hardware with enhanced visuals.\n\n\n",
+  "titleId": "010029B0118E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2f61327bd19cff4806fb996060160c41cc628a39656546d9cc09c591ef37794c.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T07:02:31.699",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "40cad9b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-21T00:57:16.838",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JJ_Oldaker",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-10T04:25:07.387",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "22734ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "figure",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-04T14:55:56.143",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "ea85b30",
+      "os": "Linux",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-23T05:55:31.421",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-07T12:12:35.413",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T21:40:38.56",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "b79fc85",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-02T10:28:05.283",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "1c9a660",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mikelo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-08-03T16:57:33.022",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "07f75ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiegoMadGlez",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-19T15:16:24.888",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "d871b4e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

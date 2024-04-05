@@ -1,0 +1,30 @@
+{
+  "name": "Kentucky Route Zero: TV Edition",
+  "description": "At twilight in Kentucky, as bird songs give way to the choir of frogs and insects, familiar roads become strange, and it's easy to get lost. Those who are already lost may find their way to a secret highway winding through underground caves. The people who live and work along this highway are themselves a little strange at first, but soon seem familiar: the aging driver making the last delivery for a doomed antique shop; the young woman who fixes obsolete TVs surrounded by ghosts; the child and his giant eagle companion; the robot musicians; the invisible power company lurking everywhere, and the threadbare communities who struggle against its grip.\n\nKENTUCKY ROUTE ZERO: TV EDITION is a magical realist adventure game in five acts, featuring a haunting electronic score, and a suite of hymns and bluegrass standards recorded by The Bedquilt Ramblers. Rendered in a striking visual style that draws as much from theater, film, and experimental electronic art as it does from the history of videogames, this is a story of unpayable debts, abandoned futures, and the human drive to find community.",
+  "titleId": "0100327005C94000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bcfc92e7726fa9e513d4b75b558bab6824ef3c9b06d8a9b6444eea0423f47626.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-03T02:08:52.452",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "1cb9005",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-26T17:40:56.665",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

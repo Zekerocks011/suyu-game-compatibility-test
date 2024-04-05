@@ -1,0 +1,30 @@
+{
+  "name": "The Princess Guide",
+  "description": "Choose among four princesses on their quest to forging a world of their dreams. Will you choose to end world hunger with Liliartie, the hungry-but-happy Warrior Princess? Or you may want to help Veronica, the brash-but-talented Witch Princess, achieve world domination? Perhaps unearth family secrets and end poverty with the Rose Princess, Monomaria? Or spread words of peace and faith across the world with Alpana, the Dragon Princess?\nGuide your princess with \"Praise\" or \"Scold\" to make them stronger, happier, and ultimately a worthy heir to the throne.",
+  "titleId": "0100E6A00B960000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2ba12989db6fb73cde12f6928480e850b8195c8b75deced5f0252954096d9805.jpg",
+  "tests": [
+    {
+      "tester": "duyen911007",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T01:34:59.431",
+      "cpu": "Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-04T06:10:11.739",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "ac346ec",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

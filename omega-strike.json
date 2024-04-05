@@ -1,0 +1,19 @@
+{
+  "name": "Omega Strike",
+  "description": "Omega Strike is a Metroidvania game with a huge, open-ended world and multiple playable characters. As Doctor Omega and his mutant armies march toward world domination, only a few brave freedom fighters stand in his way. \n\nOvercome deadly enemies and learn new abilities for your heroes. Explore the world, find its hidden treasures and upgrade your weapons to defeat Doctor Omega and his evil henchmen.\n• Explore a vast interconnected world with seven unique areas\n• Three playable heroes who each have their own special abilities\n• Swap your heroes at any time to take advantage of their skills\n• Search for hidden treasures and purchase weapon upgrades\n• 12 bosses and over 45 different types of enemy\n• Soundtrack by Ken Snyder (aka Coda) of Scarlet Moon Productions\n",
+  "titleId": "0100F8C00C21C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b72473471ed95270a55630ebd228ca98ba17858ccdcba1dd8212d1524b1f08c7.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-27T17:41:28.006",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

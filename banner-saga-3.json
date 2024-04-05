@@ -1,0 +1,19 @@
+{
+  "name": "Banner Saga 3",
+  "description": "If you own or buy Banner Saga 1 and Banner Saga 2, you can save 40% on this title!\n\nBanner Saga 3 is the final dramatic chapter in the mature, story driven Viking RPG series which has won over 20 awards and has been nominated for 4 BAFTA awards. As the world continues to crumble around you, who can you trust, how will you protect your allies and what choices will you make as the Darkness draws near?\n\nWitness the Banner Saga as you’ve never seen it before as a dark force takes over and effects everything you’ve come to know in the beautifully hand-painted finale of the trilogy.\nChoose new playable characters to join your party, including dredge heroes! Take advantage of new upgrade options as they progress in battle.\nDeeper strategic combat with the new battle waves system against a myriad of new enemies. The valka spear and heroic titles let players customize their playstyle even further.",
+  "titleId": "010071E00875A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f04e20ee7f7604cb1ca32d5468e36970070e512372541634f9154a458c0c344a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T20:31:00.133",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

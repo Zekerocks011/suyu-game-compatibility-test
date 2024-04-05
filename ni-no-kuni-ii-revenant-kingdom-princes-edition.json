@@ -1,0 +1,74 @@
+{
+  "name": "Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION",
+  "description": "Lose yourself in the ultimate Ni no Kuni experience with this Prince's Edition including:\n- Ni no Kuni II: Revenant Kingdom (full game)\n- Expansions that add hours of additional gameplay\n- Prince's Equipment Pack\n\nJoin the young king, Evan, as he sets out on an epic quest to found a new kingdom, unite his world, and save its people from a terrible evil.\n\nEmbark on this unforgettable adventure, which blurs the line between animated feature film and video game. Developed by LEVEL-5, Ni no Kuni II features enchanting character design from the legendary artist Yoshiyuki Momose and a stirring soundtrack composed by the world-famous Joe Hisaishi.",
+  "titleId": "0100BE7013E06000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/344b6e99120a3dcc7e6ff7ecad98d5b4f68be15b4ecfc7d387a4bb110936b06c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-31T12:53:39.018",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-15T21:00:21.606",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Crypto1337",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-15T18:59:17.652",
+      "cpu": "AMD Ryzen 9 5900HS with Radeon Graphics        ",
+      "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2",
+      "version": "90fe0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-19T19:06:53.497",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "5609727",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-16T14:53:07.921",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "4260be6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mini_jo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-18T22:26:18.202",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "1b2e2d4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

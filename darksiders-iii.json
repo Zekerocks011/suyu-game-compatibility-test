@@ -1,0 +1,19 @@
+{
+  "name": "Darksiders III",
+  "description": "Return to an apocalyptic Earth in Darksiders III, a hack-n-slash Action Adventure where players assume the role of FURY in her quest to hunt down and dispose of the Seven Deadly Sins.  The most unpredictable and enigmatic of the Four Horsemen, FURY must succeed where many have failed – to bring balance to the forces that now ravage Earth. \n\nIncludes Darksiders III and 2 DLCs: The Crucible and Keepers of the Void.\n\nThe Crucible.\nIn this mighty morsel of digital wonderment, competitors can expect to receive a truly earth-shattering experience: The Crucible! \nA legendary challenge whispered with reverence across the universe. Not even the Creator could have envisioned such glorious spectacle as that which is found in this fabled arena.\n\nKeepers of the Void\nOn a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there.  All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the biggest prize of them all: The Abyssal Armor.",
+  "titleId": "0100F8F014190000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/54c4d5978fdb9cf155563038e235e4e2df2b7b3a21937876c1df30953fc00fa3.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-30T13:52:28.021",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "94b0256",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

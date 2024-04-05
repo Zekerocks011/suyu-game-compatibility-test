@@ -1,0 +1,63 @@
+{
+  "name": "STAR WARS™ Episode I Racer",
+  "description": "The fan-favorite racer is back featuring motion controls!\n\nTake control of a podracer speeding through flaming methane lakes, Tusken Raider assaults, anti-gravity tunnels, and much more in a pulse-pounding, do-or-die fight to the finish line.\n\nKey Features:\n\n■\tChoose from 25 playable racers including: Anakin Skywalker, Sebulba, and Ratts Tyerell\n■\tRace tracks spanning 8 unique worlds including: Tatooine, Baroonda, and Malastare\n■\tWork with Pit Droids to upgrade your podracer for higher top speeds and acceleration\n■\tDiscover short-cuts and secrets to master your lap times.\n",
+  "titleId": "0100BD100FFBE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fc267be9eb0970c0d9f32d3a36b0712475ffe429ba40984b1ccc92cd1379e5bc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T23:04:36.101",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "usrunknwn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-01T21:04:59.329",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-08T12:14:02.265",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "fefdfd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-24T06:01:39.906",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "1349ade",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MarcoEstevez",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-21T18:08:33.103",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

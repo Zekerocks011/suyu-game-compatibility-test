@@ -1,0 +1,52 @@
+{
+  "name": "Darksiders Warmastered Edition",
+  "description": "Deceived by the forces of evil into prematurely bringing about the end of the world, War – the first Horseman of the Apocalypse – stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth. ",
+  "titleId": "0100E1400BA96000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/93a52422318945dfc36c7681748516820a8e941a9cea97e7ef8f7108147ef495.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-07T12:29:53.405",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fd60653",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-03-20T12:02:32.996",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "7caddcf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-22T16:52:13.463",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-29T21:39:28.964",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "712446d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

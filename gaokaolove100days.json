@@ -1,0 +1,19 @@
+{
+  "name": "Gaokao.Love.100Days",
+  "description": "Is there still room for love in this 100 days, or am I just ruining my life, or worse, her life?\n\nThis is a dating simulation game based on Chinese students' real life. \nYou can have romantic relationship with classmates, but remember that you have just 100 days while preparing for “Gaokao” (National College Entrance Exam), the exam that may change your destiny.\n\nKeep a balance between score and romance, or just drop one and see what would happen? There are over 10 story lines and will lead to more than 50 ends.",
+  "titleId": "010091400B596000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/be561c3649366390d03a7d683576163fc659cd1d5404c8d1c488e6f77b8613fe.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-27T10:45:35.97",
+      "cpu": "AMD Ryzen 5 1400 Quad-Core Processor           ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "2f33433",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Night Book",
+  "description": "Night Book is an interactive occult thriller about an online interpreter who is tricked into reading an ancient book that summons a demon into her home. \n\nLoralyn works the night shift remotely from her home, live interpreting video calls from English to French and back again. Currently pregnant, with a husband working far away and caring for her mentally ill father, she is desperately trying to keep her family together and safe – but who is she prepared to sacrifice to survive? The fiancé, the baby, her father or herself?\n\n•\tOne story, several different paths and endings.\n•\tFrom the producers of The Complex and Five dates.\n•\tCo-developed by the studio behind Maid of Sker.\n•\tStarring Julie Dray (Avenue 5) and Colin Salmon (Resident Evil, Mortal Engines).\n•\tA completely live-action, interactive movie, filmed remotely during lockdown.",
+  "titleId": "0100B5E0140B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d5e5cc266044e0eb7778586695bc79a0f497890cbffb898941de3ddf0d942159.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T09:06:58.331",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "6a24780",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

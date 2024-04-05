@@ -1,0 +1,19 @@
+{
+  "name": "Good Pizza, Great Pizza",
+  "description": "Ever wanted to know what it feels like to run your own Pizza shop? Do your best to fulfill pizza orders from customers while making enough money to keep your shop open in this fun cooking game. Upgrade your shop with new toppings and equipment to compete against your pizza rival, Alicante!\n\nGAME HIGHLIGHTS\n\n- Featuring Pizza News Network (PNN), the first newscast about all things pizza.\n\n- Over 100 customers with unique pizza orders and personalities.\n\n- Pizza toppings including pepperoni, sausage, onions, and more.\n\n- Equipment upgrades to help you become the master ovenist.\n\n- Simple, fun and challenging cooking gameplay.\n\n- Created by pizza making professionals; the game artist worked in a pizza kitchen for four years!\n\n**Please note this version does not contain chapters 3, 4, eggplant and seasonal events. ",
+  "titleId": "0100F610122F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9a957122e774f62327e45d0615181692517af77282b9b3b57e3f3adeb2905eac.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T05:40:08.373",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

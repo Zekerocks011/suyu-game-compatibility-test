@@ -1,0 +1,52 @@
+{
+  "name": "Kirby™ Star Allies Demo",
+  "description": "null",
+  "titleId": "01005A70096FA000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-24T18:05:01.975",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "a7f49e6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lmffao",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-03-26T20:37:03.539",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce GTX 1080",
+      "version": "60d0212",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-05T00:32:18.54",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-06T19:37:14.922",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "FAIRY TAIL",
+  "description": "■Play as powerful mages from different guilds\nA total of 16 playable characters!\nVarious characters from guilds other than \"Fairy Tail\" appear!\nAlso, the game includes an original episode.\n\n■Magic battles, Fairy Tail style\nFamiliar moves from the source material such as Unison Raid and Extreme Magic can be performed!\nThere are also Unison Raids that are original to the game.\n\n■Aim to become the No. 1 guild\nThe town of Magnolia and inside of the guild are fully depicted.\nComplete missions that appear on the request board, raise your guild's rank with your comrades, and aim to become the No. 1 guild!",
+  "titleId": "0100CF900FA3E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dd324ee5a295383c6ca44f050bb7d19b1490eebe5bf4a9212250ac3057e5d4e7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-09T14:15:03.589",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Miss-Lola",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-25T01:09:30.955",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "2655193",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T20:10:10.71",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-13T09:07:24.775",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-23T21:41:20.254",
+      "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "0ed706e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-07T14:27:03.004",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-13T23:07:04.711",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "7ea3550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-29T20:00:04.045",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "7293290",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-01T10:29:26.768",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "a928dbb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

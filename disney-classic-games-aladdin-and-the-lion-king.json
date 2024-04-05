@@ -1,0 +1,85 @@
+{
+  "name": "Disney Classic Games: Aladdin and The Lion King",
+  "description": "Two of the most beloved Disney games of all time make their long-awaited return to modern consoles in Disney Classic Games: Aladdin and The Lion King! This unforgettable package of Disney classics is filled with tons of new features, enhancements, game modes, and display options, plus multiple versions of the games! Join Aladdin and his sidekick, Abu, as they race through the marketplace toward their date with destiny. Relive Aladdin’s classic adventure as you travel through Agrabah, the Cave of Wonders and more to defeat Jafar and rescue Jasmine.  Jump, fight, dodge and carpet-ride your way through this adventure, collecting gems along the way.  The Lion King brings to life the majesty and mystery of Africa through the tale of Simba, a lion cub faced with the challenging transition to maturity. Now, you too can be part of the adventure!  Driven into the wilderness by his evil uncle Scar, Simba finds salvation and Hakuna Matata with Pumbaa the warthog and Timon the meerkat.  Tackle heinous hyenas in the elephant’s graveyard, avoid the trampling hooves of stampeding wildebeest as you battle through 10 levels to ensure Simba claims his rightful place as The Lion King.",
+  "titleId": "0100A2F00EEFC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/39b3c399dff65b17e2b8b27bec108516c39bac49e4a15a6adc1d3b31afb738d8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-15T17:55:36.671",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "606d63f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "antelo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T10:27:30.617",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-07T16:04:12.701",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2770320",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-29T12:15:54.004",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-07T16:17:07.003",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2770320",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-10-01T16:08:31.983",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "37a2ce9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-27T21:07:10.705",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

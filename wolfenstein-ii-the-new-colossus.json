@@ -1,0 +1,52 @@
+{
+  "name": "Wolfenstein II: The New Colossus",
+  "description": "ATTENTION: a microSD card (sold separately) with free storage space of minimum 23GB is required to download this game.\n\nWolfenstein II®: The New Colossus™, the Video Game Awards’ ‘Best Action Game of 2017’ winner, comes to Nintendo Switch this Summer. Fight through post-nuclear Manhattan, occupied Roswell, New Mexico, and the embattled bayous and boulevards of New Orleans as you liberate the American people from the Nazis. \n\nAs BJ Blazkowicz, experience an unforgettable action-packed story brought to life by extraordinary characters. Reunite with your friends and fellow freedom fighters as you take on the evil Frau Engel and her Nazi army. Wage the second American Revolution your way – at home or on the go. And, for the perfect blend of immersion and accuracy, utilize the Nintendo Switch’s unique motion controls to stop the Nazi threat.",
+  "titleId": "01009040091E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9c58d1a17737f10a1a0c81ecc62457b8cced1523d5643bba55ca01b68cafcde5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-11T15:51:43.414",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T14:08:09.33",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Edu_POES",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-21T08:32:07.982",
+      "cpu": "Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 Super/PCIe/SSE2",
+      "version": "819dc5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-13T04:06:59.844",
+      "cpu": "        Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

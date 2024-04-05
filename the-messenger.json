@@ -1,0 +1,74 @@
+{
+  "name": "The Messenger",
+  "description": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.\n\n - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure.\n\n - Character upgrades, new abilities, hidden levels, and branching paths to discover.\n\n - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics.\n\n - A memorable cast of offbeat villains, bosses, and associates.\n\n - Original soundtrack by renowned chiptune composer Rainbowdragoneyes, handmade using Famitracker.",
+  "titleId": "0100DC300AC78000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ff97ff2ff5407ebbce8a4b2223d8f9c6175637f04a605826a25b0906afa5b5da.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-21T18:11:35.393",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GabeEddyT",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-06-05T08:05:54.804",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "17decdc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-14T11:57:53.039",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7ea7df1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-13T00:34:03.135",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GabeEddyT",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-06-11T14:03:48.211",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GabeEddyT",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-07T22:50:07.412",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "3c9e433",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

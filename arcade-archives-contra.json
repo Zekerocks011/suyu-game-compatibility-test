@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives CONTRA",
+  "description": "\"CONTRA\" is an action game released by KONAMI in 1987.\nThe strongest warrior \"CONTRA\" Bill and Lance will challenge the destruction of the Earth invasion base of aliens, with their passion \"Toukon\" (Fighting Spirit) and their inborn guerrilla tactics.\nIn this work, the Japanese version and the overseas version of CONTRA are included.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01007F4012B84000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/370c33e04ef7b1b76c7eae9a9feb6d0a2e5be6b5a0964e356d9a4b0c6dd97e64.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T16:54:50.883",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

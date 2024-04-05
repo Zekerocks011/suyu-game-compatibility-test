@@ -1,0 +1,63 @@
+{
+  "name": "SEGA Genesis™ – Nintendo Switch Online",
+  "description": "With a Nintendo Switch Online + Expansion Pack membership, access a collection of SEGA Genesis™ games that are great to play anytime, anywhere! You can play these classic games with added features, such as rewind to recover rings in Sonic the Hedgehog 2, create a save state before the final boss of Golden Axe, or play Streets of Rage 2 with a friend using online play!\n\n• A selection of classic SEGA Genesis games including Sonic the Hedgehog 2, Streets of Rage 2, Ecco the Dolphin, and more!\n• Compete or cooperate with a friend using online multiplayer\n• Play while on the go—anytime, anywhere\n• Create suspend points for each game to save your progress\n• Easily rewind gameplay by pressing and holding ZL + ZR if you make a mistake or just want to retry a section of the game\n• Supports Joy-Con™ controllers, Nintendo Switch™ Pro Controller*, and SEGA Genesis Control Pad**",
+  "titleId": "0100B3C014BDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e4107dee6e46ac3e789aed0818f754b0c1d664bb41d21820718845ca2fa8f234.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-03T16:26:17.304",
+      "cpu": "Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz",
+      "gpu": "GeForce MX230/PCIe/SSE2",
+      "version": "3538400",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-28T08:23:52.844",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "9ee753f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Roberto_Malaria",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-06T04:00:25.166",
+      "cpu": "Intel(R) Xeon(R) CPU           W3690  @ 3.47GHz",
+      "gpu": "AMD Radeon (TM) R9 390 Series",
+      "version": "23d6568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-17T19:56:39.893",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "ca6a48a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-26T21:26:08.953",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

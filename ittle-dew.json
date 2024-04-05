@@ -1,0 +1,19 @@
+{
+  "name": "Ittle Dew",
+  "description": "Adventuress Ittle Dew and her sidekick Tippsie crash onto a strange island, filled with loot and mysterious inhabitants. It quickly dawns on the duo that this might become their biggest adventure yet.Ittle Dew boils down the classic adventure formula until there is only fun left. \n\nFun items\nWe've boiled down the classic adventure formula to just three items, designed to work together in more or less obvious ways. There are hundreds of ways to combine them so experimentation is key!\n\nSpeedrunning\nFilled with hundreds of secrets and shortcuts, this game is designed for speedrunning and you're encouraged to complete the game with different setups of tools and weapons.",
+  "titleId": "01005070088E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5cc04446695931792d5396fb4382256b85d17fa66350ab62618bd2991fda8d41.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-08-16T21:33:42.149",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

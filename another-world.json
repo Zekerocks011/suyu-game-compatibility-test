@@ -1,0 +1,107 @@
+{
+  "name": "Another World",
+  "description": "Dive into an adventure game that has become a cult classic. With ground-breaking graphics and narrative for its time, Another World™ still offers a superb gaming experience in a deep and unique science-fiction universe. More than twenty-five years after its original release, Eric Chahi's masterpiece is still considered a classic adventure game and continues to inspire the biggest names in video games. \n\nAnother World™ tells the extraordinary story of scientist Lester Knight Chaykin, accidentally transported to another world while working on a particle accelerator. Lost on a strange planet, with no clue as to how to extricate himself, Lester must survive in a hostile environment, take on dangerous natives and solve puzzles that are as unique for the genre as they are creative. And it is there that he also learns the true meaning of friendship.\n\nIn a unique setting, help Lester survive and discover:\n\n• An extraordinary science-fiction universe\n• A gripping story and adventure \n• Remastered graphics and music \n• The possibility of choosing between the original graphics and modern HD graphics\n• 3 difficulty modes: Normal (easier than the original), Difficult (similar to the original) and Hardcore (more difficult than the original) ",
+  "titleId": "01003C300AAAE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/22b50cd5004a86266b66ee2fb62f708126dde96a510affc389124e837a7ee308.jpg",
+  "tests": [
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-11-30T20:16:37.825",
+      "cpu": "AMD Ryzen 3 PRO 1200 Quad-Core Processor       ",
+      "gpu": "GeForce GTX 560/PCIe/SSE2",
+      "version": "f0438b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-11-30T20:16:38.455",
+      "cpu": "AMD Ryzen 3 PRO 1200 Quad-Core Processor       ",
+      "gpu": "GeForce GTX 560/PCIe/SSE2",
+      "version": "f0438b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T21:55:43.808",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-06T16:57:52.099",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-01T19:12:09.632",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "a928dbb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-03T11:25:32.332",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d8841fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-23T17:49:32.437",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T19:23:37.409",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-21T16:08:35.093",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "82e35b1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

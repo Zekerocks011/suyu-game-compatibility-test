@@ -1,0 +1,19 @@
+{
+  "name": "Johnny Turbo's Arcade: Two Crude Dudes",
+  "description": "Play one or two mercenaries hired by the American government to stop the terrorist organization \"Big Valley\". Take control of post-apocalyptic New York City away from the Big Valley terrorists.",
+  "titleId": "010080D002CC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/02edb88b90bd3b4465f1815bc9899bd40aacf5014dc1a31f9a612de11b4a3422.jpg",
+  "tests": [
+    {
+      "tester": "mastercho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-22T14:14:51.812",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

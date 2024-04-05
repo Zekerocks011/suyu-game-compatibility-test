@@ -1,0 +1,30 @@
+{
+  "name": "Tiny Derby",
+  "description": "Little critters compete in short and frantic races, and your role is to put hazards and boosts on the race track to hinder the bad guys and help out the good guys (the cute yellow ones). Good luck!\n\nFEATURES:\n• 120 levels spread over 4 different environments.\n• 7 special bad guys, each one featuring a unique game mechanic.\n• 5 types of hazards you can put on the race track.\n",
+  "titleId": "01009E100D660000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ea1899df3b06ec7471e7ff1c64841f69b678f8a0ab50bea56bad0663ca854015.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T20:41:47.826",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-01T09:50:34.523",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "ebadd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

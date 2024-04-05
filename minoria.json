@@ -1,0 +1,41 @@
+{
+  "name": "Minoria",
+  "description": "Ink and blood stain the streets of Ramezia. Witches must burn and sins must be judged. Venture forth as Sister Semilla to burn down the pillars of heresy in Minoria, an action-platformer by the creators of Momodora.\n\nThe story takes place during the fourth Witch War. It is a time of fanatical religious fervor. The Sacred Office, a powerful organization leading an Inquisition against heresy, purges the sinners who threaten humanity. Those responsible for conducting a mysterious ceremony that contradicts the rules of the Church are labeled “witches.” Now, Sisters Semilla and Fran, missionaries in the Church’s service, set out to thwart the witches’ ceremony and protect the common-folk from heresy that endangers the status quo.\n\nMinoria is the latest and most ambitious game from Bombservice and a spiritual sequel to the Momodora series. Fans of Momodora will find familiar aspects in the design and gameplay elements, as they master the ins-and-outs of parries, dodges, and a variety of different spells. Now in HD format, with aesthetics mixing 2D hand-painted backgrounds and cel-shaded characters, Minoria continues Bombservice’s legacy on consoles.\n\n・A powerful fantasy story inspired by the history of medieval Europe\n\n・A unique visual aesthetic combining hand-painted 2D art with cel-shading\n\n・Fluid controls encouraging careful engagement and patient play\n\n・Combat enabling players to crush enemies with a mix of swordplay and spells\n\n・Defensive options including dodge-rolls and parries\n\n・A leveling system that helps players adjust to their desired difficulty\n",
+  "titleId": "0100FAE010864000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/690709475db90106b251ccc564df233d4beb537c78ab8a5bd6a821f1440bcc60.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-29T22:13:14.601",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-29T22:28:19.491",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-19T19:17:12.533",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

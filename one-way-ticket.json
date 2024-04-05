@@ -1,0 +1,30 @@
+{
+  "name": "One-Way Ticket",
+  "description": "One-Way Ticket is a visual novel loosely based around actual events. A group of men and women, isolated at sea on a long-distance fishing vessel, suddenly find their very humanity at stake as crew members begin turning up dead.",
+  "titleId": "0100EEA00E3EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0abc494cb9fc750221b355b975898c8aef21548fdbe0a57a3683b8818451f8e7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-26T20:39:03.666",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-11T16:21:44.126",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "900be73",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

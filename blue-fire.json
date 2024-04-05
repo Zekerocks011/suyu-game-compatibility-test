@@ -1,0 +1,63 @@
+{
+  "name": "Blue Fire",
+  "description": "Embark on an extraordinary journey through the desolated kingdom of Penumbra and discover the hidden secrets of this long-forgotten land. Explore mystical temples, encounter survivors and take on strange quests to collect valuable items. Along your adventure, slash your way through daunting adversaries, roam across mysterious and abandoned regions, leap through deadly traps and ultimately master the art of movement.\n\nFeatures \n\n•\tA Haunting World – Travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles and more. \n•\tSlash Your Way Through Great Adversaries – Encounter dangerous enemies with distinct fighting styles and partake in intense combat-platforming boss fights. \n•\tEncounter Peculiar Survivors – A long time has passed since Penumbra fell into darkness, but those that survived the kingdom’s fall will aid your journey to unlock valuable rewards.\n•\tCollectibles – Once a rich and lush kingdom, Penumbra is filled with many collectibles and items to discover, loot, collect, sell, trade and purchase. \n•\tUpgrades – No great warrior can battle the dangers lurking in Penumbra without the proper equipment. Upgrade your swords, collect valuable amulets and unlock new abilities to transform into a fierce fighter. \n•\tLost in the Void – Far from Penumbra, there is a lost land called The Void. Find Void entrances throughout the world to uncover abstract platforming challenges that require great mastery to gather the valuable rewards hidden inside.\n•\tVoid Maker - Use a vast number of tools and assets to unleash your creativity and make all sorts of interesting and original 3D platforming levels!\n",
+  "titleId": "010073B010F6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/745150605d2d3f4dd55eedb558169121afd49f01532244e6b36b9d5003617257.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-01T08:12:15.153",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "cd97bdf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-04T10:38:24.569",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b8192f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-27T21:08:43.379",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "320f6f9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-26T22:29:30.357",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-23T03:12:37.944",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

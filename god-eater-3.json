@@ -1,0 +1,85 @@
+{
+  "name": "GOD EATER 3",
+  "description": "The latest numbered entry in the popular God Eater franchise has finally come to the Nintendo Switch™!\nNow you can experience the game's intriguing story, distinct characters, and stylish, high-speed combat whenever you're on the go, both alone and with friends!\n\n■ Jump into the fray of lightning-fast battle as you wield your God Arc!\nGod Arcs are weapons you can transform to slash, shoot, and devour any Aragami that stand in your way! Use different customization parts to choose between one of eight melee forms, one of four gun forms, and one of three shields, creating a God Arc that is uniquely yours!\n\n■ Take down your foes with stylish techniques such as Burst Arts and Dive attacks!\nBurst Arts are powerful special attacks that can be performed on land, in the air, or while dodging! Choose from different Burst Arts to complement your fighting style!\nDive attacks convert your God Arc into a shield as you charge toward the enemy at high velocity. You can even use them to dash around the battlefield!\nUtilize these and other techniques to develop your own play style as you face off against the Aragami!\n\n■ Experience a dramatic story in which you are the main character!\nTake the role of a new Adaptive God Eater trying to survive in a harsh world. Customize your character's appearance, including their face, hairstyle, and outfit before embarking on an adventure with compelling allies as you rise above a world of desolation and discover what lies in store for you on the road ahead!\n\n■ Fight Aragami head on together with your friends via local communication!\nUsing the Nintendo Switch's local communication feature, you can engage in multiplayer with up to three other people! Join forces with your friends to advance through the story and collect materials for your God Arc!",
+  "titleId": "01001C700873E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5d9062c00757fef0ebaad2174d46369bc376ab2d66ad320a94a2f2f80d470d62.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:34:25.922",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:34:18.201",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-14T04:02:26.839",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9d01800",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-11T14:32:05.624",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f83d9ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-14T04:04:04.919",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9d01800",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-05T00:40:01.482",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "4da4179",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-10T23:18:58.789",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "a6ea0f4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

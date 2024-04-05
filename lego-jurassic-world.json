@@ -1,0 +1,30 @@
+{
+  "name": "LEGO Jurassic World",
+  "description": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park, Jurassic Park III, and Jurassic World, LEGO Jurassic World™ allows players to relive and experience all four Jurassic films. Reimagined in LEGO form and now available on the Nintendo Switch™ system, the thrilling adventure allows fans to play through key moments and explore Isla Nublar and Isla Sorna. \nGAME FEATURES:\n• Wreak havoc as LEGO dinosaurs: Choose from 20 dinosaurs, including the friendly Triceratops, deadly Raptor, and even the mighty T. rex.\n• Customize your own dinosaur collection: Collect LEGO amber and experiment with DNA to create completely original dinosaurs.\n• Explore Isla Nublar and Isla Sorna: Put your unique dinosaur creations in to paddocks as you complete Free Play missions.",
+  "titleId": "01001C100E772000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6c798395ae7b4a7d444b0d3a2b087314f7cec5eea2cd42a395b79a31091ff01b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-18T11:28:47.525",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "8060880",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-19T02:28:06.143",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "0cd9130",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

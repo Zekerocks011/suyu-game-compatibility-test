@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives BOMB JACK",
+  "description": "'BOMB JACK' is an action game that was released by Tehkan (Koei Tecmo Games) in 1984.\nPlayers control 'Jack', a superhero who can leap and glide, to collect all bombs in game stages.\nBy retrieving the ignited bombs first, you can earn bonus points and fill up your Power gauge.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100192009824000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a139da7278945b295b12e753f1e9d3526ac13b6d566e3a9a24d931e7bce1980d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T00:43:33.593",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.\n",
+  "titleId": "01007EF00011E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d3c210e61e8487200fc4c344987243a60257838187a69a6a81c42d7447d5d192.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-17T20:31:52.311",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T19:02:27.644",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-22T23:23:23.914",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CercleRond",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-30T18:57:46.888",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "07e6d20",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:13:47.634",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Sebastian_Espinosa1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T21:53:50.635",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080/PCIe/SSE2",
+      "version": "3b357ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-20T15:49:25.403",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "bd40aee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "figure",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-27T19:36:14.279",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T13:56:32.106",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-14T02:50:52.224",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

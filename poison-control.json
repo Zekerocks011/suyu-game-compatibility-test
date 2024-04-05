@@ -1,0 +1,74 @@
+{
+  "name": "Poison Control",
+  "description": "Spirits are being trapped in poisonous manifestations of their despair, and only Poisonette and her Soul Mate can purify them! Venture through the different Belles' Hells to defeat enemies, learn the stories of fallen souls and other Poisonettes, and fight your way to Heaven in this stylishly twisted action shooter!",
+  "titleId": "0100EB6012FD2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f854d75ad8dbe62e2694533822cbf7538e7d277087df145155b25a0029f7130.jpg",
+  "tests": [
+    {
+      "tester": "KuronekosHerald",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-04T22:02:13.935",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "452e9c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "duyen911007",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T13:52:38.657",
+      "cpu": "Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KuronekosHerald",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-19T12:51:19.931",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "6998160",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KuronekosHerald",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-01T20:56:58.24",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KuronekosHerald",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-03T00:04:16.971",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "664700c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-05T10:17:09.68",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

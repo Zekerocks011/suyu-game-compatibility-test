@@ -1,0 +1,107 @@
+{
+  "name": "FINAL FANTASY XII THE ZODIAC AGE",
+  "description": "Return to the World of Ivalice…\n\nThis HD remaster is based on the smash hit 12th instalment of the FINAL FANTASY series, which has shipped over 6,100,000 units worldwide, featuring a new, re-worked game design!\n\nNot only have the graphics and sound been updated to take advantage of the power of new hardware, but the core game design has also been tweaked to produce an evolution of the original FFXII fitting for the current generation.\n\nEnjoy a classic adventure reborn!\n\n■ Story\nTwo years have passed since the war in which the vast and militaristic Arcadian Empire annihilated the kingdom of Dalmasca…\nVaan, a young man who lost his family to the fires of war, lives a stoic existence in the occupied city of Rabanastre, while dreaming of a life of freedom, soaring the skies as a Sky Pirate.  \nPrincess Ashe, the last remaining member of the Dalmascan royal family, vows revenge on the empire, and secretly leads a resistance in the hopes of restoring her homeland.\nBrought together in a chaotic age, the hopes and dreams of these two heroes will unite the fates of the people and change the destiny of nations.\n\n■ Special features of FINAL FANTASY XII THE ZODIAC AGE\nThe game graphics have been completely remastered using the latest technology. Not only has the game been converted to display in HD resolutions, but the textures and shadowing effects have also been enhanced.\n\nThis version features the Zodiac Job System that allows the player to freely grow and develop their characters, picking a unique combination of two jobs from a selection of 12.\nGreat enjoyment can be had from seeing the capabilities and tactical possibilities of your characters change and evolve depending on the combinations chosen. \n\nNumerous additions and improvements have also been made to enhance the playability and accessibility of the game, such as an increase in battle tempo, an optional high speed mode and auto save function.\n\nA huge variety of bounty hunts, battles and mini games make for endless adventure. \n\nThe games BGM has been re-recorded using live performances, with sound quality being further enhanced and 5.1ch sound output supported for the first time ever. \nYou can even switch freely between the original, re-orchestrated and OST versions of the soundtrack.",
+  "titleId": "0100EB100AB42000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5f5459b25a38e07f83102eb966a2e26e84024282a7f34017c99c279e7f58c662.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T17:47:06.16",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-14T07:35:20.839",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a0d9d2b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gamer_tug",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-08T15:19:48.839",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "5b1e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Akiba91",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-08T20:34:14.267",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 980 Ti",
+      "version": "630c550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-09T09:01:47.584",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a59d433",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-14T07:33:15.505",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a0d9d2b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-24T19:55:22.239",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "baiXfeng",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-23T18:33:25.322",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "Radeon RX 590 Series",
+      "version": "636cecb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-10-03T04:55:49.021",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "52f07e8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

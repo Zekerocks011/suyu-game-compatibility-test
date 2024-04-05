@@ -1,0 +1,19 @@
+{
+  "name": "Strange Brigade",
+  "description": "Erased from history and buried in a nameless tomb for 4,000 years, Seteki the Witch Queen has risen once again.\nOnly one troop of heroes can stand against Seteki and her army of mummified monstrosities: the Strange Brigade!\nGRIPPING ADVENTURE - A rip-roaring campaign filled with foes to send back to the afterlife. Explore alone or team up in 2-4 player online and local wireless co-op!\nFEARLESS FORTUNE HUNTERS - Adventure as one of four dashing agents trained to tackle the supernatural. Aim and blast powerful weapons with motion controls and unleash magical amulets!\nMALEVOLENT MONSTERS - moaning mummies, fire-breathing assassins, armour-plated minotaurs and much, much worse!\nTERRIFYING TRAPS - Decapitate the undead with spinning blades, fry them with fire traps and more. You wouldn’t set them on your team mates… would you?\nPUZZLING PREDICAMENTS - Keep those peepers peeled for suspicious clues, secret entrances and ancient contraptions! Who knows what treasures await…\n",
+  "titleId": "01001DC012E7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e6bad1b6d3279c7d37f29da40428d08069b46cd5742d4076f0a9be28efae21f8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-18T11:38:32.879",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "eddea06",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

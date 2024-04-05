@@ -1,0 +1,41 @@
+{
+  "name": "Transistor",
+  "description": "From the creators of Bastion, Transistor is a sci-fi themed action RPG that invites you to wield an extraordinary weapon of unknown origin as you fight through a stunning futuristic city. Transistor seamlessly integrates thoughtful strategic planning into a fast-paced action experience, melding responsive gameplay and rich atmospheric storytelling. During the course of the adventure, you will piece together the Transistor's mysteries as you pursue its former owners.\n\nKey Features:\nAn all-new world from the team that created Bastion\nConfigure the powerful Transistor with thousands of possible Function combinations\nAction-packed real-time combat fused with a robust strategic planning mode\nVibrant hand-painted artwork\nOriginal soundtrack changes dynamically as the action unfolds\nHours of reactive voiceover create a deep and atmospheric story\n'Recursion' option introduces procedural battles after finishing the story",
+  "titleId": "0100BE500BEA2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/89fc681947a16349601ef1924487d916c5d988017d80d5d1a7ea6f14aeaa3b4e.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-11T05:01:59.307",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ae2f772",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-18T08:14:07.661",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c4db561",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-28T00:28:24.814",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9af5e88",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

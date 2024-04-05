@@ -1,0 +1,85 @@
+{
+  "name": "Corridor Z",
+  "description": "Ordinary high school, zombie outbreak and the bunch of survivors in a run for life.\n\nThis time you don't 'face' the obstacles, but the actual pursuit. Don't let the zombies catch you up, throw them the obstacles and aim for the head before they take the first bite. In the meantime find the lost recordings of the audio log and reveal where did the infection come from in your small town.\n\nFEATURES\n* Experience the most genre refreshing runner in years\n* Get thrilled with the unique and intense gameplay\n* Help the pom-pom girl, the jock and the jarhead to survive\n* Discover the infection's mystery with voice-overed story\n* Stock the awesome upgradeable arsenal: pistols, SMGs, shotguns and more\n* Immerse yourself in multiple objectives designed for each of the characters\n* ...and shoot down tons of running horror!",
+  "titleId": "010096100E230000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/99f81f2997f266bfab3f713bd3bcd6419a0ae0d972cd94a6bbbf43e7f0b4fcbf.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-07T23:17:17.505",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-21T18:25:14.833",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-01T22:16:19.068",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e2f72ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-12T17:58:28.313",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "42d6eb3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-20T20:37:18.202",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "17c3110",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-10T03:50:30.259",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "72a7976",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-21T18:25:03.116",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

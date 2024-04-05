@@ -1,0 +1,30 @@
+{
+  "name": "Spelunker HD Deluxe",
+  "description": "The legendary game \"Spelunker\" is back with a full remake! Overcome difficult obstacles in search of the legendary treasure! It's time to embark on an unknown adventure!\n\nThe cave is full of dangers such as various creatures and nasty traps! The slightest mistake will result in a failure! Use items like bombs, flashes, fans and Spelunker's signature jumping technique to overcome these obstacles!\n\nEnjoy beautiful 3D graphics with a nostalgic 8-bit classic mode! \nPlay with your friends, online and offline!\n\nGame Modes:\n- Adventure Mode\n- Competition Mode\n- Championship Mode\n- Random Mode \"Infinite Cave NEO\"\n",
+  "titleId": "010042B015582000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e198772e99a9cd5d553e703ba168c2043943bc53e13ba4e3afad0f840261e1e8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-03T22:04:25.775",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "a7a5be1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "weaponaa",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-29T07:04:56.229",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "AMD Radeon (TM) R7 370 Series Graphics",
+      "version": "d970788",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

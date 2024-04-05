@@ -1,0 +1,41 @@
+{
+  "name": "Battle Brothers – A Turn Based Tactical RPG",
+  "description": "Battle Brothers is a turn based tactical RPG which has you leading a mercenary company in a gritty, low-power, medieval fantasy world. You decide where to go, whom to hire or to fight, what contracts to take and how to train and equip your men in a procedurally generated open world campaign. Do you have what it takes to lead them through bloody battles and to victory?\n\nThe game consists of a strategic worldmap and a tactical combat layer. On the worldmap you can freely travel in order to take contracts that earn you good coin, find places worth looting, enemies worth pursuing or towns to resupply and hire men at. This is also where you manage, level up and equip your Battle Brothers. Once you engage a hostile party the game will switch to a tactical map where the actual fighting takes place as detailed turn based combat.\n\nManage a medieval mercenary company in a procedurally generated open world.\n- Fight complex turn-based tactical battles with historical equipment and brutal injuries.\n- Permadeath. All characters that die in combat will stay dead – unless they return as the undead.\n- All characters come with their own background stories and traits. Want a stuttering ratcatcher, a greedy witch hunter or a drunkard disowned noble?\n- Character development without a restrictive class-system. Each Character gains experience through combat, can level up and acquire powerful perks.\n- Equipment that matters. Different weapons grant unique skills – split shields with axes, stun enemies with maces, form a spearwall with spears or crush armor with a warhammer.\n- Diverse enemy roster. All enemies have unique equipment, skills and AI behavior.\n- a dynamic event system with atmospheric encounters and tough decisions outside of combat.\n- Three late game crises – a war between noble houses, a greenskin invasion and an undead scourge – add a looming threat.\n- Two full hours of orchestral soundtrack.",
+  "titleId": "0100C5000F294000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/04e3b20a47d8d8d6ba424b89a849ede2b66d6b1cf1e176258b17fa2e3db1ca1c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-15T07:14:30.293",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-24T19:23:14.484",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-22T21:25:28.945",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "0883175",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

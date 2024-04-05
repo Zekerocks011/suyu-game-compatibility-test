@@ -1,0 +1,19 @@
+{
+  "name": "realMyst: Masterpiece Edition",
+  "description": "It’s been 25 years since Myst became your world. This newly refreshed and rebuilt version is all the things you loved about Myst, but now you are free to investigate this strange world in your own way. You can explore anywhere. Pick your own path through the forest on Myst Island and seek shelter from the thunderstorm in Stoneship Age. Whether you’re visiting Myst Island for the first time, or you’ve been exploring the island for years - there’s never been a better reason to let the surrealistic Ages of realMyst become your world.",
+  "titleId": "0100E64010BAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cd9a41f93c6c03658bf7b369a20f18d655aab83d6d88714b5f063acff5bc0d2e.jpg",
+  "tests": [
+    {
+      "tester": "Non_Notable",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-26T14:40:31.613",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

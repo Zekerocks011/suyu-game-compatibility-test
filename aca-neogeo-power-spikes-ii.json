@@ -1,0 +1,41 @@
+{
+  "name": "ACA NEOGEO POWER SPIKES II",
+  "description": "\"POWER SPIKES II\" is a sports game released in 1994 by VIDEO SYSTEM. It features the Hyper Mode where the world's strongest 8 teams compete along with the World Men's and World Women's teams in this futuristic fighting volleyball. In Hyper Mode, commands for special serves and spikes can be input for an intense battle.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01000F3008718000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1032f15e8084959978a95c2ab73d1d6b2c12ac8b90607be661a049efbdc1be6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T23:01:25.127",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T21:51:55.411",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T21:49:34.891",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

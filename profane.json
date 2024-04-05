@@ -1,0 +1,19 @@
+{
+  "name": "Profane",
+  "description": "Profane is a 3D boss rush Bullet Hell based on time. This means that you have to face every Boss and defeat them before your time runs out! Time is money and health, so acquiring abilities or being damaged will reduce your remaining combat time. You better watch out!\n\nSKILLS\n\nAlong your path, you will unlock over 40 unique abilities by defeating bosses. Before each battle you will be able to customise your ability loadouts to optimize your playstyle and discover powerful combos!\n\nSTORY\n\nIn Profane you embody Talaal, the last of God’s seven masks. Talaal finds you just in time to fight against her siblings, that hunt her to absorb the power within the mask. You are now trapped, fighting a war that is not your own, a cycle that seems impossible to break.\n\nHIGHSCORES\n\nIf you enjoy frantic experiences and hard challenges,prepare to be tested!   Challenge other players and reach the top of the leaderboards!\n\nFEATURES\n\nCustomisable ability loadouts, allowing the players to optimise their game style.\nCompetition focused gameplay so you can challenge your friends and beat their highscores.\nMultiple game modes, including Roguelite!\n",
+  "titleId": "0100AB700FE02000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/48926e7f1da82b8e3f002035c1e923f9dee7b78dc2b7ccfcaf5bf292351fdf94.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-27T08:36:31.92",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "7be598e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

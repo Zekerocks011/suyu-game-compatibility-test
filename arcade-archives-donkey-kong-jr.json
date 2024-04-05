@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives DONKEY KONG JR.",
+  "description": "“DONKEY KONG JR.” is an action game released by Nintendo in 1982.\nDonkey Kong has been captured and caged in his latest encounter with Mario. Donkey Kong Jr. is on his way to set him free!\nSkillfully utilize jumps and the cranes to avoid enemies, get to the top, and steal the cage's key from Mario.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100DDC00C7A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/708ce54f1c987474a35d706c8b114b310a23481b1175f2686fbea5ace1947541.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T20:05:40.91",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T06:18:45.17",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

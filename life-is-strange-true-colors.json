@@ -1,0 +1,19 @@
+{
+  "name": "Life is Strange: True Colors™",
+  "description": "A bold new era of the award-winning Life is Strange begins, with an all-new playable lead character and a thrilling mystery to solve!\n\nAlex Chen has long suppressed her 'curse': the supernatural ability to experience, absorb and manipulate the strong emotions of others, which she sees as blazing, colored auras. \n\nWhen her brother dies in a so-called accident, Alex must embrace her volatile power to find the truth – and uncover the dark secrets buried by a small town.",
+  "titleId": "0100500012AB4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8bd67cf055d46a57dd1e6bfab5a46faf42d872c5b36a59437760a05fa9b64d58.jpg",
+  "tests": [
+    {
+      "tester": "gdukofficial",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-13T02:06:25.95",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "9de140b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

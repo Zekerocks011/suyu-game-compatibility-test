@@ -1,0 +1,107 @@
+{
+  "name": "Ori and the Blind Forest: Definitive Edition",
+  "description": "The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, Ori must journey to find courage and confront a dark nemesis to save the forest of Nibel. “Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios. Featuring hand-painted artwork, meticulously animated character performance, a fully orchestrated score and dozens of new features in the Definitive Edition, “Ori and the Blind Forest” explores a deeply emotional story about love and sacrifice, and the hope that exists in us all.",
+  "titleId": "010061D00DB74000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/676c145d2c2e0e51fff93d4fdce84a7c10bdbeefed1e004e2357f56d875b9106.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-13T00:45:43.811",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "3dfadbe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "d1xenotime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-05T00:05:54.34",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "NVIDIA RTX A4000",
+      "version": "ef62a7e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T15:09:58.007",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "d1xenotime",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-22T00:21:31.102",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "NVIDIA RTX A4000/PCIe/SSE2",
+      "version": "69332c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "andot",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T18:59:00.358",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-25T17:31:04.249",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "7b6ef79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-02T21:03:23.661",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "e2e4b8c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-25T01:15:41.527",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d9a694d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "benzapi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-17T11:43:42",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

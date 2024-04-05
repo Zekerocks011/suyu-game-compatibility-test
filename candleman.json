@@ -1,0 +1,30 @@
+{
+  "name": "Candleman",
+  "description": "Candleman is an action adventure story entwined with low-light gameplay. Acting as a little candle who can burn for only 10 seconds, players will venture through unsettling darkness. Struggle to overcome obstacles based on the mechanics of light and shadow. Explore a wide range of enchanted environments while seeking distant light. Unveil the hidden treasure that concerns us all.",
+  "titleId": "010034400CB5E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2d23b8a249d17b389554ec19afb9d8eed608122b3ad6d74ef535351387edda00.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-27T22:53:46.623",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-30T13:56:09.666",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

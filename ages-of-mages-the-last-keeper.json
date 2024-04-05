@@ -1,0 +1,19 @@
+{
+  "name": "Ages of Mages: The last keeper",
+  "description": "Take the princess back! \nAges of Mages: The Last Keeper is the perfect TPS beat 'em up game for a great weekend on your couch with family and friends.\n\nThe kingdom is under attack and the princess has been taken! \nCan our four mages assume the responsibility of Guardian and reinvigorate the ages of the mages?\n-----------------------------------------------\nMain Features\n■ Third-person shooter beat 'em up game with RPG and Rogue-Lite elements.\n■ 4 kinds of mages, each with its own characteristics.\n■ 20+ wands, each wand has different maigc skill.\n■ Skill tree, unlocking your powerful magic.\n■ Randomly generated dungeons.\n■ 7 chapters，38 stages，14 boss fights.\n■ Up to 4 local player co-op, as well as a single-player option.\n",
+  "titleId": "0100E4700E040000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/74f5c5602a75160b13ab3048c4a5d308562868e118b59f01428360d7f1ab5a6d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-25T05:30:22.555",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "47a0b1b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

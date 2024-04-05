@@ -1,0 +1,19 @@
+{
+  "name": "Corpse Party: Blood Drive",
+  "description": "Corpse Party: Blood Drive is the final installment of the Heavenly Host saga. As intrepid schoolgirl Ayumi Shinozaki, explore the decaying ruins of Heavenly Host Elementary and other locations in order to end a deadly curse once and for all. Along the way, solve puzzles, dodge traps, and run from malicious entities to avoid the Corpse Party series’ notorious 'Wrong Ends'.\n\nKEY FEATURES\n\nImmersive HD Horror\nFull Japanese voiceovers and binaural 3D audio meet HD visuals and a vastly improved framerate to create a truly hi-res horror experience.\n\nDetailed Environments with Dynamic Lighting\nUse your in-game flashlight to shed light on the unsettling environs of Heavenly Host Elementary, recreated and rendered in full 3D.\n\nPulse-Pounding Gameplay Systems\nFlee from pursuers, hide in cabinets, and disarm traps as ghoulish fiends try to stop your investigation dead cold in its tracks.",
+  "titleId": "010016400B1FE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0c084f949be8d16d5f327d5da3f1c1f04d036d34dfe802d3bba9475d922149c7.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-27T23:18:13.661",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

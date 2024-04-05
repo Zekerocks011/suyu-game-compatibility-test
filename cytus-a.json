@@ -1,0 +1,74 @@
+{
+  "name": "Cytus α",
+  "description": "You play by focusing on the rhythm of the music. \"Notes\" (circular icons) and lines represent the music, with varied movements and interactions. With the right timing you TAP, DRAG and HOLD notes to earn the best possible score, using either the touch screen or a controller. The Notes are dynamic and reflect the energy of the music; it’s a visually captivating experience.\n\nCytus α is also driven by its story – you advance through Chapters to unlock more songs but also the memories of the Operator, learning more of the narrative as you play. This title also includes songs originally made for Chapter Ω, as well as a fully revamped user interface!\n\nIn addition to unlocking music, challenges and the story, you can engage in Online Score Battles. Practice your technique and then try to beat online rivals!\n\nWith incredible music, visuals and gameplay, Cytus α is a rhythm masterpiece from Rayark that shouldn’t be missed.",
+  "titleId": "010063100B2C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/33a3f005fe9d0be572958354f0ddca64616b39191e2d49796b21375143c2e636.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-31T13:14:17.766",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4298061",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Hazewhite",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-10T19:15:08.053",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-02T12:46:25.859",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-07T21:01:42.924",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e0e0030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-04T20:36:16.171",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5ead55d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-23T14:28:13.441",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d340da0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

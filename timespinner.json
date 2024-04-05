@@ -1,0 +1,107 @@
+{
+  "name": "Timespinner",
+  "description": "Join timekeeper Lunais on her quest for revenge against the empire that killed her family, in this gothic 90s inspired action platformer. \n\nUse time-bending powers to explore a vast, connected world, unearthing the secrets of the past and present. Collect powerful elemental Orbs and combine their powers to destroy all enemies who stand in your path. Test your skills of time manipulation with intense boss fights, before taking on the Emperor himself! You might discover that the course of history isn't always as clear as it seems...\n\nFeatures:\n• Stop time to evade foes, use them as platforms and solve puzzles\n• Discover a lovingly-crafted, lavish pixel art world and uncover a rich story universe\n• Clobber enemies with Magic Orbs found throughout the world, which grow stronger with use\n• Befriend mysterious Familiars, like Meyef the Dream Dragon, and train them to aid you in battle\n• Take on challenging boss battles with an emphasis on skill, timing and dodging\n• Locate hidden areas and treasures through secret walls and platforming puzzles\n• Invite a second player to join the adventure by controlling Lunais’ Familiar in local co-op mode",
+  "titleId": "0100DD300CF3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d870ea4f1d98c5f53ffeb573ea1af53dbac927de2038b3aef03a40a62acb36f9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-29T11:42:32.631",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "47790e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-03T16:07:22.557",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "49f8b7b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-07T08:58:31.075",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "3b586bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-19T05:45:40.64",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "db6a3d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:23:06.951",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-21T12:42:54.729",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "2705a56",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-12T01:46:56.04",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "c5c6e14",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-27T00:32:37.092",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "8d6bed5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:22:59.885",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

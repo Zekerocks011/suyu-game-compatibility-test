@@ -1,0 +1,118 @@
+{
+  "name": "Tokyo Mirage Sessions #FE Encore",
+  "description": "The worlds of the Fire Emblem™ series and Atlus games have crossed paths again and the result is coming to the Nintendo Switch™ system. An interdimensional evil has invaded modern-day Tokyo, resulting in this fantastical barrage of music, style, and yes, danger. So, fight back! Battle through dungeons to pump up your strategy and creatively decimate your foes…before all hope fades to black.\n\nYou and the rising stars you call friends will need to call on your own creative power—manifested as iconic Fire Emblem characters—to wage a secret war on rogue spirits that feed on creativity. Each encounter will immerse you in deep, turn-based battles that blend the combat of the Fire Emblem and Atlus RPGs into one brutal harmony. Fuse items to craft weaponry; then play to your strengths and crush your foes. Around every corner you’ll find fun nods to multiple fandoms, including Fire Emblem references, dungeons themed to the entertainment industry, and stunning musical performances. ",
+  "titleId": "0100A9400C9C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4ff32efe9352f32ca82af02967216f75453871603e1ec63fa8d2ffd2b0b88438.jpg",
+  "tests": [
+    {
+      "tester": "wei_quan_loo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-26T10:04:36.962",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "c0793f0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Boyyeee",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T22:56:58.914",
+      "cpu": "Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-26T19:50:48.922",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "user48",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-27T08:44:30.779",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2b4ead1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-16T19:09:52.773",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "monkeyguy37",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-01T12:36:46.565",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce RTX 3070",
+      "version": "93682c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-12T06:22:58.786",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "653b6ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-26T01:11:17.905",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "7b6ef79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-10T02:54:21.232",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "0b13b87",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kou1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-09T04:20:38.856",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "b96619e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

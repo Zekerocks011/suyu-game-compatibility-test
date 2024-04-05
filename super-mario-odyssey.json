@@ -1,0 +1,118 @@
+{
+  "name": "Super Mario Odyssey",
+  "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!\n\nThanks to heroic, hat-shaped Cappy, Mario’s got new moves that’ll make you rethink his traditional run-and-jump gameplay—like cap jump, cap throw, and capture. Use captured cohorts such as enemies, objects, and animals to progress through the game and uncover loads of hidden collectibles. And if you feel like playing with a friend, just pass them a Joy-Con™ controller! Player 1 controls Mario while Player 2 controls Cappy. This sandbox-style 3D Mario adventure—the first since 1996’s beloved Super Mario 64™ and 2002’s Nintendo GameCube™ classic Super Mario Sunshine™—is packed with secrets and surprises, plus exciting new kingdoms to explore.",
+  "titleId": "0100000000010000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ad4d31f664a1ce704f0219da2805f8459595bc3c01c3f04df2e32ba34a05b8c6.jpg",
+  "tests": [
+    {
+      "tester": "bai0012",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-19T14:04:48.425",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "caac6a3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Otherway",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-01T13:08:45.946",
+      "cpu": "Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alex_Jacobs",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-05T01:11:41.953",
+      "cpu": "Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz",
+      "gpu": "Intel(R) Iris(R) Plus Graphics",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T16:31:25.392",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T11:07:59.43",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "svidchenkov",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T22:31:06.206",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NixDG",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-28T14:53:08.111",
+      "cpu": "AMD Ryzen 9 5950X 16-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "szambek123",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-26T16:18:23.137",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GT 1030",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tobs",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-13T18:42:16.068",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:13:21.859",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

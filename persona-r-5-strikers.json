@@ -1,0 +1,63 @@
+{
+  "name": "Persona® 5 Strikers",
+  "description": "Join the Phantom Thieves and strike back against the corruption overtaking cities across Japan. A summer vacation with close friends takes a sudden turn as a distorted reality emerges; reveal the truth and redeem the hearts of those imprisoned at the center of the crisis! \n\t\n•\tJump into the stylish world of Persona in an all-new story \n•\tDynamically control your team during explosive combat \n•\tBattle across Japan in an epic road trip  ",
+  "titleId": "0100801011C3E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1ca83fbed05624055aef083e78bab2bf62edd3c49aebd799c7c6c1ca576e416.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-03T06:23:21.489",
+      "cpu": "Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 960M/PCIe/SSE2",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Nel0303",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-20T06:55:49.36",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "c55fddf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:11:12.684",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-12T08:53:31.489",
+      "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "gpu": "GeForce MX250/PCIe/SSE2",
+      "version": "d3a9a96",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Vinicius_Rispoli",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-06T04:45:59.258",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

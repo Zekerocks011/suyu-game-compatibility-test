@@ -1,0 +1,30 @@
+{
+  "name": "Talking Tom Candy Run",
+  "description": "Talking Tom’s new candy store has been robbed! If you want to get the candy back, you’re going to have to run!\n\nYour amazing new endless runner adventure starts now. The robber has stolen your candy, but he is dropping it everywhere – along the street, at the beach, even at the amusement park! Choose your favorite Talking Tom and Friends character and get ready to run, jump, and slide your way through an epic, candy-filled adventure. Pick up chests to get free coins, diamonds, new characters, and character upgrades. Chase after the robber with fun buddies who will help you with their awesome special abilities.\n\nNow, where’s all that candy?",
+  "titleId": "01009720105B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d1f42ec38e3905c3ac0913216d94d63350bfe5b21879018339b9b36aeeeaa53c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-15T07:17:50.721",
+      "cpu": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-15T07:23:01.67",
+      "cpu": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

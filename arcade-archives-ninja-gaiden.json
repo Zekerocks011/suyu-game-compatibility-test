@@ -1,0 +1,41 @@
+{
+  "name": "Arcade Archives NINJA GAIDEN",
+  "description": "NINJA GAIDEN is an action game released by Tecmo Co., Ltd. in 1989.\nPlay as a ninja using the Five Ninja Fighting Arts passed on from the chaotic times of  feudal Japan, as you take out an assassin organization through the horrifying stage “Jungle,” an American city.\nPerform a Phoenix Backflip off of obstacles or walls to land behind enemies and then defeat them with a Triple Blow Combination or Flying Neck Throw!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01003EF00D3B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/22b2ad4845f89b46d6e7abc1be06124b204b683ff418545f4988d330ee79245b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-16T15:24:17.748",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T22:29:55.986",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-16T15:24:10.187",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Return of the Obra Dinn",
+  "description": "In 1802, the merchant ship Obra Dinn set out from London for the Orient with over 200 tons of trade goods. Six months later it hadn't met its rendezvous point at the Cape of Good Hope and was declared lost at sea. \n\nEarly this morning of October 14th, 1807, the Obra Dinn drifted into port at Falmouth with damaged sails and no visible crew. As insurance investigator for the East India Company's London Office, dispatch immediately to Falmouth, find means to board the ship, and prepare an assessment of damages.\n\nReturn of the Obra Dinn is a first-person mystery adventure based on exploration and logical deduction.",
+  "titleId": "010032E00E6E2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/595d15d60bee9cf29d8657de9d60753247548208d74f945ec96ce13012bb107c.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T04:39:06.283",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon™ Brilliant Diamond",
+  "description": "Welcome to the Sinnoh region! Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You’ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pokémon and then set off on your journey to try to become the Champion of the Pokémon League. Along the way, you’ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pokémon Dialga.\n\nExplore the Grand Underground, connect with friends, and find rare Pokémon!\n\nUse the Explorer Kit you’ll receive during your adventure to visit the Grand Underground! Here, dig up Pokémon Fossils and valuable treasure, including statues for your very own Secret Base. You can also visit places called Pokémon Hideaways, where you can find Pokémon that live in a variety of different environments—there are some Pokémon that can only be found in these Pokémon Hideaways.  Embark on a Grand Underground adventure with other players through the local* or online communication** of your Nintendo Switch system!\n\nPut on a performance with Pokémon in Super Contest Shows\n\nSuper Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pokémon, who work together to dance and show off their performance skills. You can prepare your Pokémon for your grand performance by giving them snacks, called Poffins, and teaching them impressive moves. Using Capsule Decoration, you can place Stickers to customize the effects that appear when your Pokémon comes out of its Poké Ball™ for battles or Super Contest Shows. Choose a category like coolness, cuteness, or cleverness, and then tap along to the beat and put on a show!\n",
+  "titleId": "0100000011D90000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e4d86911bdcfa69882f399c7c4e2fb590e3c3629882f01d85af3241207623696.jpg",
+  "tests": [
+    {
+      "tester": "AlphaPineapple",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-06T08:18:37.299",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zenistar",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-14T21:22:08.844",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Darshan7u7",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-16T17:47:00.523",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "f30f0d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "milocchi",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-22T19:03:35.36",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ClubberClay",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T10:57:49.445",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T13:21:32.25",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "miapuffia",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-12T21:12:49.849",
+      "cpu": "12th Gen Intel(R) Core(TM) i5-12600K",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kizanno",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-06T21:35:21.917",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T10:41:00.562",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Luciano_Edison_C",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-17T03:32:12.902",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "f30f0d7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

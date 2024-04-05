@@ -1,0 +1,96 @@
+{
+  "name": "Big Brain Academy™: Brain vs. Brain",
+  "description": "Take on a series of brain-bending activities that test your mental mettle in Big Brain Academy™: Brain vs. Brain for the Nintendo Switch™ system! Play a wide variety of activities, like memorizing a series of numbers, identifying an animal as it slowly comes into focus, or helping guide a train to its goal in fun, fast activities. Go brain-to-brain with friends and family in 4-player* matches to see who gets the highest score. Everyone can play together at varying difficulties, so a kid can hold their own against an adult in this battle of the brains!\n\nTreat your brain to some quick mental fun\n\nGet your own Big Brain Brawn score with a fun test. Boost your skill and speed by practicing certain activities. Of course, you can also prep for your next multiplayer brain battle or compare scores with friends and family. Unlock dozens of outfit options for your in-game avatar—from a cat outfit to a corn costume!\n\nGo brain vs. brain against mind-masters near and far\n\nWant to see how you match up to brainiacs around the world? Hop into Ghost Clash mode to compete against other users’ data**. Choose from mental marvels worldwide, folks on your friends list, or family members who have profiles on the same system. Outside of Ghost Clash mode, check your rankings to see how your Big Brain Brawn matches up against others.\n",
+  "titleId": "0100620012D6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/192bfaed63623820d17c3ced894b4e5ac57d17e39b1880653b7bd12ae441178a.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-04T09:28:05.68",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "5fb0739",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T22:05:13.182",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-13T08:10:27.404",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "3538400",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-18T16:41:44.033",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "NVIDIA GeForce MX330/PCIe/SSE2",
+      "version": "5235cb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fish_Grilled",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-03T13:36:38.318",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "d920d7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-12T13:05:38.342",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "c5fcdf0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-13T19:47:58.943",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "9de140b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Slope",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-08T01:44:41.227",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "ba7c602",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

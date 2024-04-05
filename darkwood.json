@@ -1,0 +1,19 @@
+{
+  "name": "Darkwood",
+  "description": "Darkwood is a challenging survival horror that does not rely on jump scares.\n\nCraft weapons, prepare traps, fortify hideouts - you will explore and scavenge the eerie forests of the Soviet Bloc by day, then hunker down in your hideout at night. With nightmarish forces corrupting the woods, wait and pray for the sun to come up the next morning.\n\nWade through the grueling, bizarre world of Darkwood and delve into the creepiest secrets of its inhabitants to escape the infested land before it destroys your body and consumes your mind.\n\nFeatures:\n- No jump scares: an atmospheric horror experience that creates a feeling of tension without cheap horror tricks.\n\n- Day and night cycle: roam the corrupted woods by Day and use your hideout to seek survival during the night.\n\n- Randomly generated map and events: the world will vary for each play-through and each player.\n\n- Crafting: scavenge for materials to upgrade your hideout and create weapons, traps or potions.\n\n- Skills and perks: develop your character by injecting a strange essence into your bloodstream.\n\n- No hand holding: test your skills and figure out things on your own!\n\n- Branching storyline: shape the world of Darkwood and determine the fate of its inhabitants.",
+  "titleId": "010033500B7B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e07057973d30d30842f7b269cc78124031ccdf3cf02dfcd5602ea426d64c3fa4.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-21T13:00:04.473",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "0e57642",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

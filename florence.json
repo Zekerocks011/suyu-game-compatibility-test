@@ -1,0 +1,19 @@
+{
+  "name": "Florence",
+  "description": "At 25, Florence Yeoh feels a little stuck. Her life is an endless routine of work, sleep, and spending too much time on social media. Then one day, she meets a cello player named Krish who changes everything about how she sees the world.\n\nExperience every beat of Florence and Krish’s relationship through a series of bespoke gameplay vignettes – from flirting to fighting, from helping each other grow to growing apart. Drawing inspiration from ‘slice of life’ graphic novels and webcomics, Florence is intimate, raw and personal.",
+  "titleId": "010040700E8FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b71997317bc505c2934fde329319ca404214c334884ff148c097efb204f19c71.jpg",
+  "tests": [
+    {
+      "tester": "MysticExile",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-16T19:56:15.612",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080",
+      "version": "acb676a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

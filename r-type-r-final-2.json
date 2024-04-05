@@ -1,0 +1,74 @@
+{
+  "name": "R-Type® Final 2",
+  "description": "For the first time in nearly two decades, you can experience R-Type Final 2! Feel the rush of mowing down hordes of Bydo with your fleet of R-Type fighters equipped with an arsenal of new and classic wave cannons, force units, bit devices, and devastating delta weapons. The Bydo threat is always evolving, as new enemies spawn from the wreckage of fallen foes, and stages are corrupted and altered by the sentient Bydo corruption. R-Type Final 2 unites the explosive action of the original games with modernized visuals and gameplay features, making this a must-have title for new and old shoot-'em-up fans alike. ",
+  "titleId": "0100F930136B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5f2a0b1f451f56725e493ba211fc7636ac917c3c5b45416811cf6298c0f9ab26.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-02T21:32:51.5",
+      "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "cd97bdf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-28T10:20:33.202",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "cebacd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tekky",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-19T11:29:20.789",
+      "cpu": "Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8e2f938",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-27T16:30:32.309",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "56521a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-28T01:36:19.225",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-16T03:06:03.493",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "c257f83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

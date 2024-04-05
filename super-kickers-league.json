@@ -1,0 +1,19 @@
+{
+  "name": "Super Kickers League",
+  "description": "The best arcade experience and football fantasy are waiting for you in Super Kickers League. There are no referees, there are no rules, everything is allowed, the only aim is to score more goals than your rival! \nPlay alone or with friends, form a team of captains and combine different skills to win matches, competitions and to unlock different game modes. \n\nFun and goals are guaranteed in Super Kickers League!\n\nFeatures:\t\n- Local multiplayer up to 6 players\n- Unlockable content\n- Different trophies and competitions\n- 14 different teams with unique special skills \n- Different game modes\n- All dlc contents are included : Vikings & Valkyries DLC & Goths & Vampires DLC (4 new teams, 4 new powers and 4 new areas !)",
+  "titleId": "0100196009998000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/551e03a43b97f04078853a0ad3a2df324522668379d96443751a119c18a732a2.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-26T08:19:28.395",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

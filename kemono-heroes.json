@@ -1,0 +1,63 @@
+{
+  "name": "Kemono Heroes",
+  "description": "When the Moon God turns the inhabitants of the forest to stone, four Animal Ninja Masters must fight their way to Mt. Fuji and break his spell. Use swift moves, an arsenal of tools, and each Master’s unique abilities to save your home!",
+  "titleId": "0100B61010272000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d5e28379b19ee9d2694487f3706efda561a46467fc2774f5a52df0cb260aba90.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-21T16:29:59.699",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-22T17:06:18.791",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-01T03:19:09.172",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 970M/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T10:38:11.787",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T16:47:26.833",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

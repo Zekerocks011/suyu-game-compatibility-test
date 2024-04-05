@@ -1,0 +1,19 @@
+{
+  "name": "BLAZBLUE CENTRALFICTION Special Edition",
+  "description": "The definitive edition of the 『BLAZBLUE』 series, 「BLAZBLUE CENTRALFICTION」, is the most-played 2D fighting game in the world featuring with beautiful graphics and a well-designed, fighting system.",
+  "titleId": "0100EE800C93E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9150fe50fb273ddd58a8479a5a8fe012f9fa6591d47020e2eb9ed1a03b67959e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T10:00:30.642",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

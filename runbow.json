@@ -1,0 +1,19 @@
+{
+  "name": "Runbow",
+  "description": "With tons of competitive modes for up to nine players online and eight players locally and a massive Single Player Adventure, Runbow is the crazy, color-based platformer you've been waiting for.\n\nThe world of Runbow changes with each swipe of the background, so you'll have to stay on your toes as platforms and obstacles disappear - If you can't see it, it doesn't exist. Fast, frantic, and fun for up to nine players, Runbow is filled with tons of modes and content to keep you running back for more.\n\nGo head to head with your friends, locally or online, in Run, Arena, or King of the Hill, for a colorful, crazy competition.\n\nHundreds of pieces of unlockable Gallery content await you, from concept art to characters, and even a few hidden secrets...\n\nCrazy multiplayer, five game modes, 19 guest characters, hundreds of levels, and tons more content all in one unforgettable colorful game, you better get ready to Runbow!",
+  "titleId": "0100ADF00700E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1923ee5f27e6a17ceec72e4242464446881d3d75dc2fbf21b1f802da66926be0.jpg",
+  "tests": [
+    {
+      "tester": "pixelguy627",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-02T20:54:18.831",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "ddf3c23",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

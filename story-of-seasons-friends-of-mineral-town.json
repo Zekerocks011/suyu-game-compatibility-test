@@ -1,0 +1,118 @@
+{
+  "name": "STORY OF SEASONS: Friends of Mineral Town",
+  "description": "Your farming life begins in Mineral Town, a charming village surrounded by nature. You've returned after many years to restore your late grandfather's farm to its former glory. Care for crops, livestock, and more as your very own story of seasons unfolds.\n\n▪Tend to the Farm!\nA rich variety of fruits, veggies, and livestock are waiting for you. Raise them all with love and care, and you'll have plenty of products to harvest, sell, or cook with!\n\n▪Stroll Down Memory Lane!\nMineral Town is full of friendly faces, both old and new! Head into town, give gifts, and learn all about your neighbors as you befriend them.\n\n▪Fall in Love!\nMineral Town is home to several eligible bachelors and bachelorettes. Get to know the boy or girl of your dreams, and you might be able to date them, get married, and even start a family!\n\n▪There's More to Explore!\nGo fishing, cook fresh meals, and when your work's all said and done, take a dip in the local hot spring. Experience the farmer's life like never before!",
+  "titleId": "0100ED400EEC2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3267c984d116fc570fb784cb33e9ecc7a6aefa2ea2b333a2d54eb7e665588af2.jpg",
+  "tests": [
+    {
+      "tester": "jerkinp",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-22T18:18:44.567",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "e74af07",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DashArt4Speed",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-19T19:37:43.359",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 970M/PCIe/SSE2",
+      "version": "e15fd1e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-24T16:56:01.207",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "cf1d298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-04T01:29:32.619",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cffc406",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unicodepepper",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-24T20:18:17.194",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2",
+      "version": "2655193",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-06T15:49:32.462",
+      "cpu": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "0f7021c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-07T07:17:23.051",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "dc22e6b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JustArticxs",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T11:31:42.912",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "52b781f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-28T05:59:26.635",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyo753",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-24T15:21:41.237",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "d9a694d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

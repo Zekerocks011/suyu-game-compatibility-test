@@ -1,0 +1,30 @@
+{
+  "name": "SKYHILL",
+  "description": "World War III was an unexpected and cruel tragedy… You seemed to have a nice time, hidden in your fancy penthouse in Skyhill Hotel... Till the impact of a bio-weapon blew away the life and world you once knew.\n\nBut that was just the beginning, for now there are mutants everywhere, and they're eager to rip you apart with their vicious claws. Unfortunately, they aren't your only problem: your supplies are getting low. You’re forced to leave your cosy and luxurious hideout and search for food. Walking through the skyscraper is literally going through hell, dangers hide around every corner and death is a steady companion. You weren’t prepared for something like this. \n\nFrom now on, all that matters is survival. And the time is running out.\n\n▪\tRogue-like RPG gameplay in an apocalyptic survival setting\n▪\tRandomly generated maps - fresh start during every session\n▪\tGain experience, craft weapons and look for useful objects\n▪\tFace an army of nightmarish creatures\n▪\tGo for the head or land a body shot – choose wisely\n▪\tEver wanted to be MacGyver? Everything you find may become helpful!\n▪\tDifficulty levels give you the chance to actually survive this, or try to outlast this hell under the worst conditions\n▪\tOpen end – is there still hope? Come and find out!\n▪\tVarious special abilities to unlock\n▪\tTurn based combat with a sophisticated risk and reward system\n▪\tFast travel with the elevator",
+  "titleId": "0100A0A00D1AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/56470eaeddc640fcce748865fd7ea3a91345729a7130a7c84c0f3e4a1004e963.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-01T21:31:32.153",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-25T19:39:38.907",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "ae1bd98",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

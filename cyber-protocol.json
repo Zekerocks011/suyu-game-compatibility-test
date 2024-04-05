@@ -1,0 +1,19 @@
+{
+  "name": "Cyber Protocol",
+  "description": "Cyber Protocol is an arcade puzzle game set in Cyberpunk scenario with a strong and dynamic gameplay. You impersonate the main hero, whose mission is to bring his Android friend (G0X6) back to life by activating the protocol.\n\n• ABSORBING GAMEPLAY •••••\nThe team has put every effort to turn each of 100 levels into a new, original challenge, not just with different setups, but also with new traps with different mechanics which could be used in various ways. The plan was that each time you go through a stage, you will get as involved as the first time.\n\n• COMPETITIVE ••••\nShare the fun with your family and friends - Cyber Protocol invites up to 4 players to take up the challenge locally! Be careful, only the best hackers can pass it without harm.\n\n• FOR CHALLENGERS ••••\nLooking for more adrenaline?\nTry hacking the system in the arcade mode at an increased pace and with limited lives. The task is hard, but if you are good enough, you can get your place in the top 20 global ranking of cyber hackers!\nGlory, fame and success - it all can be yours!\n\n• FOR RETRO FANS ••••\nMiss retro games style?\nDon't worry - we got you covered! Throw away your old, dusty console, progress in the game and travel back in time to the 80’s by changing game themes and sounds.\n\n• MUSIC PLAYER ••••\nIf you want to relax after the hard work of hacking, sit back and listen to the Cyber Protocol’s Synthwave and 8bit soundtracks before going to the next challenge!\n\n•••• •••• •••• •••• •••• •••• •••• ••••\nCYA IN TOP 20 GLOBAL RANKING, GL&HF\nCYBER PROTOCOL\n",
+  "titleId": "0100C1300DE74000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/65876820096cbe1b07398cfa2e202009ad5d8b7f1484f99f1999806de3ed4ecb.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-24T18:06:34.265",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "692b1e2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

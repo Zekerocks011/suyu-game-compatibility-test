@@ -1,0 +1,41 @@
+{
+  "name": "Rise: Race The Future",
+  "description": "RISE: Race The Future is a racing game set in a near future where a new kind of wheel technology will let you drift on all type of terrains and especially on water. \n\nGame content\n- 60 FPS\n- 2 Player Mode\n- 64 Challenge races with multiple goals\n- 8 Championships (64 races)\n- Time Attack with ghost\n- 10 cars (with 3 decals and 5 colors per car)\n- 4 worlds (with 3 track types : fast, intermediate, twisty / 16 combinations per world)\n- 4 ambiances per world (day, sunset, rain, fog...)\n- 3 boost modes\n- 5 camera views\n- 4 difficulty levels\n- approx. 40 km / 25 miles of road\n\n“Precision drifts, jumps and water zones\"\nThe unique gameplay defined as \"precision drifting\" will suit every player looking for technical and precise controls combined with the immediate fun and ease of an arcade game.\n\n“Wide and technical tracks\"\nNatural environments are enriched and reimagined to create technical racetracks mixing multi-paths water zones and jumps. Inspired by retro arcade rally games the wide surfaces let the player enjoy long powerslides.\n\n“New boost system\"\nPlayers can master different techniques for overtaking and exiting a corner thanks to the combination of several boost systems which set the game appart from usual rally games.\n\n“The most addictive racing gameplay\"\nThe vehicle dynamics is based on realistic physics tweaked to enhance the player's drifting ability. The result makes the handling extremely natural, smooth and precise for the most rewarding driving experience.\n\n“Unlock futuristic race cars\"\nIn addition to the arcade and championship mode, a challenge mode will let the player unlock the futuristic racing cars exclusively designed by Anthony Jannarelly.",
+  "titleId": "01006BA00E652000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3a57ff066edc0ab4b48f39c8b65e8e838238b5c3e7f988fc9393a724a3224b12.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-23T14:49:18.872",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-23T07:30:21.263",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-16T17:49:17.134",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "571698a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

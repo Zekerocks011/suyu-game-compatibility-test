@@ -1,0 +1,19 @@
+{
+  "name": "Bone Marrow",
+  "description": "Bone Marrow is a game in the genre of role-playing board logic puzzles.\n\nThe game proposes to combine numbers in pairs, and these numbers have been paired with objects. Using their combination, you can create better weapons, shields, and potions, which will increase your attack and defense against dark monsters.\n\nBut a wrong move will have consequences!\nIf you enjoy puzzles, medieval aesthetics, and elegantly straightforward gameplay, then Bone Marrow will save the day!\n\nFeatures:\n* New spin on a classic puzzle game\n* Unlockable characters\n* 4 maps to play on\n* 2 player mode\n* Dark medieval aesthetic art and sound",
+  "titleId": "01009E8015704000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5a35daa4c7ed0ad6dbb4fb61856ce8e1076d8a6635e6ecf76eacce8f49f267ec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-28T13:45:10.536",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "e931df8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Pocket Mini Golf",
+  "description": "The gameplay is quite easy  - hold, aim and release to get the perfect trick shot. Don’t overshoot or you’ll fall into the void! Adjust strength, angle and put some curve into your shot. Thanks to the realistic physical engine, the ball behaves naturally. \n\nEnjoy beautiful and charming graphics while listening to chill music. Test your skills on 50 creative levels with clever obstacles. Avoid water, walls, magnets, windmills or it’s game over! Warning -  In some levels, you will have to show off your cleverness! Oh, and grab the bonus diamonds on the way.\n\nAnd what's better than some rivalry with friends? Play courses in a versus mode for up to 4 players on one console! Choose settings for match and fight for the best score! \n\nFeatures: \n\n- Simple and addictive gameplay.\n- 50 unique, creative levels.\n- An advanced physical engine that makes the ball behave realistically.\n- Colorful graphics and enjoyable music.\n- Single-player mode for many hours.\n- Multiplayer for up to 4 players on one console.\n",
+  "titleId": "010000C010E76000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/78f5da80b1a163b0d6f57a085c4ee57baf4aff063fea26d759bcb86460c263e8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-25T17:49:58.583",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-03T19:00:54.184",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-03T19:03:07.388",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

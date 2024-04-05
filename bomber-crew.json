@@ -1,0 +1,19 @@
+{
+  "name": "Bomber Crew",
+  "description": "Bomber Crew is a World-war 2 strategic bombing sim, where completing the objective is just as important as keeping your crew alive, as death is permanent!\n\nTake to the skies in this immersive flight simulation where each mission is a high-risk expedition. Manage everything from fuel, ammo, hydraulics and more in your very own physics based Bomber, which can be customized with an array of liveries and paint jobs!\n\nDanger comes from every angle when the wheels are up; Enemy fighters, flak guns, poor weather and an array of other perilous dangers await, so ensure your Crew are prepared for each mission correctly, and come back victorious!",
+  "titleId": "01007900080B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b84647e29672eec1163dc9d842fa97331c4b96534d4a4aabbd3ace30f132427f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-27T00:35:10.46",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

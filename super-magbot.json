@@ -1,0 +1,19 @@
+{
+  "name": "Super Magbot",
+  "description": "The system of Magnetia is in great peril as an evil villain tears through the galaxy. It’s all down to one robot explorer to save the day – Magbot!\n\nArmed with the power to control both positive (red) and negative (blue) magnetic polarities, Magbot must navigate through a myriad of challenging platforming environments to save his home planet of MagTek.\n\nUse Magnetic Force to Attract: Use the power of magnetic attraction to pull yourself towards platforms and across perilous pitfalls. \n\nUse Magnetic Force to Repel: Magbot is too heavy to jump! Luckily you can use the power of magnetic repulsion to boost yourself through the air! \n\nCollect Star Fragments: Master each level by collecting hard-to-reach star fragments that unlock additional challenges.\n\nEnjoy Classic Gaming Vibes: With vibrant 16-bit style pixel art and  an energetic chiptune soundtrack by Moonsailor.\n",
+  "titleId": "010018D013CAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/28c4e12a51f03f6416eeb4db59844288a6d4047447448f42daa4aa485391c499.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-28T02:36:56.188",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "e931df8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

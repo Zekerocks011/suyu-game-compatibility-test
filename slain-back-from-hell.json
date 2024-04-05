@@ -1,0 +1,19 @@
+{
+  "name": "Slain: Back From Hell",
+  "description": "You control the fate of Bathoryn, a doomed hero in a Gothic world, who seeks to liberate six cursed realms from six deadly overlords.\n\nHe must battle his way through this blighted land, packed with gruesome and lethal creatures before ascending (or sometimes descending) into a stronghold, all the while defeating fiendish traps and vile monsters alike.\n\nAccompanying by the heavy metal visuals is an even heavier metal soundtrack recorded by Curt Victor Bryant (formerly of Celtic Frost).\n\nFeatures\nChallenging ‘elemental’- based melee and magical combat\n\n6 hours of bone-crushing, metal-fuelled mayhem and grisly gore\n\nChoose from 3 unique weapons in your fight against the demon hordes.\n\nFull soundtrack recorded by Curt Victor Bryant formerly of Celtic Frost.\n\nCunningly concealed secrets (shhh).\n\nBoss fights, mini-boss fights, sub-mini- boss fights and macro-sub- mini-boss fights.\n\nNo laborious leveling, no tedious grinding, no wimpy crafting!",
+  "titleId": "0100224004004000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4de590339edcd7227442883e2f050248c9fe4aa2886e2e482d3a72de9aea17a4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-25T18:19:56.446",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "f5705ca",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Touhou spell bubble",
+  "description": "A fusion of rhythm and puzzle in a simple to pick up action puzzle game! 20 characters and 50 arranged tracks from Touhou to do battle with!\n\n■Puzzle action with a new, rythmic beat!\nA simple to control puzzle game with an added layer of rhythm-action combine to produce a whole new puzzle experience played to a catchy beat!\n\n■Play with Touhou Project characters!\nMake use of all 20 characters from Touhou Project, including Reimu and Marisa, and a total of 60 different spell cards to aim for victory!\n\n■Online Battle\nFeaturing two modes: Rank Matches and Private Matches.\n\n・Rank Match\nThe outcome of each match will either increase or decrease your Rank Points. Only the strong shall reign supreme!\nTry your best to achieve the highest rank!\n\n・Private Match\nPlay a private battle casually with your friends!\nWhy not invite your online friends as well?\n\n■Story mode!\nThe game also includes a story mode that you can play by yourself. Travel through the world of Gensoukyo and enjoy an original story, only available here!\n\n■Challenge mode!\nYou will fight against strong enemies with designated characters and spells in the challenge mode.\nThere are also stages with higher difficulty level. Let's challenge it!\"\n\n■A collection of 50 arranged tracks from Touhou Project!\nA total of 50 tracks including, of course, many fan favourites along with 12 exclusive, new tracks only available in Spell Bubble!\n\nMusic Highlights:\nBad Apple!! feat. Nomico\nGrip ＆ Break down !!\nNight of Knights / Knight of Nights\nCirno's Perfect Math Class\nEven the Blossoming Flowers Will Eventually Scatter \nYukemuri TamaOnSen II\nShinkirou\nDance in the Blue Sky, Ink-Black Cherry Blossom\nTouhouYouyoumu ～the maximum moving about～\nGensou no sateraito\nAnd many other famous songs!\n\n【Artist】\nAmateras Records\nA-One\nDemetori\nEastNewSound\nFELT\nIOSYS\nLiz Triangle\nMasayoshi Minoshima \nShibayanRecords\nSilver Forest\nSOUND HOLIC\nSYNC.ART'S feat. Misato\nTaNaBaTa\nAkatsuki Records\nKishida Kyoudan & The Akeboshi Rockets\nShinra-Bansho\nSekkenya\nRD-Sounds\nTamaOnSen\nbeatMARIO\nBUTAOTOME\nYuuhei Satellite\nZUNTATA\n\n■Additional song packs are now available!\nAdditional song packs with plenty more famous tracks are now available!\nIf you want to get even more out of Spell Bubble, check them out.",
+  "titleId": "0100E9D00D6C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16f229e98133cff46332d2a2e13fd769f09efc05f57a1bdff2895ad88877eb1d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-09T21:39:28.999",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "8d1afd1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-03T15:40:54.746",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "07f75ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Daeva",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-19T22:19:48.046",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "8e2f938",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-02T15:19:36.39",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bankbn",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-09T11:04:50.629",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "199a85f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

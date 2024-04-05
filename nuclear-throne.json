@@ -1,0 +1,19 @@
+{
+  "name": "Nuclear Throne",
+  "description": "The indie Super-hit from Vlambeer, finally on Nintendo Switch! Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
+  "titleId": "0100CFE00CE6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/04943741114a56f1c66f94a59048f2714ffb565e1568b6eeea5bab86e5a248a2.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-04T16:48:17.213",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Epic Loon",
+  "description": "They were locked away in stasis, hidden from the human world, in an antiquated piece of obsolete entertainment tech known as a VHS cleaner tape. Their restful prison, where they would remain until the end of time, was foolproof.\n\nBut thanks to a greedy shop owner and an analog cinephile named Joe, those mischievous creatures not of this world were free once more. They would make Joe pay for disturbing their slumber.\n\nBecome the alien. Invade Joe's prized film collection. Dodge his remote-controlled attacks as you destroy that which he most cherishes.\n\nBe gross. Be evil. Be EPIC.",
+  "titleId": "0100262009626000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2598e69f44121975222a5b709764c90e4ab2cee171e064271352fe9a30c746bf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-01T17:53:28.602",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

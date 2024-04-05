@@ -1,0 +1,30 @@
+{
+  "name": "Chicken Range",
+  "description": "Fun and Quirky shoot-em-up game.\n\nThe object of the game is to shoot the chickens using an array of different weaponry, from pistols, to AK47, RPG’s to Alien Ray Guns! Gameplay is set over a field twice as wide as the screen, so you must be constantly moving your aim side to side in order to reach the whole game field.\n\nTo increase the difficulty, the chickens throw eggs at the screen to obscure the player’s field of view. Once your screen is covered….GAME OVER!\n\nDuring each level, ammo crates drop at varying intervals which will refresh your ammo levels and “Shino”.\n\nCarry up to 3 weapons with you; only 4 are available in the earlier levels, the remaining weapons will unlock as you progress through the levels.\n\nThe game contains 15 different levels. Each level introduces different baddie chickens with varying difficulties to kill them due to enhanced protection gear. Chicken types include Riot Police Chickens, Tank Chickens, Ninja Chickens, Helicopter Chickens and many more!",
+  "titleId": "0100F6C00A016000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cbf1bdccbde4e8b0d69c1d5ae0f23f5d2fae8a142eb7e02a3796d16ecb82c821.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T09:44:12.468",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-14T01:52:35.474",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

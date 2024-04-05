@@ -1,0 +1,19 @@
+{
+  "name": "Wax Museum",
+  "description": "A severe storm and car accident force you to seek refuge in an abandoned Wax Museum. But an unknown force doesn’t let you leave it...\nThe marks of time and vandalism don’t hide the beauty and extraordinariness of the exhibits, but where did the burning torches and other signs of life come from? It’s up to you to reveal the terrible secret of the Wax Museum and defeat an ancient Evil!\n\nColorful scenery, animation, and 3D visual effects will make your adventure vivid and fun. Those with a competitive streak can collect bonuses for speed and repeat the quest with new puzzles.\n\nGame features:\n\n- Unusual locations - at many of them you can view 360 degrees or investigate an important section in detail.\n- Find different documents and follow the gripping story of the Museum!\n- Build your collection. Go through scenes again to try new quests and get new rewards!\n- Look behind objects! Your clues may be hidden there.",
+  "titleId": "0100326016A6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0232eebf863783be4da2f747516ba535aef4a4e7b0192bfc889502d965e43d49.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T19:47:55.596",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

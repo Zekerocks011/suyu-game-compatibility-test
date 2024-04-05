@@ -1,0 +1,30 @@
+{
+  "name": "Borderlands: Game of the Year Edition",
+  "description": "Discover the co-op shooter-looter that started it all, crammed with content and enhancements! Equip bazillions of guns as one of 4 trigger-happy mercenaries, each with unique RPG skills. Take on the lawless desolate planet Pandora in pursuit of powerful alien technology: The Vault. With new weapons, visual upgrades, all 4 add-on packs and more!\n\n• Bazillions of Guns: Rocket-launching shotguns, enemy-torching revolvers, SMGs that fire lightning rounds, and tons more.\n\n• Radical Art Style: Traditional rendering combined with hand-drawn textures give Borderlands its iconic style.\n\n• Intense Vehicular Combat: Behind the wheel, engage in frenetic vehicle-to-vehicle combat.\n\n• Co-op Frenzy: Online or together on the couch.",
+  "titleId": "010064800F66A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8e67c09481cf36adc73e2edc0733a0726eb226b22e9b914cf3e8859564345b64.jpg",
+  "tests": [
+    {
+      "tester": "RinMaru",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-30T16:34:54.052",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "f5f35fb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Carppet",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-12T18:02:43.661",
+      "cpu": "AMD Ryzen 3 1300X Quad-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "9de140b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

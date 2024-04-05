@@ -1,0 +1,52 @@
+{
+  "name": "Buried Stars",
+  "description": "\"Buried Stars\" is a new mystery adventure game developed by Team Largo and LINE Games Corporation.\n\n◆ Murder at the scene of the collapse of Survival Audition\nA collapse that broke out at a live broadcast of a survival audition TV show.\nA fatal incident occurs in front of trapped performers and staff.\nWho is the murderer? Why… How could this happen?\n\n◆ Harmonized 3D & 2D graphics and production\nBeautiful 2D characters in a realistic 3D environment that depicts the scene of the collapse, giving the game more dramatic and dynamic effects.\n\n◆ Variety of sounds and realistic performances by veteran voice actors\nVarious original scores and sound effects with outstanding voices of veteran voice actors provide a more immersive game experience.\n\n◆ Social Networking Service ‘Phater’\n‘Phater,’ a fictional social networking service, shows the responses outside the collapse site and sometimes provides hints to help find the truth.\n\n◆ Various Scenario\nIn conversations with survivors, there are various choices. The story branches out in different directions with each decision made, and the results may vary dramatically depending on these choices.",
+  "titleId": "010078C00DB40000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1659ea5170b37eb172e0665e1b813497380e04b737d7d6ef7176a8e12904ccf5.jpg",
+  "tests": [
+    {
+      "tester": "Yukibana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-07T20:30:20.661",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "hosonno_1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-02T14:57:40.109",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "NVIDIA GeForce MX130/PCIe/SSE2",
+      "version": "6c83fca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-07T19:34:17.967",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6a2094a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-07T03:06:56.17",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6a2094a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

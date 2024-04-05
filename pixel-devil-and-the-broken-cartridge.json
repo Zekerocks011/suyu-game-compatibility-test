@@ -1,0 +1,30 @@
+{
+  "name": "Pixel Devil and the Broken Cartridge",
+  "description": "Pixel Devil and the Broken Cartridge is an old school pixel art platformer. The protagonist ends up in the world of 8-bit video games. Help him get through challenging levels, beat various bosses, learn new skills, and find the villain behind the abduction of young women. But more importantly, together you’ll have to find the answer to the big question: why have the characters of old school video games suddenly turned evil?\n\n KEY FEATURES:\nAwesome old school\nAwesome pixel graphics\nAwesome levels\nAwesome bosses\nAwesome 8-bit music\nThe nineties called, they want their awesomeness back!",
+  "titleId": "010011300D52A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b768788b18c3358f669cf5305e3b6668b0fe2e1eacc996f36fba04021b37ab18.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-11T14:54:19.145",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T20:18:03.393",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

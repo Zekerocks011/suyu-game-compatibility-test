@@ -1,0 +1,19 @@
+{
+  "name": "Dragon Sinker",
+  "description": "Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear!\n\nScour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to!\n\nPlus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!",
+  "titleId": "0100356009860000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d664c10c9b91d11dd9e78d2e1fa36b2891b394bbb0f99aae134ec3b73293e7a7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-04-05T00:46:55.129",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

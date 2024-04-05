@@ -1,0 +1,118 @@
+{
+  "name": "STAR WARS™ Jedi Knight: Jedi Academy",
+  "description": "The online multiplayer classic comes to Nintendo Switch™ with modernized controls.  Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker. \n\n- Play with up to 16 online players in six online multiplayer modes including: Siege, Capture the Flag, and Free for All.\n\n- Customize your character by defining both look and gender before entering the Academy to learn the power and dangers of the Force.\n\n- Construct your own Lightsaber from handle to blade. As you progress, discover the power of wielding two Lightsabers or the ultimate double-bladed Lightsaber made famous by Darth Maul.\n\n- Interact with famous STAR WARS characters in many classic STAR WARS locations as you face the ultimate choice: fight for good and freedom on the light side or follow the path of power and evil to the dark side.",
+  "titleId": "01008CA00FAE8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ddf6d69bc68f3e450b0afe566f4a19829067e837705ff7b945719c6beb3fcf23.jpg",
+  "tests": [
+    {
+      "tester": "6flagssouth",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-23T07:08:05.557",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "7c5b867",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-30T08:43:09.43",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "94ed71e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-10T23:18:25.557",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "a6ea0f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-11T11:08:33.147",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "8df00fd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-11T04:38:26.733",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2b4661d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-04T23:46:51.414",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "814bde7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-07T02:46:02.084",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-27T12:10:43.377",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "fea66c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-28T20:23:46.343",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:57:39.043",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

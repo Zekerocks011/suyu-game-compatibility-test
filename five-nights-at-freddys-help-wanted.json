@@ -1,0 +1,63 @@
+{
+  "name": "Five Nights at Freddy's: Help Wanted",
+  "description": "Five Nights at Freddy’s: Help Wanted is a collection of classic and original mini-games set in the Five Nights universe. Survive terrifying encounters with your favorite killer animatronics in a collection of new and classic FIVE NIGHTS AT FREDDY’S™ experiences. “Where fantasy and fun come to life!”\n\nYOU’RE HIRED - Time to get your hands dirty. Repair claustrophobic ventilation systems, troubleshoot broken animatronics that could activate at any moment, or spend your evenings cowering in the nighttime security guard office.\n\nCELEBRATE - Confront your favorite killer animatronics including; Freddy, Bonnie, Chica, Foxy, Springtrap, The Mangle, Funtime Foxy, and Circus Baby.\n\nFUN FUN PRIZES - Toys, Plushies, Bobbleheads, and candy candy candy! Earn super fun prizes you can play with at the interactive Prize Counter! Collect well hidden Faz-Tokens to unlock even more rare collectibles for more SUPER FUN FUN FUN.\n\nPIZZA PARTY - Scenes from classic titles have been updated and remade for a fully immersive experience including; Five Nights at Freddy’s, Five Nights at Freddy’s 2, Five Nights at Freddy’s 3, Five Nights at Freddy’s 4, and Five Nights at Freddy’s: Sister Location.",
+  "titleId": "0100F7901118C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16a92d73d9dd1b75fff79142099b5e8277f573ddeea1f7ed76c8aa0dc1159499.jpg",
+  "tests": [
+    {
+      "tester": "ComputerK",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-25T22:09:52.296",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "funtimeandrefoxy",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-11-08T16:06:00.42",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "bc88d05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-25T01:08:56.067",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-25T01:26:18.831",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-25T22:19:31.35",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

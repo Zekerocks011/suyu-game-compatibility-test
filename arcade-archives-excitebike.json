@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives EXCITEBIKE",
+  "description": "“EXCITEBIKE” is a motorcycle racing game released by Nintendo in 1984. In addition to solo qualifying races, there are final races where you face off against motorcross riders. Each course has its own variety of obstacles. Use all your techniques to avoid the obstacles as you aim for first place. \n*This is the Nintendo VS.SYSTEM version, however the two player mode and track creation function are not included.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100328009800000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc980ca2141f0878cc78ab4206d8cce4d1c3c8bb557d31912546391a18b55637.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T06:23:36.023",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

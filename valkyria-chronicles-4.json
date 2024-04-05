@@ -1,0 +1,96 @@
+{
+  "name": "Valkyria Chronicles 4",
+  "description": "A Continent Engulfed in the Bitter Flames of War!\n\nValkyria Chronicles 4 takes place in the same timeframe as the original Valkyria Chronicles, but focuses on Squad E of the Federation. Commander Claude Wallace and his childhood friends set out to fight for freedom in this desperate war, but bone-chilling blizzards, waves of imperial soldiers, and the godlike powers of the Valkyria stand between them and victory.\n\nThe return of the BLiTZ Battle System and the CANVAS Graphic Engine!\n\nThe Next Generation of the BLiTZ Battle System - The part overhead turn-based strategy, part RPG, and part real-time 3rd person shooter the “BLiTZ” battle system storms onto the battlefield. Fight the imperial threat with more units on bigger maps than ever before. An explosive new unit called the Grenadier and numerous options for both offensive and defensive battle support make their debut in Valkyria Chronicles 4. \n\nA Lush Watercolor World -  The series’ signature hand-drawn visual style is back! Inspired by watercolor compositions, the CANVAS Graphics Engine blends visual elements of reality and imagination to create an expressive world filled with colorful emotions. Watch the journey of Squad E unfold like an interactive painting.",
+  "titleId": "01005C600AC68000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7b38c18aea89010709adb85ff5d00b09d56bad81ef16ccda11c2b7ced7080ae6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-13T20:30:04.734",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "7ec386b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-11T20:37:06.25",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c4d0e7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-13T21:00:48.158",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b52250",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-01T17:23:43.938",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "22bf8ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "matamocos",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-05T02:17:09.457",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-04T17:51:48.873",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "d7fc2f1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-04T03:02:16.119",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "fa19a45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-13T06:44:56.523",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "8b52250",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

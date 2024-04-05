@@ -1,0 +1,118 @@
+{
+  "name": "Diablo® II: Resurrected™",
+  "description": "Diablo® II: Resurrected™ is the definitive remastering of Diablo® II and its Lord of Destruction® expansion—two hallmark entries in Blizzard Entertainment’s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo® II’s timeless gameplay with modern visuals and audio that take advantage of today’s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary’s greatest champions await at the iconic campfire screen—the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo® II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.",
+  "titleId": "0100726014352000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3555961fefd935624036664963fdcc3b4409d223802a52eb30040b3a84d256bc.jpg",
+  "tests": [
+    {
+      "tester": "wchisme_2000",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-16T08:42:46.46",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-26T13:13:56.447",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gbarre200",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-26T04:56:50.492",
+      "cpu": "Intel(R) Core(TM) i9-10940X CPU @ 3.30GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "b450a4f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Stijn_M_H_Germonpre",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-09T21:16:47.384",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "89646e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SneakyRabid",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-22T15:53:14.194",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rafal_Klauzinski",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-03T21:49:15.784",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "973bdb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gbarre200",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-03T03:48:33.661",
+      "cpu": "Intel(R) Core(TM) i9-10940X CPU @ 3.30GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "71c9fbf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SmellyFruitZ",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-16T17:53:00.788",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 590 Series",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gbarre200",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-26T13:29:07.401",
+      "cpu": "Intel(R) Core(TM) i9-10940X CPU @ 3.30GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "wchisme_2000",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-30T03:27:43.026",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Gods Will Fall",
+  "description": "You Are The Last Hope For Humanity\n\nThe gods’ torturous rule over humanity has lasted for millennia.  Bent on cruelty and suffering, they demand to be served with blind worship through an oath of fealty pledged from every man, woman and child. To those who don't submit to the gods’ will; a slow and merciless death awaits.\n \nExperience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.   \n A personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.",
+  "titleId": "0100CFA0111C8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cda2c6b7cbce9bde398afdd0186ed820ea2f4fbe470dfac1c059203f92656bad.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-06T15:35:58.395",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "451642e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-29T10:07:51.415",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

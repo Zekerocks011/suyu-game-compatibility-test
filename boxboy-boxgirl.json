@@ -1,0 +1,118 @@
+{
+  "name": "BOXBOY! + BOXGIRL!",
+  "description": "Think outside the box to save a world in peril! As Qbby or Qucy, you’ll create boxes and use them to surmount more than 270 puzzling stages—the most in the series to date! The box planet is plagued with obstacles, so jump, climb, drift, ride, and warp your way past them in three modes, complete with their own stories, stages, challenges, and techniques. You can even team up for a 2-player adventure starring both star-crossed boxes!\n\nA Tale for Two is a new mode in which—for the first time in the series—two players can work together to solve puzzles… Or one brave player can alternate between Qbby and Qucy! On top of that, there’s a third adventure starring Qudy, the tall one, and thanks to his extra-tall boxes, you’ll even have to think outside the rectangle! As you beat stages, you’ll uncover more, and if you’re efficient, earn medals you can use to score everything from boxy accessories to simple comics to helpful items at the in-game shop. Got your eye on a sweet sailor costume? Then try Balloon Challenge: if you get all ten balloons before the time runs out, you’ll score extra medals!",
+  "titleId": "010018300D006000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7a81c11f95b031e40780e853b46daf5d35ca3b43e098072ed652bb0dd70b290a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-20T01:53:29.1",
+      "cpu": "AMD Phenom(tm) II X4 960T Processor",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "aeb4164",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-05T16:26:12.349",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-01T18:34:16.57",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-01T18:34:23.94",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-06T10:50:08.251",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djgasper93",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-03T09:38:58.928",
+      "cpu": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "L4T3-D4Z3",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-17T20:58:59.965",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz",
+      "gpu": "GeForce GTX 780/PCIe/SSE2",
+      "version": "0a0abcc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-21T17:44:16.942",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "6614fb6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-28T21:46:26.91",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 820M/PCIe/SSE2",
+      "version": "c21af75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-10T02:00:18.145",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "c65c1b9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

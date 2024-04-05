@@ -1,0 +1,30 @@
+{
+  "name": "FunBox Party",
+  "description": "Fun Box party is a perfect party package, because having fun together is the best kind of fun. Three arcade games that are perfect for making any party the best one ever!\n \nIn each of these games, your speed, reflexes and - most importantly - good fun counts. In Up-Up your goal is to jump higher and higher - the one who reaches the goal faster is the winner.\n \nDragons do not only live in legends. You will realize that after playing Dragon Escape. Try to leave its territory as soon as possible, avoiding obstacles along the way. How to avoid dropping down into the abyss or dying from impalement? Be quick!\n \nWouldn't the life be more interesting, if even for just a moment, we could become a... microbe? Who will defeat the intestine first - you, or your rival? Infecting the human body is not that easy - there are enemies waiting on every step.\n \nGetting ready to meet up with friends? We have something for you - Fun Box Party - it's time to start the party!",
+  "titleId": "0100A8F00B3D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3c23838b9ff1d87719f011090af478c7b0f444c10b5edb170395de43f0bb6dae.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T23:29:48.604",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T21:57:29.533",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

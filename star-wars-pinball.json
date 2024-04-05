@@ -1,0 +1,41 @@
+{
+  "name": "Star Wars Pinball",
+  "description": "Feel the power of the Force™ in Star Wars™ Pinball!\n\n19 TABLES CELEBRATING A GALAXY FAR, FAR AWAY\n• Movie Adaptations: Episodes IV - VIII; Rogue One: A Star Wars Story; Solo: A Star Wars Story \n• TV Adaptations: Star Wars: The Clone Wars and Star Wars Rebels\n• Characters: Han Solo, Darth Vader, Lando Calrissian in the Calrissian Chronicles table, Boba Fett, Droids\n• Locations: Ahch-To Island, Mimban\n• Themes: Jedi versus Sith in Masters of the Force, X-wings vs. TIE fighters in Starfighter Assault, or experience the Might of the First Order\n\nNINTENDO SWITCH™ EXCLUSIVE FEATURES AND MODES\nIn addition to HD Rumble and vertical play, Star Wars Pinball boasts several new features and modes exclusive to Nintendo Switch as a standalone product:  \n• Galactic Struggle: Every Star Wars Pinball player in the galaxy will choose to support the light or dark side in a perpetual online digital tug-of-war between the forces of good and evil. Which path will you choose?\n• Career Mode: Designed with short on-the-go gameplay sessions in mind, this mode challenges you to complete very specific pinball-based missions across all 19 tables.  \n   o Choose the path of the Jedi or the Sith as you progress through 50 career ranks. \n   o Some missions involve mastering awesome Star Wars-themed mini-games that might be difficult for some players to access through regular play, such as piloting an X-wing or TIE fighter or fighting Darth Vader in a lightsaber duel.\n• Force Powers and Talents: Collect Holocron Shards during missions to unlock Force powers and talents that yield special in-game bonuses when activated, such as multipliers, slowing down time and more. \n• Cantina Jukebox: Collect the greatest tunes in the galaxy as you play each table. Once you’ve heard a song, you can listen to it any time you like in the game lobby.\n\nAlso, challenge anyone in the galaxy through Galactic Tournaments, League Play and, of course, old-fashioned high scores achieved through Single Player mode.",
+  "titleId": "01006DA00DEAC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e202480e3d294f1896fed9232b99f3f2fb691f5ef750e5af75f6fd3c75ca152a.jpg",
+  "tests": [
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:50:38.586",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-16T12:43:37.665",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "425f17a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-06T14:52:51.537",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "51882c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

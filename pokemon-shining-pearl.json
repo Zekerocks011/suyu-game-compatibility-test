@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon™ Shining Pearl",
+  "description": "Welcome to the Sinnoh region! Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You’ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pokémon and then set off on your journey to try to become the Champion of the Pokémon League. Along the way, you’ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pokémon Palkia.\n\nExplore the Grand Underground, connect with friends, and find rare Pokémon!\n\nUse the Explorer Kit you’ll receive during your adventure to visit the Grand Underground! Here, dig up Pokémon Fossils and valuable treasure, including statues for your very own Secret Base. You can also visit places called Pokémon Hideaways, where you can find Pokémon that live in a variety of different environments—there are some Pokémon that can only be found in these Pokémon Hideaways.  Embark on a Grand Underground adventure with other players through the local* or online communication** of your Nintendo Switch system!\n\nPut on a performance with Pokémon in Super Contest Shows\n\nSuper Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pokémon, who work together to dance and show off their performance skills. You can prepare your Pokémon for your grand performance by giving them snacks, called Poffins, and teaching them impressive moves. Using Capsule Decoration, you can place Stickers to customize the effects that appear when your Pokémon comes out of its Poké Ball™ for battles or Super Contest Shows. Choose a category like coolness, cuteness, or cleverness, and then tap along to the beat and put on a show!\n",
+  "titleId": "010018E011D92000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/52c7985db58362c21b825030d3cf35271013269f3538586db595c25a40b8f925.jpg",
+  "tests": [
+    {
+      "tester": "DWaG",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T22:10:38.673",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DWaG",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T22:12:26.145",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EqualStorm",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-07T16:25:55.58",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 SUPER",
+      "version": "4e9911a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DWaG",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-10T22:57:35.14",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Nobody_Fucking",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-24T01:18:02.888",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6700 XT",
+      "version": "5dac236",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Orpheus",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-15T17:53:33.587",
+      "cpu": "AMD Ryzen 5 5600G with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "8389c24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Nameless19",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-24T22:51:27.888",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "03bd85a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Nameless19",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-24T22:47:25.496",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "03bd85a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-03T09:36:31.313",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "3200520",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PE_Remirax",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-09T06:00:55.221",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "d323d56",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

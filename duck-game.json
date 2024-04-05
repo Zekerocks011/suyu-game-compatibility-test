@@ -1,0 +1,19 @@
+{
+  "name": "Duck Game",
+  "description": "The year is 1984. Ducks run wild in a frantic battle for FAME and GLORY. Win over spectators by destroying your feathered friends with an IRRESPONSIBLE NUMBER OF WEAPONS. One shot and you’re ROASTED. This is DUCK GAME. Finally on Nintendo Switch with more LEVELS, more GUNS and more QUACKING.\n-Battles with up to 4 DUCKS in Online Play, Local Couch Combat or Local Wireless\n-Learn to DESTROY in Single Player Challenge Mode\n-Countless weapons and levels - including new levels FIRST on Nintendo Switch!\n-Create and share YOUR levels with the Map editor\n-The ONLY competitive game on Nintendo Switch with QUACKING",
+  "titleId": "0100750001C70000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/869f21a216a919e498e82801ef721eb7c1a814c089e23d649a206ca718de4257.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-28T22:12:05.339",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

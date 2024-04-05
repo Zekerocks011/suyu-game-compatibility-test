@@ -1,0 +1,118 @@
+{
+  "name": "Hollow Knight",
+  "description": "Hollow Knight is a classically styled 2D action adventure across a vast interconnected world. Explore twisting caverns, ancient cities and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient mysteries at the kingdom's heart.\n\nIncludes free content packs! All new quests, boss battles and secrets!\n• Hidden Dreams: Mighty new foes emerge! New Boss fights. New Upgrades. New Music.\n• The Grimm Troupe: Light the Nightmare Lantern. Summon the Troupe. New Major Quest. New Boss Fights. New Charms. New Enemies. New Friends.\n• Lifeblood: New mapping tools. New Boss fight. Upgraded Bosses. New Music. Hidden Extras!\n• Godmaster: Take your place amongst the Gods. New Characters and Quests. New Boss Fights. Hidden Surprises!\n\nGame Features\n• Classic side-scrolling action, with all the modern trimmings.\n• Forge your own path! The world of Hallownest is expansive and open. Choose which paths you take, which enemies you face and find your own way forward.\n• Evolve with powerful new skills and abilities! Gain spells, strength and speed. Leap to new heights on ethereal wings. Dash forward in a blazing flash. Blast foes with fiery Soul!\n• Equip Charms! Ancient relics that offer bizarre new powers and abilities. Choose your favourites and make your journey unique!\n• An enormous cast of cute and creepy characters all brought to life with traditional 2D frame-by-frame animation.\n• Over 140 enemies! 30 epic bosses! Face ferocious beasts and vanquish ancient knights on your quest through the kingdom.\n• Chart your journey with extensive mapping tools. Buy compasses, quills, maps and pins to enhance your understanding of Hollow Knight’s many twisting landscapes.\n• A haunting, intimate score accompanies the player on their journey, composed by Christopher Larkin.",
+  "titleId": "0100633007D48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/91540557d07599fd6b8d63e544320fc682e71ec8d30f2b7c3d13568af18323be.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-20T16:15:02.958",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "177d1da",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Super3",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-15T19:38:59.005",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GT 710/PCIe/SSE2",
+      "version": "386d0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-10T02:01:44.511",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "c65c1b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-20T16:14:52.337",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "177d1da",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-14T00:57:11.031",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080 SUPER",
+      "version": "b8e2c74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-10T02:01:24.835",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "c65c1b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-09T19:14:42.215",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "e72f303",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PikachuDLICIA",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-02T01:13:55.284",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "939bfee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-26T20:05:02.363",
+      "cpu": "Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ToxaGaming04",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-18T20:31:55.422",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "c55fddf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

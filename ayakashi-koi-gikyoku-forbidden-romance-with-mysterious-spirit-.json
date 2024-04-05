@@ -1,0 +1,52 @@
+{
+  "name": "Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit-",
+  "description": "~Sweet and sour dramatic forbidden love story between a human and mythical spirit~\nEnjoy the voice of famous dubber Mamoru Miyano, Ryohei Kimura, Shinnosuke Tachibana, Natsuki Hanae, Daisuke Hirakawa.\nFoxes are known as a mythical spirit in Japan as the tricking humans by turning into a human being. \n\n□Story\nWhen the stars and the moon appeared in the sky――.\nYou went to visit the concert hall where the lower note echoes rhythmically with vibration.\nTonight, the one playing music is the Visual-Kei band “FOX EAR”. All 5 unique members are wearing a fox ear.\nOnce you hear their voices, the magatama (comma-shaped beads) that you have on your neck beams out the light.\nThis dazzling light made me lose my consciousness and taken back to “FOX EAR” ’s dressing room.\nAs they pressure you to give them the magatama, but as magatama seems out the light again as if to protect you……。 \nAlthough the 5 members noticed that they can’t take it by force, they tried to make you fall for them to get magatama――.\n\n□Characters\nAk!to(暁仁) / CV : Mamoru Miyano (宮野真守)\nKASUM! (霞美) / CV : Ryohei Kimura (木村良平)\nKouseI(晃征) / CV : Shinnosuke Tachibana (立花慎之介)\nU/KI (結生) / CV : Natsuki Hanae (花江夏樹)\nK-suke(螢丞) / CV : Daisuke Hirakawa (平川大輔)\n\n□Illustrations\nYoshiyuki Asajima（浅島ヨシユキ）",
+  "titleId": "010042E00AC80000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a9f9faaffeea60780f73017e6d1c4632948569def0f65b0d9831c1cb1a879cd2.jpg",
+  "tests": [
+    {
+      "tester": "Yukibana",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-15T05:53:47.245",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "ac9e2a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-15T05:49:47.507",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "ac9e2a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-08T02:01:57.695",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6447aeb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-07T02:56:48.11",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6a2094a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

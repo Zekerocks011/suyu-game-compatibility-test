@@ -1,0 +1,19 @@
+{
+  "name": "Atelier Meruru ~The Apprentice of Arland~ DX",
+  "description": "Third release in the Arland series. Princess of the small frontier country of Arls, Meruru plans to use alchemy to stimulate the growth of her small country. Use Synthesis, Explore, and Battle to increase the population within the time limit and boost the advancement of the kingdom. \n\n・Bring greater development to your kingdom through Alchemy\nThe main character Meruru is a princess of a small country. Our goal is to further develop that kingdom and bring greater prosperity to it. Alchemy and exploration, battle and encounters are key elements in the growth of your kingdom. \n\n・Accumulate development points and work to the further growth of your kingdom\nDevelopment points are important for the growth of the kingdom and for building new facilities. They are obtained from listening to the requests of the people and working to fulfill them. Depending on Meruru, the kingdom and achieve growth in a number of different ways. ",
+  "titleId": "0100ADD00C6FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/697e9ed82a9ae2ce1632a4f2f48a944782dd10a0f899ae0b27a9343672e4c393.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-16T09:42:55.221",
+      "cpu": "Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "425f17a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

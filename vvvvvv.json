@@ -1,0 +1,52 @@
+{
+  "name": "VVVVVV",
+  "description": "It’s the game that’ll have you walking on the ceiling and looking up at the floor! VVVVVV is a challenging 2D action/platformer with one deceptively simple gameplay mechanic: Without the ability to jump, Captain Viridian must rely on inverting gravity to advance through hundreds of rooms and solve the puzzles he encounters therein.\n\nThis love letter to the days of 8-bit home computer games features amazing retro gameplay, a genuinely classic visual aesthetic and an earworm chiptune soundtrack created by Swedish musician Magnus Palsson.\n\nFEATURES\n• Open-world environment with six unique areas\n• 20 collectable trinkets scattered throughout the massive game world\n• Abundant checkpoints to reduce the chances of having to repeat areas you’ve already cleared\n• Multiple game modes, including Time Trials and No Death Mode\n• New local cooperative multiplayer mode\n• Silky smooth frame rate (60 fps)\n",
+  "titleId": "0100B1E0022F8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f2e4ca6a6fc31d278d8e377cba650806d698793802f78aedaac59d6528c75b89.jpg",
+  "tests": [
+    {
+      "tester": "LimitedLime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-12T23:52:11.346",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "c3ebbbe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-31T21:59:56.119",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LimitedLime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-09T02:29:15.345",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "d44544c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T02:15:02.955",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

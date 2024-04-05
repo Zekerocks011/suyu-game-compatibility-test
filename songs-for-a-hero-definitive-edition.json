@@ -1,0 +1,19 @@
+{
+  "name": "Songs for a Hero: Definitive Edition",
+  "description": "\"Songs for a Hero is an OLD-SCHOOL SUNG-THROUGH VIDEOGAME EXTRAVAGANZA! Join an unlikely hero as he sings his way through a strange world full of floating platforms, bright and colorful enemies, and many other inexplicable phenomena in an adventure unlike anything you have ever heard! This humorous old-school platformer features a fully dynamic soundtrack that reacts to your every input, meaning that the hero will always sing and crack jokes about whatever is happening to him, whenever it happens.\n\nThe Definitive Edition includes the Heavy Metal DLC \"Songs for the Dead\", the DLC \"Skin Pack\", the epilogue of the main campaign and the Samba DLC \"Samba for a Hero\".",
+  "titleId": "0100802012890000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf3eb359fcc52542906d682f8d21a0d83de2430ca2ff595c6f056ba988a74484.jpg",
+  "tests": [
+    {
+      "tester": "Winston_Lycan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-06T21:55:25.989",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

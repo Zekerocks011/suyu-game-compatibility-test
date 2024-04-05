@@ -1,0 +1,30 @@
+{
+  "name": "Semispheres",
+  "description": "Semispheres is a meditative parallel puzzle game that places dual realities at the heart of its challenge.\n\nIts unique single-player split-screen mechanic challenges your brain by putting you in control of two characters at the same time. \n\nYour left and right side must work together to unfold the mystery by solving clever puzzles in an entrancing ambience.\n\nUsing portals and other abilities to avoid sentries, devise and execute your plan, reuniting the parallel worlds of Semispheres.\n\nKey Features:\nMore than 50 levels, each building on top of each other, culminating with fiendishly complex puzzles\nStealth-inspired gameplay, including abilities like noise-makers, portals, side-swapping, teleporting and more\nImmersive ambient soundtrack by Sid Barnhoorn, composer for Antichamber, The Stanley Parable and Out There\nMesmerizing and soothing bichromatic art style comprised of warm blues and oranges\nA heartwarming story about a boy and his robot, unfolding in parallel with the puzzle progression",
+  "titleId": "01009840046BC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/38fc7039c65cd3de72a7e454d2c9878c4dfd043ddc94256f3e3a9be7b4df020d.jpg",
+  "tests": [
+    {
+      "tester": "legoj15",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-10T00:37:47.237",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090/PCIe/SSE2",
+      "version": "aa0647f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "juan_lopes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-29T07:54:54.456",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

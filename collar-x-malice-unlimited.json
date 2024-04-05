@@ -1,0 +1,19 @@
+{
+  "name": "Collar X Malice -Unlimited-",
+  "description": "The danger has only begun! \n\nReturn to the thrilling, deadly world of Collar X Malice with exclusive Interlude, After Story, and Adonis play modes. Revisit the characters and events of the original game, as you build new relationships while picking up the pieces in the aftermath of the first X-Day Incident. \n\nThen buckle up for an entirely new investigatory experience as you search for traitors hidden deep within the shadowy Adonis organization. Embark on a desperate race against time before the next cataclysmic X-Day arrives!\n\n• Explore New Paths and Mysteries!\nPursue missed opportunities with the original cast, then discover completely original characters and events.\n\n• Investigate Challenging Cases!\nAssemble clues and profile individuals in different times and settings to piece together the complete story.\n\n• Fresh Characters and Options Exclusive to Collar X Malice-Unlimited!\n\nTake on the ultimate challenge of the Adonis storyline - designed for multiple replays! The clock is ticking, and no single play-through will uncover all your foes.",
+  "titleId": "0100E3B00F412000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/20434f555360528084635397765b8afa7a58773e39518a449978de42c10b8e5e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-07T19:09:45.42",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f6bf40b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

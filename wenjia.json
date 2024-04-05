@@ -1,0 +1,19 @@
+{
+  "name": "Wenjia",
+  "description": "Wenjia is a 2D platform game with puzzle-solving elements. Players can freely travel between two realms (the material world and the energy world), each of them with different challenges and obstacles. Players must utilize both realms’ mechanisms to reach their final goal.\n\nWENJIA’s exquisite hand-drawn graphics bring out both the vivid colorfulness of the Matter Realm and the fantastical strangeness of the Energy Realm. The sharp contrast between the two realms offers the players a unique visual feast.\nWorking with game audio talents from Russia, WENJIA’s sound team has created an immersive fantasy environment that features deep woods, eerie ruins, and raging volcanos.",
+  "titleId": "010035600EC94000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6f0c4a42b2d0ac00d0aa69ca44c3ed200df219e5b1ffc25dd876afa5307880a3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-09T06:52:23.349",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "72a7976",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

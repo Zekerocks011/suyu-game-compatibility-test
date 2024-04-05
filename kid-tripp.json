@@ -1,0 +1,19 @@
+{
+  "name": "Kid Tripp",
+  "description": "Kid Tripp has crashed on a mysterious island and now the local wildlife is out to ruin his day. Run and jump your way through 20 levels of intense platforming madness in this tough-as-nails platformer! Have you got what it takes to help Kid Tripp escape?\n\nFeatures:\nSuper challenging, fast paced platforming action.\n\nSilky smooth 60 frames per second.\n\nTwenty levels, four awesome worlds.\n\nSuper cute pixel art by Mike Burns.\n\nOld school soundtrack from Chris Kukla.\n\nOptional challenges to test players' skills to the max.",
+  "titleId": "0100C0A004C2C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf091b7066e63c98dc79ec0867029d7d36e9506f99330ce0432190b18d207a85.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-18T18:16:48.943",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "38fe0a1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

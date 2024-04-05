@@ -1,0 +1,41 @@
+{
+  "name": "Mad Games Tycoon",
+  "description": "In Mad Games Tycoon you build your own Gaming Empire. Start your own game studio in the early 80s. The journey begins in a small garage with little money and limited resources. Create new game concepts, set up your team and develop the next million hit. Research new technologies, train employees and buy new and larger office space.\n\nBuild your empire and dominate the gaming industry!\n\n• Start your own game development studio \n• Buy out your competition\n• Cut deals with publishers or sell your titles direct to market \n• Hire game design legends \n• Buy new and larger office buildings \n• Produce a next-gen game console",
+  "titleId": "010061E00EB1E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b5db36352d2201cd4e5b6990b2af78d7097f97da96801b83783324b9938066d3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-06T18:02:03.827",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "5649946",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-06T19:48:02.547",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "0f7021c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-06T16:21:15.773",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "0f7021c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

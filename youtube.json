@@ -1,0 +1,118 @@
+{
+  "name": "YouTube",
+  "description": "See what the world is watching -- from the hottest music videos to what’s popular in gaming, fitness, movies, shows, news, learning and more. Subscribe to channels you love and browse personal recommendations. ",
+  "titleId": "01003A400C3DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f823e3aa145c520923a84c85aa8a71d67272d9af4013fc4d667582c3ad737d79.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-15T07:32:31.462",
+      "cpu": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-13T19:44:04.651",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "17a7442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-22T14:48:17.241",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 820M/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Gamedev1909",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-28T04:27:14.594",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "235126e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-28T18:17:47.745",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "235126e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Naii_the_Baf",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-15T16:29:33.383",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Naii_the_Baf",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-16T01:58:00.117",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "romoney5",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-10T00:48:14.902",
+      "cpu": "AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1660 Ti with Max-Q Design",
+      "version": "70bdaca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-15T17:05:19.245",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c2e5f47",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-30T18:33:36.406",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d05b067",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

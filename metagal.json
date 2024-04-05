@@ -1,0 +1,30 @@
+{
+  "name": "METAGAL",
+  "description": "Players are thrown into the shoes of \"Meta,\" a cyborg girl, in her quest to rescue her Creator \"Dr Ray\" from the hands of \"General Creeper,\" the evil leader of a rogue army!!\nTo make matters worse, Metagal's sisters were also kidnapped by Creeper and he’s turned them all into battle cyborgs, in order to use their powers so that he can at last, rule the world!! With no other option, Meta must face her sisters, free them, and copy their abilities, if she wishes to take down save those she loves and the world.\nBut even if she can endure 8 stages of intense action, there is still the final confrontation against Creeper himself!\n\nFeatures:\n * Classic jump and shoot style platformer.\n * 16-bit graphics.\n * 8 levels that each have their own unique environment, detailed designs and different gimmick.\n * 30 Enemies types, which doesn’t include the various Bosses.\n * Powerful new weapons that can be obtained by defeating each Gal Boss.\n * Lots of secret collectible items that can be used to power up your character.\n * Soft death penalty with \"Gear\" system allows player to resolve their mistakes with less frustration.\n * Unlockable new characters to play with, each come with their own powers and upgrades.",
+  "titleId": "01009A500D4A8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b8e3323908aec5747a19e665ab5c6b06bf49b079cd5397ad2007b155cb95600a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T16:37:39.634",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-04T11:18:13.581",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b8192f7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

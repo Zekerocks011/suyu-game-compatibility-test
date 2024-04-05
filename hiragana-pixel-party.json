@@ -1,0 +1,19 @@
+{
+  "name": "Hiragana Pixel Party",
+  "description": "A chiptune rhythm-action game that also teaches you something!\n\nLearn to read Japanese Hiragana and Katakana characters in a fun chiptune adventure! Not just for people who want to learn Japanese, this is a game anyone can enjoy.\n\nProgress through 19 different worlds remembering patterns and repeating them in time to an all-original chip music soundtrack! Learn how to recognize the shapes and sounds of each symbol in the Hiragana and Katakana syllabaries. Learn them all and be able to easily read and pronounce Japanese words!\n\nFeatures:\n19 different worlds and themes.\n208 characters.\n192 missions for each syllabary.\n5 gameplay types that challenge you in different ways.\nAll-original score.\n\nHiragana Pixel Party does not teach words or phrases, but teaches how to recognize characters and read them out as words. ",
+  "titleId": "0100F3D008436000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/805c60d574e7f403cd6b6a3243031048fa261c7ce97103b11a9abeac78c1de9f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-12T03:39:06.025",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9de52ba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

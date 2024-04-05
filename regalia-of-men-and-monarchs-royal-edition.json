@@ -1,0 +1,19 @@
+{
+  "name": "Regalia: Of Men and Monarchs - Royal Edition",
+  "description": "Regalia: Of Men and Monarchs is a tactical RPG about the restoration of a fallen kingdom to its former glory. Embark on an adventure that will remind you of your best jRPG experiences - assemble a party of valiant individuals, manage your realms, forge alliances, and vanquish your foes in challenging turn-based combat!\n \nAfter your father’s passing you inherit a wondrous land far, far away... There’s a catch, however, your realm is drowning in terrible debt. Now, through some good old-fashioned adventuring, you have to return your family seat to its long gone greatness!\n\n• Traverse through lands of robust turn-based battles, diverse quests and distinct bosses.\n• Bond with dozens of colorful, fearless characters who will help you in your journey. \n• Tons of humor and a fair amount of epicness; Samurai dwarves?!\n• Hours of demanding gameplay that bring back the best jRPG memories.\n\nThe Royal Edition includes all additional in-game content.",
+  "titleId": "0100FDF0083A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/17969397f9715b13c8819fc517d1d761747821bf7bd0b9a0a9b451ffc24d7a49.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T17:52:29.262",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

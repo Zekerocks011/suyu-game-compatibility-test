@@ -1,0 +1,52 @@
+{
+  "name": "SUPERHOT",
+  "description": "“SUPERHOT IS THE MOST INNOVATIVE SHOOTER I’VE PLAYED IN YEARS!” \n– Washington Post\n\n\"A hallmark of excellence.\" \n– destructoid, 9/10\n\n\"The most innovative shooter I’ve played in years.\" \n– Jimquisition 9.5/10\n\n\"Unlike anything else I've played.\" \n– Polygon 9/10\n\n\"May very well belong in the same set as System Shock and Half-Life.” \n– The Daily Dot 5/5\n\nBlurring the lines between cautious strategy and unbridled mayhem, SUPERHOT is the FPS in which time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing weapons off fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets.\n\nWith its unique, stylized graphics SUPERHOT finally adds something new and disruptive to the FPS genre. SUPERHOT’s polished, minimalist visual language helps you focus on what's most important – the fluid gameplay and the cinematic beauty of the fight.\n\nSUPERHOT features:\n• Endless Mode – how long can you last against unyielding waves of enemies?\n• Challenge Mode – take on SUPERHOT with your bare hands, no restarts, timed runs, and more.\n• Extras – delve further into SUPERHOT with mini-games, ASCII art, and [redacted].\n\nThirty months in the making. Thousands of hours put into development and design. From its humble origins in the 7 Day FPS game jam, through a hugely successful Kickstarter campaign to a plethora of awards and nominations from industry experts, SUPERHOT is a labor of love by its independent, dedicated team and thousands of backers from all around the globe.\n",
+  "titleId": "01001A500E8B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70ab93abe7a7b3e111135610ead3be158cb463b500dc16c191fd40f9dbec99f5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-26T17:12:00.653",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f7292ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-07T17:43:16.684",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "Radeon RX 590 Series",
+      "version": "dc22e6b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-11T15:02:08.548",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Thomas_S",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-07T10:24:25.707",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

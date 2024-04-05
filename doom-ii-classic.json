@@ -1,0 +1,52 @@
+{
+  "name": "DOOM II (Classic)",
+  "description": "Celebrate DOOM's 25th anniversary with the re-release of DOOM II. This beloved sequel to the groundbreaking DOOM (1993) gave players the brutal Super Shotgun to bear against deadlier demons, and the infamous boss, the Icon of Sin. \n\nBattle the demon hordes at home or on-the-go on Nintendo Switch.\n\nThe re-release of DOOM II includes:  \n- The Master Levels, 20 additional levels made by the community and supervised by the developers \n- Local 4 player multiplayer\n- Local 4 player co-op\n\nTo save Earth, you must descend into the depths of hell, survive demon hordes, and take part in the fiercest battle ever.",
+  "titleId": "0100D4F00DD02000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bec32f6a3d00bc5173fccccf15f6a4fbb6cd9780eb7432c35b7ef3958f5ef2c7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-01T10:28:01.549",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "121d223",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-18T21:14:10.215",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "60308c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-24T09:49:06.512",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "1349ade",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-26T12:32:08.012",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "cd4d1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

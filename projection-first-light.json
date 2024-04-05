@@ -1,0 +1,19 @@
+{
+  "name": "Projection: First Light",
+  "description": "Projection: First Light follows the adventures of Greta, a girl living in a mythological shadow puppet world, as she embarks on a journey of self-enlightenment with the assistance of legendary heroes from each culture she explores.\n\nAccompanied by atmospheric visuals and an ethereal soundtrack made with antique instruments used for shadow puppet performances, Projection: First Light takes players on an inclusive voyage through the history of shadow puppets as it evolves through Indonesia, China, Turkey, Greece, and 19th century England.\n\nEarly in her expedition, Greta takes control of a source of light and learns of her ability to manipulate it. Shadows become platforms and walls, other elegant and imaginative solutions irradiate puzzles, and enemies can be dispersed – as Projection: First Light explores themes of worldliness, respect and understanding.",
+  "titleId": "010063901024A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d02f38e1ccb279c91deaf18010a457d3ae3fd4946091d89d9bfdf1fdbcafc019.jpg",
+  "tests": [
+    {
+      "tester": "Uranus",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-22T22:16:18.88",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5600 XT",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Harvest Life",
+  "description": "Put on those rubber boots and fetch your pitchfork! Get your organic farm going! \nDepending on the weather and the local villagers' demands you tend to your fields and take care of your livestock. Sell your products in your farm store to expand your farm. Exciting challenges will add even more adventure to your gameplay. Will you manage to get the carriage through the woods before the wolves get it? Will you find the lost dog in the creepy catacombs? And will you finally win your sweetheart's love? \n\nShow your mettle as an adventurous organic farmer! And then you might be in for a romantic happy ending.",
+  "titleId": "0100D0500AD30000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/af7f1f21d507d05e4ada3b54506f6730f2a68cdd586479581faad7d679c6cdcf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-23T00:40:19.199",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

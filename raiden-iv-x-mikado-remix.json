@@ -1,0 +1,19 @@
+{
+  "name": "Raiden IV x MIKADO remix",
+  "description": "Raiden IV, the popular shoot 'em up arcade and console game, debuts on Nintendo Switch with remixed background music by a superb lineup of artists produced by GAME CENTER MIKADO.\n\nInstill fear in your enemies with devastating attacks and earn the acclaimed title of master Ace!\n\nFeatures:\n- Supports 1 - 2 players (offline)\n- New remixed background music produced by GAME CENTER MIKADO (exclusively on Nintendo Switch)\n- Switch between the “Mikado Remix” BGM set and the “Original” BGM set\n- A full suite of game modes including arcade mode, overkill mode, and more\n- Supports vertical screen play to recreate the full arcade experience\n- Global leaderboard to track the best Aces in the world",
+  "titleId": "0100ECA01410C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e9302d566e6163a6983ebc8ac05a7b2cb4587249c6a16a3caa0251f9372b6f8f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-04T16:50:42.637",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Super Sami Roll",
+  "description": "The wicked Albert VII has captured Sami’s friend Vera and only you can help him save her! But it won’t be easy – you’ll need to roll, grapple, and jump to make it through in the colorful 3D world of Super Sami Roll.\n\nEmbark on a journey rolling through beautiful green fields, deserts dotted with magnificent pyramids, dangerous oozing volcanoes, frigid ice lands and many other memorable places with rolling physics and tons of hidden secrets!\n\nFeatures :\n- Beautiful World: Explore colorful, eye-catching environments, characters and enemies.\n- Level Variety: Play through dozens upon dozens of unique levels\n- 2D & 3D Art: Features a combination of painstakingly hand-crafted pixel art and modern 3D graphics\n- Secret Hunting: Find tons of secrets – including awesome unlockable modes (even a multiplayer one!)\n- Challenges: Progressive difficulty that’s been fine-tuned to keep you engaged until you become a true master!\n- Sami in Style: Customize your character.\n- Great Tunes: Upbeat soundtrack, check!",
+  "titleId": "0100C69014B1E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ff60f8b70058d2d7af7912afe0ba23a754092ad1f52be217d729c5517cd82560.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-10T12:21:03.846",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "42bedc8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Flat Heroes",
+  "description": "When was the last time you felt like a hero? Flat Heroes rewards you with that good old feeling of surviving impossible levels alongside a smooth modern design with a minimalist style. With a simple set of movements — Run. Jump. Dash. Attack. — and delightful controls, Flat Heroes encourages you to stylishly navigate and survive over 300 handcrafted levels, destroy the most epic bosses around and truly be the two-dimensional hero (or heroes!) you’ve always dreamed you could be.\n\nEasy to learn and hard to master; it is easy to pick up and even easier to learn, but don’t let that fool you! During your adventure you will face increasingly difficult challenges that will require you to master the game’s controls on the journey to becoming a true Hero. And while Flat Heroes comes along with a very minimalistic art style, it’s spiced up with stunning effects making it one truly unique eye candy experience.\n\nGot stuck in the campaign or want to survive longer in the challenge modes? Too intense for you to take on alone? Let your friends join the party; Flat Heroes is the perfect couch co-op experience! Invite a few friends, get some pizza and overcome the challenges together!\n\nKey Features:\n*Play alone or share the experience with up to 4 friends on all modes\n*Drop in & Drop Out Co-Op\n*More than 300 Levels\n*Face 10 unique final Bosses\n*Unlimited survival Levels, with daily challenges and Leaderboards\n*Versus Modes offer you and your friends an option to compete against each other",
+  "titleId": "0100C53004C52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/652b689fdcf8b03aa47ad0c19f1d27395cf7bf5aae8b096a25964ba39faf5a3d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-01T21:08:19.855",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

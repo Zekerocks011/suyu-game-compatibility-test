@@ -1,0 +1,19 @@
+{
+  "name": "Sakura Succubus",
+  "description": "Ogasawara Hiroki is a thoroughly average man, until one day, that is, when he’s tasked with taking photos of Japan’s top idol, Ikue Ayu. Hiroki soon finds himself at the mercy of three beautiful women – there’s the cute idol Ayu, the sultry businesswoman Marina, and the airheaded social media star Cosmos.\n\nThey’re all rich, famous, and extremely well-endowed, and they should be utterly unattainable… \nBut, for some reason, they’re insatiably attracted to Hiroki! They can’t get enough of him – and soon, Hiroki’s average life becomes anything but.\n\nFeatures \n* Life simulation gameplay\n* Beautiful manga art\n* Three gorgeous women to romance\n* Available in English, Spanish, German, Japanese and Chinese",
+  "titleId": "0100375012E50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/afa54a1102cd5ac498d8c24c5ce60f7847191b4a43b1fccbfe6a26cc9e7bc2c2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T21:07:04.283",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

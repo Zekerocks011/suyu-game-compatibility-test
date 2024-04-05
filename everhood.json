@@ -1,0 +1,41 @@
+{
+  "name": "Everhood",
+  "description": "Welcome to the world of Everhood\nWhere up is down\nAnd left is right\nWhere time has stopped\nAnd strange characters R O A M\n\nHere you control a wooden doll whose arm has been stolen by a blue gnome…\n\nFeatures\n-Groove to music based battles\n-Embark on a 5-6 hour journey with many twists and turns\n-Expect the unexpected\n-Enter a wild world with visceral visuals accompanied with magical music\n-Conquer a great challenge that awaits the bold...",
+  "titleId": "0100E20014028000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9a5a9abd33985dc4cb5a0b1dd92e2da42e58178c0afa147c4b2c363008958b2c.jpg",
+  "tests": [
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-09T07:28:47.664",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "caebd3f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-28T01:17:26.603",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-22T20:42:47.84",
+      "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "2637ea3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

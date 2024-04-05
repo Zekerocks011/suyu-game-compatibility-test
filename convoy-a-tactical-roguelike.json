@@ -1,0 +1,19 @@
+{
+  "name": "Convoy: A Tactical Roguelike",
+  "description": "Convoy is a tactical roguelike inspired by Mad Max and FTL in which you cross a wasteland in search of parts for your broken ship.\n\nPresented in pixel art and set in a future post-apocalyptic setting, Convoy is a squad based tactical roguelike in its core. You travel with your combat vehicles and convoy across a wasteland to find parts needed to repair your broken spaceship. During your journey you will encounter strangers in randomized scenarios by picking up radio signals.\n\nDepending on the choices you make, signals can either lead to tactical combat, text based dialogue or chance based role-play. Whatever choice you make, you need to keep your convoy and its cargo safe from raiders, privateers and other enemies. Keep upgrading your vehicles, as death is permanent in Convoy.\n\nFeatures:\n\n- A new take on tactical combat: Combat plays out in real time as a high-speed car chase where you need to position your units and use abilities to maximise their effectiveness.\n- Exploration pays: You will encounter many different radio signals, each with a text based event. What doesn’t kill you may reward you with loot.\n- Fully customizable units: Each unit can be upgraded and outfitted with different weapons and abilities, allowing you to customize them to your needs.\n- A randomized planet: Each play-through features different main and side objectives, events, choices, and different consequences to your actions.\n- A cold war turning hot: Three factions vie for control over the planet, your actions tip the scales of balance making you an enemy to everyone. As each faction grows in strength, you need to keep up.\n- Permadeath at the core: Knowing one wrong move could lead to certain death puts you constantly on edge.",
+  "titleId": "010058800E90A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7e492f305798ce59bdf00d343c1a175493e349126842b607b89456b0ab90873a.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T19:58:25.238",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

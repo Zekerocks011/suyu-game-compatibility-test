@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES Thunder Force AC",
+  "description": "The retro horizontal shooter returns in SEGA AGES Thunder Force AC for Nintendo Switch™!\n\nWield devastating weapons to blast your way through the armada of the evil ORN Empire. Change your ship’s speed to deftly navigate the treacherous terrain of five diverse alien planets on your way to the destroy the menacing ORN Base, all the while fueled by an epic chiptune soundtrack.\n\nOriginally released in arcades, the SEGA AGES version lets you relive those memories with an optional arcade cabinet display replete with ambient sounds. There are some surprises for seasoned Galaxy Federation pilots though, as you can now unlock ships from other Thunder Force games, and test your top scores in the online rankings. Rookie pilots need not fear though: this version also boasts save states and a Kids Mode to help you on your mission.\n\nJust remember to power up your ship and stay alert because, regardless of how you play, it’s play for keeps in this pulse-pounding space shooter for the ages!",
+  "titleId": "0100D0800C612000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/04eaf01de4f2d4e7014f03e8c05bde4f07ed41c6040177238ac4f09be48436cc.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-07T19:37:59.262",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-24T13:15:36.179",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bbd83b6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

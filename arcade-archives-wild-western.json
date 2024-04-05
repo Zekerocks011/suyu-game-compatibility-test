@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives WILD WESTERN",
+  "description": "WILD WESTERN is an action game released by TAITO in 1982.\nPlay as a horse-riding sheriff to deal justice with your pistol to the outlaws attacking you from all directions.\nThere are even battles atop the roof of a train. Leap off your horse onto the roof of the train without falling, and shoot down the bad guys before they take over the train!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01001B000D8B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b44905d73a7aa515e1a7fc91cc940957e8727956145940dbba958d31a4cad77f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T22:17:22.372",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

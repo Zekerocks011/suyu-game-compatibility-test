@@ -1,0 +1,52 @@
+{
+  "name": "Unbound: Worlds Apart",
+  "description": "Unbound: Worlds Apart is a challenging, atmospheric and hand-drawn puzzle-platformer set in a universe where all worlds are connected by portals. You control Soli, a gifted young mage who has the power to open portals and control the unique properties of each world - such as inverse gravity, time manipulation, super strength and more. \n\nUsing these newfound skills, Soli must journey across dangerous and mysterious worlds, each brimming with secrets and challenges. You must use every skill Soli has to defeat a ruthless evil that is tearing reality apart, while learning the shocking truth behind your world’s collapse.\n\nGameplay\nYour reflexes and twitch platforming skills will be put to the ultimate test in Unbound: Worlds Apart. As Soli you can explore large worlds full of hidden secrets and unlockable skills that open up even more of the map as you progress.\n\nAlong the way you will meet many weird, wonderful and devious characters, each with rich backstories and dialogue. By completing their quests or listening to their tales of hope and sorrow, you will learn more about Unbound’s grand universe of worlds and the portals that connect them.\n\nKey features:\n• 10 different portals with unique mechanics\n• Vibrant and detailed hand-drawn artwork\n• Twitch platforming with new skills to unlock\n• Challenging puzzles, traps, monsters and bosses\n• A rich narrative, world lore and cast of NPCs\n• Hidden secrets, quests and collectibles",
+  "titleId": "0100C5A013B7A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/55add6b51e0ff56bf193c2894f839a1cd820f1533ffd7a6bfdbb98ef6fb7b2c4.jpg",
+  "tests": [
+    {
+      "tester": "neonstation",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-03T21:05:43.276",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "761fa23",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonstation",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-20T21:29:47.427",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce RTX 2080/PCIe/SSE2",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonstation",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-07T20:59:29.85",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "2147945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonstation",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-06T22:43:20.058",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce RTX 2080/PCIe/SSE2",
+      "version": "6f4ae66",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

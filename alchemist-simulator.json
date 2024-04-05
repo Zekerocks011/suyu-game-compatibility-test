@@ -1,0 +1,19 @@
+{
+  "name": "Alchemist Simulator",
+  "description": "Take on the role of a novice student of alchemical arts, taking over the studio of your famous relative. Will you ever match his legend? Take the challenge to become the most famous alchemist in history!\n\nBecome a powerful magician! Thanks to Alchemist Simulator, you can feel the thrill of excitement associated with the world of magical ingredients (dragon egg - what to deal with it?), spells, and discovering ancient recipes. Will you brew a love potion or a poison?\n\nDiscover an amazing world full of ancient, forgotten recipes and ingredients. Experiment. Be patient and hungry for knowledge. Fortunately, you are not alone - your extraordinary mentor will help you explore the previously unknown arcana of alchemical knowledge and art! Your eternal glory, gold and ... knowledge are at stake!",
+  "titleId": "01001BB014512000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7c3c3f14714348f5597ef1d4474ac1eb3473244d75674a66f1364979846b44f5.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-24T19:30:53.66",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

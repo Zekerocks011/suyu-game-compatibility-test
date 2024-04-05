@@ -1,0 +1,19 @@
+{
+  "name": "Get Over Here",
+  "description": "GetOverHere is a dynamic and competitive arena game that brings out the nostalgic feel of the 90's. The player takes control of a character with a hook gun, where his goal is to pull his enemies and finish them off.",
+  "titleId": "0100B5B00E77C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f5cdfe14fa7878852e92d53db69eb776f6346d7905144d2c63e0f268e163dd7a.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T03:16:32.597",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

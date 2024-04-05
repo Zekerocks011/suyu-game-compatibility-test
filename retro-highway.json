@@ -1,0 +1,19 @@
+{
+  "name": "Retro Highway",
+  "description": "Hit the Retro Highway and return to the days of 16-bit blast processing and pure arcade fun! Retro Highway is a throwback game aiming to combine the accessibility of modern titles with the high-skill challenge and charming aesthetics of old.\n\n• Experience high octane old school action on your console in 60 fps\n\n• Complete daring challenges and compete with your friends or the whole world for the highest scores\n\n• Explore six unique environments ranging from a hot desert freeway to a futuristic moon base\n\n• Customize your playstyle by choosing from a diverse garage of 10+ bikes and by upgrading various powerups\n\n• Embrace the nostalgia rush caused by stylish pixel art visuals and chiptune soundtrack",
+  "titleId": "010004C015EFC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/51e4415c0ef8581083fde136b5d4f0f988cec96cd3d751c7a556d52189f4104e.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-24T16:42:02.193",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "6cd927a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

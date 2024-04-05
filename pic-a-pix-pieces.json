@@ -1,0 +1,19 @@
+{
+  "name": "Pic-a-Pix Pieces",
+  "description": "Pic-a-Pix is a picture logic game, sometimes known as Picross, Nonogram or Hanjie, where whimsical pixel-art pictures are created by solving puzzles.\n\nIn Pic-a-Pix Pieces, large pictures have been split into a number of smaller pieces. Each piece is a puzzle grid, and by solving them all you’ll form a mosaic that reveals a spectacular final image.\n\nPlay alone or solve puzzles with friends! Co-op play supports up to 4 players using any combination of controllers. Touchscreen controls can be used in handheld mode.\n\nThere are more than 300 puzzle grids, from 10x10 to 20x20.  They come together to form 20 huge, colourful pictures. Puzzles are designed by Conceptis Ltd and were created exclusively for this game.\n\nExtra add-on packs will be released regularly as DLC.",
+  "titleId": "010065500C980000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f84c87000cfc1a284de5cff8d5b2e73a5785cfd1f13b34a0517d1e7caf02e4ef.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-01T05:45:05.717",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "d1a04b3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

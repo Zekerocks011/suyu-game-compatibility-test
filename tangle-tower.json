@@ -1,0 +1,19 @@
+{
+  "name": "Tangle Tower",
+  "description": "Freya Fellow has been murdered. The lead suspect? A shadowy figure found looming over her body, wielding a knife. The problem? That suspect... is just a painting.\n\nInvestigate the entirety of Tangle Tower, from the bizarre and eerie gardens, to the cold and ominous crime scene at the very top.\n\nWill you be able to uncover the secrets of Tangle Tower?\n\n• A fully voiced and animated cast of characters\n• Atmospheric original orchestral soundtrack\n• Beautiful digitally painted environments to explore",
+  "titleId": "0100F7600F3B8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8f00fd1213efbb0e1d84c59b9e791a2dfe182934788762827af4b3e4684d2f87.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T16:49:48.618",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

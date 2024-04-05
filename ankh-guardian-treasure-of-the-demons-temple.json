@@ -1,0 +1,19 @@
+{
+  "name": "Ankh Guardian - Treasure of the Demon's Temple",
+  "description": "Our story begins long ago, when Gods still\nruled all. The beloved god Farasis was murdered\nby the feared god Zemet, ushering in an age of\ndarkness. Mustering the last of his strength,\nFarasis forged a magical sword.\n\nOne day, a youth received a divine message. \nThey set out to the Temple of Farasis to answer the god's call...\n\nAnkh Guardian - Treasure of the Demon's Temple is a side-scrolling action game. \n\nThe unique point of this game is how players can interact with their environment:\ndestroy or repair damaged walls in order toprogress through the levels.\nThere is a unique and fearsome boss to fight every 8 stages!\n\nChoose whether your hero is male or female.\nThere are two basic difficulties plus more hidden difficulties.\nThis is a game that both casual gamers and hardcore gamers can enjoy!",
+  "titleId": "010055500CCD2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3a4144a3a2ef87ee1d70ff3cf2c583df960db2505b24666dc6fec2f8f2820d5d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-24T18:04:22.296",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

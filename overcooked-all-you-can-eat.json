@@ -1,0 +1,63 @@
+{
+  "name": "Overcooked! All You Can Eat",
+  "description": "Enjoy hundreds of levels of cooperative cooking chaos across increasingly perilous and obscure kitchens.\n\nOvercooked! Goes Online\n\nFor the first time ever, online multiplayer has been fully integrated into Overcooked! Revisit your favourite kitchens from the first game in ONLINE!\n\nA Visual Feast!\n\nBoth games have been taken to the next level with stunning, enhanced visuals - this is the best that the Overcooked! series has ever looked.\n\nTasty New Content!\n\nNew levels, new chefs and new mayhem - all exclusive to Overcooked! All You Can Eat.\n\nMultiple Modes!\n\nPlayers can enjoy campaign, survival and practice modes, and new to All You Can Eat - assist mode! Assist mode offers a number of options to allow for a less frantic game including slower recipe timeout, increased round timers and the option to skip levels.\n\nAccessible For All!\n\nOvercooked! All You Can Eat contains a features to allow as many players as possible to join in the food frenzy! Scalable UI  and dyslexia friendly text options are all available. \n\nJourney back to the Onion King for a feast of epic proportions in Overcooked! All You Can Eat. ",
+  "titleId": "0100F28011892000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/56338277c4195d07e8061e477ae87ab3f08ee09d31ab77dff8b7aff114cc8e43.jpg",
+  "tests": [
+    {
+      "tester": "Arbaz321",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-03T07:31:44.664",
+      "cpu": "AMD Ryzen 5 5500U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "3200520",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zhixuan23",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-28T07:15:47.725",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "a6d1066",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zhixuan23",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-28T07:15:35.362",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "a6d1066",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zhixuan23",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-28T07:15:53.91",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "a6d1066",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Arbaz321",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-04T20:09:01.645",
+      "cpu": "AMD Ryzen 5 5500U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "aa92ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

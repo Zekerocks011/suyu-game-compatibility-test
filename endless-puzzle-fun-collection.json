@@ -1,0 +1,19 @@
+{
+  "name": "Endless Puzzle Fun Collection",
+  "description": "Candy 2048 Challenge\n\nTest your intelligence in the iconic 2048 game for intense fun! Play in 1-vs-1 multiplayer to really see who is the best!\n\nFeatures:\n•\tWorld famous 2048 game\n•\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n•\tFun and addictive music\n•\tLocal leaderboard\n\n\nYum Yum Line\n\nMatch 5 tiles of the same color, clear lines and make sure you don't get stuck! Fantastic fun for all ages. Challenge a friend and play on the same screen in the local battle mode.\n\nFeatures:\n•\tClassic Line gameplay\n•\tInfinite replayability\n•\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n•\tLocal leaderboard",
+  "titleId": "0100D6A015B12000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/24fdf2282fcf881c71b9130de5e61fc8c458c5dfdea16916c616796f804fb690.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-28T10:09:49.901",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "bcd9f34",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

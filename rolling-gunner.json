@@ -1,0 +1,85 @@
+{
+  "name": "Rolling Gunner",
+  "description": "With its reliance on BAC, humanity had forgotten how to operate even basic transportation, let alone weapons.\nAfter the attacks from BAC and the subsequent social chaos,\nthe human population was reduced by half.\n\nHowever, there was a group within Lerman Matsunaga that foresaw the dangers\nof a dependence on Buster Engines and the BAC that controlled them.\nThis group led the third stage of energy development, an anti-BAC weapon\ndeveloped in secret that would render Busterium inert, called the Rolling Gun.\n\nThe third stage of energy development, the military package of the Rolling Gun\nand the mothership named the Anti-BAC Suppression Independent Control Armament\n\"Rolling Gun\" Deployment Warship RF-42R STORK was rolled out.\n\nMarch 18th, 2061 - \"Operation Downfall\" Commences\n\nThe mission: to destroy BAC, which has turned\nLerman Matsunaga into a fortress.",
+  "titleId": "010076200CA16000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b8763efa449b29b35c0df65d62ea5dab84523e1a4aaf58882c8e45e86ca9ed19.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-12T21:12:16.983",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9a5a85e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-23T11:09:35.171",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-05T13:29:30.972",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-15T18:33:37.794",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T12:54:21.033",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-16T17:18:15.046",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-16T17:18:22.409",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

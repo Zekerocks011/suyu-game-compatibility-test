@@ -1,0 +1,19 @@
+{
+  "name": "Under Night In-Birth Exe:Late[cl-r]",
+  "description": "Rule the Night! Control a deeper, darker fighting experience than ever before. Battle with 21 unique characters, including the all-new Londrekia with his original moves, story, stage, and music. Master devastating new combos and dazzling special attacks in online, arcade, story, and training modes.  Command combatants with different brawling techniques showcasing over 12,000 stunning frames of animation.\nPerfect your style with nearly 1000 character balance adjustments.",
+  "titleId": "010038C00EC34000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a82abb10fe18451297e8f8a004be3ba31bf0acfef0511226731a4334a881c0c8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-22T06:11:56.912",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "7ff1c48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

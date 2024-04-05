@@ -1,0 +1,19 @@
+{
+  "name": "Freddy Spaghetti",
+  "description": "Follow along Freddy's story as you plunge head first into challenges and obstacles. Created in a laboratory machine by the brilliant Dr. P Starr, Freddy’s story turned out to be quite the adventure that would follow.\n\nFreddy uses rope physics to simulate a squishy, stretchy, ropey character. Walk, Run, Jump, Slide, Slap, Smash, Kick, Dodge and Epic Fail your way to the Goal. Overcome the environment, master your spaghetti!\n\nFeatures\n* Fun and easy controls\n* Physics all over the place\n* Unique levels\n* Hilarious and captivating story\n* Professional narration\n* Heaps of personality",
+  "titleId": "010033B0134A2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/abc39d47d19dd0fe109d6564e69b5ae657ecf47795ffd6096c1bbe97d8ad6217.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T19:30:49.134",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

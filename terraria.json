@@ -1,0 +1,52 @@
+{
+  "name": "Terraria",
+  "description": "The world is at your fingertips as you fight for survival, explore for fortune, and dig for glory. Delve deep into cavernous expanses, test your mettle in combat, or construct your own city!\n\nTerraria offers more than ever - including the brand new 1.4.4 Labor of Love Content! \n\nPresenting an impressive catalogue of 5,000+ items, 25+ NPCs, and 400+ enemies and blending elements of classic action games with sandbox-style creativity, Terraria is truly a unique adventure!\n\nThe latest content update includes: \n\nNEW LABOR OF LOVE CONTENT:\n-\tTown Slimes \n-\tAdded Useful Equipment: Shellphone, Terraformer, Lilith's Necklace\n-\tNew Builder Tools: Rubblemaker & Hand of Creation\n-\tNew Blocks and Décor: Reef Blocks, Ancient Bricks, New Paintings, Decorative Life/Mana Crystals.\n-\tAnd so much more to discover! \n\nNEW WORLD SEEDS TO DISCOVER:\n-\tDon’t Dig Up! – The Remix Seed\n-\tGet Fixed Boi – The Zenith Seed\n-\tNo Traps  – The No Traps Seed\n-\tImprovements to existing seeds!\n\nIMPROVEMENTS:\n-\tInventory Improvements\n-\tNumerical Health Bars\n-\tBoss Tweaks\n-\tMelee Overhaul\n-\tAnd so many more improvements!",
+  "titleId": "0100E46006708000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/179c477efcf325e8a44b60f4ffe9bc9dd593b37ffb87f308a229492027fd42ab.jpg",
+  "tests": [
+    {
+      "tester": "DeathFreak0990",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-13T17:15:42.764",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nathandiepeveen",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-03T05:30:44.404",
+      "cpu": "AMD Phenom(tm) II X4 955 Processor",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "63f1dbd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-02-16T17:57:36.854",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 950M",
+      "version": "26ca0b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cynersi",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-18T02:10:12.435",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "01b1759",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

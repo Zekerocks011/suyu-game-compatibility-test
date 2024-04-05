@@ -1,0 +1,52 @@
+{
+  "name": "Stela",
+  "description": "Stela is a cinematic, atmospheric platformer about a young woman witnessing the final days of a mysterious ancient world.\nOvercome daunting challenges, treacherous terrain, and gargantuan beasts while traversing a decaying land. Manipulate the environment to solve elaborate puzzles and creep past dangerous creatures under cover of muted landscapes, all set to an original soundtrack. Survive sweeping environments including mysterious towns, haunting forests, and massive subterranean ruins brought to life in an atmospheric experience.",
+  "titleId": "01002DE01043E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5ea21715d03b5123123714472f124e49a8da613b95fc940a9f58162279f1a41f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-09T23:00:33.67",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "69f816f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T10:35:43.322",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-05T15:31:54.633",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3abab80",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-21T20:41:30.547",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

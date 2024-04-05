@@ -1,0 +1,30 @@
+{
+  "name": "ZERO GUNNER 2- for Nintendo Switch",
+  "description": "Famous for its cool world and innovatively omnidirectional shooting system, ZERO GUNNER 2, is coming back as ZERO GUNNER 2-.\n\nLet’s blast off every enemy's planes from various sides of your screen.\n\nFans who have enjoyed Psikyo Shooting will definitely enjoy this new Zero Gunner 2-.\n\nThe compilation of Psikyo shooting game, ZERO GUNNER 2-, is reviving now!! ",
+  "titleId": "0100A6A00894C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5c40ce1bf570237791c90882e0a3f37b1672fd13e7bd985838c5cd3836fcdd2d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-09T13:58:15.513",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "175fe9c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-28T07:33:03.216",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7d4854f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

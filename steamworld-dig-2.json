@@ -1,0 +1,19 @@
+{
+  "name": "SteamWorld Dig 2",
+  "description": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.\n \nDig your way underground and explore vivid worlds riddled with treasure, secrets and traps. \n\nCombat dangerous enemies at every turn of the underworld’s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat.\n\nUpgrade your gear to forge deeper into the earth and take on bigger challenges.\n\nSwing across large chasms with your Hookshot and fly through caves with the Jet Engine!\n\nAnd finally, learn the truth about your long lost friend...",
+  "titleId": "0100CA9002322000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1983705b01ec44d5d77693794dacfcd414fa6f95543db224579ded410f9a3871.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-14T15:44:18.78",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

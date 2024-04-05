@@ -1,0 +1,30 @@
+{
+  "name": "Amazing Princess Sarah",
+  "description": "You are Sarah, princess of the peaceful realm of Kaleiya. The quiet life of your kingdom was lost the day your father was seduced and then kidnapped by Lilith, a demon mistress. Her only desire is to dominate your empire and kill you. Use your powerful sword to kill all Lilith's minions, then quickly throw the dead body on the next enemy to perform amazing combos! Travel through ice castles, cold dungeons, lava caves and much more - straight to the castle where Lilith hides! Bring your father and king back home!\n\n- Highly detailed pixel-art graphics\n- Smooth action @60 frame per second\n- Lift and throw thousands of enemies!\n- 5 castles\n- 6 dangerous bosses\n- 7 crazy newgame+ modes",
+  "titleId": "01006720150DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2d520c9d02fa5207ad40afde25c9d058772d93e1e66d10952e6cd788e075c50a.jpg",
+  "tests": [
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-26T13:08:10.895",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-25T16:13:32.495",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NEKOPARA Vol.2",
+  "description": "The sequel to NEKOPARA, a touching adventure game that's become a worldwide sensation, is coming to Nintendo Switch!\n\nThis newest edition will feature a new opening movie and theme song, all-new hand-drawn art from NEKO WORKs, and new fully voiced story scenes. The game's gorgeous graphics are all in high definition for a truly complete experience.\n\nAlso included is the bonus story \"NEKOPARA Extra: Kitten Day Promise\"! We're excited to bring all our masters across the world another installment of NEKOPARA!\n\n◆Story\nKashou Minaduki operates the pastry shop La Soleil along with the four neko sisters and his younger sister, Shigure.\n\nAzuki, the oldest sister, has a sharp tongue but is extremely skilled and, underneath it all, very caring. Coconut, the youngest sister, always tries her best, but her clumsiness tends to lead to new problems.\n\nAll the neko sisters care deeply for each other, but lately misunderstandings and petty bickering have caused a rift between Azuki and Coconut. This heartfelt neko comedy tells a story of the growth and maturity of the neko sisters as they encounter a variety of new experiences. As of today, this delightful shop is open for business!",
+  "titleId": "010012900C782000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a38e1f9fccd77fe6b07cee77b3cebaadd56db53191bfd08cbed9503e1a2ddcb2.jpg",
+  "tests": [
+    {
+      "tester": "6flagssouth",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-05T03:53:31.504",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "1dc9b0c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

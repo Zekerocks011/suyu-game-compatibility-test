@@ -1,0 +1,30 @@
+{
+  "name": "CHRONO CLASH: Fantasy Tactics",
+  "description": "Chrono Clash is a blend of classic tactical roleplaying enhanced with enhanced with dynamic action sequences.\nBattle across over 50 maps and missions. Customize your heroes' weapons, armor and skills with over 100 skills, 20 job classes and 200 different items.\n\nGameplay: \nDirect your squad of heroes to take advantage of positioning and timing. Flank enemies or attack them from high ground with ranged weapons. \nClever tactics and strategy will allow you to overcome stronger foes even when outnumbered. Play with either a dynamic camera or traditional isometric camera view.\n\nStory: \nThe Kingdom of Tevalles in turmoil after the King's death. As the new leader of your mercenary company, you are thrust into the intrigue behind the power struggles of the nobility. Recruit other heroes and embark on a journey to change your fate and fortune.",
+  "titleId": "0100EA600B85E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e38489a87a91e7926eff53598f177cd7d5c782c99438a2cab1d1f6e73e277411.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-24T03:30:53.351",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T04:33:32.265",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "931c521",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Classic Pool",
+  "description": "Classic Pool\nClassic Pool is a wonderful, exciting pool game that allows you to test your skills and improve them in a traditional game of pool. You have multiple AI opponents to choose from, many different cues and tables, as well as complete multiplayer for 2 players. The game also comes with handheld, TV and tabletop mod. If you love pool games and want to test your prowess against friends or AI, then check it out today!\nFeatures:\n- Play in multiplayer or against the AI\n- Handheld, TV and Tabletop support\n- Multiple tables and cues",
+  "titleId": "01006740157F8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/79335c856b8f46c1c2127cc66c143e7125f0be7dc93f19acca93ca1c3b65cb28.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-27T09:42:36.441",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8f3ec96",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

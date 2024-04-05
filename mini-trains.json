@@ -1,0 +1,19 @@
+{
+  "name": "Mini Trains",
+  "description": "Mini Trains transport you in a cozy playroom with the best railways tabletop ever, packed with 40 different layouts. You will be challenged to build tracks in situations that constantly get more puzzling. \n\nUse your logic, imagination and engineering skills to safely lead the trains to their final destination. And of course, you get to sit in the driver’s cab and blow the whistle!\n\nEnjoy these features:\n● 40 levels, including 12 specials, that will progressively challenge your logical thinking;\n● Multiple ways possible to build the tracks and solve the riddles;\n● New mechanics regularly introduced such as tunnels, switches and turntables;\n● Peaceful country landscapes with roaming animals and rustic buildings;\n● Historical steam trains and their beloved whistles;\n● Scoring system and collection of achievement trophies.",
+  "titleId": "0100FB700DE1A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f33c90fc66735012f68425281c6356c7c646a6c4f676a8b9280e1e37ad33f817.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T04:30:35.414",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

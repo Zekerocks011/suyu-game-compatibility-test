@@ -1,0 +1,19 @@
+{
+  "name": "Drowning",
+  "description": "Walk through a variety of beautiful low-poly environments as a story unfolds about how he learns to live with his inner demon. You will play in the eyes of a young boy starting out high school in year 7, and play through his following years, where he learns that living with depression is like living with someone trying to put you down all the time. Walk through all the beautiful environments with a lovely soundtrack that suits the current mood of the game, and find all the hidden endings.",
+  "titleId": "010052000A574000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc0f6c9f2f6e5bd9a16a731b2491401392be39352cac19b8d0338b6d8de2cfa0.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-26T15:48:37.28",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "CrossCode",
+  "description": "This retro-inspired 2D Action RPG might outright surprise you. CrossCode combines 16-bit SNES-style graphics with butter-smooth physics, a fast-paced combat system, and engaging puzzle mechanics, served with a gripping sci-fi story.\n\nCrossCode is all about how it plays! Take the best out of two popular genres, find a good balance between them and make a great game. That’s what CrossCode does. You get the puzzles of Zelda-esque dungeons and are rewarded with the great variety of equipment you know and love from RPGs. During the fast-paced battles you will use the tools you find on your journey to reveal and exploit the enemies' weaknesses and at the same time will be able to choose equipment and skills for a more in-depth approach in fighting your enemies.\n\nFeatures:\n- Dive into a massive adventure with a playtime of around 30-80 hours\n- Explore a large world with 7 unique areas and hidden secrets all over the place\n- Fight over 120 enemy types including 30+ boss fights\n- Enter 7 expansive dungeons, all with with unique themes and puzzle mechanics\n- Master over 90 combat arts and even more passive skills\n- Solve over 100 quests with a great variety of tasks and unique challenges\n- 60+ music tracks made by a rice ball (yes)",
+  "titleId": "01003D90058FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/46ca6ae623deb428f999e26676f130b4dbbfb0fe6bbb067e7ff905037e0eaa76.jpg",
+  "tests": [
+    {
+      "tester": "Cyucyu",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-28T01:28:41.262",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "NVIDIA GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "ab33f02",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

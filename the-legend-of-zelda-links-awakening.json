@@ -1,0 +1,118 @@
+{
+  "name": "The Legend of Zelda: Link's Awakening",
+  "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you’ll meet a hilarious assortment of charming characters to which you’ll never want to say goodbye.\n\nIn this new version of the game, the classic soundtrack has been reborn with new arrangements, and now you can equip more items at once, review key conversations, and navigate the map in new ways. Try your hand at the renovated mini-games to earn dolls based on the Super Mario series…or Chamber Stones. These unusual stones can be used to arrange your own Chamber Dungeons; each one is a puzzle in and of itself! Place chambers from dungeons found throughout the game on a series of objective-based grids… Where should the bosses go? How do you get from the entrance to the stairwell? They’re your dungeons, so arrange them however you see fit. To earn more Chamber Stones, you must conquer the main adventure’s dungeons and mini-games or tap any amiibo featuring a The Legend of Zelda character to unlock Chambers exclusive to amiibo.",
+  "titleId": "01006BB00C6F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg",
+  "tests": [
+    {
+      "tester": "Unblockedjam",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-11T05:20:08.576",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GT 710",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JustMob",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-16T07:56:19.173",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 with Max-Q Design",
+      "version": "b79fc85",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Antonio_Reventone",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-07T10:30:33.77",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Unblockedjam",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-11T05:21:37.638",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GT 710",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Unblockedjam",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-11T05:28:29.997",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GT 710",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-17T11:11:59.382",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PAtricio_Wenkulleo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-15T16:44:23.31",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Unblockedjam",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-11T05:20:16.91",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GT 710",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-14T02:47:46.538",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Armee17",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-17T23:58:43.557",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

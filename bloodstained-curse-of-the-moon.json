@@ -1,0 +1,118 @@
+{
+  "name": "Bloodstained: Curse of the Moon",
+  "description": "Play as Zangetsu, a demon slayer bearing a deep grudge, who must travel through perilous lands to defeat a powerful demon lurking in a dark castle. Zangetsu will meet fellow travelers along the way, who can join your journey as playable characters.\n\nSwitching to these characters with their unique abilities will unlock new paths through the treacherous stages. Your choices in recruiting these adventurers will change the difficulty of the game, and may even affect the ending!\n\n*This game is the mini-game promised as a stretch goal of the 2015 Kickstarter campaign for \"Bloodstained: Ritual of the Night.\" ",
+  "titleId": "01004B800AF5A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/54735548254514f77579fd5b7fb6701b5e49d1953d3fd9664b312aa4e626cf5d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-14T22:53:03.563",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "2b6bfbd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-13T01:04:20.241",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T22:58:35.374",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-18T18:12:10.591",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "38fe0a1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-01-07T14:31:00.615",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "84c928b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nathandiepeveen",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-01T14:41:23.143",
+      "cpu": "AMD Phenom(tm) II X4 955 Processor",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "0f209c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-28T21:16:54.516",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "ce842e5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-05-15T22:46:40.182",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-03T00:51:57.761",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "eea7582",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-07T11:37:36.097",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Red Bow",
+  "description": "Red Bow is a top-down, creepy adventure game that sets players in the role of Roh, a young girl who gets trapped in a bizarre nightmare filled with creepy monsters! \n\nRoh finds herself trapped in a strange dark nightmare world. Help her realize what role she plays by exploring creepy environments. \n\nSolve puzzles and find hidden secrets on your adventure. The items you find along the way will decide on which ending you get! \n\nFeatures:\n * Decide people’s fates in the world of the void\n * Explore your environment to solve puzzles\n * Meet creepy eerie monsters\n * Multiple endings\n\nThis game depicts scenes of death and suicide and is not recommended for a younger audience or those who are sensitive of the topic.",
+  "titleId": "0100CF600FF7A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d565573911caf0441fc44476c460ebd1668748c072c1b3918b7f243fd4a6888f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T01:20:13.586",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d465a84",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

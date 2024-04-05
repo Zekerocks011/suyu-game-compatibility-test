@@ -1,0 +1,30 @@
+{
+  "name": "Gekido Kintaro's Revenge",
+  "description": "A year has passed since the epic battle that decided the fate of mankind and claimed the life of the beloved Angela. Dark omens once again tell of the return of an evil presence. Ushi is the last remaining master of the ancient art of Shin-Ken, and he calls upon Tetsuo, his disciple and adopted son, to investigate some strange happenings in a faraway farming village outside the city.",
+  "titleId": "010052A00942A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5f38a769e1bb96186061fc67fddea7c79c0094bfac3d9a712d44a2b9e6575f93.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-08T21:12:34.797",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "851523e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-26T11:24:23.311",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

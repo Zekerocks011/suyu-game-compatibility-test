@@ -1,0 +1,19 @@
+{
+  "name": "Fill-a-Pix: Phil's Epic Adventure",
+  "description": "Create beautiful pixel art as you reveal 120 amazing photographs from Phil's epic trip around the world!\n\nFill-a-Pix is a new picture logic puzzle from the makers of Pic-a-Pix Deluxe, but with huge, scrollable puzzles up to 100 squares wide, you'll reveal pictures much larger and more detailed than ever before!\n\nThe unique Smart Cursor makes playing fluid and satisfying. Options to show where to go next and check your progress so far mean you'll never get stuck.\n\nOften described as a mix of minesweeper and picross, each clue number shows how many squares in a block of nine - the clue itself, plus the eight squares around it - should be filled in black.\n\nYou only need to learn this one rule to start playing Fill-a-Pix but to make sure you understand all the techniques, a full interactive tutorial is included!\n\nPuzzles are designed by Conceptis Ltd - the world's leading supplier of logic puzzles.",
+  "titleId": "010095600AA36000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a6a59ef542128cf3e9fed44f513ae2fe56c7c7fd14030ba85af0c235269ae804.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T20:30:49.175",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

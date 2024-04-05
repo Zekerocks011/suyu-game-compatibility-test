@@ -1,0 +1,19 @@
+{
+  "name": "Freedom Finger",
+  "description": "Classic shmup gameplay blended with melee combat! You're flying a spaceship shaped like a giant hand, so use it! Punch, grab, and shoot enemies to smithereens! The unique grab attack allows you to capture enemies and use their guns as power-ups!\n\nA unique soundtrack including original music by Aesop Rock. Additional music by Red Fang, Power Trip, Com Truise, White Fence, Ty Segall, Makeup and Vanity Set, Drab Majesty, John Maus, Vektroid, Danimal Cannon, and many more!\n\nA fully voiced, fully animated Story Mode starring Nolan North, John DiMaggio, Sam Riegel, and Eric Bauza.\n\nFight your way through 40 handcrafted levels, spread out over 13 worlds! Each world features new enemies, power-ups, and challenges!\n\nA wide selection of difficulty settings. Whether you want to chill and enjoy the story or crank the difficulty for a heart-pounding challenge, we've got you covered!\n\nFeatures an optional \"family friendly\" SFW mode. Censor the middle finger or bleep swear words! Good clean fun!",
+  "titleId": "010082B00EE50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fd828ef2bbf039485b1947f1c79f0fa925ab654d76f20fc78588664f2917ca5a.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T19:56:06.205",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

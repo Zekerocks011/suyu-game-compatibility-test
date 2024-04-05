@@ -1,0 +1,30 @@
+{
+  "name": "She and the Light Bearer",
+  "description": "Follow the Journey of the Little Firefly to seek The Mother deep inside the heart of the unknown forest! Though, this journey won't be easy for such a bug. The Little Firefly has to earn the forest trust and prove their worth by solving riddles, challenges, and puzzles.\nDeeper into the forest, Our Little Firefly will learn the sacrifice of the forest, the horror of the Devourers, and the secret to awaken Mother. \n\nShe and the Light Bearer is a blend of a music album and point and click adventure that borrows its aesthetics from storybook and fairytale. The game emphasized on art, poem, dialogue, and music to deliver the experience. \n\nShe and the Light Bearer is brought to you by Mojiken Studio, Toge Productions, and Pathetic Experience.\n\n- Fairy tale with interesting characters to interact with\n- Fully hand drawn and animated visuals\n- Instrumental acoustic soundtrack that brings you to the heart of the forest",
+  "titleId": "01008CD00C5FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0283d1672f7061477d2289fcad38ceb7183250dc7fc1359ca58b9a9ecf0b6e1d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-17T09:34:40.719",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "b3e80a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-17T09:32:58.498",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "b3e80a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

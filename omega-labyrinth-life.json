@@ -1,0 +1,30 @@
+{
+  "name": "Omega Labyrinth Life",
+  "description": "Take it easy in the latest addition to the series where you buff your bust with every foe you defeat, Omega Labyrinth!\n\nNow, in addition to adventuring through dungeons, you can enjoy the finer things in life. Taking care of flowers, rebuilding the academy, having a little fun on the side...\n\n●A bonafide roguelike RPG you can play again and again!\n\nVenture through a dungeon with different rooms and items every time you challenge it. Power up your gear and make wise use of your skills to defeat your foes. There are even dungeons with 99 floors!\n\n●Expand your bust with every fallen foe! Mightier mammaries lead to greater power!\n\nDefeating foes builds up Omega Power in the chest, increasing bust size and parameters. They go all the way up to a Z cup!\n\n●Raise flowers, rebuild the academy, and more! Enjoy a laid-back life!\n\nThrough planting seeds in the garden and raising flowers, or changing up the decor like the trees, lights or benches, you can change the scenery of the academy like never before in this new addition to the series!",
+  "titleId": "010079200E85C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c98765d0cd9acf1f62a59b980caa302051941539a8c7613970a771e0c7fa6172.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-05T06:20:51.256",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "952e5ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-16T09:36:27.513",
+      "cpu": "Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "425f17a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

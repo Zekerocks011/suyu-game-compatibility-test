@@ -1,0 +1,41 @@
+{
+  "name": "CLANNAD Side Stories",
+  "description": "CLANNAD Side Stories is an anthology of sixteen short stories penned by the scenario writers of the original CLANNAD visual novel.\nFeaturing episodes set both before and after the events of CLANNAD, this collection is fully voiced by a stellar cast and brought to life by the gorgeous illustrations of acclaimed artist GOTO-P.\n\nAvailable in two languages!\nThe text can be set to Japanese or English (audio is Japanese only). This includes in-game text, options, and the digital manual. Language settings can be changed at any time.\n\nPlay using only the touch screen! Play with one hand!\nPlay in handheld mode with the Nintendo Switch Joy-Con™ controllers attached, or detach them and play with just the touch controls! While in tabletop mode or TV mode, everything can be controlled using only the Joy-Con (R), allowing you to play with only one hand! Also available for the Nintendo Switch Lite™. (A separate Joy-Con (R) is required to play with one hand.)\n\nGameplay\nIn this visual novel, players experience the story through onscreen text and visuals, accompanied by the original CLANNAD BGM and the vocal talents of a star-studded cast.\n\nStaff\nScenario: Jun Maeda / Kai / Yuichi Suzumoto / Touya Okano\nIllustration: GOTO-P\nCharacter Design: Itaru Hinoue\n\nCast\nNagisa Furukawa       VA: Mai Nakahara\nSanae Furukawa        VA: Kikuko Inoue\nAkio Furukawa          VA: Ryotaro Okiayu\nTomoya Okazaki       VA: Kenji Nojima\nUshio Okazaki           VA: Satomi Korogi\nYouhei Sunohara       VA: Daisuke Sakaguchi\nMei Sunohara            VA: Yukari Tamura\nFuko Ibuki                 VA: Ai Nonaka\nKouko Ibuki               VA: Yuko Minaguchi\nYusuke Yoshino         VA: Hikaru Midorikawa\nKyou Fujibayashi       VA: Ryo Hirohashi\nRyou Fujibayashi       VA: Akemi Kanda\nBotan                        VA: Machiko Kawana\nKappei Hiiragi            VA: Ryoko Shiraishi\nKotomi Ichinose         VA: Mamiko Noto\nTomoyo Sakagami     VA: Houko Kuwashima\nYukine Miyazawa       VA: Atsuko Enomoto\nMisae Sagara             VA: Satsuki Yukino\nKatsuki Shima            VA: Romi Park\nToshio Koumura        VA: Takeshi Aono\nOther\n*Fully voiced",
+  "titleId": "01007B501372C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa0a52ccdd8703b368c4dd90c4b4e67a266857299870277dbd3aab63eaa3161b.jpg",
+  "tests": [
+    {
+      "tester": "Zarc",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-26T23:46:33.129",
+      "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zarc",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-26T23:46:24.763",
+      "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-01T10:18:41.23",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

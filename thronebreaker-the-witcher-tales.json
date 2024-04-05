@@ -1,0 +1,19 @@
+{
+  "name": "Thronebreaker: The Witcher Tales",
+  "description": "Thronebreaker is a single player role-playing game set in the world of The Witcher that combines narrative-driven exploration with unique puzzles and card battle mechanics.\n\nCrafted by the developers responsible for some of the most iconic moments in The Witcher 3: Wild Hunt, the game spins a truly regal tale of Meve, a war-veteran and queen of two Northern Realms — Lyria and Rivia. Facing an imminent Nilfgaardian invasion, Meve is forced to once again enter the warpath and set out on a dark journey of destruction and revenge.",
+  "titleId": "0100E910103B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0ec477677f6f620b63186f8c62a4c4bfb42e97fac0bdb9740c9df4e67cd9fb2a.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-21T19:45:41.488",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

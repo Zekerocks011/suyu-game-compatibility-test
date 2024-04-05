@@ -1,0 +1,118 @@
+{
+  "name": "LEGO Harry Potter Collection",
+  "description": "The LEGO® Harry Potter™ Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 remastered! This compilation unites the creative prowess of LEGO and the expansive world of Harry Potter, with an exciting journey full of spell-casting, potion-making, puzzle-solving, lessons, dueling and much more for players of all ages to enjoy.\n",
+  "titleId": "010052A00B5D2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/42cd952d4527f87dcc703566637180d2ca516747517bda3abbde1585c4757e0a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-05-08T13:42:52.223",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "f77f0ef",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-10T15:00:04.574",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "d3797be",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-22T12:19:25.458",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-31T18:44:31.883",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "dfbd763",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-26T05:49:30.604",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "3d81e93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-26T18:01:30.016",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "7186bcf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Haondoor",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-12T01:22:56.962",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9e90e07",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-24T18:05:17.521",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "4cf8851",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-17T20:05:53.387",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "af7c548",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "R_av",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-20T09:23:25.334",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "24bd360",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

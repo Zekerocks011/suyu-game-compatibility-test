@@ -1,0 +1,30 @@
+{
+  "name": "Hotshot Racing",
+  "description": "Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. \n\nDeveloped by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era.\n\n16 racing circuits provide the twists, turns and straights conducive to searingly quick racing. Take in coastal, jungle, alpine and Las Vegas desert environments, with each course modelled with the most vivid colours and blue skies for miles.  \n\nTime Trial and Grand Prix modes cater to those who like to compete in classic racing formats, while ‘Cops and Robbers’ and ‘Drive or Explode’ modes offer exhilarating new ways to play. \n\nEach mode is available in single-player, four-player split-screen and eight-player online, while Time Trial is single-player only. Single-player modes run at a blistering 60FPS to deliver one of the fastest depictions of racing possible.  \n\nSmash lap records to rise-up the global online leaderboards or download ghost laps to match your racing lines against the very best.  \n\nMEET THE HOTSHOTS\nKeiko, Xing, Mike, Alexa, Aston, Toshiro, Marcus and Viktor - eight speed addicts that have dedicated their lives to the pursuit of being the greatest racing driver in the world.\n\nA WELL NEEDED BOOST\nEarn boost by drifting and slipstreaming opponents and unleash a one-shot hit of speed to leave them in your rear view mirror. \n\nCATCH THE DRIFT\nDrifting is crucial in Hotshot Racing. Boost charges as the player drifts so maintaining it for as long as possible is vital to preserving maximum speed throughout a race. \n\nDRIVE OR EXPLODE\nIn this mode each car has a bomb attached to it. Drop below a certain speed and BOOM! The trigger speed gets faster and faster, forcing players to maintain impossibly high speeds.\n\nCOPS AND ROBBERS\nRobbers evade the cops. Cops catch the robbers, and in doing so convert them to the police side, leading to an exciting test of skill for the surviving criminals.",
+  "titleId": "0100BDE008218000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9b1f9cf9eb3bcac3dd99620ddefe79d9ee3d578e09019282c1419ba810d446d7.jpg",
+  "tests": [
+    {
+      "tester": "9nOOm",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-10T05:12:39.759",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 with Max-Q Design/PCIe/SSE2",
+      "version": "9aa3dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-09T15:42:06.647",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

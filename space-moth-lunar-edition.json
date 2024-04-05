@@ -1,0 +1,19 @@
+{
+  "name": "Space Moth Lunar Edition",
+  "description": "1CC Games’ first shoot ’em up returns with totally overhauled visuals, all-new enemies and attacks, a deeper scoring system, remixed soundtrack and fresh player powers. Space Moth: Lunar Edition is the ultimate version of the beloved cult classic.\n\nVivid visuals: from reworked nocturnal backgrounds to new enemies and particle effects, graphics have been enhanced to give Lunar Edition a distinct style and flair of its own.\n\nBullet Heaven: enemy attacks have been upgraded using 1CC Games’ custom bullet pattern editor from Star Hunter DX, allowing for intricate kaleidoscopes of death to dodge through!\n\nFrom Beginner to Pro: Lunar Edition adds a flexible new scoring system, built to both raise the skill ceiling so pros can aim for stratospheric high scores, while lowering the barrier to entry so beginners can jump right in.\n\nStellar Sounds: to suit the more intense gameplay in Lunar Edition, all of the game’s cuts have been remixed and reinvigorated to get your blood pumping!",
+  "titleId": "01005B6015B9E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4251e62bee3039b5776c27bddf1744b317a94f6f2d5cbc59d017b5f23b609420.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-02T00:36:36.151",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The Mummy Demastered",
+  "description": "A powerful ancient evil has arisen, and the war to save humanity has begun! The Mummy Demastered throws you into a 16-bit-inspired battle against the undead in a 2D, nonlinear, action-packed adventure. As an elite agent in the monster-hunting Prodigium organization, you must use a variety of weapons, upgrades, and magical artifacts to defend mankind against the supernatural hordes of Princess Ahmanet. Your Prodigium teammates are already on the scene, but HQ lost contact with them hours ago; only by exploring tombs, forests, abandoned tunnels, and the cursed streets of London will you discover the fate of your allies. But beware - Ahmanet commands legions of zombies, insects, plague-ridden vermin, and worse... and if you're not careful, you'll be the next soul in Ahmanet's thrall.\n\nKey Features:\nStunning Retro-inspired graphics\n\nShoot-'em-up action mixed with exploration-based adventuring\n\nAn arsenal of weapons! Use grenades, an assault rifle, a flamethrower, and more!\n\nBattle a variety of horrifying enemies and bosses!\n\nDiscover and collect 50 hidden relics ",
+  "titleId": "0100496004194000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1bcc1d4ed68963d01318aff4e99953d137498a79f3585404fcd20735383db188.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-07-27T07:46:00.249",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "0450434",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-17T16:40:29.994",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

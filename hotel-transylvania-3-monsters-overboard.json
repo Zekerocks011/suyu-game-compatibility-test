@@ -1,0 +1,30 @@
+{
+  "name": "Hotel Transylvania 3 Monsters Overboard",
+  "description": "Dracula, Mavis and the gang have been marooned on the mysterious Lost Islands! \n\nOnly you, with help from lovable little creatures, the Impa, can reunite them with the rest of the Drac-Pack! Lead your Impa team on daring missions to explore the Lost Islands and rescue Frankenstein, Murray and Wayne. \n\nDiscover new Impa varieties – including Frankenimpa, Wolfimpa and more – and use their scary skills to battle fearsome enemies, solve puzzles and save your monster friends, in a hilarious new adventure that continues the story of Sony Pictures Animation’s Hotel Transylvania 3 movie!\n\nJoin Dracula, Mavis and the gang on a Monster New Adventure\n\nA mysterious storm has washed the Drac-pack overboard and only you can save the missing monsters\n\nExplore the legendary lost islands and collect secret treasure\nMeet new friends and battle dangerous enemies\n\nReunite the Drac-pack and save the day in this hilarious new adventure",
+  "titleId": "0100017007980000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/00f2176906a86f51189257749505acc4f68b75dba024d936e2a5a40ae23532e4.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-17T04:33:09.276",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "afd31a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-08T00:45:11.616",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "a18d960",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

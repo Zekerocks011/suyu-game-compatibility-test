@@ -1,0 +1,85 @@
+{
+  "name": "Bakugan: Champions of Vestroia",
+  "description": "Action Role-Playing game with a story based on the hit TV show. The adventure takes players on the ultimate brawl as they befriend Bakugan, gear up and customize their teams for intense battles, and master their skills to become the Champion of Vestroia. Battle solo or online.",
+  "titleId": "0100730011BDC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4057bcaf77bfe8bbe28908348b1d3fe50084a7d807ad8b2e3a51548f1e7036c7.jpg",
+  "tests": [
+    {
+      "tester": "Own_Tom",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-09T08:13:42.696",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "423528f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-13T06:12:06.503",
+      "cpu": "        Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 550 Ti/PCIe/SSE2",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Own_Tom",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-09T08:01:57.269",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "423528f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-22T03:28:00.897",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "394a7ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-08T07:29:37.33",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "6447aeb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-14T01:09:24.467",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "8b52250",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-16T13:56:47.935",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 780/PCIe/SSE2",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

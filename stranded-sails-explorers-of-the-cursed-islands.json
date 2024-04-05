@@ -1,0 +1,19 @@
+{
+  "name": "Stranded Sails - Explorers of the Cursed Islands",
+  "description": "Stranded Sails – Explorers of the Cursed Islands is an open world, exploration and farming adventure full of quests and discovery! You’re ship-wrecked on a mysterious archipelago.  It's up to you to survive and solve the mysteries deep in the heart of the islands, then finally escape! \n\nFarm, craft and cook to survive as you take charge of building a camp full of survivors. With the goal of building a new ship to escape, you set off on a journey across a wealth of islands for useful treasures and items!\n\nMany exciting quests await you – as well as numerous dangers and threats. Will you solve the secret of the cursed islands? It's the only way to escape. Awaken the adventurer deep inside!\n\nKey Features\n•\tExperience an open-world adventure full of story driven-quests \n•\tFarm and cook to survive! \n•\tManage the creation and expansion of your crew’s camp \n•\tExplore a diverse array of different islands by foot or boat \n•\tFight against supernatural dangers and solve the secrets of the cursed islands",
+  "titleId": "010078D00E8F4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ff77ae22afdfdffb600582401f508702ce6a9edfefb648f3965fe134b283bdbd.jpg",
+  "tests": [
+    {
+      "tester": "Pat_G_O",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-06T17:12:56.964",
+      "cpu": "AMD Athlon 3000G with Radeon Vega Graphics     ",
+      "gpu": "AMD 15D8:CC",
+      "version": "70c0c12",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

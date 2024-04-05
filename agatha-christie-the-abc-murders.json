@@ -1,0 +1,41 @@
+{
+  "name": "Agatha Christie - The ABC Murders",
+  "description": "The ABC Murders is an adventure and investigation game adapted from the classic Agatha Christie novel. The player embodies the famous Hercule Poirot in a 3rd person perspective adventure game packed with mysteries. Once again, the private detective will find himself up against a mysterious opponent who goes by the name of \"ABC\". Your intelligence will never have been so challenged! \nYou will have to explore many crime scenes in various cities set in beautiful surroundings across the United Kingdom. Leave no stone unturned when it comes to cross examinations and deadly puzzles!\nObserve, question and explore everything possible in order to make the smartest deductions and understand the murderer’s plans!\n\nKey features:\no Examinations: The player can collect information by examining suspects and paying attention to what they say, how they say it and how they feel.\no Puzzles: The player will have to solve puzzles in order to obtain more clues.\no Brain Deductions: Depending on the clues collected, the player will be able to make deductions and find out more about the murderer.\no Timeline: As the player draws conclusions and progresses through the story, he can use Poirot's Timeline. This means that Hercule Poirot can build a timeline with all the relevant events revealed during the investigation.",
+  "titleId": "010087C011C4E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5cf1dcfcf8ccd49db8c8126e89bd4e3f10a397b614912585fa222c1e1d0db52d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-08T15:16:44.52",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-24T15:19:03.865",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "1855900",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-26T07:38:45.608",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "8f1d179",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

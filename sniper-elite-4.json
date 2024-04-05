@@ -1,0 +1,30 @@
+{
+  "name": "Sniper Elite 4",
+  "description": "Experience tactical third-person combat, gameplay choice and epic sharpshooting across gigantic levels as you liberate World War 2 Italy from the grip of fascism.\n \nUnrivalled sniping freedom. Complete the campaign your way\n \nEpic longshots with bone-crushing X-ray kill cam \n \nTeam-up or go head-to-head with local & online multiplayer\n \nFeel every shot with HD rumble & pan the battlefield with gyroscopic controls",
+  "titleId": "010007B010FCC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cab853febf05d6b7989cfb6e4722757ca024f86b69cc7b63a80f03a2280a37f0.jpg",
+  "tests": [
+    {
+      "tester": "redjersey",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-21T01:48:55.948",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:46:16.239",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

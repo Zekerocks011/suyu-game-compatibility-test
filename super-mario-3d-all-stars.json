@@ -1,0 +1,118 @@
+{
+  "name": "Super Mario™ 3D All-Stars",
+  "description": "Play three classic games at home or on the go—all in one package on the Nintendo Switch™ system! Jump into paintings in Super Mario 64™, clean up paint-like goop in Super Mario Sunshine™, and fly from planet to planet in Super Mario Galaxy™.\n\nRun, jump, and dive with ease!\nMake Mario move using the Nintendo Switch system’s Joy-Con™ controllers. You can also pass a Joy-Con controller to a friend to play the Super Mario Galaxy game in Co-Star Mode! Mario’s movements are as smooth as ever with HD resolution for each game, while still retaining the look and feel of the originals.\n\nListen to timeless Super Mario tunes\nListen to a total of 175 iconic tunes from all three games! Whether you want to get up and dance or take a minute to relax—this collection has music to fit your mood!\n\nDiscover (or rediscover) three of Mario’s most iconic 3D platform adventures, all in one package, available on the Nintendo Switch™ system. Experience Mario’s first foray into 3D platforming in the Super Mario 64™ game, originally released in 1996. Wall jump, backflip, and even fly as you explore paintings and collect Power Stars to save Princess Peach!\n\nSoak up the sun in the Super Mario Sunshine™ game, originally released in 2002, and spray the goop away with your water-spouting pal, FLUDD! You’ll need to collect Shine Sprites and clear the picturesque Isle Delfino of pollution—just look out for Bowser Jr.\n\nDefy gravity as you explore space in the Super Mario Galaxy™ game, originally released in 2007! Help Rosalina restore her ship by collecting Power Stars and save Princess Peach. Gently shake a Joy-Con™ controller to activate Mario’s Spin ability or pass a Joy-Con controller to a friend for some extra help in Co-Star Mode*.\n\nEven when you aren’t playing, you can enjoy the sounds that these worlds (and galaxies!) are so famous for. With three games, modern upgrades, and music-player mode, this collection is filled with fun for both new players and 3D platforming Mario masters. \n\nThe physical version of Super Mario 3D All-Stars (released Sept. 18) will continue to be shipped to retailers and available for purchase through March 31, 2021 or while supplies last. The digital edition will be available through March 31, 2021. Once the digital edition has been purchased on your Nintendo Account, it can be re-downloaded and played if deleted from your device.\n\n*If playing on Nintendo Switch Lite, detached Joy-Con controllers are required and sold separately. See support.nintendo.com/switch/play for details.",
+  "titleId": "010049900F546000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/57c10fc8119099496c5a4fd31b0720a35be0b54a3350838b6e49ff140461b945.jpg",
+  "tests": [
+    {
+      "tester": "Non_Notable",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-26T13:12:41.733",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gdukofficial",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-14T03:43:43.213",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "174a2af",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zeus_Monroe",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-06T12:40:18.911",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "03a59dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-17T21:47:56.736",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "9ee753f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Invocacao_Game",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-12T16:54:41.021",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "653b6ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DWaG",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-10T22:28:43.109",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-15T10:45:48.325",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tomatsu",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-16T12:28:18.047",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tomatsu",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-16T12:28:58.64",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SpideyPlayz",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-10T10:15:08.187",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "ec1b5f1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

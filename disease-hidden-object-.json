@@ -1,0 +1,30 @@
+{
+  "name": "Disease -Hidden Object-",
+  "description": "What is “Disease -Hidden Object-”? :\nThis is a horror adventure game where the player go back and forth in between the real world and the hallucination world.\nThe purpose of this game is to search items and collect scattered documents while solving mysteries and finding out the truth of the abolished hospital.\n\nStory Line :\nThe main character is an ex-doctor who’s license was deprived due to hallucination and auditory hallucination from some kind of a mental disease.\n\nTo get back his doctor license, the main character decides to take the job which his ex-boss offered.\nThe job was to collect medical supplies and materials from a certain abolished hospital.\n\nNothing complicated, just an easy job.\nBut once the main character began to search inside the hospital, he suddenly becomes very sick.\n\nMysterious cat.\nUnusual hallucination.\nMemo which he doesn’t even remember writing.\nThe fearful mysteries of the hospital, the mysterious materials, and the story of the people who existed in the hospital.\n\nThe main character approaches in the horrifying truth while doubting everything that goes in his mind.",
+  "titleId": "01005E600AB64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/83c92c9951e4f4b47fa9d4469990deeb877aedc02d1cacba5a1d151bfa3568d2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-18T16:13:26.085",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-25T03:27:12.358",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

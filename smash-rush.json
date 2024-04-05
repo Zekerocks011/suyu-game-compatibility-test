@@ -1,0 +1,19 @@
+{
+  "name": "Smash Rush",
+  "description": "Rush, hit and smash your way through futuristic alien crystal glass tunnels, avoiding laser beams, traps and other alien obstacles! Explore colourful dimensions in a galaxy far away! Your task is to navigate monumental alien structures, smashing all crystal panels and score bubbles while avoiding deadly obstacles, and laser beams! The procedurally generated levels ensure every run is different!\n\nSharpen your reflexes to climb the leaderboards!\n\nKEY FEATURES\n- Satisfying destruction physics\n- Brilliant, colourful, futuristic dimensions\n- Procedurally generated levels\n- Randomized alien structures\n- Smooth controls ensuring satisfying gameplay\n- Leaderboards\n\nTRICKS & TIPS\n- Follow the score orbs, power ups and crystal panels as they set an optimal route!\n- Be careful to avoid solid obstacles and the laser beams!\n- Listen to warnings about approaching enemies and hidden turrets!\n- Smash through everything on the Triumph levels for maximum score!",
+  "titleId": "010084000FA78000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b26bbc0074def1c381cf4aad3cb9d455d88b79cb8d0b7c0022112e1d1a3a86d.jpg",
+  "tests": [
+    {
+      "tester": "umfhero",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-14T17:18:18.613",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "1b69b6a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Saboteur!",
+  "description": "Saboteur! is the classic retro game hit made by Clive Townsend in 1985 for the ZX Spectrum 8-bit computer. In 1985 Saboteur! received the prestigious award \"The Crash Smash\" from Crash magazine and was high-rated with a 93% score.\n\nNow after 33 years SimFabric in collaboration with Clive Townsend have prepared the special remastered version of Saboteur! for Nintendo Switch™.\n\nIn the game you'll experience the original mission from 1985 version. Additionally the story will continue with new levels and enemies. Now you'll be able to know more about Saboteur and his dark and secret story.\n\n- Original mission from 1985 in two versions ZX Spectrum and Commodore 64\n- New levels\n- New enemies\n- New story\n- New soundtrack and music\n- Over 10 hours of gameplay\n- 5 times bigger than original version\n- 9 retro consoles graphic modes\n- 8 language versions\n- 22 special achievments\n- Secrets and easter eggs to reveal",
+  "titleId": "0100F6F00B9E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/99dd98d86f705bd16664d5c5b3af5b696dd9c2cab55f970606264045938a76f3.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-29T16:45:10.147",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

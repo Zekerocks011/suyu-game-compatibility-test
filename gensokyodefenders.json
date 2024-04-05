@@ -1,0 +1,30 @@
+{
+  "name": "GensokyoDefenders",
+  "description": "Use Traps and Spell Cards to fight back the magical masses in this Touhou Project fan game, now on Nintendo Switch!\n\nBlistering shoot-em-up action meets tactical tower defense as you choose from almost 20 popular characters to stop the fairy onslaught! Take advantage of their unique powers and a selection of tricky Traps to freeze, fry, and blow your enemies away!\n\nPlus, team up with a friend online and beat the tougher stages you couldn’t clear alone!",
+  "titleId": "010000300C79C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e9076e9af7c569e8831765f40b8398b5204abdfa7fa60360fcbe7c4de381243d.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-05T01:01:53.91",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4da4179",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-11T02:58:37.772",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

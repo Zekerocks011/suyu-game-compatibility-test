@@ -1,0 +1,96 @@
+{
+  "name": "Wild Guns Reloaded",
+  "description": "Wild Guns is a fast-paced arcade-style shooter, mixing the Wild West with steampunk. Play as Clint, Annie, Doris, or Bullet the dog with his sentry drone. Grab some friends and play together for some four player action! Each character can jump, dive, and roll to get out of the way of the barrage of bullets enemies let fly – or shoot them down with their own gun!\n\nTwo new characters, each with their own weapons and tactics!\nUp to 4 Players Locally and Online Rankings!\nNew Bosses, New Stages, and Special Weapons!\nNew Modes, including Boss Rush: Time Attack!",
+  "titleId": "0100CFC00A1D8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a98ea7ce27a3016abef1c54bb276980598a4881a52e1ce7872332281beb28c82.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-13T12:15:46.131",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "17a7442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-07T03:10:49.406",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-26T10:04:17.098",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-01-01T01:26:46.896",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-14T00:59:28.297",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "6cc9945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-16T19:28:50.012",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "7bfad18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-03T08:23:27.018",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-08T01:49:17.35",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "f6bf40b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

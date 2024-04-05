@@ -1,0 +1,19 @@
+{
+  "name": "The Big Journey",
+  "description": "The Big Journey is a beautiful, casual jump 'n' roll adventure. Tilt the world to roll around and explore a beautiful world with Mr. Whiskers.\n\nMr. Whiskers loves all types of food, but when the maker of his favorite dumplings goes missing, our pudgy feline hero has no choice but to acquire a taste for adventure. The Big Journey is a roly-poly physics-based experience where players tilt the world to roll Mr. Whiskers safely through spooky caves, scorching deserts, lush valleys and more. Sporting simple but addictive gameplay, crisp storybook visuals, and a toe-tapping original soundtrack, The Big Journey is designed for players age four to ninety-four and more!\n\n- Bounce around 6 magnificent worlds with casual, relaxing gameplay\n- Look for new friends and track down delicious food to fill your belly on 30 gorgeous handcrafted levels\n- Enjoy original soundtracks written by Choconuts",
+  "titleId": "010089600E66A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/487ce6fecc7b8a7a78b5bd6c3cb7574cff809406d4997b7f10b5bc1f89541dee.jpg",
+  "tests": [
+    {
+      "tester": "jcbyn",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-12T09:34:10.352",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "f764d1e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

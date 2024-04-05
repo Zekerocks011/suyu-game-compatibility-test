@@ -1,0 +1,85 @@
+{
+  "name": "STAR WARS Jedi Knight II: Jedi Outcast",
+  "description": "Kyle Katarn’s classic adventure lands on Nintendo Switch™! Experience the legendary single-player epic with modernized controls.\n\n- As Kyle Katarn, agent of the New Republic, use your Lightsaber and the full power of the Force to combat a new evil plaguing the galaxy.\n\n- Choose wisely from an arsenal of 13 weapons including disruptor rifle, thermal detonators, trip mines, and Wookiee bowcaster.\n\n- Test your skills in 24 single-player missions, four epic boss fights, and one unforgettable cantina.\n",
+  "titleId": "0100BB500EACA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3dfaeca1cbf9dbd919e05eb1ddcd221edf0c94df8960ada2e2afc096229221cb.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-14T05:47:29.976",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "dbf907d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-23T12:07:03.55",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "9595a62",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-29T19:20:35.546",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "5ef6867",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-18T15:51:29.926",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "a03c7c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-22T17:46:47.457",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "9158529",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:56:44.023",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-12T09:30:28.853",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "f764d1e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

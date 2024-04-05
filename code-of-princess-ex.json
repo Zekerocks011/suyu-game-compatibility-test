@@ -1,0 +1,85 @@
+{
+  "name": "Code of Princess EX",
+  "description": "Code of Princess EX brings a unique combination of hack-and-slash beat-‘em-up action and role-playing depth to Nintendo Switch™! The story follows Princess Solange of DeLuxia as she fights to restore order in a world where monsters are trying to overtake the human race. Armed with the legendary sword DeLuxcalibur, Solange assembles a team of talented fighters to join her quest. Together, they embark on an epic journey where they will confront the monster uprising and try to discover it’s secret origins.",
+  "titleId": "010034E005C9C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e09908d352237e84d7d9207f9c967f5d64fc79b64db685be8460485036b62aec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-11T14:20:06.015",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "900be73",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-21T07:16:05.431",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-13T18:19:03.073",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-28T23:32:04.865",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "235126e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T10:20:54.604",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-10T06:20:31.25",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "b101090",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-20T20:39:29.502",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "17c3110",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

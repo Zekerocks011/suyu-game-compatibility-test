@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO THE KING OF FIGHTERS 2001",
+  "description": "“THE KING OF FIGHTERS 2001” is a fighting game released by SNK in 2001. The third entry in the King of Fighters NESTS collection, which reaches its conclusion at last in this tournament! 40 characters in total battle it out with a variety of fighting styles! Make a team of up to 4 fighters with the new Tactical Order Select system!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010048200AFC2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/852947e21e34e393ef4b0bd9cc2029db0b8e42e872ca9c52e0e3cea3a78f0e35.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T21:58:21.211",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T21:59:36.671",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

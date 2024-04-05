@@ -1,0 +1,19 @@
+{
+  "name": "Monster Energy Supercross - The Official Videogame",
+  "description": "Live the adrenaline of the 2017 Monster Energy Supercross Championship with the official videogame!\nRace on the official tracks with the official riders from 250SX and 450SX or create your custom rider and bike and conquer the top of the leaderboard.",
+  "titleId": "0100742007266000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/94c5e30ec5869f004ecf671a0564a8e9ac09bf47c9e0780eface00552d6ccf9e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-23T15:04:22.033",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

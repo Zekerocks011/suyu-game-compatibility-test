@@ -1,0 +1,30 @@
+{
+  "name": "Observer",
+  "description": ">observer_ is a cyberpunk, detective thriller set in the year 2084 in Krakow, Poland. The world lies in ruins with corporations seizing power after the fall of governments. You do their bidding. No lie will remain hidden from you, as you hack into the minds of those you interrogate. When your past catches-up, you must act on your own and unravel the mystery of your son’s disappearance. Your name is Daniel Lazarski, you’re an Observer. ",
+  "titleId": "01002A000C478000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6d2ac2212c2301604b95cd78621c3ab1b4a6ebdb5b9c98c4bddbc1ee8ef88d4e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-31T15:53:56.138",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "7510df6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-10T15:15:56.991",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5533b9d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

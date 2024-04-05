@@ -1,0 +1,41 @@
+{
+  "name": "Stones of the Revenant",
+  "description": "Stones of the Revenant is inspired by retro arcade beat-em-ups mixed with elements from your favorite classic action-platformers. Choose from six playable heroes; Radcliffe the Knight, Halvar the Barbarian, Brielle the Sorceress, Galina the Ranger, Isaak the Thief, and Fritz the Tinkerer. Each with their own unique playstyle! Pair up with a friend via local co-op or fight your way solo through the Revenant's followers and their undead minions. Destroy powerful artifacts known as the Stones of the Revenant and defeat the Revenant himself. Don't let looks fool you! This is a challenging quest to save the realm of the living... Are you up for it? \n\nGame Features: \n\nSix unique playable characters\nTwo-player Local Co-op\nRetro arcade style gameplay\nBeautiful pixel art graphics\nFantastic chiptune soundtrack\n",
+  "titleId": "0100AFC00F7B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0944c90fa3434fb73ec4c9e03024b26d0a946734da515b33dc0606e08fda2496.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-22T15:19:56.935",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "613f4ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-28T12:01:23.52",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-01T16:08:11.389",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

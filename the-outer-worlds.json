@@ -1,0 +1,107 @@
+{
+  "name": "The Outer Worlds",
+  "description": "Lost in transit while on a colonist ship bound for the furthest edge of the galaxy, you awake decades later only to find yourself in the midst of a deep conspiracy threatening to destroy the Halcyon colony. As you explore the furthest reaches of space and encounter various factions, all vying for power, the character you decide to become will determine how this player-driven story unfolds. In the corporate equation for the colony, you are the unplanned variable.\n\nKey Features:\n•\tThe player-driven story RPG: In keeping with the Obsidian tradition, how you approach The Outer Worlds is up to you. Your choices affect not only the way the story develops; but your character build, companion stories, and end game scenarios.\n\n•\tYou can be flawed, in a good way: New to The Outer Worlds is the idea of flaws. A compelling hero is made by the flaws they carry with them. While playing The Outer Worlds, the game tracks your experience to find what you aren't particularly good at. Keep getting attacked by Raptidons? Taking the Raptiphobia flaw gives you a debuff when confronting the vicious creatures, but rewards you with an additional character perk immediately. This optional approach to the game helps you build the character you want while exploring Halcyon. \n\n•\tLead your companions: During your journey through the furthest colony, you will meet a host of characters who will want to join your crew. Armed with unique abilities, these companions all have their own missions, motivations, and ideals. It's up to you to help them achieve their goals, or turn them to your own ends.\n\n•\tExplore the corporate colony: Halcyon is a colony at the edge of the galaxy owned and operated by a corporate board. They control everything... except for the alien monsters left behind when the terraforming of the colony’s two planets didn’t exactly go according to plan. Find your ship, build your crew, and explore the settlements, space stations, and other intriguing locations throughout Halcyon. \n",
+  "titleId": "0100626011656000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f3c0d29cca407356296b3013d30302d9fc623bf6ad7d66fe5b493989cea4e811.jpg",
+  "tests": [
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-25T17:02:07.104",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "0b08127",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-13T00:10:19.485",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "01f58b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-29T11:54:30.295",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-16T15:45:44.353",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-02T07:04:37.82",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AQUASEAWING",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-08T07:42:44.066",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 690/PCIe/SSE2",
+      "version": "5b1e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-24T01:20:41.751",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "d340da0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-11-26T07:41:13.022",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "8f1d179",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gigaskun",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-22T08:51:53.705",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

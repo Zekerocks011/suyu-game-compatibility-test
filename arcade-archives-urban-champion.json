@@ -1,0 +1,118 @@
+{
+  "name": "Arcade Archives URBAN CHAMPION",
+  "description": "“URBAN CHAMPION” is a beat 'em up fighting game, first released by Nintendo in 1984. True to its namesake, fighting men duke it out, fist to fist, for the title of \"Urban Champion\"! Go into battle with light and heavy punches, as well as dodging and other defensive maneuvers. Take on a 2 player battle, and try to read your opponents' moves to become the victor!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010042200BE0C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/de67e6a2e757b5f44eb5718aef92c9fcde4a9a2ebe108b2c9c6a2bc3f0d6b655.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-19T17:43:57.939",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GPU/PCIe/SSE2",
+      "version": "fc4729a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-04T02:17:40.151",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-01T15:38:17.242",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "ccdd582",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-27T17:01:58.078",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "bf1adf6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-26T21:00:20.673",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "8d18a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-28T07:05:12.049",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "5df0e06",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-02T18:18:35.697",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "3c736a9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-30T21:43:35.717",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "7b0a8a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-26T20:48:10.919",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "3d81e93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-25T21:38:30.035",
+      "cpu": "Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 860M/PCIe/SSE2",
+      "version": "28516e2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Little Friends: Dogs & Cats",
+  "description": "It's time to meet your new Little Friends! These adorable puppies and kittens can't wait to meet you in the first pet training game for Nintendo Switch™!\nPlay with up to 3 pets at once and own up to 12. Get to know their personalities and feed them their favorite food. Play with your pet using their favorite new toy or take them out for walks and compete in the flying disc tournament, using the Joy-Con™ motion controls or Nintendo Switch touch screen. Each pet has its own personality, behavior and looks. Look after your pet to develop a bond and grow your friendship. Dress them up in more than 600 stylish accessories to make them look their best. Care for your new furry friend to develop a long-lasting friendship.\nPet breeds available: Toy Poodle • Shiba • Chihuahua • French Bulldog • Labrador Retriever • German Shepherd • Japanese Cat • American Shorthair • Scottish Fold",
+  "titleId": "010079A00D9E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fc0292ee8ffa0bcfd1e4a16f3e3b62ba245c0b678b6c95a70af84757d608a462.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-23T03:36:02.712",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "9696923",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-21T14:17:21.761",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "971f101",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Neowar",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-26T15:48:51.518",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-10T14:46:05.622",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "140a19f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

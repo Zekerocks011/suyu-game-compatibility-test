@@ -1,0 +1,30 @@
+{
+  "name": "VAMPYR",
+  "description": "London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal. \n \nWill you embrace the monster within? Survive and fight against Vampyr hunters, undead skals, and other supernatural creatures. Use your unholy powers to manipulate and delve into the lives of those around you, to decide who will be your next victim. Struggle to live with your decisions… your actions will save or doom London. \n \n• BE THE VAMPYR – Fight and manipulate with supernatural abilities\n• FEED TO SURVIVE – Be the savior and the stalker\n• SHAPE LONDON – A web of interconnected citizens reacts to your decisions",
+  "titleId": "01000BD00CE64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ec75c09eef9bb345dd099a921425d25054d2b80ae2340b26e16f6f560b292d6b.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-27T18:02:41.577",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "23b86ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-24T01:20:23.922",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "d340da0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

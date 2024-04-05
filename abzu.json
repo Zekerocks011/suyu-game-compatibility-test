@@ -1,0 +1,30 @@
+{
+  "name": "ABZÛ",
+  "description": "From the artistic mind behind Journey® and Flower®, ABZÛ is a beautiful underwater adventure that evokes the dream of diving. Immerse yourself in a vibrant ocean world full of mystery and bursting with color and life. Perform fluid acrobatics as the Diver, using graceful swimming controls. Discover hundreds of unique species based on real creatures and form a powerful connection with the abundant sea life. Interact with schools of thousands of fish that procedurally respond to you, each other, and predators. Linger in epic seascapes and explore aquatic ecosystems modeled with unprecedented detail. Descend into the heart of the ocean where ancient secrets lie forgotten. But beware, dangers lurk in the depths. \"ABZÛ\" is from the oldest mythologies; AB, meaning water, and ZÛ, meaning to know. ABZÛ is the ocean of wisdom.",
+  "titleId": "0100C1300BBC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ed77455bbbb8c0c9b444a6bd4645828954e7e79e2f69d4b5007a4670c80bdba5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-28T06:58:47.414",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "235126e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-17T20:51:45.791",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "3e6d45c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

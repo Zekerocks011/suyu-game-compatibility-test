@@ -1,0 +1,19 @@
+{
+  "name": "PICROSS S5",
+  "description": "Brand new puzzles for you to enjoy in all four regular game modes: Picross, Mega Picross, Color Picross, and Clip Picross, plus new large puzzles in the bonus Extra content!\nThere are a total of 300 Picross and Mega Picross puzzles, 150 Clip Picross piece puzzles, 30 Color Picross puzzles, and 5 Extra puzzles, a grand total of 485 puzzles!\nLink play data from Picross S, Picross S2, and Picross S3 to unlock the third Extra puzzle.\nFrom this title onwards, the amount of time taken to complete all puzzles in each mode, and to complete all of the puzzles in the game will be displayed.\nAlso, there is now an option to switch to higher contrast colors for Color Picross puzzles.\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+  "titleId": "0100AC30133EC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbc0fe96d9ec8d36313abea79b14528b1de2f3fb54dc1335c5ba6aaa5dedc277.jpg",
+  "tests": [
+    {
+      "tester": "stuken",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-23T15:39:01.181",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "ed8afd8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

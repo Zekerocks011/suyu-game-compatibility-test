@@ -1,0 +1,74 @@
+{
+  "name": "Oceanhorn - Monster of Uncharted Seas",
+  "description": "You wake up and find a letter from your father. He is gone...\nThe only lead is his old notebook and a mysterious necklace. What happened?\n \nExplore the islands of Uncharted Seas, a world filled with many dangers, puzzles and secrets. Fight monsters, learn to use magic and discover ancient treasures which will help you on your quest. Use all your wits and skill to unravel the mysteries of the ancient kingdom Arcadia and sea monster Oceanhorn.\n \nOceanhorn combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one massive action adventure experience you will never forget. \n \nEnjoy an incredible soundtrack from the best video game composers in the world: Nobuo Uematsu (Final Fantasy) and Kenji Ito (Seiken Densetsu).\n \nFEATURE OVERVIEW:\nFull HD, 1080p, 60 FPS\nMusic from legendary Nobuo Uematsu and Kenji Ito\n10+ hours of story driven gameplay.\nMaster magic and swordfight\nFind ancient items to help you on your quest",
+  "titleId": "01007D7001D0E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b1f7db317bb09e1c977f18d8ae8e99f627917e2e807fc416a50f7e4c08484d14.jpg",
+  "tests": [
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-12-02T09:45:54.732",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-25T16:04:18.585",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "ece3a3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-05T21:50:19.158",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-07T21:04:35.848",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gidoly",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-10T02:10:03.626",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "c65c1b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ZjemCiKolege",
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-01T23:13:27.144",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2a2452e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

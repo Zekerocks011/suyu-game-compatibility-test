@@ -1,0 +1,52 @@
+{
+  "name": "ACA NEOGEO GAROU: MARK OF THE WOLVES",
+  "description": "\"GAROU: MARK OF THE WOLVES\" is a fighting game released by SNK in 1999.\n\nThe son of Geese Howard, Rock Howard, who has been raised by Terry Bogard, is the main character in this first episode of a new generation in the \"FATAL FURY\" Series. \n\nNumerous new game mechanics such as the \"Breaking\" feature have been introduced in this acclaimed fighting masterpiece resulting in a game with a variety of deep strategies available to players.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100CB2001DB8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f4a42fa358feb0012d30ef1450aec4eccd4caf5f512794ba3ae1f144df598404.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T15:38:57.223",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T21:48:45.473",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-31T07:28:36.29",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "452ea3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T19:17:26.605",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Super Sportmatchen",
+  "description": "Enjoy a fine selection of sport disciplines, ranging from the frantic and fast paced to the relaxed and playful! Invite your friends, foes and family to a game of fun competitive sports!\n\nFeatures:\n• A collection of highly varied and fantastical sports \n• Team up in a 2 vs 2 tournament or let each sporter fend for themselves\n• Upload your scores to the online leaderboards and gloat together with others around the world\n• Set up your own tournaments by selecting the sports in the order that you want\n• A host of cute animals are waiting to help you out, whether it is by fetching balls, being thrown or being fed delicious candy!\n• Tak Fujii is extreeeme!\n\nFind out interesting facts about your fellow competitors, such as:\nWho has the fastest fingers and the steadiest hands?\n\nWho can withstand the pressure to perform under extreme stress?\n\nWho will flamboyantly brag when the victory is theirs?\n\nWho will reveal themselves as the sore losers that they truly are?\n\nWas your sports career ruined by an unfortunate knee accident? Gloat in your own competitive awesomeness! Enjoy being the best at something! Feel the rush of excitement as you set a new world record! Imagine yourself at the top of the podium!\n\nRemember that winning isn't everything, but winners have more fun!",
+  "titleId": "0100A9300A4AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/392a340f6aba6399b0668f53415da20bc38d421ae800d90bd8c52a0fa262df93.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-27T14:41:06.241",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

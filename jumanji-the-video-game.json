@@ -1,0 +1,63 @@
+{
+  "name": "JUMANJI: The Video Game",
+  "description": "Unite in adventure and laughter in the action-packed game of Jumanji, as you try to survive the ultimate challenge for those seeking to leave their world behind!\n\nOnly you and three teammates can recover the JEWELS and save Jumanji. Gather friends for split-screen play, or go alone with AI companions.  There’s an army of evil marauders to take on, deadly beasts and traps to dodge, and cool customizations to unlock. And with heroes Dr. Bravestone, Ruby, Mouse, and Prof. Oberon as your avatars, you know you’ve got the unique abilities – and hilarious failings – to save the day!\n\n• RETURN TO THE JUNGLE – Play as movie heroes Dr. Bravestone, Ruby, Mouse, and Prof. Shelly in a hilarious new 3D action adventure\n\n• TEAM UP – In split-screen modes, work together with up to three friends or AI teammates to defeat enemies, survive deadly traps, and save the world \n\n• DANGEROUS LOCATIONS – The world of Jumanji gets bigger with beautiful but deadly new mountain, city and jungle environments\n\n• ENDLESS ADVENTURE – As you hone your skills and strategies, and unlock new outfits and weapon styles, no two rounds of Jumanji are ever the same!\n\n",
+  "titleId": "0100B4D00C76E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7fe816f9bee148912ec5494b3fa0277e22837f2df91f3223685ba695c9f3ebed.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-25T20:19:11.291",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T21:57:41.514",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-17T11:48:02.891",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070 with Max-Q Design/PCIe/SSE2",
+      "version": "748ee4d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-19T13:54:07.618",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "17c3110",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:01:44.098",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

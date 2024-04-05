@@ -1,0 +1,19 @@
+{
+  "name": "Sephirothic Stories",
+  "description": "Shendoah―a world protected by Sephiroth. However, with the power of the world tree having begun to wane, countless people have been overcome by an encroaching murk that has transformed them into monsters. Now with the world on the verge of destruction, an unlikely band sets out an adventure with their convictions...\nYet, what shocking truth awaits them at the end of their journey...?\n\nNavigate trap-filled dungeons using only your mind and wit to conquer challenging puzzles! Use individual character abilities to make headway and unleash powerful attacks called “fusions” in turn-based battles! Weapon upgrades and many subquests are available for additional enjoyment.",
+  "titleId": "010059700D4A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/14bbcc2fe64c7a9af119e9e55cef09568984a2cc419cb8d217b7d9bfb413457f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-22T09:20:28.472",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b6a48d2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

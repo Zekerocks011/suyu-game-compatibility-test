@@ -1,0 +1,30 @@
+{
+  "name": "Pankapu",
+  "description": "Jump into a neo-retro adventure with Pankapu : a taste of 90’s platformers in an oneiric world. Pankapu is a narrative action-platformer that takes place in the dreams of Djaha’rell, a child troubled by a tragic incident. Upgrade your skills, find new competencies, switch your Aegis in real time in order to get rid of Nightmare's invasion: \"Fight for the safety of your land, dear Dreamkeeper\".\n\nTold in the manner of a fable read to a child, the game has two levels of reading: the tale of Pankapu, epic and naïve, and the one about Djaha’rell's life, in the real-world, dark and tragic.",
+  "titleId": "0100635006C32000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/67f6044dcd0dead6e22646cdd5cf8581d212c515bc0029e26e15100e4dd90370.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T06:08:30.908",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-27T18:25:24.751",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

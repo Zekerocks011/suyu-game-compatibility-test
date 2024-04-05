@@ -1,0 +1,118 @@
+{
+  "name": "Crash™ Team Racing Nitro-Fueled",
+  "description": "Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:\n\n- Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls\n- Power slide to glory in additional karts, tracks and arenas from Crash™ Nitro Kart\n- Race online with friends and Crash the competition with online leaderboards\n- Customize your ride and swag out your racer with n. sane kart items and skins\n\nWith Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.\n\nINTERNET REQUIRED for Wumpa Coins, Grand Prix, online Multiplayer and other features.",
+  "titleId": "0100F9F00C696000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d5c9d185a4a4aeab98c00f06f018db41f48ccd02d257ec99cc9873eefb5572ea.jpg",
+  "tests": [
+    {
+      "tester": "luis_sbo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-15T09:47:56.476",
+      "cpu": "       Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "bc7083d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Invocacao_Game",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T17:22:43.921",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "1335ddb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-08T11:24:02.122",
+      "cpu": "       Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "b2c07a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-05T22:07:07.835",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "884f989",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-15T04:45:07.723",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU/PCIe/SSE2",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-06T15:07:18.654",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-08T21:02:13.974",
+      "cpu": "       Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "b2c07a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Bugi777",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-05T16:11:30.265",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-24T19:22:12.397",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "2655193",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ImBomDam",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-31T05:18:37.351",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "61926e6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

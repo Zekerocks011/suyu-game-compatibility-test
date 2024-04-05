@@ -1,0 +1,30 @@
+{
+  "name": "Death Squared",
+  "description": "Death Squared is a puzzle game about cooperation, communication, and robot explosions.\n\nDoes anyone actually read these descriptions? They do? And there's someone reading right now? Well, in that case: Death Squared is a cooperative puzzle game for 1, 2, or 4 players, best enjoyed with loved ones who don't mind a little arguing for the greater good.\n\nProve your teamwork skills in Death Squared as you solve puzzles together or die trying! Each player needs to guide a robot to a color-coded goal, but the path is beset with deadly traps and hazards. Teams of players will need close observation and communication to keep each other alive and discover a solution together.\n\nComplete the main campaign with 1 or 2 players, then take a group into 4-player Party Mode for the ultimate teamwork trial! For those that can't get enough, head to the 'Vault' to find extra experiments recommended only for the brave.\n\nFeatures:\nA micro-journey of surprise, discovery, mastery, and success\nFull voice acting by Rice Pirate\n80x puzzling levels in the Story levels\n40x 4-player Party levels\n30x Vault levels (too hard for the main game)\n\nNew in 2019!\n15x New Vault Levels\nColor-blind options\n3x New Game Plus Game Modes",
+  "titleId": "010085900337E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5a6bfd282c405674e03fd46500d99f16dcd117134663ccd0b9788b49811dee7c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T16:17:38.516",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T10:52:00.184",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "69ba2d7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

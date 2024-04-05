@@ -1,0 +1,41 @@
+{
+  "name": "The Lost Child",
+  "description": "The Lost Child is an RPG set in modern Japan. Hayato Ibuki, an occult journalist, is thrust into the middle of a conflict between angels, demons, and fallen angels. Now, he must capture defeated foes and turn them into valuable allies.",
+  "titleId": "01008A000A404000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d434f082dd05d338ea764d9db65de3cd0113d925d8b3034a2890fbc8ea88d342.jpg",
+  "tests": [
+    {
+      "tester": "gaiabell",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-18T04:10:21.832",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-10T03:48:10.41",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "ffb2c54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-02-04T07:12:50.52",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "ba910b3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

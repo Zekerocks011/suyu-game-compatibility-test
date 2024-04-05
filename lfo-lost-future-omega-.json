@@ -1,0 +1,19 @@
+{
+  "name": "L.F.O. -Lost Future Omega-",
+  "description": "FEATURE 1 \nSync Sound, Sync Future\n\nSynchronize the sound, synchronize the future\n\nAs the screen changes your actions and the sound synchronize with the music. \nSome of the sounds you select can be passed to the next stage.\nBy doing so and depending on your progress at that point, \nEven if you are playing in the same stage,  \nyou will get feeling that you are listening to another arrangement.\n\nDepending on the branch and the area you choose \nTotally different stages and music are waiting for you.  \n\n\n\nFEATURE 2\nThe Beat goes on\n\nThe beat continues \nFrom the start of the game and until you clear the stage \n(or saddly when your game is over)\nNon Stop Music\nWhen you change to the next stage, your last BGM will mix smoothly with your new one.\n\nYour music and euphoria will be non stop!\n\n\nFEAUTURE 3\nYou can do it!\n\nFor those who want to play freely\n\nThis game has two kind of MODES\n[NORMAL Mode] and [OKIRAKU  Mode]\n\nIf you select OKIRAKU mode you can play without getting any damage.",
+  "titleId": "0100732009CAE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/30ba873cd0f0bd3295cd75a65a5bb298c6721823b2bd14bb3f1901fd3d3380fe.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-15T07:22:18.311",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c922c5c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

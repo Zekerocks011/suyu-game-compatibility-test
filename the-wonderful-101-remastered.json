@@ -1,0 +1,74 @@
+{
+  "name": "The Wonderful 101: Remastered",
+  "description": "A team of heroes from around the world must UNITE to protect the earth from vicious alien invaders! This band of 100 Wonderful Ones works together using their fantastic abilities to create a variety of forms. Whether it be a giant fist or a sharp blade, they’ll use their wits and power to overcome the enemy’s pitfalls and perils! And the final member of this team of courageous heroes—is you. \n\nFrom PlatinumGames, creators of the Bayonetta series, ASTRAL CHAIN, NieR:Automata, and Metal Gear Rising: Revengeance, comes The Wonderful 101: Remastered! This game will be PlatinumGames' first self-published title, and is a powered-up version of The Wonderful 101, originally released by Nintendo on September 15th, 2013 as a Wii U™ exclusive.\n\nThe Wonderful 101: Remastered offers the unprecedented ability to control 100 heroes at once, with the flowing controls and dynamic action that are the PlatinumGames hallmark. It’s all brought together by a pulse pounding tale of heroic bravery and friendship standing tall against evil, and is PlatinumGames’ most ambitious offering to date. \n\nHideki Kamiya, director of The Wonderful 101, has supervised this remaster and added numerous improvements to ensure that this game can be more easily and thoroughly enjoyed by all and on various platforms, and with improved visuals, framerate, and loading time for an enhanced experience on all fronts. \n\n- Over 100 unique and dazzling, each with their own backstories and emblems!\n\n- Change weapons in a flash with the “Unite Morph” system! Draw shapes to switch between swords, whips, hammers, and more to battle with strategy and flair!\n\n- Unite Morphs can be more than just weapons! Build hang gliders and bridges to cross chasms, and bounce and blast your way to great heights! Use your smarts as well as your strength to solve puzzles and persevere!\n\n- Don’t forget—a hero’s true calling is protection! Rescue the citizens you come across and your bravery will inspire them to UNITE UP! For a limited time, of course.\n\n- Your missions will take around the world! Through cities, across the ocean floor, deep in the jungle, and to a host of exciting locations!",
+  "titleId": "0100B1300FF08000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8296f1de113f688baacb2abc9cda1764bdd8d69a1f11137851101aba876d3b41.jpg",
+  "tests": [
+    {
+      "tester": "chico_sereza",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-19T19:21:02.157",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f21009b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "chico_sereza",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-20T15:36:30.258",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-27T13:11:13.102",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Slash",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-19T23:27:45.133",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "441bc5d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-31T11:33:51.366",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-12T20:35:19.182",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750/PCIe/SSE2",
+      "version": "a3ef073",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

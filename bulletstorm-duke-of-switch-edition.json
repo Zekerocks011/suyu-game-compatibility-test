@@ -1,0 +1,41 @@
+{
+  "name": "Bulletstorm: Duke of Switch Edition",
+  "description": "Step into the boots of Grayson Hunt, an exiled member of the elite assassin group Dead Echo, after a battle with his former general sends them both crash landing on the abandoned resort planet of Stygia.\n\nGrayson must brave the wasteland on his way to confronting the man that once ordered him to do the unthinkable. Will he get his team out alive? Or will he finally quench his thirst for revenge?\n\nBattle your way through throngs of Stygia’s less than hospitable hosts, performing masterful kills throughout the single-player campaign using Bulletstorm: Duke of Switch Edition’s unique Skillshot system that rewards you for executing the most creative and deadly kills imaginable.\n\nBulletstorm: Duke of Switch Edition also includes Duke Nukem’s Bulletstorm Tour. Play through the entire Bulletstorm campaign as Duke Nukem, the original FPS action hero, featuring brand-new lines from the original voice of Duke! ",
+  "titleId": "01003DD00D658000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/79a7794de09e8dcb133421df7271946516963544aa224b3e4137ef952d4002c4.jpg",
+  "tests": [
+    {
+      "tester": "RinMaru",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-06-29T05:16:28.546",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "8a8bd4a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Bill_Samson",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-26T19:44:00.414",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f1a295f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-16T19:10:03.091",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "425f17a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

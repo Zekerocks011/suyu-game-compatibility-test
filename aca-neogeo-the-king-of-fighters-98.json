@@ -1,0 +1,52 @@
+{
+  "name": "ACA NEOGEO THE KING OF FIGHTERS '98",
+  "description": "\"THE KING OF FIGHTERS '98\" is a fighting game released by SNK in 1998.\n\nIn the previous installment KOF '97, the story of the \"Orochi Saga\" reached its exciting conclusion. As a result, the next entry in the series THE KING OF FIGHTERS '98 was released as a dream match version of THE KING OF FIGHTERS Series.\n\nIt is one of the most popular and well known versions of the game, partially thanks to the many balance changes that received high praise from fans around the world.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games. \n",
+  "titleId": "0100B42001DB4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a90fb288aa5c4f45514f5b09afc7bcc0aa557ebda61270285a8dd54ec8e4f070.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-18T17:19:25.287",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7acbec3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-24T10:19:36.364",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T21:53:11.194",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T22:43:10.313",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

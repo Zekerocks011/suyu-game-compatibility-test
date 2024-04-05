@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives DOUBLE DRAGON II The Revenge",
+  "description": "\"DOUBLE DRAGON II The Revenge\" is an action game that was released by Technos Japan in 1989.\n In order to avenge lover, Billy and Jimmy will use their signature move \"So-Setsu-Ken\" to challenge the armed groups of the mystery. In this game, users can use a variety of skills than previous work \"DOUBLE DRAGON\", and enjoy scuffles that are power up.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01009E3001DDE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/937d3a1b93b6fe7847d64b9e657a4c9d85047e51e505b42b57740122038b62cc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T16:35:31.674",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

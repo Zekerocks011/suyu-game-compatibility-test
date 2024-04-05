@@ -1,0 +1,52 @@
+{
+  "name": "Degrees of Separation",
+  "description": "Degrees of Separation is a 2D puzzle platformer in which duo Ember and Rime must use their contrasting powers to manipulate heat and cold to overcome obstacles. Through cooperation, they will learn about each other and the fate of their worlds.\n\nDeveloped with both solo and co-op play in mind, players will discover a touching narrative crafted by acclaimed industry veteran Chris Avellone. With Ember’s mastery of heat and Rime’s control of cold, scenic landscapes will come alive as the pair uses their unique abilities alone and in tandem to create powerful gusts of wind, frozen rivers, controlled explosives, and more to solve a variety of puzzles through several distinct worlds. With their unique talents, the two will learn to lean on each other through the many different stages of their adventure and relationship.",
+  "titleId": "010067900B9C4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b7a7464223673c7f8f1740f53ab0b16c86ebf6d237b3a1d0bef5ca4818b4140.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-12T05:27:45.32",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "9874dfb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-12T22:48:37.13",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "6d5436d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-05T09:50:55.716",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "0b934e6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-12T14:31:19.049",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

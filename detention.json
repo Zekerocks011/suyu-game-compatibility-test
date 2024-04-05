@@ -1,0 +1,74 @@
+{
+  "name": "Detention",
+  "description": "Detention is a unique atmospheric horror game heavily influenced by Taiwanese/East Asian culture, religious elements and mythology. Based on the 1960s Taiwan under martial law, in this 2D atmospheric horror side-scroller, the player control characters who venture into the school beset by hostile supernatural events to uncover stories behind the haunted place. Incorporated the game provided players with unique graphics and gaming experience.",
+  "titleId": "0100730007A9C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/171955e1961d8a8e544709e14980bfa5bb10f9c8b72ae2e0ceb0d4b6163ee0a9.jpg",
+  "tests": [
+    {
+      "tester": "naruga",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-24T09:58:33.668",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "061c4b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-05T04:54:06.868",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "952e5ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-20T03:44:41.944",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7809ffb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-03T01:38:21.959",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d2433e8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-03T01:39:39.509",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d2433e8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-01T12:01:12.371",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Nordlicht",
+  "description": "Nordlicht is an adventure game in which you accompany an unusual family on a fascinating journey to the cold North. You control the curious Aurora, Peter Parsley (her guinea pig and best friend, who refuses to leave her side), and her clever dad, Rupert. Along their way, they discover the mysterious constellations of the polar night sky, and will have to face the dangers created by mother nature and their own fears. Sometimes, you’ll use and combine items you find in the traditional point-and-click manner. Other times, you’ll have to put your dexterity and reaction time to the test as you brave icebergs, giant waves, and thunderstorms in your little sailboat. The intuitive controls, atmospheric music, and lovingly hand-drawn graphics make Nordlicht an unforgettable experience—fun for all ages.  ",
+  "titleId": "0100A5601375C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/799947933161d06b7afa905444c35dd5fa4a2942a8dc35094ed56d397e218124.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T17:03:47.99",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-27T16:39:58.736",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

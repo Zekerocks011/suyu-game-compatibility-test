@@ -1,0 +1,85 @@
+{
+  "name": "Crysis 2 Remastered",
+  "description": "Following the events of the groundbreaking original Crysis, aliens have returned to a world ravaged by climate disasters. As the invaders lay waste to New York and begin an assault that threatens the total annihilation of humankind, only you have the technology to lead the fightback. Playing as a super-soldier equipped with the upgraded Nanosuit 2.0, you must adapt to the battlefield using its game-changing Stealth, Armor, and Power abilities. Customize your Nanosuit and weapons in real-time and unlock incredible new powers as you battle for humanity's survival. ",
+  "titleId": "0100582010AE0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/628f3436b87a02061bf9014ee7949fc379564c75364e66dca290fb1e54e9c095.jpg",
+  "tests": [
+    {
+      "tester": "RocKit",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-20T10:39:29.384",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "usrunknwn",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-01T17:04:37.35",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SneakyRabid",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-22T16:00:09.454",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-20T10:44:54.091",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-31T07:36:42.289",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-31T07:36:50.473",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marco_Oliveira",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-23T23:45:09.653",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 760",
+      "version": "636cecb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

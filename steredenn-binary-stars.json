@@ -1,0 +1,41 @@
+{
+  "name": "Steredenn: Binary Stars",
+  "description": "Steredenn: Binary Stars is an award-winning mashup of a classic shmup and a rogue-like, carved in big beautiful pixels, with insane boss battles. Fly solo or co-op with a friend, fighting off the worst scourges of space in a never-ending struggle for survival.\n\nSteredenn: Binary Stars is the hugely expanded version of the acclaimed Steredenn. Enjoy infinite replayability and unforgiving gameplay through intense boss fights, (almost) randomly generated environments, twisted space events and a massive arsenal of weapons. \n\nEnhance your ship during your flight with upgrades aplenty, and forge your own path across the universe!\n\n• QUICK, INTENSE SESSIONS: with rock-hard boss battles that’ll keep you coming back for “just one more run”\n• INFINITE REPLAYABILITY: Endless arcade action, where levels are (practically) randomly-generated.\n• LOCAL COOP MODE: 2 ships, 4 weapons, 1 lifebar - test your friendships!\n• 5 PLAYABLE SHIPS: each with its own special ability and playstyle\n• MIGHTY ARSENAL: 42 weapons and 30 upgrades with tons of customisation options\n• BOSS RUSH: fight a weekly selection of epic bosses and work your way up the leaderboard\n• DAILY RUN: Try to get to number one in a special daily leaderboard where all players share the same run, guns and bosses. Be ready - you only get one chance per day!\n• ARENA: Unlock a boss by defeating it in the main game. Then, train against it in a 1-on-1 duel. Your guns, your laws, your fight.\n• THE ULTIMATE EDITION: Loads of new content, reworked balancing, scoring, optimisation & always more polish",
+  "titleId": "0100775004794000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/abd0e0eb573a590d4ce725fe3bc1efe5fff91b01c23dba60d7ccd4e9bca69047.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-13T23:33:42.164",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-14T07:47:08.655",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-03T11:10:53.432",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7d4854f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

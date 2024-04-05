@@ -1,0 +1,19 @@
+{
+  "name": "Black The Fall",
+  "description": "After decades of toil, an old machinist plots his escape from the oppressive grasp of the Communist regime. Through hidden passages, shadow and grief, he struggles. Ingenuity, reflexes and deception are his tools. Along the road, he befriends the most unlikely creature, an abandoned little robot. Could they escape this bleak and deadly world, together? \n\n• Unravel the puzzles buried within the oppressive atmosphere of a dystopian dictatorship\n• Harness the power of a stolen designator tool to manipulate both man and machine\n• Befriend a lonely lost robot and earn its loyal companionship\n• Take your shot at overthrowing a Communist State inspired by real world events",
+  "titleId": "0100502007F54000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/82df53cb3320ee744e6a7b49086ed07c0d98a797703fa9815e5451b8bdb0e13e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-26T22:24:02.745",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

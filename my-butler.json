@@ -1,0 +1,19 @@
+{
+  "name": "My Butler",
+  "description": "This is a romance game for women where you can enjoy romance with hot butlers. The route characters are top-class celebrities who serve as your personal butlers -- sometimes sweet, sometimes aggressive.\n\nAvailable in Japanese, English, and Simplified Chinese.\n\nThe Story\nWhen your aunt asks you to work part-time for her talent agency, you didn't expect to be asked to live in her mansion for three months! Living together with you as butlers are an actor, an idol, or a model — all super-famous. But, each one comes with his own problems...\n",
+  "titleId": "0100F6F0118B8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5801ebb6542b55e1b03c4320d1125a96c00fc5c71d2ba5afa4466006f149312d.jpg",
+  "tests": [
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-24T21:55:24.73",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

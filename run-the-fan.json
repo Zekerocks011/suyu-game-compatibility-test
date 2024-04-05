@@ -1,0 +1,19 @@
+{
+  "name": "Run the Fan",
+  "description": "The game consists of over 50 boards, and your goal is the same on each of them: to switch on the fan.\nBut to achieve that, you must do much more than just push the button!\n\nThere is a current generator on each of the boards, linked to the fan through a path. Problem is, the path is broken in several places!\nTo ensure that the current reaches the fan uninterrupted, you must create an electric arc wherever the circuit was damaged.\n\nSeems complicated? Don't worry. No electrical know-how is required!\n\nYou just need to skillfully operate a metal ball and build electric arcs with it where needed. It's quite simple and intuitive.\n\nBear in mind that with each board comes with new challenges. Always start by planning your next move, then carefully execute it.\n\nGood luck!\n\nFeatures:\n– the game was developed specifically with Nintendo Switch™ in mind\n– it mixes puzzle and arcade game mechanics\n– the game requires strategic planning, precision, and quick reflexes\n– comfortable controls using the accelerometer\n– dynamic score\n– beautiful graphics, dynamic lights and special effects\n– over 50 levels\n",
+  "titleId": "010074F00DE4A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0913c54fd2320189460d6d97d20d54ffb4a812aa65aa4016441024207623cb3c.jpg",
+  "tests": [
+    {
+      "tester": "EthanPHX",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-25T02:32:15.754",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

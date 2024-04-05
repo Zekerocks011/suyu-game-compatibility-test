@@ -1,0 +1,19 @@
+{
+  "name": "Mechstermination Force",
+  "description": "Battle against massive bosses, jump and climb onto them to find their weakspots and blow them to kingdom come in this action packed platforming boss rush, from the creator of the Gunman Clive series.\n\nWhen the MegaMechs have taken control of the world, one small group of brave soldiers are still fighting for humanity's  independence. Join them and lead the charge against the mechanical menace.\n\nGet powerful weapons and upgrades! Use the Magnet Gloves to climb on top of robots the size of Skyscrapers, double jump over pools of lava with the Boost Boots, and use your trusty baseball bat to smash the MegaMechs energy cores.\n\nTake on the massive bosses alone or together with a friend in local co-op",
+  "titleId": "0100E4600D31A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/500b0d62759647258ac51ecfd819117b0bf893dc6b63a99791ad7ef73de5d80c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-06T10:46:53.637",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

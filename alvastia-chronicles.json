@@ -1,0 +1,19 @@
+{
+  "name": "Alvastia Chronicles",
+  "description": "After encountering the man who killed their parents ten years prior, Elmia and her brother Alan set out to avenge their deaths as they fight to stem the tide of monsters flooding into the upper world, and restore peace to Alvastia.\n\nHowever, in their quest to amass an army of diverse companions with the same goal, will they really be able to gain the strength necessary to bring their parents' killer to justice, and save the world...?\n\nEncounter more than 100 companions as Alan and Elmia travel the world. Do you have what it takes to recruit them all? Engage in heated turn-based battles with up to 13 party members. Unlock bonds connected to companions and utilize various effects! Weapon upgrades, a battle arena, and quests are only the beginning of what is in store!",
+  "titleId": "0100F0700CD8E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d4da943972c8b2d3d6a80cc791814c3422015ab807010f0adc9c12c29cf3e79b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-12T05:20:05.51",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "9874dfb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

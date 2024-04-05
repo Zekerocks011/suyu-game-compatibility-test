@@ -1,0 +1,52 @@
+{
+  "name": "Giana Sisters: Twisted Dreams - Owltimate Edition",
+  "description": "Dash through tricky levels and transform the whole world at will in this fast-paced award-winning platformer. \n\nGiana Sisters: Twisted Dreams – Director’s Cut combines graphics that pack a visual punch and tight controls with the challenge of retro era platforming. \n\nFluidly morph between two dynamically different dream worlds to solve puzzles and combat grueling enemies and bosses. \n\nKey Features\n- Blaze through 40 levels including all previously published levels PLUS five brand new ones. \n- Each level transforms between two contrasting dreamworlds!\n- Easy and hard difficulty modes for all levels and bosses. \n- Intuitive controls and smooth game flow; master the tight controls and defeat the devious trials ahead.\n- Full HD 1080p with a smooth framerate: Giana’s dreamworlds leap off the screen with gorgeous 3D graphics that morph before your very eyes.\n- Experience a dual crossfading soundtrack by Chris Hülsbeck and Machinae Supremacy.\n- Rich extras: Halloween- and Christmas-themed levels accessible from the start.\n\nThe downloadable version of this game supports English, French, Italian, German, Spanish, Polish, Russian, Japanese, Chinese.",
+  "titleId": "01003830092B8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d136dd771263d8838ee31ea660220b199207e4b47392dae617077dbc0e05f904.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-24T07:36:51.379",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2fcd46f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-05T20:52:01.016",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-24T13:30:38.531",
+      "cpu": "AMD Ryzen 3 1200 Quad-Core Processor           ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-05T20:51:11.141",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO PUZZLE BOBBLE 2",
+  "description": "“PUZZLE BOBBLE 2” is an action puzzle game released by Taito in 1995 as the second sequel of PUZZLE BOBBLE.\nBub and Bob, the bubble spitting dragons from the action game are back again to take on new challenges!\nSkillfully bounce bubbles off the walls, make chains, and erase them!\nAim for even greater chains with the new Star Bubbles and Metal Bubbles!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100BC700C7AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/13c6073f5a30223a9bad370127cb5be7e0787b5a836c0643c9ededd6978bcadc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T23:00:04.754",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T19:00:56.548",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

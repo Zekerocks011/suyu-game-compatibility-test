@@ -1,0 +1,19 @@
+{
+  "name": "Eternal Hope",
+  "description": "\"Perhaps you’d be willing to go to the end of the world for your beloved, but would you go beyond it?\"\nIn Eternal Hope you'll follow the story of Ti'bi, a lonely boy who has lost the love of his life. You’ll embark with him on a highly unusual journey – one that might bring the soul of his cherished girlfriend back from the Shadow World, a purgatory-like realm. But visiting this new world will not be easy. There will be dangers to overcome and many mysteries to unearth before you can continue your passage.\n\nGranted the ability to shift between dimensions by the Keeper of Souls, this power will enable Ti’bi to travel, solve puzzles and meet otherworldly beings that live among the shadows. Travel with Ti’bi into the great beyond on this journey as you unravel ancient secrets not meant for the eyes of the living.\n\nGame Features\nEmbark on a journey to a dark, magical world full of mysteries!\nTravel across mystic forests, hidden caves, ancient cities to make your way up the mountains to the Temple of Souls.\nUse special powers to shift between worlds and change the environment in which you play.\nSolve puzzles with a little help! Use the environments and creatures of the Shadow World to help overcome the obstacles before you.\nFriend or foe? Meet unique creatures and find more about the species that dwell in the Shadow World.\nA beautiful and original soundtrack that will immerse you in Ti’bi’s emotional tale.\nTraverse evocative landscapes that help to tell a unique story.\nSee the world through Ti'bi's eyes as you unravel mysteries about yourself and a long-lost civilization.",
+  "titleId": "010000E015046000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eb8c6f823e5126217573c137c68b0bfb4237aa1365b16931d6cf01a57e4a10e0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-02T07:40:30.628",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5a2bacb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

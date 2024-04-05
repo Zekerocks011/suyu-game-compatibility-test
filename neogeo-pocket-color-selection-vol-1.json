@@ -1,0 +1,30 @@
+{
+  "name": "NEOGEO POCKET COLOR SELECTION Vol.1",
+  "description": "■Four stellar games have been added to the six already on sale for a total of 10 amazing classics for you to enjoy!\n■View 3D models of the games and their cartridges. Zoom in and take a look around!\n■Of course, titles compatible with the NEOGEO POCKET can be displayed in monochrome mode!\n■Take on a friend in either Tabletop or Handheld Modes!\n(Not available for some titles)\n\nThis selection includes the following games:\n- SNK GALS' FIGHTERS\n- SAMURAI SHODOWN! 2\n- KING OF FIGHTERS R-2\n- THE LAST BLADE: Beyond the Destiny\n- FATAL FURY FIRST CONTACT\n- SNK VS. CAPCOM: THE MATCH OF THE MILLENNIUM\n- METAL SLUG 1ST MISSION\n- METAL SLUG 2ND MISSION\n- DARK ARMS: Beast Buster 1999\n- BIG TOURNAMENT GOLF\n\n*The manual included with the game is from the NEOGEO POCKET COLOR game, and as such may contain instructions different to that on Nintendo Switch™.\n*Modes other than VS that require DC/KOF LINK are not enabled.",
+  "titleId": "010006D0128B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a4e82e817adeb9422ce26a521e6bbf4c741071740934cdede557f8507005d30f.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-19T19:04:41.102",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "433954d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-01T09:14:48.714",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "8608d37",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

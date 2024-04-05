@@ -1,0 +1,30 @@
+{
+  "name": "Graveyard Keeper",
+  "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of the year. Build & manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch-burning festivals, and scare nearby villagers into attending church. This is a game of capitalism and doing whatever it takes to build a thriving business. \n\nFace ethical dilemmas. Do you really want to spend money on that proper hotdog meat for the festival when you have so many resources lying around? \nGather valuable resources & craft new items. Expand your Graveyard into a thriving business, go ahead and gather valuable resources scattered in the surrounding areas, and explore what this land has to offer. \nMake business alliances. These dead bodies don't need all that blood, do they? Why not sell it to someone who can put it to good use. Same for body parts. Hey, it's being efficient with recycling! \nExplore mysterious dungeons. No medieval game would be complete without these. Take a trip into the unknown and find useful new ingredients which may or may not poison a whole bunch of nearby villagers. Capitalism.",
+  "titleId": "0100B6800B5C8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f80fde9f24acb350839ff9538d657675ab17047dd6f8d4e56ca4abfe5ce4892d.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-29T15:11:02.707",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-02-01T17:22:14.953",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "8a01d92",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Nickelodeon All-Star Brawl",
+  "description": "Brawl it out as your favorite Nickelodeon characters in bombastic platform battles! With a power-packed cast of heroes from the Nickelodeon universe, face-off with all-stars from SpongeBob Squarepants, Teenage Mutant Ninja Turtles, The Loud House, Danny Phantom, Aaahh!!! Real Monsters, The Wild Thornberrys, Hey Arnold!, Rugrats, and more to determine ultimate animation dominance. With unique move sets and attacks inspired by their personalities, each character has an individual style of play enabling endless action for Nickelodeon’s legion of fans. Select your favorite and then let the intense brawls begin with online and local multiplayer action.\n \n• Playable characters include SpongeBob, Lincoln Loud, Ninja Turtles Michelangelo and Leonardo, Oblina from Aaahh!!! Real Monsters, Invader Zim, and many more!\n• 20 themed levels like Jellyfish Field from the Spongebob Squarepants series, Technodrome from Teenage Mutant Ninja Turtles series, plus many more!\n• Each character offers a completely different and innovative playstyle and move set drawn from their lovable personalities\n• Battle your friends locally with up to 4 players simultaneously or in online competitive multiplayer",
+  "titleId": "0100DCF013740000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c0830fd1ee2692746cd7ad3d906eb23137fc22f143a1bafd35a780611fffa25.jpg",
+  "tests": [
+    {
+      "tester": "diosperrosandia",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-11T17:16:55.824",
+      "cpu": "       Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "d5cc9c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "romoney5",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-10T14:19:09.253",
+      "cpu": "AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1660 Ti with Max-Q Design",
+      "version": "ddd78c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Haondoor",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T02:57:30.793",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "1267589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rcalecomte",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-10T01:11:26.986",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3080 Ti",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-11T20:33:32.484",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Haondoor",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-06T22:46:53.75",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "1410b44",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-09T14:37:07.818",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-08T06:52:43.859",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "ab3b64f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

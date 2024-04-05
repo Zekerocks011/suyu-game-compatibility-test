@@ -1,0 +1,30 @@
+{
+  "name": "Grave Danger",
+  "description": "This is the Ultimate Edition of Grave Danger. It includes 10 new levels, a UI overhaul, an expanded story, and many new gameplay features.\n\nWANTED: Dead AND Alive! Dante, Malice, and Elliot have all been cast as outlaws, and it's up to you to help them clear their names. In a world that wants you both Dead AND Alive, there's no rest for the living and or unliving. Switch between these three unique characters, mastering their movements and attacks, and guiding them further into the story. \n\nPlay Single player or Co-op to solve puzzles! Enlist your friends to control all three characters locally, utilizing them to their maximum potential. If you can't play with a friend or want the completely single player experience, that's fine too; switch between co-op or single player at any time.\n\nTeamwork is essential in Grave Danger. Each character must pull their weight and traverse the world to safety. Dante the cowboy is capable of climbing vertical walls. Malice the reaper can float horizontally across chasms and through narrow and dangerous areas. Elliot the wizard has magical elevation and can jump again once mid-air.\n\nKey Features\n- Mind-challenging puzzles!\n- Beautifully crafted worlds.\n- Local Co-op, have a friend join in at any time!\n- Switch between three unique and quirky characters.\n- Challenge yourself with time-trial and perfect level runs.",
+  "titleId": "010074E0099FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/52257618633d1b5bbbe843781c1d2edc4964b0503f53746e07f6de5b400af2c6.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T06:14:10.38",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-20T10:31:10.352",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "441bc5d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

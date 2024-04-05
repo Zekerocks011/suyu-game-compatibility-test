@@ -1,0 +1,52 @@
+{
+  "name": "Rad Rodgers Radical Edition",
+  "description": "Rad is a rambunctious but spirited young boy who maybe plays too many video games. After dozing off at the tail end of a long night of gaming, Rad awakens to find his dusty old console has turned itself back on. Suddenly a vortex emerges and he's sucked into his TV, where he finds himself the star in his very own video game adventure.\nDusty is Rad's good-hearted but foul-mouthed, now-sentient game console. His clock speed isn't what it used to be, but what he lacks for in megahertz he makes up for with experience and attitude!\nRad & Dusty's adventure takes them through many dangerous stages of action-packed, humor-filled, hardcore platforming fun. This decaying jungle world has been infected by a fierce corruption, and it's up to the unlikely buddy-duo Rad and Dusty to save the jungle's inhabitants and restore the Elder Tree as guardian of the land.\n\n\nWeapons: Dusty arms Rad with a variety of radical bad-ass weaponry. The Bolt Blaster has unlimited ammo, is easy to use, and more than enough firepower to get the job done. The Phoenix Cannon shoots out a fiery bird whose wingspan lights enemies ablaze as it flies by.\nSounds & Music: Composer Andrew Hulshult combined his years of musical experience (both performing and writing) with his passion for retro-style gaming to create an amazing and authentic soundtrack for the game complete with MIDI-inspired music... And synthesizers!\nThe Pixelverse: While Rad and Dusty are a great team, only Dusty can enter the electrified Pixelverse -- a dangerous spacetime-breaking region that exists behind the game world. Dusty enters the Pixelverse when necessary to repair glitches in the running game world, allowing both Rad & Dusty to continue their journey.\nClassic Easter Eggs: The game features hard-to-find collectibles in sometimes even harder-to-find classic secret rooms. Use your precision platforming skills to collect 'em all.\n\nThe Radical Edition for the Nintendo Switch system also includes these brand new additions!\n\n• 2 Player Couch Co-op - Play together with a friend! Enemies can prepare themselves for tough battles!\n• Battle Mode – Tired of team play? Fight against your friends and show them who’s boss!\n• New Playable Characters\n• New Abilities!\n• New Minigames!\n• New Overworld!\n• New Levels!\n• And tons of new secrets, collectibles and unlockables!",
+  "titleId": "010000600CD54000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3af5f3a5c184219d7db67bef2ff7335e4eef1f997b32ee456ad9f802fa7d7231.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-29T10:18:52.759",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-21T18:34:21.871",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-11T21:23:03.118",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-17T13:22:08.659",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "748ee4d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

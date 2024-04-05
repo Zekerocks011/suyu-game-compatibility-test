@@ -1,0 +1,118 @@
+{
+  "name": "Splatoon 2",
+  "description": "The squid kids called Inklings are back to splat more ink and claim more turf in this colorful and chaotic 4-on-4 action shooter. For the first time, take Turf War battles on-the-go with the Nintendo Switch™ system, and use any of the console’s portable play styles for intense local multiplayer* action. Even team up for new 4-player co-op fun in Salmon Run!\n\nExpect a fresh wave of fashion, not to mention new weapons and gear. Dual wield the new Splat Dualies or stick to mainstays like chargers and rollers, which have been remixed with new strategic possibilities. As always, Turf War is the favored sport among Inklings, but they also dig ranked battles, taking down Octarians in a robust single-player campaign, and battling enemy Salmonids in one dangerous part-time job! No matter which way you play, splat at home or on-the-go with Nintendo Switch. Staying fresh never felt so good.",
+  "titleId": "01003BC0000A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a0af3e5f59b543af010e54c664c53fa17f66c37098418ba73b45aa6b43ac6f0d.jpg",
+  "tests": [
+    {
+      "tester": "Snail_Fart",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-12T19:53:51.67",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "5019df4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Snail_Fart",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-12T19:54:09.989",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "5019df4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-17T12:50:12.674",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 980/PCIe/SSE2",
+      "version": "aeb42a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EmmyOcelot",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-04T14:50:48.843",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "3200520",
+      "os": "Linux",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T20:52:52.023",
+      "cpu": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-14T05:15:47.306",
+      "cpu": "        Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "6ab74f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-25T20:56:21.588",
+      "cpu": "Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960M/PCIe/SSE2",
+      "version": "296145e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "weaponaa",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-25T10:25:20.186",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "AMD Radeon (TM) R7 370 Series Graphics",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EmmyOcelot",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T02:02:38.95",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-15T14:49:42.45",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "123e681",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

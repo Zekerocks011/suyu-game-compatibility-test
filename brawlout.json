@@ -1,0 +1,30 @@
+{
+  "name": "Brawlout",
+  "description": "Brawlout packs a punch with couch and online play modes, blending platform fighter mechanics and traditional fighting game play into a stylish and fluid battle royale. \n\nStriking the balance between the growing competitive scene and the genre’s party game roots, Brawlout hopes to cater to the veteran platform fighter, the casual fan and the newcomer looking to make their mark.\n\nEach character in Brawlout has their own unique playstyle, catering to specific character archetypes seen in other fighters. Whether you’re a die-hard grappler or a rushdown fiend, there is a fighter for you in Brawlout.\nThere are currently six original characters and four popular indie characters to choose from that allow for varied play styles:\n-\tDead Cells\n-\tYooka-Laylee\n-\tGuacamelee\n-\tHyper Light Drifter\nAs well as cosmetic skins, each original Brawlout character has three Variants; alt versions of the character with different stats, outfits and even new moves. With these Variants, Brawlout’s cast numbers 25 individual fighters. Find the fighter and Variant that’s right for you and tear it up on the battlefield.\n\nCombined with familiar movement techniques like wavedashing and airdodging, Brawlout adds some extra mechanics seen in other fighting games. The Rage Meter builds up as you both deal and take damage, allowing you either break combos with the Rage Burst or unleash hell with the Rage Mode. The Rage Burst pushes opponents back, breaking their combos and allowing players to create some breathing room at the cost of half their Rage Meter. If the meter fills, you can activate the Rage Mode, increasing the knockback you deal while reducing the amount you take.\n\n\nAs for modes, Brawlout has all you’d expect from a normal platform fighter and then some. Up to four players can compete in either Timed, Stock, Team Battles, FFA or Party Modes:\n-\tAll on the same device\n-\tEach with their own device, without any internet connection, playing nearby\n-\tOnline either with friends or other Brawlout players\nAI opponents are also available if you want to practice your team combos with a friend, or if you need to fill out a free for all. Train with Advanced Tutorials or go in for yourself in challenging Arcade Towers and the all new Trials mode.",
+  "titleId": "01001FD0040F4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4c60653b3d3fbbfed99d885728f8470724b8181b92707ed0548f5c9611b6c6c7.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T14:26:02.809",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-27T01:43:39.383",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

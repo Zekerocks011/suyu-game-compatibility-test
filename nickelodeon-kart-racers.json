@@ -1,0 +1,30 @@
+{
+  "name": "Nickelodeon Kart Racers",
+  "description": "Racers to the starting line...it's GO SLIME! \nHit the Slime-filled race tracks with Nickelodeon Kart Racers! Select a racer from one of your favorite Nickelodeon series, including SpongeBob, Patrick, and Sandy from SpongeBob SquarePants, Leonardo, Raphael, Michelangelo, and Donatello from Teenage Mutant Ninja Turtles, Arnold and Helga from Hey Arnold!, & Angelica, Tommy and Reptar from Rugrats. Race your friends in up to 4-player local multiplayer or check out the Battle Arena for a variety of challenges.                      \n                                  \nHit the road with racers from some of your favorite Nickelodeon series in a variety of Slime-filled tracks in the ultimate race to win cups and upgrades for your Kart! There's no slowing down there -- shift to the next gear and challenge your friends in split-screen racing and battle modes!\n\n• Race on 24 different Slime-filled tracks, including Bikini Bottom, NYC sewers, Tommy Pickle's house, Arnold's school and more!\n\n • Choose from 12 of the most iconic Nickelodeon characters; SpongeBob, TMNT, Hey Arnold!, Rugrats.\n\n• Customizable Karts with multiple power-ups and special attacks\n\n• Awesome Co-Op and Local Multi-Player for non-stop action the entire family will love!!",
+  "titleId": "0100D6200933C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8e90d0fabd61c74c3ff738df61d9201d0f381f818ae04bdd73e26252453f284f.jpg",
+  "tests": [
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-16T02:08:53.366",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "f0ffce4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-17T15:06:53.273",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

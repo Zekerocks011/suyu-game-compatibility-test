@@ -1,0 +1,41 @@
+{
+  "name": "Root Film",
+  "description": "Root Film is a thrilling adventure game with visual novel elements. Follow Rintaro Yagumo as he is selected to be the director for the rebooted \"Shimane Mystery Drama Project”, a TV series which was cancelled for an unknown reason 10 years ago. His excitement for this amazing opportunity is quickly curbed when a horrible murder interrupts their location scouting process. \n\nFollow him and a cast of unique and memorable characters as they are drawn deeper into a thrilling mystery. Become your own detective as you unravel the truth through investigative gameplay mechanics, adding a new layer onto the visual novel formula.\n\nBeautifully hand-drawn illustrations \nFrom character designs to environments, Root Film is brought to life by gorgeous artwork. Every scene becomes picture perfect, with meticulous detail and a carefully curated color pallet. \n\nTravel across the Shimane prefecture \nVisit multiple locations spanning the entire Shimane prefecture as you try to find out the truth about \"Shimane Mystery Drama Project”!\n\nBecome your own detective \nThe ‘Intuition’ mechanic allows players to acquire keywords during in-game conversations. Once activated, ‘Intuition’ reveals words on screen that are essential to investigations and confrontations. \n\nFace off against suspects \nAfter collecting enough keywords, you can confront suspects in ‘Max Mode’ to resolve a mystery. In this fighting-game like face-off, you must ensure that enough evidence has been collected before the confrontation to successfully bring suspects to justice.",
+  "titleId": "01001C701348A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c8119bbbe0becfe59cbf7f9c17297f751e0a44e92f0be9e094f27a793ee46bf.jpg",
+  "tests": [
+    {
+      "tester": "KuronekosHerald",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-20T13:40:36.643",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T13:49:50.231",
+      "cpu": "AMD Ryzen 5 1400 Quad-Core Processor           ",
+      "gpu": "Radeon RX 560 Series",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KuronekosHerald",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-29T19:41:47.298",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

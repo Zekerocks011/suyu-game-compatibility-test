@@ -1,0 +1,118 @@
+{
+  "name": "Celeste",
+  "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall.\n\n • A narrative-driven, single-player adventure like mom used to make, with a charming cast of characters and a touching story of self-discovery\n • A massive mountain teeming with 700+ screens of hardcore platforming challenges and devious secrets\n • Brutal B-side chapters to unlock, built for only the bravest mountaineers\n • IGF “Excellence in Audio” finalist, with over 2 hours of original music led by dazzling live piano and catchy synth beats\n • Pie\n\nThe controls are simple and accessible - simply jump, air-dash, and climb - but with layers of expressive depth to master, where every death is a lesson. Lightning-fast respawns keep you climbing as you uncover the mysteries of the mountain and brave its many perils. \n\nThis is it, Madeline. Just breathe. You can do this.",
+  "titleId": "01002B30028F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/64a18f84f1ff5bdcf5ccfe4c89a8b1fc4642d8afc281001cc62b36f0396aef4b.jpg",
+  "tests": [
+    {
+      "tester": "Octolimar",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-09T01:14:17.988",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c2c83b4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-06T01:26:24.332",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9ced620",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Octolimar",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-12T19:24:54.247",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "7852770",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Super3",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-14T23:43:25.898",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GT 710/PCIe/SSE2",
+      "version": "075cc68",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-18T15:21:18.595",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "2fced7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-21T20:22:45.65",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "67db767",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-06T21:34:52.453",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "b6f4909",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-17T01:00:04.737",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "606d63f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-07T08:19:08.833",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "9c98967",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "szambek123",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-26T16:16:24.734",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GT 1030",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

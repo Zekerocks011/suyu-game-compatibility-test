@@ -1,0 +1,41 @@
+{
+  "name": "Hello Neighbor Hide and Seek",
+  "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+  "titleId": "010092B00C4F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/12d0f6703c36438b799c78548d1533dd477e7ddb9592155d931d4df50d5c54d6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-09T20:20:20.273",
+      "cpu": "Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 660",
+      "version": "6ef5c8e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-11T16:44:01.042",
+      "cpu": "AMD FX(tm)-8320 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6cc9945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-11T01:59:11.075",
+      "cpu": "AMD FX(tm)-8320 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6cc9945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

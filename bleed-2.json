@@ -1,0 +1,41 @@
+{
+  "name": "Bleed 2",
+  "description": "A furiously fun and fast-paced arcade action game, Bleed 2 welcomes back pink-haired heroine Wryn, the world’s greatest – and only remaining – hero, as she fights to defend the globe from an invading force of villains. Master the art of air-dodging and bullet-reflecting to stylishly take down a relentless barrage of bad guys and bosses (and naughty kittys!), and make sure Wryn lives up to her title as the Greatest Hero of All Time!\n\nGAME FEATURES\n• 7 intense levels with over 25 boss fights\n• Unique controls let you shoot, dodge, reflect bullets and slow time all at once\n• 4 difficulty levels that remix enemy placement and boss patterns\n• 2-player local co-op for all modes\n• Unlockable weapons, characters and abilities\n• Arcade Mode: Tackle the game on a single life.\n• Challenge Mode: Fight up to three bosses at the same time\n• Endless Mode: Test yourself against a gauntlet of randomly-generated levels and daily challenges ",
+  "titleId": "0100A48008AE8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2352f4e2fdb6c5e1d53fe89f19e74059002b414161f735dc21daefcf7df1da55.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-10T09:01:51.27",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-16T15:33:58.369",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-26T22:49:13.953",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

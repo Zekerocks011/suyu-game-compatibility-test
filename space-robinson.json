@@ -1,0 +1,19 @@
+{
+  "name": "Space Robinson",
+  "description": "After crashing into an abandoned colony base overrun with hostile life, you must find a way to survive the elements armed at first with only a gun and wrench. Find friends and upgrade your way to victory.\n\nExperience:\n\nChallenges \nTake pride in the game’s challenging design. Death is just a part of the true hardcore rogue-like experience afterall. But worry not, you’ll keep many of the precious resources you collect during your adventures when you respawn back at the base, others you will need to venture out again to recover. \n\nGet Allies\nSummon a raccoon, dog, or flying pig to help you venture deeper into the depths of the unforgiving world. These brave beasts are your only friends in the world, literally. \n\nFresh Gameplay \nProcedurally generated levels with day and night cycles that will present new challenges for you to conquer. So hopefully you're not afraid of the dark. \n\nCraft and Upgrade\nCollect crystals, artifacts, and level up as you play. Upgrade, craft new weapons, and repair the colony units to increase your chances of survival.",
+  "titleId": "0100795011D68000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e24d9ec0207c91a26c8990f9d8b4472c837a569ebf8f80058bf3053e96e6db79.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-27T18:05:11.194",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "23b86ba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "The Lion's Song",
+  "description": "\"The Lion’s Song\" is a narrative adventure game. It is steeped in early 20th century history and focuses on a cast of Austrian artists and scientists with each episode taking a closer look at their intimate struggles with creativity and inspiration.\n\n\"The Lion’s Song” is set against the backdrop of early 20th century Austria with every episode following a different character. Each character possesses an exceptional mind and the game draws players into a story of personal struggle for creativity, human connections and inspiration: a talented composer suffering from writer's block just before her breakthrough concert, an up-and-coming painter growing through his challenges and a brilliant mathematician trying to make her voice heard in a men's world. The choices players make in \"The Lion’s Song” will have a direct impact on the story lines of all future episodes and ultimately determine if the protagonists do find the success they are working for.",
+  "titleId": "0100735004898000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/69334bb7edb444dd829258dac42c21e8bbdd8e703aa7a548718b562148cee022.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T18:03:34.935",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

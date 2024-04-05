@@ -1,0 +1,19 @@
+{
+  "name": "The Elder Scrolls®: Blades",
+  "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined. Download now and play for free!\n\n• Experience stunning dungeon adventures.\n• Create and customize your city, restoring it to greatness. \n• Conquer your rivals in epic one-on-one Arena battles. \n• Create any character you want and discover unique weapons, armor, and abilities.\n• Master the never-ending Abyss with a cutting-edge combat system.\n\nThe Elder Scrolls: Blades enables cross-play so you can battle your friends on other platforms. You can also use cross-save to maintain your progression across multiple devices. \nStart a new character, or continue your previous journey, today!",
+  "titleId": "01003D700DD8A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4737ce9059a14456aaf7d9b7b8e09eedef9af681eb1e570e9e277b98e15756b4.jpg",
+  "tests": [
+    {
+      "tester": "EthanPHX",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-25T02:17:38.664",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

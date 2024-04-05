@@ -1,0 +1,63 @@
+{
+  "name": "ASTRO AQUA KITTY",
+  "description": "The Aqua Kitty cats have launched into space in an all new action RPG shoot-em-up adventure!\n\nPick your crew, then blast off to investigate mysterious water filled asteroids.\nBattle bizarre enemies, mine magnificent gems, grab new weapons, install enhancing devices, and unlock your crews' unique skills as you level up XP.\n\nJust watch out for marauding pirate rabbits, always trying to be first to the loot!",
+  "titleId": "01007210128C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/be3d092ec5b69f6de3c282f3445fbf9eafc35581da1578ba52535cff732666bd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-25T08:21:29.744",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-28T23:12:29.352",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "2e0e691",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-14T10:24:00.82",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "946d8a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-14T07:17:15.965",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8b52250",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-28T23:13:53.909",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "2e0e691",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

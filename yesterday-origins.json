@@ -1,0 +1,30 @@
+{
+  "name": "Yesterday Origins",
+  "description": "Discover the critically acclaimed adventure from Pendulo Studios, creators of the Runaway series!\n\nIt's 1481. Young John is publically humiliated and dragged through the street. Under suspicion of witchcraft, he is imprisoned by the Spanish Inquisition to be tortured.\n\nLater, he undergoes an alchemical transformation making him immortal. But not everything goes to plan. As a result, after each resurrection, John completely forgets who he is.\n\n500 years later, in the present day, John and Pauline are searching for an artefact that is needed to reproduce the ritual. During their investigation, they will have to face dangerous new protagonists who want to steal their secrets... \n\nJoin immortals John Yesterday and Pauline Petit in Yesterday Origins, and experience an epic adventure through time and across the world in a story full of intrigue and unexpected twists.\n\nPendulo Studios: over 20 years of narrative gaming experience\nAn original storyline takes players through different time periods\nAn adventure mixing several genres: investigation, thriller, history and the occult\nDark, offbeat humor gives the story a unique tone \n3D graphics boost the good old \"Pendulo touch\"\nFully dubbed in English",
+  "titleId": "01004F4003FDC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c0eb24183dd6d5843810ff6b3bb0c727f027e574fb8046800f15e69357a314a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-08T04:13:50.2",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "c36169e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-09T03:27:28.129",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

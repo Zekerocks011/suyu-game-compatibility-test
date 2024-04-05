@@ -1,0 +1,19 @@
+{
+  "name": "Purrs In Heaven",
+  "description": "Fortunately, she has the chance to come back to life. Help the kitten pass all the tests and defeat the guardians, keepers of the 3 pieces of her soul. Do you accept the challenge?\n\n- 30 game levels.\n- Simple puzzles of increasing difficulty.\n- Mini game with hidden ships.\n- Unlockable challenges and difficult mode for the most skillful.\n- Wonderful graphics and soundtrack.",
+  "titleId": "0100A71010B9C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/78dc534f39d597333a65f10221c8c3f9151fb955d9be1019fd4af951f861632c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-20T14:08:18.957",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "6e7df35",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

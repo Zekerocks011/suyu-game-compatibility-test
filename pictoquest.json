@@ -1,0 +1,19 @@
+{
+  "name": "PictoQuest",
+  "description": "Challenge your deductive skills by helping our two young heroes on their quest to bring the legendary paintings of Pictoria back!\nLook carefully at the numbers on the edges of the grid to stop the sneaky wizard Moonface...\n\n\n- Face plenty of grids and discover some beautifully animated enemies and artefacts!\n\n- Fight baddies (even bosses!) on the way. Be smart or you could be the target of a critical hit!\n\n- Having some issues with a specific puzzle? Head to the shop and spend some gold on powerful magic items.\n\n- Try to reach the end of the world map, one puzzle at a time. You'll find villagers giving you special missions, too!\n\nPictoQuest is an addictive game for everyone, come save the realm of Pictoria!",
+  "titleId": "010043B00E1CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbc4611c2fff745a15f4e11a2d32fa50780b9207870c493191b4fe87f0198aac.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-24T18:18:17.674",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0159182",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

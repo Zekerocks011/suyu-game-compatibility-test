@@ -1,0 +1,118 @@
+{
+  "name": "FINAL FANTASY VII",
+  "description": "The world has fallen under the dominion of the Shinra Electric Power Company, a sinister corporation that has monopolized the planet's very life force as Mako energy.\nIn the urban megalopolis of Midgar, an anti-Shinra rebel group calling themselves Avalanche have stepped up their campaign of resistance.\nCloud Strife, a former member of Shinra's elite SOLDIER unit now turned mercenary, lends his aid to the rebels, unaware that he will be drawn into an epic battle for the fate of the planet, while having to come to terms with his own lost past.\n\nThis game is a port of the original FINAL FANTASY VII.\nThe following extra features are included;\n◆ 3x speed mode\n◆ Ability to turn battle encounters off\n◆ Battle enhancement mode",
+  "titleId": "0100A5B00BDC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/561db8795e4efbdad7c7e30e80e7a73e91cbf640cbb22d2970323c77a76e2d75.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-12T17:50:00.159",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5d11cb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-18T19:52:15.439",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c55fddf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-15T19:21:42.391",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b6c61a1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-07T20:05:10.979",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab0fb89",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-07T23:18:36.694",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "044e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-01T13:51:59.985",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "aaabda3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T01:15:18.896",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "68eee22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-20T17:43:36.237",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a0e24f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-07T16:22:09.581",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "09de8e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-02T16:44:30.451",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

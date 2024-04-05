@@ -1,0 +1,118 @@
+{
+  "name": "Miitopia™",
+  "description": "Cast your friends, family or anyone you choose in a comedy-filled adventure to bring down the face-stealing Dark Lord. Create and customize Mii™ characters of anyone you like and assign them roles in the fantasy adventure of a lifetime. With expanded customization in Miitopia, you can even add wigs and makeup to give your characters more…character. Watch your characters come to life as your best friend and dear old grandma team up to topple the villainous Dark Lord that resembles your grumpy uncle!\n\nFoster friendships between your hand-picked Mii characters\n\nPair up your Mii characters at inns to build their relationships and see some personality-packed interactions. You may hear some hot gossip on grandma or find your best friend and mom doing pushups! Characters may also learn skills like “lend a hand” and help each other out during battle. Outings let you send character pairs on bonding experiences at the beach, a café, and more. Even your trusty horse can lend a hoof.\n\nBring your friends into battle\n\nEngage in turn-based combat against outlandish baddies like the gyrating Twerkey to gain experience and level up characters. Tailor your strategy by assigning Mii characters personality traits and jobs like warrior, chef, and pop star that will determine their approach to battle. Need a boost? Food is used to recover health and magic to keep your party in fighting shape.",
+  "titleId": "01003DA010E8A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0ce5f0940911eab2cc34eb41b121e84c9d00081d02b816585851f9f1819bb256.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-27T09:13:18.03",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-05T22:32:57.824",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "Intel(R) UHD Graphics",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-07T07:05:28.531",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "playzx",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-12T15:10:56.102",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "GeForce MX150/PCIe/SSE2",
+      "version": "3b357ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rodrigocofe",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-07T20:22:57.088",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 650 Ti/PCIe/SSE2",
+      "version": "f787ad3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zWhiteBytes",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-24T21:53:33.264",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-06T15:13:53.975",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "e88a76b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "WrathGewp",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-04T15:21:16.415",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "aa92ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KZavi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-30T15:35:45.198",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ChekaGamer",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-29T00:43:01.05",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 590 Series",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

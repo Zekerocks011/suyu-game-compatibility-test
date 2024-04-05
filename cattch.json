@@ -1,0 +1,30 @@
+{
+  "name": "CATTCH",
+  "description": "Amazing! You’ve finally found something you really needed! Colourful and enthralling platform game with the bold anthropomorphic animal as protagonist! Meet the Cattch!\n\nCattch is the cat with a classy jersey! He acts just like you, and when he gets to chill he loves to spend his time watching TV. But he won’t stay out of trouble when things go south and his friends are attacked by villains.\n\nEmbark on an epic and dangerous journey accompanied by dexterity, agility and keen mind. If you don’t have any of those, it’s not a big deal, because Cattch will surely help you to catch up!\n\n",
+  "titleId": "01009F0013A42000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/80296dad841cdbd28d0fa3032fe14d8095e65d1e79bc40414908b115b08a435a.jpg",
+  "tests": [
+    {
+      "tester": "ong_ong",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-09T15:09:30.242",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-23T05:49:20.496",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

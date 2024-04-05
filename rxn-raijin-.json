@@ -1,0 +1,52 @@
+{
+  "name": "RXN -Raijin-",
+  "description": "Japanese game developer & shoot'em up specialists Gulti and \"The Fun-Loving Corporation\" Kayac are proud to present the all-new \"RXN -Raijin-\". \n\nThe project commemorates Gulti's 10th anniversary, and the team has delivered a title that emphasizes the fundamentals of the shmup genre - shoot, dodge, destroy.\n\nThe vertically-scrolling shooter utilizes the entire width of the 16:9 field, resulting in challenging, strategy-testing gameplay. \n\nEnjoy the story elements of the game, featuring a star-studded cast of voice actors.",
+  "titleId": "010012C0060F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf5a3d809b5d1e623549a50b3114d9a134dd099faa2ad7890436ed6b93309daf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-19T08:22:56.361",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "f345914",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-18T15:10:27.494",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d22784c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-30T18:14:49.465",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-16T09:22:16.506",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ca6a48a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

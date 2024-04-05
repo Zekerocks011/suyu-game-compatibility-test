@@ -1,0 +1,63 @@
+{
+  "name": "Pang Adventures",
+  "description": "The Pang series is a beloved collection of arcade games from the 90s. Guide two brothers around the world to save humankind from an alien invasion! Use your skills to overcome the attack balls pouring from the skies & rescue the world from impending annihilation!\n\nPang Adventures brings new features & gameplay while keeping true to the original spirit:\n\n●Local Co-op in every game mode!\n●3 different modes:\nTour Mode: one location at a time!\nScore Attack: 3 lives and NO CONTINUES! The real arcade experience!\nPanic Mode: 99 levels of continuous battle! Put your skills to the ultimate test!\n\nThe Bros. have upgraded their gear since the last invasion: machine guns, flamethrowers, shurikens... you name it, they've got it! Electric, explosive, smoke & lava balls will all be deployed to knock them off their feet!\n\nBoss fights! For the 1st time, the Bros. come face-to-face with the nefarious Alien Commanders! They didn't come to Earth for the sightseeing... so get ready to blow them to smithereens!",
+  "titleId": "010087300B730000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1669257d2663378e9adc38fa6c5f364986133c4b76b6d660d7ab1da09a8a3a72.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-23T11:52:32.97",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7f7a8d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-15T10:08:58.663",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "2b49309",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-21T21:07:44.298",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "8526d3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-12T04:16:58.014",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "9874dfb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-11T14:48:29.574",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

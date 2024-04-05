@@ -1,0 +1,41 @@
+{
+  "name": "Bloodroots",
+  "description": "Betrayed and left for dead, Mr. Wolf is hell-bent on finding his killer and enacting revenge - alone, and vastly outnumbered. \n\nThankfully for Mr. Wolf, the world is your weapon in Bloodroots - a relentless action game that unfolds across the sprawling Weird West. You’ll choreograph spectacular, ultra-violent combos by making use of everything around you, from hatchets, to ladders, to...carrots? It’s improvise or die, as Mr. Wolf fights his way to the center of the mystery: why was he betrayed?\n\n- A world overflowing with makeshift weapons that not only change the way you fight, but how you get around\n- Improvise the most deadly combos and compete for fame on worldwide leaderboards \n- Fight your way through a variety of handcrafted levels, from frozen forests to towering mountaintops \n- Experience a twisted Western revenge tale with a deranged cast of characters",
+  "titleId": "010091400D238000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/324ec4a6cc231b14b97cdd863b24ed0fef3deac91dae3696232d2c7f2a337cf3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-21T13:07:00.589",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "AMD Radeon (TM) R7 370 Series",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-27T09:19:02.29",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "618a4c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-21T13:05:42.041",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "AMD Radeon (TM) R7 370 Series",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

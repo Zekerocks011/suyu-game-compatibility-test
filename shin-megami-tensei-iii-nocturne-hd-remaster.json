@@ -1,0 +1,118 @@
+{
+  "name": "Shin Megami Tensei III Nocturne HD Remaster",
+  "description": "What begins as a normal day in Tokyo turns out to be everything but, when the Conception – an ethereal apocalypse – is invoked.  The remains of the world are swallowed by chaos, as a demonic revolution descends into a broken city.  Caught between a battle of Gods and demons, the choices you make can bring life, rebirth, or death, and determine who triumphs.  \n\nThis genre-defining, infamously punishing RPG is back and now includes: \nRemastered 3D models and backgrounds \nAdditional difficulty settings for players of all skill levels \nSuspend save -- save your progress whenever you need!  \nVoiced audio -- choose between Japanese and English VO ",
+  "titleId": "01003B0012DC2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8974a86b34c8a46f018f10cfb3cf3588e613b7ee835776f699f136bbfbab239f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-26T14:08:11.73",
+      "cpu": "AMD Ryzen 5 3500X 6-Core Processor             ",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "c017bcb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Salteador_Nema",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-20T22:58:32.873",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KZavi",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-30T15:36:48.667",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-06-05T16:39:27.469",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "452e9c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-03T21:46:30.552",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6c83fca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Salteador_Nema",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-03T23:52:00.846",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "4446d32",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-04T01:11:53.891",
+      "cpu": "Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "daa362b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-25T13:44:06.987",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "fa827a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "fraud",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-10T12:19:22.399",
+      "cpu": "Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 Super",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-26T09:53:22.84",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f3037c3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

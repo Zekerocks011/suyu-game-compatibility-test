@@ -1,0 +1,30 @@
+{
+  "name": "Iris School of Wizardry -Vinculum Hearts-",
+  "description": "You’ll be attending with not only from the wealthy family, but also smart and talented boys and girls attends. School life romance game at the school of magic that everybody wants to attend. The game includes full voice recorded with main cast of popular voice actor Tetsuya Kakihara, Tomohisa Hashizume, Ryosuke Kanemoto, Yuta Kasuya, Kazuyuki Okitsu, Mitsuki Saiga, Atsushi Kakehashi, Atsushi Miyauchi, Nobuhiko Okamoto.\n\n■Story\nIris School of Wizardry known as ISW is the school where smart, talented, and rich boys and girls attends. It’s very difficult to enter, but after they graduate, their future is promised to be working in a various elite section for the government organization. \n\nAria who lost her parents when she was small. As she was working in the second-hand book shop, she dreamed to be a great wizard like her father.\n\nShe received a letter.\nIt was the letter of acceptance to ISW——\n\n■Character\nClyde King(クライド＝キング)　CV:Tetsuya Kakihara(柿原徹也)\nMatias Archibald(マティアス＝アーチボルド)　CV:Tomohisa Hashizume(橋詰知久)\nA-Jay Blackford(Ａジェイ＝ブラックフォード)　CV:Ryosuke Kanemoto(金本涼輔)\nCyril Grundy(シリル＝グランディ)　CV:Yuta Kasuya(粕谷雄太)\nKeith Knight(キース＝ナイト)　CV:Kazuyuki Okitsu(興津和幸)\nAshley Curtis(アシュレイ＝カーティス)　CV:Mitsuki Saiga(斎賀みつき)\nLee Fitswilliam(リー＝フィッツウイリアム)　CV:Atsushi Kakehashi(梯篤司)\nDemetrius Bishop(ディミトリアス＝ビショップ)　CV:Atsushi Miyauchi(宮内敦士)\nIris(アイリス)　CV:Nobuhiko Okamoto(岡本信彦)\n\n■Illustrator\nMarika 茉莉花",
+  "titleId": "0100AD300B786000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/14beeaaf185d3e70f097154d82a3220372eefca26fe1d4e95a69ba7ee483d925.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-28T22:31:27.611",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-07T02:54:03.333",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6a2094a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

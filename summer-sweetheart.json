@@ -1,0 +1,52 @@
+{
+  "name": "Summer Sweetheart",
+  "description": "《Summer Sweetheart》 is a game of Lovely Juliet. The main plot is played by real people. Voice actor part is assumed by the famous CV Asami Imai and Naomi Wakabayashi.\n\nIn the game, the player, in the first view, encounters with multiple heroines. This is a brand-new love story. The main line has multiple story-choices and endings. In addition, there are some personal stories about other branch-line girls. \nWe can arrange our schedule in the game, such as inviting the heroine to have a date, encountering other girls on the street, work or study. You can also customize the appearance of a girl, unlock the portrait photos, event videos, and the personal information of the girls. More game contents wait for you to find out. \n\n[The main girl in the story]\nNatsumi Miyamizu\n♦ Height: 163cm\n♦ Date of Birth: September 20\n♦ Weigh: 42kg\n♦  BWH: 89-58-89\n♦ Introduction: a pride young girl. I graduated from art department, a cartoonist, enthusiastic, confident, beautiful and kind. My appearance may seem to be strong, but I fear darkness and solitude.\n\nMiyu Hayashi\n♦  Height: 165cm\n♦ Date of Birth: On April 26\n♦ Weigh: 49kg\n♦  BWH: 80-67-92\n♦ Introduction: A pure and lovely cat girl. When I was little, my mother raised me like a cat, I have little contact with the outside world. I like to play the role of a cat, and my personality is lovely and gentle.",
+  "titleId": "01004E500DB9E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf8dfb2b321a76922ddb2b99014f18be65553611b34a608c34eaad0b26b82732.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-07T02:33:49.197",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "25930d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-02T08:59:29.765",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "dd04874",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-01T21:47:05.986",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-01-27T08:06:07.282",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "1348c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

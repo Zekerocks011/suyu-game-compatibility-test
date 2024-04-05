@@ -1,0 +1,30 @@
+{
+  "name": "JackQuest: The Tale of the Sword",
+  "description": "One fateful night, when young Jack takes the beautiful Nara for a walk in the woods, his love is kidnapped by the villainous orc Korg. Forced to mount a rescue, Jack plunges into Korg’s underground base, where he happens upon a strange blade that becomes an unlikely ally.\n\nIn JackQuest, players will explore the cavernous depths of Korg’s slime-ridden, labyrinthine lair. There, they will solve environmental puzzles, discover power-ups, collect weapons, and challenge subterranean foes, including massive bosses.\n\nAcquire many useful upgrades and power-ups by purchasing them from strategically placed merchants.  You'll want to spend your coins wisely and save for more expensive items that can prove to be life savers later on. Gain many powerful weapons such as swords, bow and arrows, and jumping boots. Learn special abilities including wall jumping, lightning speed boosts and using magic crystal power to perform a devastating winding windmill attack!",
+  "titleId": "0100C80009ABE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ba01141b3a8f40dca86fc6f52d8245024f985e95889db4edcc887cf39b42404f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:05:01.946",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-23T17:06:21.604",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "0750835",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

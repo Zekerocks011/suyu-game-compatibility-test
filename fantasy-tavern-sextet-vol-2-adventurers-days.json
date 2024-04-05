@@ -1,0 +1,52 @@
+{
+  "name": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-",
+  "description": "Set in a tavern in a fantasy world, you'll laugh and cry in this slightly naughty love-harem romantic comedy adventure game.\nThe 2nd chapter of the harem love-comedy in a fantasy world tavern available now!\n\n<STORY>\nOne day, several days after our protagonist the young cook in the back of an Akihabara maid cafe got transported to another world, our hero gets paid a visit by the lady knight Dahlia at Lupine's tavern.\n\nDahlia proclaims to the hero, \"I want you to make me a woman,\" which leads to all kinds of misunderstandings with Lupine and Daisy, who have a barrage of questions!\n\nAfter getting filled in on what she actually meant, it's revealed that Dahlia's aim is to defeat a monster who only preys on women. However, for Dahlia, who has only ever lived by the sword, femininity feels like an alien concept. \n\nTo help increase her feminine charms, Dahlia becomes a waitress at Lupine's Tavern, and her inexperience leads to all kinds of trouble with the guests!\n\nOur hero has no idea that this turn of events will lead him to help Dahlia and Veronica take down their archnemesis from the past...\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+  "titleId": "01005C10136CA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cffd733dbcb0ee4da5ad50db46fee72e2664d5da2f2ca056deac8f7651f4b9fa.jpg",
+  "tests": [
+    {
+      "tester": "Kayla_Duggan",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-13T18:45:40.413",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "172ef73",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-01T20:50:29.385",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-23T05:14:38.949",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-23T05:15:47.069",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

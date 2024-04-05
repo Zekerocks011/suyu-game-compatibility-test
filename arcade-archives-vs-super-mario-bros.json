@@ -1,0 +1,63 @@
+{
+  "name": "Arcade Archives VS. SUPER MARIO BROS.",
+  "description": "\"VS. SUPER MARIO BROS.\" is an action game released in 1986 by Nintendo. Mario and Luigi must go on a widespread adventure in order to rescue Peach from the clutches of Bowser. This version is from the Nintendo VS.SYSTEM, and the positions of enemies and items differ from the Nintendo Entertainment System (NES) version.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games. ",
+  "titleId": "010021D00812A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e36ba5e60102837cb72b387ed54c421992eeadf35e0ea4f3ae8741cb402b12b9.jpg",
+  "tests": [
+    {
+      "tester": "Thomas_S",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-06T18:26:47.078",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T15:31:09.127",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-04T10:31:30.26",
+      "cpu": "AMD Athlon(tm) X4 760K Quad Core Processor     ",
+      "gpu": "NVIDIA GeForce GT 630",
+      "version": "4ec0c2b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-18T15:57:25.017",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-03T17:55:54.743",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

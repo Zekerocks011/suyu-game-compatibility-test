@@ -1,0 +1,30 @@
+{
+  "name": "Johnny Turbo's Arcade: Bad Dudes",
+  "description": "\"Rampant ninja related crimes these days... Whitehouse is not the exception...\". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, the \"Bad Dudes\" named Blade and Striker: \"President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?\" After hearing that, the Bad Dudes pursue the ninjas through the New York City streets, a moving big rig truck, a large storm sewer, a forest, a freight train on an old Southern Pacific line, a cave and into an underground factory in order to save President Ronnie.",
+  "titleId": "01006E4003832000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/faf07586b8f0151a0c3d45a955ec5ce1d062560b70f17b42768b358802f812d2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T17:45:12.621",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T01:30:14.366",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

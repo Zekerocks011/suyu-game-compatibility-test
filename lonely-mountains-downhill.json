@@ -1,0 +1,30 @@
+{
+  "name": "Lonely Mountains: Downhill",
+  "description": "Just you and your bike - take it on a thrilling ride down an unspoiled mountain landscape. Make your way through thick forests, narrow trails and wild rivers. Race, jump, slide and try not to crash - all the way from the peak to the valley!\n\nKey Features:\n• Travel to the Lonely Mountains! Ride along quiet mountain lakes, majestic forests and steep canyons\n• A custom physics system lets you carefully drop from boulder to boulder, sprint over abysses or slide through muddy grounds\n• Find your own way - take a relaxing scenic route or go off-road to find the fastest way to the finish line!\n• No audience, no barrier tapes - experience a beautiful nature unspoiled by men\n• Find the perfect bike for your playstyle and unlock dozens of paint jobs and outfits!\n• Compete with friends and prove your speed-running skills on the leaderboards",
+  "titleId": "0100A0C00E0DE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0107fbd0d21e6ab93dab4692e2c634a3890fd8533ad9f4b238a7dc5e5c074df9.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-26T18:44:48.603",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-27T02:41:59.086",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

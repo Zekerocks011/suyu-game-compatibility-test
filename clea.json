@@ -1,0 +1,30 @@
+{
+  "name": "Clea",
+  "description": "Mum and Dad have been experimenting on Chaos Servants, but now, the monsters have been let loose. Clea, with her brother in tow, must escape from the Whitlock Mansion.\n\nWatch your back, Clea. Those closest to you may be the real terror.\n\nSkill-focused horror:\nClea is primarily a test of skills. Enemies roam the halls dynamically in real-time, reacting to the players' every noise. Clea is a challenging title, rewarding those who have mastered its mechanics.\n\nOutwit the Chaos Servants:\nThe Chaos Servants are on the hunt. Listen for their footsteps, peek under doors, and stay far, far away.\n\nEscape the Whitlock Mansion:\nThe Whitlock family has trapped Clea inside the mansion. Hunt down key items and solve the puzzles designed to lock you from the outside world.\n\nNo jump scares:\nNo prescripted scares, promise. Your skills and actions will determine Clea's fate.\n\nUnveil family history:\nThe Whitlock bloodline is filled with dark memories. Obtain memory orbs and uncover your family secrets through bonus chapters.",
+  "titleId": "010058900F52E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4c8bad8e44b47d064701782bad0ea206b4d407574e6167759a6f2aac6051207b.jpg",
+  "tests": [
+    {
+      "tester": "ong_ong",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-09T12:32:03.184",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-06T09:59:37.339",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "fb2e527",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

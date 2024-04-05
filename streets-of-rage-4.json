@@ -1,0 +1,118 @@
+{
+  "name": "Streets of Rage 4",
+  "description": "Amongst the best beat’em up series ever created, jammin’ ‘90s beats and over the top street beating, the iconic series Streets of Rage comes back with a masterful tribute to and revitalization of the classic action fans adore.\n\nThe all-time classic Streets of Rage, known as Bare Knuckle (ベア・ナックル Bea Nakkuru) in Japan, is a beat ‘em up series known for this timeless gameplay and electronic dance influenced music. Streets of Rage 4 builds upon the classic trilogy’s gameplay with new mechanics, beautiful hand-drawn visuals and a God tier soundtrack.\n\nTeam up with iconic and brand-new characters\n\nStreets of Rage 4 got its iconic characters back: Axel, Blaze, and Adam teaming up with new brother and sister in arms Floyd Iraia and Cherry Hunter. With some brand-new moves and kickass tracks to take a listen, our heroes are ready to dish out beatdowns to a fledgling group of ill-advised criminals in full force.\n\nNostalgia strikes again \n\nOne of your dreams is coming true. In addition to the 5 new characters, unlock and play your favorite pixelated characters from the previous Streets of Rage games such as Axel, Adam, Blaze, Skate, Max and many more with their own retro SFX, in gorgeous HD hand-drawn urban environments. And for the full nostalgic experience, you will also be able to play with the music of the previous Streets of Rage games!\n\nOutstanding Hand-Drawn Visuals\n\nStreets of Rage 4 will be the first entry to the core series in 25 years, standing as Axel, Adam or Blaze’s glorious return to serving up side-scrolling beatdowns. With lush hand-drawn animations, new combat abilities, and fresh tracks from an amazing team of composers, Streets of Rage 4 will be a masterful tribute to and revitalization of the classic action fans adore.\n\nEpic line-up of legendary games composers \n\nThe Streets of Rage series is known for its electronic dance influenced music around the world. \n\nLed by Olivier Derivière the soundtrack of Streets of Rage 4 will be composed by not only an all-star ensemble of Japanese memorable musical architects in the video game history but also by 4 Western rising stars:\n\n●\tYūzō Koshiro \n●\tMotohiro Kawashima \n●\tYoko Shimomura\n●\tHarumi Fujita\n●\tKeiji Yamagishi \n●\tScattle\n●\tDas Mörtal \n●\tXL Middleton\n●\tGroundislava\n\nFeatures\n\n● The comeback of the legendary Streets of Rage series.\n● Beautiful graphics fully hand-drawn animated by the studio behind Wonder Boy: The Dragon’s Trap.\n● Clean up Wood Oak City by yourself or with another friend online !\n● Team up to 4 people offline to take the city back for the very first time!\n● Classic gameplay enhanced with brand-new mechanics.\n● Soundtrack by a wide all-star line up of world-class musicians.\n● Braised chicken everywhere.\n● A dozen former Streets of Rage characters unlockable and playable in their original pixel versions.\n● Play with the music of the previous Streets of Rage games.\n● 12 unique stages.",
+  "titleId": "0100EC9010258000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/79be0825e04a14281c9b4ea2360ec609d63197d329bd19370f4ba0c7476659ad.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-11T23:31:22.275",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "d49473f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "R_av",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-06T20:12:14.714",
+      "cpu": "Intel(R) Core(TM) i7-9750HF CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "41b18d1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-19T19:58:27.398",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b12df54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-01T20:09:34.777",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-19T21:07:36.361",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b12df54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-28T20:21:04.332",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T17:27:15.303",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-25T01:01:43.675",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "d1a5ef3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-06T15:30:57.411",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "114426a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-09T19:12:04.436",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

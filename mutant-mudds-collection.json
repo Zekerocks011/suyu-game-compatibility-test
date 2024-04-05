@@ -1,0 +1,41 @@
+{
+  "name": "Mutant Mudds Collection",
+  "description": "It’s the greatest collection of muddy games under one roof! Revisit the platforming fun of the award winning Mutant Mudds Deluxe and Mutant Mudds Super Challenge on your Nintendo Switch™. But wait, there’s more! A brand-new game has been added to the collection!! Fend off the rising mudds from below in the new explosive puzzler, Mudd Blocks.\n\n1. MUTANT MUDDS DELUXE\nLove pixels? Fond of platformers? Is there a special place in your heart for the 8-bit and 16-bit era? Want to have fun? Yes!? Well, you've come to the right place, my friend. Mutant Mudds Deluxe is a \"12-bit\" action platformer with 80 levels full of pixels and platforming fun!\n\nOur hero, Max, may be just a 2D sprite, but he can leap into the third dimension by jetting between the background and the foreground playfields with his trusty jetpack in this unique dimensionally-woven experience.\n\nArmed with a heavy-duty water cannon, Max has what he needs to vanquish his long-term nemesi: the Mutant Mudds. Max must blast and hover his way across the soiled landscape to seek out mysterious Water Sprites. Legend says collecting all of the mysterious Water Sprites will wash the filthy Mutant Mudds away for good!\n\n2. MUTANT MUDDS SUPER CHALLENGE\nHere comes a challenge! Mutant Mudds Super Challenge!! Over 40 levels filled with malicious mutant mudds. This adventure is designed for super players; featuring a host of new platforming challenges and unique boss fights that will test your skills.\n\nMax receives special intel, revealing the location of the original meteor impact site and the fact that mutant mudds are still being spawned from it! Max sets out from a secret hideout in the jungle to locate the meteor and destroy it for good!\n\nRun, jump, hover, and blast your way across five new vibrant worlds, presented with colorful neo-retro pixel art and sublime chiptune music. Defy the laws of the second dimension by leaping between foreground and background layers, dispensing muddy justice with your faithful water cannon. Utilize your trusty power-ups to traverse tricky obstacles and gain access to special secret levels.\n\n3. MUDD BLOCKS\nMax’s mudd-busting work is never done! A muddy horde of mutants is rising up from below… in block form!? Throw water bombs down to wash them away. You can even use the multicolored mudd blocks against themselves. Anything goes! Go solo and best your high score or team up with a friend for two player co-op or head-to-head versus fun. You can even try one of the other unique modes, such as Numbers and Rescue to put your block-busting skills to the test.",
+  "titleId": "01004BE004A86000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a3ad12fae232f1d17b08e64f1dab80b03dde0bbd50368b80a00e95e687dcf802.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-10T18:04:27.423",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "d3797be",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BornIncompetence",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-18T23:32:25.859",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-10T18:04:35.692",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "d3797be",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

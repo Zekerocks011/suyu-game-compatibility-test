@@ -1,0 +1,30 @@
+{
+  "name": "NBA 2K22",
+  "description": "A WORLD OF BASKETBALL\nNBA 2K22 puts the entire basketball universe in your hands. PLAY NOW in real NBA and WNBA environments against authentic teams and players. Build your own dream team in MyTEAM with today’s stars and yesterday’s legends. Live out your own pro journey in MyCAREER and experience your personal rise to the NBA. Flex your management skills as a powerful Executive in MyGM and MyLEAGUE. Anyone, anywhere can hoop in NBA 2K22.\n\nSTEP YOUR GAME UP\nNew tactical offense meets an overhauled defense for a more competitive and immersive NBA 2K22. Add skill-based dribbling, shooting, dunking, and alley-oops to your bag of moves, and counter them with ferocious new blocks and contests on the other end of the court.\n\nALL ABOARD THE CRUISE\nSet sail for the high seas in the all-new 2K22 Neighborhood, made for Nintendo Switch™ system. Create your perfect MyPLAYER, level up for rewards, and express yourself through both your game and your style.\n\nYOUR DREAM TEAM\nCollect, craft, and hoop in the ultimate NBA fantasy competition: NBA 2K22 MyTEAM. Build your dream lineup of NBA stars and legends across any era, and explore game-changing evolutions to the MyTEAM experience – each addition introduced Season after Season.\n",
+  "titleId": "0100B94014F8E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/81d9468cfb49ebfd585dc63df67358600ee14399780926ab40e05278201cf8d1.jpg",
+  "tests": [
+    {
+      "tester": "Raul_Canamero_Lopez",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-22T12:20:32.363",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2848a44",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KINGLIFER",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-08T20:06:14.858",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "42bedc8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

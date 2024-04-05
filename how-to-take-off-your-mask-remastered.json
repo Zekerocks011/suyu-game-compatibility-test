@@ -1,0 +1,19 @@
+{
+  "name": "How to take off your Mask Remastered",
+  "description": "Lilia is just an ordinary girl who works in a bakery. She spends every day happily with her childhood friend, Ronan. One day Lilia finds her body has shrunk. Moreover, she has grown cat ears and a tail?! She panics, jumps out through her room's window, and runs towards the town. And the first person she bumps into is the city guard, Ronan. \n\nOne day you discover the other side of your partner you had never known. What is the truth beneath the masks? Each of them has secrets. The mask of \"Big Sis\" and \"Luccretia Girl\" she wears. The mask of \"Lil Bro\" and \"City Guard\" he wears.\n\nWhich one of them will be taken off first?\n\nFeatures\n* Cute visual novel with wonderful anime / manga art.\n* Japanese voice acting.\n* Original theme song & movie.",
+  "titleId": "01005000133AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c39264aa6c9448bc8f40b272d85eaa42987f0df55046d346f7f583440a5c8613.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-26T01:10:42.437",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

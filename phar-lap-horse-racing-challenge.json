@@ -1,0 +1,30 @@
+{
+  "name": "PHAR LAP - Horse Racing Challenge",
+  "description": "Make history and build a brighter future in PHAR LAP - Horse Racing Challenge!\n\nCINEMATIC GRAPHICS showcase realistic horses and capture the action of the race with motion-captured animations\nONLINE RACING lets you run in real time alongside other players\nBREED CHAMPION HORSES with an in-depth genetic breeding system\nPLACE BETS alongside your mates and watch the race play out in real time. Up to 8 players.",
+  "titleId": "010036200D2F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc31351766323e961d5bbfd57a9018ba9fc9fdd12ad7a58241553495266ad817.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-12T04:34:47.373",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-29T16:56:38.819",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "5758498",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "GENSOU Skydrift",
+  "description": "A Touhou Project racing game is here!\n\nIn the mystical land of Gensokyo somewhere in Japan, humans and yokai live together in strange harmony.\nOne day, some girls notice that their spirit energy is weak.\n\nYokai specialist Reimu Hakurei and her friend Marisa Kirisame spot someone running off on a racetrack...\n\nCharacters:\n20 challengers from the Touhou Project!\nOne girl acts as a board and one acts as a rider.\nSwap between characters!\nUse spell cards for interference, acceleration, and defense,\nor use devastating Last Words!\n\nCourses:\n16 courses set across Gensokyo, including the Human Village, a flying ship, the spooky Scarlet Devil Manor, and the cherry blossom-lined Hakugyokuro!\nRace on walls, ceilings, cliffs, the air—The sky's the limit!\n\nSystem:\nFeatures online multiplayer VS mode. Race against anyone, anywhere, anytime!\nAlso features a campaign mode where the game's story plays out—And a post-game secret episode.\n\nFun for Touhou veterans and newcomers alike!",
+  "titleId": "0100E9E00DBF4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bb598a382bfd3a40431209391bbb0429d06ba10f0e571436e570ecb21b87b97e.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T03:06:10.956",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-05T00:59:34.98",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4da4179",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T15:50:18.517",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

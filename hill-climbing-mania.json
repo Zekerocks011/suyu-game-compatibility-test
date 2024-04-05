@@ -1,0 +1,30 @@
+{
+  "name": "Hill Climbing Mania",
+  "description": "Drive over hilly tracks, collect stars, coins and pickups to upgrade your cars and get further! Also watch out for various obstacles!\n",
+  "titleId": "0100147011F4E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ba0b6d57040ec7c2b96355ac2b0ec4871d6c52262475fc750cd920eac88a91da.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-30T03:09:02.923",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a150714",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-07T19:46:36.412",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

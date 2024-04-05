@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO NINJA COMMANDO",
+  "description": "“NINJA COMMANDO” is an action game released by SNK in 1992. Fight to protect history from death merchants planning to bring chaos to the world. Shoot, use Ninja Tricks and Death Blows, and accumulate scrolls to perform Transformations for a variety of attacks. Two-player simultaneous play is also available.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01007E800AFB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6ed59c54528585fe76c94b3c3458193ecd7dd54e2dbbfeb6c28bcbcd3390a45a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T21:44:39.368",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

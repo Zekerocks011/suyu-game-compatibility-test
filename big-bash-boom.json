@@ -1,0 +1,19 @@
+{
+  "name": "Big Bash Boom",
+  "description": "This ball’s on fire!\nBig Bash Boom mixes all the big hitting thrills of T20 cricket with instantly accessible arcade action. Anyone, anywhere, will be able to jump in and be hitting the ball like a pro with Big Bash Boom, which is fully licensed and includes all teams and players featured in this year’s KFC Big Bash League (BBL) and Rebel Women’s Big Bash League (WBBL). \n",
+  "titleId": "010038D00B10A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/aea42fc82d9a3d30101da0e87f2992e22516ce2d724e76e2380c0f4e6b1feec7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-04T10:03:11.121",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "4c3320c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Olympia Soirée",
+  "description": "Restore Light to a Darkened World\n\nThe last surviving member of her clan, Olympia travels to Tenguu Island to perform a ritual to bring back the sun. The heads of each district lead a society governed by rigid class structures. Able to travel between the districts, Olympia discovers their wonders and weaknesses. She searches for a partner to help bring unity to this imperiled land.",
+  "titleId": "0100A910143B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0d7b9bc2be741044c4ac57438bfde9e6d8b9c4b1fa6293a4f9039a87c6e32f5f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-03T16:52:10.893",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-20T01:14:13.431",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-27T19:26:51.697",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e4f21ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "QJune",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-03T10:49:33.415",
+      "cpu": "        Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+      "gpu": "GeForce GT 640/PCIe/SSE2",
+      "version": "89646e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-02T14:30:07.869",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fbeaa21",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

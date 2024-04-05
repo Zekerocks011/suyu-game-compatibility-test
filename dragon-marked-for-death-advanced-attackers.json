@@ -1,0 +1,63 @@
+{
+  "name": "Dragon Marked for Death: Advanced Attackers",
+  "description": "Dragon Marked For Death is a side-scrolling 2D action RPG that can played solo or with up to four players in local or online multiplayer.\nThe playable characters in Dragon Marked for Death: Frontline Fighters are the Empress and Warrior.\n\nYou play as the survivors of the Dragonblood Clan who set out to take revenge on the Kingdom of Medius, who destroyed their home and captured the Dragonblood Oracle, Amica. To obtain the power they need to enact their revenge, they forge a pact with the Astral Dragon Atruum.\n\nUse your newly acquired powers to take on quests from villagers and raise your status in the kingdom. How you perform in these quests can have a direct effect on the game's final outcome. \n\nQuests aren't all about defeating enemies, though. You'll guard a ship's passengers from monsters, search for hidden treasure, rescue a princess from a castle under siege, and a lot more!\n\nChoose from four playable characters (Empress, Warrior, Shinobi, or Witch) and defeat your enemies to gain experience and level up. You'll receive points as you level up that can increase your attack power, defense, agility, and other parameters. Customize your character in a way that best suits your individual playstyle!\n\nTeam up with up to four players in co-op multiplayer action via local wireless, or go online with Nintendo Switch Online and use worldwide matchmaking system to play with adventurers all over the world. By strategizing and working together with your party, you'll be able to achieve even greater results and reap even better rewards!\n\nGet ready to experience the unique, dark fantasy world of the Dragonblood Clan in this intense 2D action-RPG!",
+  "titleId": "010089700150E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa7dbbf01ebbb0cf33fced03116c2630d7670aaf1513b6e5a70160da51e67310.jpg",
+  "tests": [
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-28T05:40:25.024",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 850M",
+      "version": "1cb7617",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T21:54:07.224",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OctoVolzar",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-28T05:59:51.566",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 850M",
+      "version": "1cb7617",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-28T05:36:18.681",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 850M",
+      "version": "1cb7617",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-11-28T22:19:41.347",
+      "cpu": "Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 850M/PCIe/SSE2",
+      "version": "5091108",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

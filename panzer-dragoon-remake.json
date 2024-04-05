@@ -1,0 +1,118 @@
+{
+  "name": "Panzer Dragoon: Remake",
+  "description": "On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past, and the guidance of your armored blue dragon, you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying.\n\nKey Features\n    • Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins.\n    • Fight the Prototype Dragon who appears together with evil giant dragonflies, frightening man-sized wasps, giant sandworms, and lethal flying battleships.\n    • Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
+  "titleId": "0100C6A00E94A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1d57efa123f350ba9909a3edaaf40b60457da68b6acca53f464add8e883a3be4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-27T19:55:04.447",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "b81a3cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-30T17:11:14.245",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ca609ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-22T23:37:36.657",
+      "cpu": "       Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz",
+      "gpu": "AMD Radeon HD 7900 Series",
+      "version": "bd9c651",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-07T02:59:22.472",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-03T17:36:54.474",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "47231b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-28T11:35:38.297",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Evil_Paul",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-24T22:53:22.032",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "39bc457",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-14T18:10:39.866",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "dc8585c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-22T04:11:31.079",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "fbf35b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-28T11:34:59.783",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

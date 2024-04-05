@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives DOUBLE DRAGON",
+  "description": "DOUBLE DRAGON is an action game that was released from Technos Japan in 1987.\n\nTwo brothers fight with evil, to rescue Marian that has been kidnapped by violence organization.\n\nThe Arcade Archives series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100F25001DD0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5e258e13b61ee73f30aa803ac51828e10e8c8a7b7856f4d5a15e4021be343a35.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T16:43:10.786",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

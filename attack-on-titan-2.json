@@ -1,0 +1,118 @@
+{
+  "name": "Attack on Titan 2",
+  "description": "Abandon all fear.  Attack on Titan 2 is the gripping sequel to the action game based on the worldwide hit anime series \"Attack on Titan.\" \n\nExperience the immense story of the anime alongside Eren and his companions, as they fight to save humanity from the threat of the deadly human devouring Titans.  Try your hand in operating the omni-directional mobility gear, maneuvering and flying through the sky to counter the Titans, and feel the thrill and satisfaction of battling giant opponents.\n\n- This product is \"Attack on Titan 2\", not \"Attack on Titan 2: Final Battle\".\n- The content of \"Attack on Titan 2\" is included in \"Attack on Titan 2: Final Battle\", which is scheduled to be released on July 5th, 2019.\n- If you have already purchased \"Attack on Titan 2\", you can play \"Attack on Titan 2: Final Battle\" by purchasing the additional content \"Attack on Titan 2: Final Battle Upgrade Pack\", which is scheduled to be released on July 5th, 2019.\n- Please visit the official site for details about the game \"Attack on Titan 2: Final Battle\"\nhttps://www.koeitecmoamerica.com/attackontitan2/finalbattle/",
+  "titleId": "010034500641A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/226e9c3767396ed7043b0dd9074491bb3c3b81430ee3df16125891cb5ee53f82.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-15T16:21:32.66",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "70f78a1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-05T23:42:24.813",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "AMD Radeon R7 370 Series",
+      "version": "94ed71e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-22T09:01:58.76",
+      "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-16T16:33:28.351",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "aabcb3f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-22T11:16:41.046",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-04T18:12:50.995",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "AMD Radeon R7 370 Series",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-09T10:16:38.029",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e72f303",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kiryucat",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-23T18:45:11.636",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "ea9e816",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-07T10:13:10.659",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3200bf2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-01T02:20:51.859",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e2f72ac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

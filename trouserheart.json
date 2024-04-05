@@ -1,0 +1,19 @@
+{
+  "name": "Trouserheart",
+  "description": "Unsheathe your sword and journey through a realm filled with monsters, traps and treasures! Defeat monster mobs, slay bosses, hoard treasure and upgrade your sword, shield and armor. Follow your trousers to the world's end and claim what is rightfully yours! Trouserheart is all about fun, instantly accessible, pick up and play hack'n'slash gameplay with playful art style and humorous tone. The game offers two difficulty levels and even an optional perma-death mode for the bravest of adventurers!\n\n- Meet peculiar enemies\n- Hoard treasures\n- Upgrade your sword, shield and armor\n- Defeat 10 unique bosses\n- Explore exciting environments\n- Gain more than dozen achievements\n- Choose between two difficulty levels plus the perma-death mode",
+  "titleId": "01001EF00BF3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/99bbf19a413776cfc6c450d247c2b126c95f85f2ce68df554566def7a08b0913.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-07T03:01:16.063",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

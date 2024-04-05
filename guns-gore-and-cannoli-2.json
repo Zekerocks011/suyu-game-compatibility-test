@@ -1,0 +1,74 @@
+{
+  "name": "Guns, Gore and Cannoli 2",
+  "description": "Welcome to the 1940’s. Europe is being torn apart by the war, the USA is preparing for battle and the mob does business as usual. Only this time they went too far, even for Vinnie’s standards.\n\nPrepare yourself to go to war after you make a shocking discovery about what actually happened during the end-stage of the Thugtown Massacre from Guns, Gore & Cannoli 1.\n\n\"Just when you thought you were out, we’re pulling you back in!\"\n\nStory\n1944, the war in Europe is entering its final stage. 15 years have passed since Vinnie survived the Thugtown Massacre. But now, some loose ends start crawling out of the past, dragging Vinnie as far as the European battlefield of World War 2. Find out who is chasing Vinnie around like a dog, turning all his friends into foes.\n\nKey features:\n\nGuns, Gore & Cannoli 2 continues the rich, engaging gangster story of the first game and includes all the fast paced action you’ve come to love, we made the best even better, with:\n\nUpgraded character mobility\nVinnie has received a massive upgrade in his mobility features. 360 aiming, double jumping, kicking, jump-kicking, dodge rolls, somersaults, dual guns and a weapon wheel.\n\nCampaign mode\nGuns, Gore & Cannoli 2 features a full single or multiplayer campaign mode, packed with action, humor and animated cutscenes.\n\nRich environments\nWe pushed our artists to the limits to produce the best immersive, atmospheric backgrounds, smoothest animations, and coolest special effects, setting a new benchmark for 2D games. Look for opportunities to bring down walls, explode barrels, drop crates on top of enemies, blow up cars and even kick your enemies through doors. Enjoy watching the corpses of your enemies fly through the air like ragdolls after you blast them away with your rocket launcher.\n\nImmersive world and period\nWalk around in the European battlefields of World War 2. Every level of Guns, Gore & Cannoli breathes the 1940’s. Every inch of the game is like a picture straight from the second World War era. The cars, the furniture, the speakeasy clubs, the music, the propaganda posters, the streets and the weaponry reflect the turbulent time that the 1940’s were.\n\nOnline and local Co-op mode\nYou don’t want to die alone in the trenches? Well round up a platoon of 4 players and get blasting. Play as Vinnie in the solo campaign, or with up to 3 friends together while fighting through hordes of Nazis, zombies, monster, gangsters, cops, soldiers, tanks, submarines... in this all-new and incredibly fun arcade-style co-op action game. Teamwork is essential to surviving waves of enemy goons.\n\nHumor\n‘War is hell’ unless you are Vinnie Cannoli and you turn every problem into a cynical joke, blurting out one-liners and snappy comments after a nice, juicy kill. Guns, Gore & Cannoli 2 will be a fun experience, not only to play but also to watch. Funny one-liners, screaming deaths, comical dialogs and hilarious enemies make you play this violent kill-simulator with a smirky grin on your face.",
+  "titleId": "01006D4003BCE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dcec17d6d520d1f65fc40ad389885d465562a8c3b82bcfb6b51c2cd6f27b8d9c.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-29T17:10:57.563",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "ba73544",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-19T05:18:24.966",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070/PCIe/SSE2",
+      "version": "ce90ae8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-29T15:58:09.725",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "ba73544",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-22T16:09:02.801",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-22T16:09:13.82",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-10T05:27:23.916",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "72a7976",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

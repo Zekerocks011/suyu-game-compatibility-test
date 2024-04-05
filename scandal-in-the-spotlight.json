@@ -1,0 +1,19 @@
+{
+  "name": "Scandal In The Spotlight",
+  "description": "The Story:\nThe ultimate long-running boy band, Revance.\n\nOne night you attend their after-concert party and receive a mysterious invitation from the guys in the band!\nThey drop a bombshell!\nTheir lyricist has gone missing and they want you to fill in.\n\nYou start a new life with these singers... and begin the deception of millions of fans.\n\nCharacters:\nKyohei Rikudoh     \"Confident, Sexy\"\nIori Enjo               \"Sadistic, Twisted Prince\"\nKota Igarashi         \"Capricious, Sour Yet Sweet\"\nNagito Aoshima      \"Dominant, Dirty-minded\"\nTakashi Ninagawa   \"Clever, Mysterious\"\n\nContents:\nIncludes \"Main Stories\" in the app \"Love 365: Find Your Story,\" up until Season 3 \"Give Me Forever: His PoV.\" \n\n*Nagito Aoshima includes up until Season 3 \"Give Me Forever.\"",
+  "titleId": "01009B6013180000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa936850c452e989f1bcf681296bd286c63569da5d7ad32a34186bff8fafed42.jpg",
+  "tests": [
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-02T21:29:54.712",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "1a45722",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

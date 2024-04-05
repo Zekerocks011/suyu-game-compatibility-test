@@ -1,0 +1,41 @@
+{
+  "name": "Azure Reflections",
+  "description": "Now on Nintendo Switch™: A side-scrolling bullet hell fangame based on one of the hottest shooting game series to come out of Japan, the Touhou Project!\n\nEnemies come at you from all directions with relentless hails of bullets! Fight back with a well-timed Danmaku Rush to tear your way through bullets and enemies alike!\n\nNot that great at bullet hell games? That's okay! We've got you covered with a Practice Mode that lets you practice boss fights, and a Tutorial Mode that holds your hand and walks you through the basics of how to play a bullet hell shooting game.\n\nIt's got tons of collectibles, too! Mix and match accessories for your favorite look! Collect action figures of the Gensokyo girls, with a dedicated viewer mode.\n\nCan you accomplish every goal?!",
+  "titleId": "01006FB00990E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d4bcaf970a851358f2df9bcbb13f64b8e7b96ef8f3404d8c207073417c0d17cf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-03T22:52:09.921",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-14T13:41:27.5",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "946d8a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-15T14:24:02.518",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "c2e5f47",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

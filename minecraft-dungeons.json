@@ -1,0 +1,118 @@
+{
+  "name": "Minecraft Dungeons",
+  "description": "Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels – all in an epic quest to save the villagers and take down the evil Arch-Illager!\n\nDiscover a trove of powerful new weapons and items that will help you defeat ruthless swarms of new-and-nasty mobs. Fight or flee through canyons, swamps and – of course – mines! Any adventurer brave or foolish enough to explore this blocky and beautiful world will need to come prepared. So quickly, gear up!\n\nDungeon Creeper! Battle new-and-nasty mobs in this all-new action-adventure, inspired by classic dungeon crawlers.\nMultiplayer! Up to four players can team up and fight together in co-op mode.\nPower Up! Unlock dozens of unique items and weapon enchantments for devastating special attacks.\nOptions! Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour!\nEpicness! Explore treasure-stuffed levels in a quest to take down the evil Arch-Illager!\n\n",
+  "titleId": "01006C100EC08000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/118d811fd5916ad9c0ca2a0559b3f71b435563b0e656bff407648d32ca83f876.jpg",
+  "tests": [
+    {
+      "tester": "1byte",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-29T01:29:28.888",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "86a61ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T13:00:19.748",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 780",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T10:39:50.623",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 780",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gigaskun",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-16T08:26:39.861",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "66a4fc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "patrocf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-01T20:15:59.178",
+      "cpu": "AMD Ryzen 3 3300X 4-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "34d60d4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-26T12:06:05.95",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 780",
+      "version": "6f3982a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-23T09:44:42.407",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e7c0648",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "1byte",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-29T20:27:41.037",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "6ef6910",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MaxiCato62",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-17T12:19:10.824",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-01T06:35:49.642",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "e2fd3a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Code: Realize ~Guardian of Rebirth~",
+  "description": "Venture into a reimagined steampunk version of 19th century London. Follow the adventures of the poison-skinned maiden Cardia, the men trying to help her, and the mysterious organization intent on capturing her.\n\nExperience a visual novel adventure brimming with literary and historical characters including Victor Frankenstein and Abraham van Helsing. Will Cardia find love, or destroy those she cares for? Her story is in your hands.",
+  "titleId": "010021D00F404000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0018c910ecec85be1d875f632bb0e3ca348bef0ad247f503e0e1ad4ecfcd0c21.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-28T19:45:50.797",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-07T02:50:26.331",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-10T06:26:54.421",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-27T21:52:20.067",
+      "cpu": "Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "909e8a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-09T05:01:23.449",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "645983f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-07T19:27:47.337",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-24T08:03:50.352",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "906944b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

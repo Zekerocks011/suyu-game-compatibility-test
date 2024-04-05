@@ -1,0 +1,19 @@
+{
+  "name": "Friday the 13th: Killer Puzzle",
+  "description": "Become horror icon Jason Voorhees and stalk campers across 150+ levels in the most gruesome puzzle game ever! Solve murderlicious puzzles to rank-up and unlock new weapons and special attacks. Help Jason terrorize victims from the campgrounds of Crystal Lake to the high-rises of Manhattan, from supermax prisons to space stations... and beyond!\n\nFriday the 13th: Killer Puzzle is developed by the twisted minds behind the darkly hilarious indie hit SLAYAWAY CAMP.\n\nKey Features: \n\n●\t12 gut-wrenching themed “episodes” for over 150 puzzle levels!\n●\tSee Jason like never before: Supermax Jason, Frozen Jason, Apocalypse Jason & More!!!\n●\tTraps! Cops! SWAT teams! Land mines! Rotary telephones! Cats!\n●\tChoose ‘R’ mode for dozens of bloody Kill Scenes, or ‘PG’ for an almost family-friendly puzzle experience.\n●\tConstant feel-good encouragement from your mom’s severed head.\n●\t‘Daily Death’ mode for a new special reward puzzle each day.\n●\t‘Murder Marathon’ mode to sharpen your camper-killing skills.\n●\tLevel up and unlock tons of horrifying new murder weapons and special animations.\n●\tTrade in your rusty and unwanted weapons for shiny new elite ones!\n",
+  "titleId": "010003F00BD48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bdabdee1f127fec509d8ac591e41db0cb6cbd627981e8f1872bed64515cc4027.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T15:05:41.943",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

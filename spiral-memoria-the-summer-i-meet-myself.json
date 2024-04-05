@@ -1,0 +1,41 @@
+{
+  "name": "Spiral Memoria -The Summer I Meet Myself-",
+  "description": "This is a heart-warming story that takes place in high school during an early summer time.\nFace the tragic truth and spend a short, sweet summer with your new romantic interest.\n\nThe main character doesn't have any memory before high school.\nShe goes on a journey to find out about her past and discovers the shocking truth.\n\nThe game is based on original character designs by the illustrator, Hazuki Futaba.\nThe entire dialogues are recorded by excellent voice actors including Yuto Suzuki,\nDaisuke Kishio, Kazuyuki Okitsu, and Yoshitsugu Matsuoka for the roles of the romantic interests.\nWe have cast popular voice actors who are active in many areas including anime and games.\n\nAn outgoing and optimistic classmate, a sociable painter who speaks in Kansai dialect, a doctor who's a pioneer of genetic engineering, and a mysterious new student. \n\nPlease enjoy the storylines prepared for each of these unique characters with their charming voices, to your heart's content.\n\n[Character]\nSosuke Okochi(大河内壮介) 　CV:Yuto Suzuki(鈴木裕斗) \nHayato Minakata (南方隼人) 　CV:Daisuke Kishio(岸尾だいすけ) \nKazuma Yukawa (湯川数馬)　CV:Kazuyuki Okitsu(興津和幸) \nRin Okazaki (岡崎凛) 　CV:Yoshitsugu Matsuoka(松岡禎丞) \n\n[Illustrator]\nHazuki Futaba",
+  "titleId": "0100F6D01250C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1f73fddafb6e8c551fc24d980adfd63b15d99f6b6800804e6c5730d011dd5d91.jpg",
+  "tests": [
+    {
+      "tester": "Yukibana",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-15T05:54:21.774",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "ac9e2a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-08T02:01:21.661",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6447aeb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-15T05:49:22.213",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "ac9e2a2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

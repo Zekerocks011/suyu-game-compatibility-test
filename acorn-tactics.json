@@ -1,0 +1,30 @@
+{
+  "name": "ACORN Tactics",
+  "description": "Alien blobs from space are invading the Earth. It’s up to the Alien Counter Offensive Response Network (ACORN) to stop them from enacting their evil plans. Construct and customize a strike team of giant walking tanks and air drop them into combat. \n\nCustomise, upgrade and train to save the planet from King Blob in a giant 25 mission hand-crafted story campaign. \n\nThen take your custom battle team into the random mission generator and visit procedurally generated bases and challenge yourself to endless battles.\n\nCollect and upgrade a deck of battle-cards to take with you into combat. Use their special effects to turn the tide of war against your foes.\n\nCan you defend the planet from invasion?",
+  "titleId": "0100DBC0081A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/42ac8b62ad0a2bbb9573f3932fb2fdbb3e04caca8f661dc334fc27fce88704d5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-02T09:22:24.834",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fb162da",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T18:10:02.083",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

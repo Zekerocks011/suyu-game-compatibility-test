@@ -1,0 +1,30 @@
+{
+  "name": "Kowloon High-School Chronicle",
+  "description": "Kowloon High-School Chronicle is a hybrid RPG, adventure, and first-person simulation game originally released in 2004 in Japan. Never before released in North America, experience this classic title, now remastered in HD on Nintendo Switch™!\n\nTreasure Hunters -  Adventurers who search for buried treasure scattered around the world. \nIn Shinjuku, Tokyo, a young man appears as a transfer student at Kamiyoshi Academy. While he seems like a normal student, he is actually a treasure hunter. His mission is to discover a mysterious ruin hidden deep beneath the school. Accompanied by his new friends from school, he sets out to discover the mysteries of a super ancient civilization. However, numerous traps, monsters called \"Kehito\" that lurk within the ruins, and the clutches of the \"student council\" stand in his way!\n\nBuild your relationship with friends, solve puzzles, dodge traps, defeat enemies, and discover the great mysteries and treasure sealed beneath the school!",
+  "titleId": "0100FF70134BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ecbd5e9699fb6849eb06318efe4be37a093d52d15cfe634bceefaf8d4e04a242.jpg",
+  "tests": [
+    {
+      "tester": "HazelBlack",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-31T22:32:03.239",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-21T18:04:35.499",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Minecraft: Story Mode - Season Two",
+  "description": "Now that Jesse and the gang have vanquished the Wither Storm, saved the world, and become totally super famous heroes, life has gotten a bit more...complicated. With more responsibilities and less time for adventure, old friendships have started to fade -- at least until Jesse's hand gets stuck in a creepy gauntlet that belongs to an ancient underwater temple. Together with old pals and new comrades alike, Jesse embarks on a brand new journey filled with tough choices, good times, and at least one temperamental llama.\n\nIncludes access to all five episodes in this all-new season from the award-winning studio, Telltale Games.",
+  "titleId": "01003EF007ABA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6b48bdd056445114af8de1c6df3ad44c3bd391ec6d2cfca1c3bfce26b9c0276f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-18T06:36:14.801",
+      "cpu": "Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "8642321",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyo753",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-21T04:35:22.19",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "1ca7854",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

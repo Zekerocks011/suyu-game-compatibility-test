@@ -1,0 +1,19 @@
+{
+  "name": "Night Trap - 25th Anniversary Edition",
+  "description": "Originally developed by Digital Pictures in 1987 and released in 1992, Night Trap has been completely rebuilt, bringing it to a level of video quality never before seen.\n\nNight Trap tells the story of five teenage girls spending the weekend at the Martin home. As a member of the Special Control Attack Team, your job is to monitor the home and protect the girls using an intricate system of cameras and traps as it is being invaded by vampires.\n\nNight Trap - 25th Anniversary Edition also includes new features such as deleted scenes, two documentaries, the all-new Theater that allows you to watch all story-related videos uninterrupted, a new mode called Survivor that will test your skills at trapping intruders and behind the scenes production images. For the first time ever, the unreleased prototype Scene Of The Crime will be fully playable and included with Night Trap - 25th Anniversary Edition.",
+  "titleId": "0100D8500A692000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/10cd9d684e8ccd21eda2974a425237cb46d87b56a54b9304190c1178cb55a673.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-08T01:14:03.727",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "a18d960",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

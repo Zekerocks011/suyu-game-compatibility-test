@@ -1,0 +1,19 @@
+{
+  "name": "Root Letter: Last Answer",
+  "description": "The return of the best-selling interactive mystery visual novel! Follow in the footsteps of Aya Fumino, a school penfriend allegedly involved in a tragic murder 15 years ago. Explore the prefecture of Shimane, uncover clues, and use the letters you wrote to each other to track down her childhood friends for questioning. But perhaps these friends, now adults living a peaceful life, will not be eager to let their painful memories resurface… ",
+  "titleId": "010030A00DA3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f2c6a75879f42627be8c302323b27526f85ffdf752caeb6319f9dacf201bf4a9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-10T08:50:00.27",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "ffb2c54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dicey Dungeons",
+  "description": "In this new fast-paced deckbuilding roguelike from Terry Cavanagh, Chipzel, and Marlowe Dobbe, you'll fight monsters, find better loot, and level up your heroes as you work together to take down the Goddess of Fortune, Lady Luck herself. Balance your carefully planned strategies against the unknown of a dice roll.\n\nPlay as six different characters, each with their own unique play styles and abilities. Master each class and figure out which one best fits your style in this charming world filled with a growing array of twists and secrets.\n\nCan you make it out alive? Maybe, but luck is definitely not on your side.",
+  "titleId": "0100BBF011394000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/433d860fd90e5870acd24dfaa52bd157b27b6e3be6589fa467322039a4452ce4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-18T13:35:07.93",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "689b77b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-06T04:57:18.018",
+      "cpu": "Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "8a2408a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rogue Robots",
+  "description": "The fate of the whole of mankind is in your hands. Are you brave enough to take on the mission?\n\nNew, action-packed, adrenaline-filled rogue-lite shooter to blast your mind of the planet is here!\n\nFrom the makers of legendary Drunk-Fu and Spareware, we’re here to introduce to you the sequel of Spareware.\n\nBut wait. Wasn’t Spareware quite... Quite...\n\n“Extremely simple game with limited mechanics and highly repetitive play.”\n\n“An ok shoot-em-up, no more no less.”\n\n“I quickly found myself becoming bored... the presentation of the game is relatively basic.”\n\nAnd THAT’S why it no longer even Spareware! Dear people and aliens, here comes Rogue Robots! Build up your annihilating robot and blast your way through the humanity that’s destroying the wonderful planet of earth.\n\nYou’ll be faced with waves of future police troops who are all trying to spill your oils off of the face of the earth. Your Rogue Robot will be dead, once it’s dead and random maps will keep you entertained and mowing through the streets filled with enemies for hours and hours. \n\nRogue Robot’s neat co-op mode with up to 4 teammates enables the fun and action with your friends locally or online.\n\nAnd then, what’s left from Spareware? Well, the best parts:\n\n“A bullet hell with customizable robots”\n\n“A solid wave shooter bringing roguelike permadeath and tactical decision making to the mix.”\n\nCustomize your killing machine from different parts, which all affect differently for your abilities. Choose your weapons. Beware of the traps. Sweep through the enemies. Save humanity from itself.",
+  "titleId": "0100F3B010F56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8065eab7e1b8ece58d8ef26c816c3e2415e47a2bcaed7c0b113e989e8f5190d1.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-15T16:23:06.173",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "1e8e4cc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

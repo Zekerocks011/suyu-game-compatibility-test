@@ -1,0 +1,85 @@
+{
+  "name": "MIGHTY GUNVOLT BURST",
+  "description": "Rather than make a direct sequel to their bite-sized 2D action game Mighty Gunvolt from 2014, Inti Creates has made the next installment in the Mighty Gunvolt series a brand new full-sized game that features characters from multiple universes with Gunvolt (Azure Striker Gunvolt) and Beck (Mighty No. 9) taking the stage once again, but in a much deeper and more expansive world that differs greatly from the original in many ways.\n\nThe game systems have been completely revamped and powered up with lots of new additions, including a deep character customization system that lets you mold and shape your character into the ultimate hero that works best for you! \n\nBut that's not all! The new Burst Combo system rewards you for finishing off enemies and bosses up close and personal, and the Dowsing ability triggers the HD Rumble function when you get close to one of the many hidden items/areas in the game.\n\nThe classic pixel style graphics have also been completely redone to blur the line between 8-bit and 16-bit and take you back to the golden age of 2D action games!",
+  "titleId": "01000E2003FA0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bd8b7b3b13892d96f686015e938997326cd2a72fe37d09e3774e5f35094507a7.jpg",
+  "tests": [
+    {
+      "tester": "Rivalus",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-25T22:33:11.499",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-01T05:22:58.414",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "d1a04b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-04-16T13:25:13.061",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-25T23:15:26.195",
+      "cpu": "AMD Athlon(tm) X4 860K Quad Core Processor     ",
+      "gpu": "GeForce GTX 950/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-01T04:46:01.798",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "52f54c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T21:14:37.095",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-29T18:32:03.42",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "4c88f32",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

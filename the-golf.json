@@ -1,0 +1,19 @@
+{
+  "name": "The Golf",
+  "description": "A fun and simple golf game anyone can enjoy.\nIncludes golf courses with up to 18 holes.\nWith support for 1-4 players, enjoy at your pace by yourself or have an exciting competition with your friends and family.\nYou can play with either the controller or by swinging the Joy-Con.",
+  "titleId": "010014A00AC5A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc23f97ccb3d8f1640b76465e2602cedc8cb15168304438ef8856eda6f4d000d.jpg",
+  "tests": [
+    {
+      "tester": "Police",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-04T04:18:39.538",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "49f8b7b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

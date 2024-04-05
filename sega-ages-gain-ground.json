@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES Gain Ground",
+  "description": "It's 2348 and the Gain Ground battle-simulation supercomputer has gone rogue, trapping people inside with rampaging robots! It's up to you to rescue them.\n\nChoose between twenty playable characters, each with their unique abilities and skill sets. Do you have what it takes to escape?",
+  "titleId": "01001E600AF08000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c010ce04f392b32332818e19f40f0f94bb07d65173ba65fd6678cb8708abaa3a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-06T16:31:57.641",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T01:33:31.201",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "76d0f97",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

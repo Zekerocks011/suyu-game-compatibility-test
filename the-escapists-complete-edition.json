@@ -1,0 +1,19 @@
+{
+  "name": "The Escapists: Complete Edition",
+  "description": "The Escapists: Complete Edition brings you the whole original Escapists experience including all DLC packs as well as Fhurst Peak which is exclusive to Nintendo Switch™.\n\nThe Escapists is an award winning prison break simulation that provides players the opportunity of experiencing a light-hearted insight into everyday prison life. Master the routine, plan your strategy then execute your Escape.\n\nAdditional DLC Packs Included:\n- Alcatraz\n- Escape Team\n- Duct Tapes are Forever\n- Santa's Sweatshop\n\nAlso includes:\n- London Tower\n- Banned Camp\n- Jingle Cells\n- Paris Central Pen (Console Exclusive)\n- Fhurst Peak (Console Exclusive)",
+  "titleId": "01001B700BA7C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/885c1404fce18bebb0c5cf0b67cd41b8e1f4404802f910b81ae03262a423aeff.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-03T16:06:34.379",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

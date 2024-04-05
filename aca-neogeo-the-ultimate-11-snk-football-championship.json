@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO THE ULTIMATE 11: SNK FOOTBALL CHAMPIONSHIP",
+  "description": "“THE ULTIMATE 11: SNK FOOTBALL CHAMPIONSHIP” is a soccer game released by SNK in 1996.\nChoose your favorite of 80 different teams, more than ever before, and conquer the two Championship modes!\nChoose from 4 styles of team balance to customize your team according to your own playing style!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100591008790000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c8613390e964a60a047feb37426d9629074578f28ce070bcecb85887042e4132.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T22:41:11.201",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T01:20:40.417",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

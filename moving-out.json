@@ -1,0 +1,118 @@
+{
+  "name": "Moving Out",
+  "description": "Are you ready for an exciting career in furniture? As a newly certified Furniture Arrangement & Relocation Technician, you’ll take on moving jobs all across the town of Packmore. \n\nSmooth Moves may not be the biggest moving company, but there’s no task too dangerous or strange for this busy team of go-getters. Grow your business to brave new heights, recruit colourful customizable characters, and save your town from furniture peril!\n\nWhat does Smooth Moves have to offer, you ask?\n\nCo-op!\nEnjoy the story mode solo as an independent contractor or team up with some friends. Up to four players can cozy up on the couch to argue over the best way to move a couch. Test your skills AND your friendship!\n\nPhysics!\nAre pesky doors and windows standing in your furniture’s way? Just blast through them with physics! Lift, toss and smash your way to the fastest times!\n\nAction!\nLearn the ropes in a series of increasingly precarious and fantastical moving jobs. How a bed gets from point A to point B is never a straight line, so throw out the training manual and get creative!\n\nAdventure!\nEvery moving company starts small, but as your reputation ranks up, so do your destinations. Move through sleepy suburbs, frenzied farms, haunted houses, virtual reality and lands beyond!\n\nCharacters!\nRecruit a unique cast of colorful characters, each packed with a passion for manual labor!\n\nAssist Mode!\nAre you a rookie? No problem! Adjust the game’s difficulty so anyone can play!\n\nDon’t wait! Grab your friends and become a certified moving master in Moving Out today!",
+  "titleId": "0100C4C00E73E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/981c51a1a8e507cc6ce06d133075bf53b81e6c00c44bba340faf6b52cd61f03e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-13T16:40:51.064",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-30T17:10:25.696",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ca609ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-04T14:55:54.52",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "a0cd3b4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-01T02:22:14.075",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "4c263cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-03T17:18:39.969",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "47231b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-28T11:18:17.397",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-25T01:12:18.901",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "207e181",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-21T20:36:31.842",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-03T17:17:07.632",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "47231b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-29T16:07:49.346",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ca609ac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

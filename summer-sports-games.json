@@ -1,0 +1,19 @@
+{
+  "name": "Summer Sports Games",
+  "description": "Be a champion!\n\nProve your athletic skills and challenge your friends in twelve exciting disciplines!\n\nMaster the athletic competition with intuitive and realistic movements. Who will finish on the podium?\n\nChoose your avatar and beat the AI in five exciting tournaments of increasing difficulty. In local multiplayer mode, up to four people can play against each other. Depending on the discipline is played either one after the other or simultaneously on a split screen. In addition, players can choose their own discipline selection and multiplayer mode assemble order.\n\nThe perfect game for fun parties and entertaining family evenings!\n\n12 action-packed sports:\n\n- Javelin Throw\n- Hammer Throw\n- Shot Put\n- Archery\n- 100m Run\n- 400m Hurdles\n- 800m Run\n- Relay\n- Long Jump\n- High Jump\n- Pole Vault\n- Weightlifting",
+  "titleId": "010083600D930000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/65d98d88c3b870006322f49d3c5e3aac315a8e7d0c42a6b779959349409e4a89.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-29T21:32:17.336",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

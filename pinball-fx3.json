@@ -1,0 +1,41 @@
+{
+  "name": "Pinball FX3",
+  "description": "Williams™ Pinball classics are now available -- and Fish Tales™ is yours for FREE! Zen is proud to bring these amazing games to players around the world. Enjoy!\n\nPinball FX3 is the BIGGEST, most COMMUNITY focused pinball game ever created. Multiplayer matchups, user generated tournaments and league play create endless opportunity for pinball competition.\n\n• Not so hot with the flippers? Pinball FX3 features new single player modes that will help you become a better player!\n• All tables have received graphics updates including real-time lighting and shadow projection.\n• All tables feature challenging new game modes, table upgrades and power-ups, unlockable bonus items and more!\n\nZen Studios will continue to support Pinball FX3 with frequent content releases and new features!\n\nPinball FX3 is home to the most exciting pinball library, with tables based on the biggest brands in entertainment including Aliens™,Family Guy, TellTale's The Walking Dead, Portal® and more!",
+  "titleId": "0100DB7003828000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1171ec156a237b2c95457932e868f84902507bc4ab1be4aafe96dcda98b11adc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-10T17:49:22.55",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-11-14T18:13:02.645",
+      "cpu": "AMD FX(tm)-9590 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "04739ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-22T17:12:36.794",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "54fe4df",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

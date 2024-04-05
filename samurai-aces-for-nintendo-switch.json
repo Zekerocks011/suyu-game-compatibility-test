@@ -1,0 +1,19 @@
+{
+  "name": "Samurai Aces for Nintendo Switch",
+  "description": "If you went to video arcades, you might know this name….\nIt is \"Psikyo.\"\n\nPsikyo made a special shooting game in 1993. It’s called a “PSIKYO Shooting” and the beginning of the Psikyo.\n\nThis story is from the far east…\nAt the Sengoku perood, ace of six samurai assemble and fight in the air.\n\nThe name is “Samurai Aces”!!\n\nThere is a fish with a human-looking face, a daruma, a female ninja, a buddhist priest, a last boss… and a dog!!?? What unique characters they are!!\n\nSamurai ace is the first shooting game of Psikyo. Of course, “Psikyo Bullet” was born from this game.\n\nLet’s enjoy the history of Psikyo and shooting game NOW!!!",
+  "titleId": "0100ADF0096F2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0dd2059109e78432b69d3e355bede70aa298f63ab3b0fe61188720a8ea613c58.jpg",
+  "tests": [
+    {
+      "tester": "juan_lopes",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-29T07:32:28.397",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "PICROSS S7",
+  "description": "This release introduces support for touchscreen controls.\nPlayers can now select \"Touch Hold\" or \"Touch Toggle\" as an input method on the puzzle board.\n\nClip Picross Piece puzzles can now be unlocked by completing Mega Picross puzzles.\n\nThere are 300 Picross and Mega Picross puzzles, 150 Clip Picross piece puzzles, 30 Color Picross puzzles, and 5 Extra puzzles, a grand total of 485 puzzles!\n\nLink play data from Picross S4, Picross S5, and Picross S6 to unlock three Extra puzzles.\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+  "titleId": "01009B2016104000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/47fdc28250aab12f4b104e5ace63f64187a071593480a99a477c0d6a8736c61d.jpg",
+  "tests": [
+    {
+      "tester": "MarcoEstevez",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-20T15:19:53.216",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

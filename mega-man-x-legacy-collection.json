@@ -1,0 +1,118 @@
+{
+  "name": "Mega Man X Legacy Collection",
+  "description": "The celebrated Mega Man X series returns! Play as Mega Man X – the powerful successor of classic fighting robot Mega Man – as he battles a variety of deadly bosses known as Mavericks in four hit titles. Mega Man X Legacy Collection includes the legendary 16-bit titles and the series’ exciting foray into the 32-bit era: Mega Man X, Mega Man X2, Mega Man X3, and Mega Man X4. The heroic robot grows stronger as he takes down Mavericks and steals their weapons, and can dash and wall jump making for a thrilling, fast-paced combat experience.\n\nMega Man X Legacy Collection comes with an armory of new features. Test your skills in the new X Challenge mode, which pits players against two deadly bosses in two-on-one battles. Explore a huge museum filled with rare production art, catalogs of classic merchandise, a playlist of nostalgic commercials, and more.",
+  "titleId": "01005C60086BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f2d212ec755e357ea6343be13d16eee32d4082aeb7faa247b890192a1672ec54.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-29T15:17:05.626",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-18T01:03:52.193",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-06T04:54:55.212",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "1d6b8b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-16T09:06:27.524",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "7487f5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-11-24T12:48:20.581",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-06T17:27:37.147",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-11-17T14:52:39.319",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-05T11:40:29.336",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5f7959a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-02-21T06:31:57.386",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "04971f5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-27T16:58:08.551",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "6eb01a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

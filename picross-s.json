@@ -1,0 +1,63 @@
+{
+  "name": "PICROSS S",
+  "description": "The new Picross series is now playable on the Nintendo Switch™!\nComes with Picross and Mega Picross, with 300 puzzles in total, including plenty of difficulty levels.\nTraditional Picross with comfortable controls! We've brought back the handy assist functions, too.\nCheck out the tutorial for more details.Even if you're new to Picross, give it a try!\nUnique to the Switch version, 2 players can now play simultaneously! Enjoy with friends and family!\n\n\n\"Picross\" is a picture crossword puzzle game that uses numbers as hints to complete an illustration.\nThe rules are simple and easy to understand, so anyone can pick it up and enjoy.  ",
+  "titleId": "0100BA0003EEA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/57d5bc884e74349bb1412a4f2fbf9294ec376828d969fd0b939717052de9565e.jpg",
+  "tests": [
+    {
+      "tester": "SK_TATU",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-03T06:21:00.293",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "e6f5628",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-18T02:56:56.842",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "d8dbe42",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-17T12:27:11.024",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "1aef9b0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "themattman2751",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-21T16:12:23.691",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-24T23:05:40.315",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "692b1e2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

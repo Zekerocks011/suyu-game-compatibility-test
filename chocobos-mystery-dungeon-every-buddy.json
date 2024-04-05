@@ -1,0 +1,63 @@
+{
+  "name": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+  "description": "A new installment of the ever-popular series is here! The classic FINAL FANTASY FABLES: Chocobo’s Dungeon is back with an enhanced gameplay system - to be enjoyed by both first-timers and fans of the series! \n\nExplore the challenges of the never-ending dungeons (\"Insatiable Hunger\"), befriend monsters with the new buddy system. You adhere to one simple rule, … every time you enter, the world around you changes shape, but it only moves whenever Chocobo moves!\n\nBuddy Chocobo “Alpha”\n\nA chocobo is an adventurer's best friend!\n\nWith the new Buddy System, you can take a chocobo buddy with you on your adventure. \nInvite Alpha and begin your journey now!\n\n[Ability]\nChocobo Drop：Deliver a tail attack against all foes within a 1-tile radius.",
+  "titleId": "0100BF600BF26000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/44e8f71c5172eec2a0c7915bec4966b16ecb8194a6686ce03a4d5dc28fc81bd2.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-14T16:19:18.149",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-12T13:34:45.861",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Gamedev1909",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-22T04:35:33.627",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "a9785e6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-14T16:32:21.956",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-25T07:08:25.143",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "608fe2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

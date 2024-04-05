@@ -1,0 +1,30 @@
+{
+  "name": "House of Golf",
+  "description": "An arcade sports game with full 3D graphics, physics and easy pick-up- and-play game mechanics for all the family to enjoy.\n\nHouse of golf is the golfing dojo you always dreamed of. Go mental with 135 fiendish levels of golfing madness. Reduce your golf buddies to a crying mess with the ultimate 4 player party mode. Test your metal as the difficulty and insanity ramps. But ultimately stand tall as a House of Golf ninja master and pile exclusive in-game loot into your pockets!\n\n- Full 3D ball physics with beautiful graphics.\n- 5 different environments and 135 levels.\n- Unlock awesome new golf balls as you progress.\n- Multiplayer for up to 6 players.",
+  "titleId": "0100C3A00B97E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/257d554ae5092357e23f64e50a63b5a4301d4df1fbe271386eca725c8a58dfc1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-25T19:57:36.087",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-25T20:37:56.661",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

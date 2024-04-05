@@ -1,0 +1,19 @@
+{
+  "name": "Death's Hangover",
+  "description": "Death has a hangover and worse is that he was robbed from souls by nightmarish Dracula. Old Grim needs the help of his two best warriors -  or the first ones he could find. \nOnly these two dead morons can get the souls back and defeat this once and for all. If they fail, Death will kill them again... So no pressure… \n\nYour errand seems easy, you need to beat all the enemies in a tremendous castle and keep alive with souls for your master. Your only weapon will be the ball -  the last thing you have left, so watch it and protect!\n\nThe challenge that awaits them is the most difficult they have encountered. The mysterious Castle with multiple routes and secret areas awaits for our warriors. Secret passages and Bosses who guard next floors are not the only obstacles on their road. Don’t worry - our adventure will be accompanied by such abilities as sticky, spike and ghost power-ups. You can also control the speed of your ball – dash it or slowdown. At the end of each room, it will be a unique encounter with a huge boss awaits you. \n\n\nAdditional features: \n- We have at your disposal an extensive editor where you can create your own levels\n- You are able to play in coop mode with your friend and you won't have to face it with Dracula alone\n",
+  "titleId": "0100492011A8A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5714e44e53a6246980fe806165b9b1a09bb245bf73aa3ad5780e1e9ff3b6a36e.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-29T11:51:04.128",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "78b4ae7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

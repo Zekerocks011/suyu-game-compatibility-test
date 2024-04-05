@@ -1,0 +1,30 @@
+{
+  "name": "Bright Paw",
+  "description": "Play as the brave young Theo, guided by his Narrator as he chases after the murderer of his owners Nathaniel and Lauren. Explore the mysterious Bright Paw Industries, delving deep to reveal the secrets of its villainous dealings and the motivations behind the shadowy killer’s actions.\n\nExperience a narrative puzzle adventure like no other as you explore more than 70 bespoke levels interwoven with a charming fully voiced narrative & lovingly crafted original soundtrack. Discover more than 180 hidden collectables, revealing more about the events and the world surrounding Theo and his family.\n\nFeatures:\n- An additional 101 levels of endgame content\n- Expanded accessibility options\n- New rewards in the form of player skins and card styles\n- More than 180 hidden collectibles for experienced completionists\n- Beautiful, stylized visuals and an atmospheric soundtrack",
+  "titleId": "0100E0E0121D6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5727a08e1f60abbbdf263713415e3f39697a6ea4319aca7e123c03cc75956677.jpg",
+  "tests": [
+    {
+      "tester": "Alyptix",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-21T21:10:23.406",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "620537f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alyptix",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-21T23:31:01.059",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

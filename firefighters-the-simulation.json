@@ -1,0 +1,19 @@
+{
+  "name": "Firefighters – The Simulation",
+  "description": "Buildings ablaze, people screaming and flames shooting several feet high! Welcome to the professional fire brigade. You and your team will experience the exciting work of the professional fire brigade, surviving realistic missions where you extinguish house fires, salvage and neutralize extremely toxic and hazardous substances, and accomplish many other fascinating tasks.\n\nFrom small fires to CBRN defence ops, the professional fire brigade offers a wide range of operations. Track down and analyse dangerous goods, secure dangerous goods transportation and contain escaping liquids. Use the robot to salvage contaminated objects, and save lives! \n\nFEATURES\nA large open world scenario including a city, nuclear power plant, industrial park and countryside\n\nSearch for radioactive substances, extract smoke from tunnels, combat small fires and major conflagrations\n\nIncludes special vehicles and equipment like turntable ladders, special robots, tank trucks and hook lift trucks",
+  "titleId": "0100434003C58000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c9f464b799432b1b160585079cb9678b18f11f7b499bc5cdccda13f57820ef44.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-05T18:51:34.58",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "8cd5dc3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

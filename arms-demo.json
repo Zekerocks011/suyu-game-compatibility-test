@@ -1,0 +1,19 @@
+{
+  "name": "ARMS Demo",
+  "description": "null",
+  "titleId": "0100A5400AC86000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-03-05T22:10:45.487",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

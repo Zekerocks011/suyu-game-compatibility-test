@@ -1,0 +1,41 @@
+{
+  "name": "Taimumari: Complete Edition",
+  "description": "Take control of the Himari, the young female wizard travelling across various ages to settle the balance in time across the whole world! \n\nFeatures:\nVarious levels;\nA lot of abilities to learn;\nHardcore action gameplay, which won't leave you bored;\nControl the time and space!\nAll villains are people just like you: learn what's the reason behind them turning into their current state, or just fight them without further ado;\nCharacter leveling system;\nThree difficulty levels;\nSecret stuff and easter eggs.",
+  "titleId": "010040A00EA26000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/64eed86f48f6a92e3e74dd053cb327de455fd7a11b15f17283bc57a363fd9ffc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-23T21:26:41.53",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "a598f97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-18T18:34:27.414",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "39b8b40",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-20T17:54:38.627",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

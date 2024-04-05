@@ -1,0 +1,30 @@
+{
+  "name": "Fantasy Tavern Sextet -Vol.3 Postlude Days-",
+  "description": "The final chapter of the 3-part series!\nSet in a tavern in a fantasy world, you'll laugh and cry in this slightly naughty love-harem romantic comedy adventure game.\n\n<STORY>\nMuch time has passed since our hero, the chef at an Akihabara maid cafe, got transported to another world. One day, a lone girl storms into the tavern, crying, \"I'm here to inspect hostile activities!\"\n\nThe girl in question is Anzu, the top-ranking maid from the maid cafe our hero used to work for in his home world. It is revealed that Anzu arrived to the other world after our hero, and has been working for the Stray Sheep's rival tavern. Following her unexpected arrival, Anzu and Lupine talk things out, which for some reason leads to Anzu starting work at the Stray Sheep?!\n\nIn the midst of this chaos surrounding our protagonist, Plumeria joins the fight for our hero's affections, escalating the girls' battle to win his heart even further!\n\nOur hero's daily life in a fantasy world at the mercy of six otherwordly beauties will forever be changed when a certain hero's vassal pays the tavern a visit...\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+  "titleId": "010043D014336000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cb951a9c55ca5d995b941c3dc494d2efb364f8ec13cc9f8b725c0057494eb720.jpg",
+  "tests": [
+    {
+      "tester": "Kayla_Duggan",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-13T18:44:58.9",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "172ef73",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-01T14:12:29.999",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

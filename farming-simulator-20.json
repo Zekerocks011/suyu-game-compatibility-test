@@ -1,0 +1,74 @@
+{
+  "name": "Farming Simulator 20",
+  "description": "In Farming Simulator 20, take control of vehicles and machines faithfully recreated from leading brands in the industry. For the first time on Nintendo Switch, this includes John Deere, the largest agriculture machinery company in the world. Drive other famous farming brands such as Case IH, New Holland, Challenger, Fendt, Valtra, Krone, Deutz-Fahr and many more.\n\nFarming Simulator 20 features a new North American environment in which to develop and expand your farm. Enjoy many exciting farming activities, including new machinery and crops with cotton and oats, new to the Nintendo Switch! Tend to your livestock of pigs, cows, and sheep, and now ride your own horses, letting you explore the vast land around your farm in a brand new way.\n\n•Use and drive over 100 faithfully reproduced farming vehicles and tools including, for the first time on Nintendo Switch, the largest agriculture machinery company in the world: John Deere\n•Tend to your livestock, including pigs, cows, sheep, and horses\n•Ride your own horses and explore the vast areas offered in a new North American open world loaded with farming activities",
+  "titleId": "0100EB600E914000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c2d26ca825f1797df639da857e4491e7c8108af4f27550b9759986674fa40c7d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-27T21:26:58.934",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T18:00:19.45",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-16T06:06:12.166",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-10T21:47:55.29",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-15T03:35:01.454",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-15T03:36:14.775",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

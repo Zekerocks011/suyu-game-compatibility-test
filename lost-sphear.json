@@ -1,0 +1,63 @@
+{
+  "name": "LOST SPHEAR",
+  "description": "The adventure of LOST SPHEAR begins in a remote town of Elgarthe where a young boy, Kanata, awakens from a devastating dream to find his hometown disappearing. Facing an ominous power that threatens the fabric of reality he must awaken the power of Memory to restore the ‘LOST’. To stop the world from disappearing forever, Kanata and his comrades set out to rebuild the world mustering different Memory and crafting the world around them.",
+  "titleId": "010077B0038B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e34d718fbd19f50fc5da6fc8422f8bf9f0e03509166a32bc937b52f8d88194a0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-20T06:23:26.085",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "e12b245",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-29T00:11:00.718",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T14:27:16.39",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-17T02:21:02.149",
+      "cpu": "Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 750/PCIe/SSE2",
+      "version": "22290a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-27T15:42:44.572",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "28516e2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

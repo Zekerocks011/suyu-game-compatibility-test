@@ -1,0 +1,19 @@
+{
+  "name": "Everyday♪ Today's MENU for EMIYA Family",
+  "description": "The video game adaptation of the deliciously heartwarming world of “Today's MENU for EMIYA Family” is finally here!\n\nWatch as Saber,Sakura,and Rin slice,stir-fry,bake,and deep-fry their way through a mountain of recipes!\nWhat culinary delights will they grace us with next!?\nOf course, the game wouldn't be complete without everyone gathering together to enjoy these mouthwatering dishes!\n\nThe game features popular recipes from the original manga, along with a bevy of exclusive story content of its own!\nExperience the blending of the “Fate” universe and culinany world in this fun kitchen adventure!\n",
+  "titleId": "010031B012254000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/517cfe95eb16ae2e6de047a79aa9dda8a0d5308d775adb080f803d92cb4d45dc.jpg",
+  "tests": [
+    {
+      "tester": "Radox_Lengliz",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-24T14:49:08.391",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "db6f01d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

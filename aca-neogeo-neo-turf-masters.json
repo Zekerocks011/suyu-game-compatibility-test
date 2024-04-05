@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO NEO TURF MASTERS",
+  "description": "\"BIG TOURNAMENT GOLF\" is a golf game released by SNK in 1996.\n\nPlayers can choose from a total of six golfers with different abilities and play on courses located around the world such as Australia or Germany.\n\nPlayers can test out their golf game skills against friends with game modes such as \"STROKE PLAY\" and \"MATCH PLAY (2P battle only)\".\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01002E70032E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/301e989b61b9e0b6d5e9198071ec7b35680f3750eeedbca3381468ba39be793b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T23:06:08.638",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

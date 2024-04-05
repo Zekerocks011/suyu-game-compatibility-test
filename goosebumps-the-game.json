@@ -1,0 +1,19 @@
+{
+  "name": "Goosebumps The Game",
+  "description": "The walk home from school today is going to be a lot spookier than usual… Your sleepy neighborhood’s been overrun by monsters! Werewolves prowl the woods, Gnomes roam underfoot, and scarecrows walk at midnight. But these aren’t ordinary monsters—they’re R.L. Stine’s famous Goosebumps monsters, released from their books and looking to wreak havoc!\n\nYou’ll need to use your wits to investigate the surroundings, puzzle out clues, and outsmart the monsters before it’s too late! Survive a trek through your neighborhood, unravel the mysteries of the Dead House, and sneak through the mall after hours; only then can you confront Slappy and stop his plans for revenge!",
+  "titleId": "0100B8000B190000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/23f6009de12bdfb1ecac785e7da6c1738f62d07e130199f0cc70ff316308546f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-30T16:33:37.098",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ae1bd98",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Bastion",
+  "description": "Bastion is an action role-playing experience that redefines storytelling in games, with a reactive narrator who marks your every move. Explore more than 40 lush hand-painted environments as you discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces. Wield a huge arsenal of upgradeable weapons and battle savage beasts adapted to their new habitat. Finish the main story to unlock the New Game Plus mode and continue your journey!\n\nKey Features:\n\nAction-packed combat rewards playing with finesse\nHours of reactive narration delivers a deep story\nStunning hand-painted artwork\nCritically-acclaimed original music score\n10+ unique upgradeable weapons to be used\n6 powerful Bastion structures to be discovered\nNew Game Plus' and 'Score Attack' modes unlocked after finishing the story\n'No-Sweat Mode' lets players of any skill level enjoy the story",
+  "titleId": "010038600B27E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1da3bc8352d2d876aa50551869ecfa7a1c610421297b6f2cb22938d11d55ef48.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-20T18:16:16.376",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "f72af48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-05T14:21:43.184",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "bb8903e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T20:41:59.605",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

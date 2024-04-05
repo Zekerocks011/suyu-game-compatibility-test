@@ -1,0 +1,41 @@
+{
+  "name": "R-Type Dimensions EX",
+  "description": "The coin-op classics, R-Type & R-Type II, are together on Nintendo Switch! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade you this time! Both game modes can be played as single player or local multiplayer. Pull yourself together, save the earth and strike down the Evil Bydo Empire!!\n\nTwo Complete Games!: All 8 original R-Type levels + all 6 original R-Type II levels. Classic gameplay is unchanged and just as challenging as the original coin-op versions.\n\nHi-Res 3D Graphics + Fully Revamped Music!: Choose between 2D graphics with classic, retro music or shiny 3D graphics with snazzy, reworked music and sound effects. Switch between graphic and audio modes with the press of a button during play!\n\nNew Infinite Mode!: With infinite ships you’re sure to finally conquer the Bydos! Stage select allows you to practice and play the levels you want.\n\nClassic Mode!: Play the classic R-Type & R-Type II just like the original version!\n\nCo-Op Mode!: Go it alone or blast the Bydos with a buddy. Play friendly without collision, or flip it on for competitive play!\n\nNew features!\nBreeze through the bullets with your slow-motion button, or increase your speed with the fast-forward button. In Infinite mode, you can also power-up your ship to its maximum with one button!\n",
+  "titleId": "0100E5400BE64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/340b2d8d06133582d3af43e4add0d3f52427a53dbec293460c8c428a55edb69d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-30T17:03:14.727",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2e0e691",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-16T19:46:08.817",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "2fb5b39",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-20T07:21:45.857",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "d899f42",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

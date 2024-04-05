@@ -1,0 +1,30 @@
+{
+  "name": "Pixel Game Maker Series BURAIGUN GALAXY STORM",
+  "description": "“Pixel Game Maker Series BURAIGUN GALAXY STORM” is a vertically scrolling shooter that reminds you of a 90's arcade. \nYou can use three types of weapons: \"Wide Beam\", \"Thunder Laser\", and \"Spear Shot\", and you can also switch between \"Side Formation\" and \"Front Formation\".\nLet’s build your own strategy!\nThe game also has \"A-CHo/SYSTEM\" that slows down the time when you are on the brink of damaging to avoid enemy bullets.\n\nYou can change the difficulty of the game and play in various modes such as \"PRACTICE\" and \"BOSS BATTLE\".\n\nStory\nHumanity is on the verge of extinction due to a sudden attack by mechanical beings...\n\"Reika\" have a unique power, converting the mental power of humans into powerful energy.\nShe boards the state-of-the-art fighter \"XEX\" and flies off to the heart of the enemy alone...\n\n\"Pixel Game Maker Series\" is a series where you can enjoy games created using the action game production software \" Pixel Game Maker MV\"(Not available on Nintendo Switch™) on Nintendo Switch™.",
+  "titleId": "0100F9101573E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c9aed69375354469034376d81ca18b59a449005b76b1e0af5a307670f9f39329.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-16T13:57:40.545",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "386d0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-16T14:00:01.29",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "386d0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

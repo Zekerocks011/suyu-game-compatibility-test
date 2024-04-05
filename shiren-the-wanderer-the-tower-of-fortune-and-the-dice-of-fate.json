@@ -1,0 +1,30 @@
+{
+  "name": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
+  "description": "Legend has it that Reeva, god of Destiny, holds sway over the past, present, and future. Said to dwell in the mysterious Tower of Fortune, Reeva decides the fates of all mankind with a trio of magic dice...\n\nLead Shiren The Wanderer and his sidekick Koppa in their quest to conquer the Tower of Fortune!\n\nENDLESS ADVENTURE\n・Adventure with Shiren through a world filled with cunning monsters, deadly traps and countless treasure.\n・No two adventures are the same as you explore mystery dungeons that change each time you enter.\n・Learn strategies and skills to overcome what comes your way--you never know what's next!\n\nNEW FEATURES\n・Three new bonus dungeons will challenge even the most experienced Wanderer!\n・Enjoy your favorite tracks from the series' history in the Music Collection.\n・Take your audience on the adventure with the optional Live Display Mode optimized for streaming gameplay!",
+  "titleId": "01007430122D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d8db1e4bc40fcc9d0195fad4e1b00aabb590e75d663827b7d575d9b623599335.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-19T08:44:59.456",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-18T13:35:31.621",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2fced7f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SEGA AGES Herzog Zwei",
+  "description": "Protect your base, expand your territories, and capture as many free and enemy bases as possible by accumulating resources and building units to assist you.  But watch out!  Fly too far into enemy territory and there may be a price to pay.\n\nChoose between three different modes to achieve your goals: fighter plane, ground battle, and transportation.  Travel faster and transport units to other bases with fighter plane mode.  Manage energy usage and do more damage, by switching to the grounded, robot form. \n\n\nPlay against AI or friends via the online multiplayer mode only available in the SEGA AGES version of Herzog Zwei.  If jumping into a game sounds too intimidating, try out practice mode, a robust robot tutorial.  With save states and replays as well, this game is perfect for newcomers and Herzog Zwei veterans alike.",
+  "titleId": "010029900E314000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/733a14eda4af123d88bad42a3e4d9910b1344b2766d5e4410506d54f30a69a35.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-10T01:20:13.708",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "7c0224b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

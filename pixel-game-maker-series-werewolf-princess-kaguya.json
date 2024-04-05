@@ -1,0 +1,19 @@
+{
+  "name": "Pixel Game Maker Series Werewolf Princess Kaguya",
+  "description": "nostalgic dot-style depiction of the Heian period You can use the werewolf and the kaguya to strategically conquer the stage An arcade-like high-tension vertical scrolling action game.\n\n■Story\nTo stop Mother Kaguya, Queen of the Moon, from planning an invasion of Earth Kaguya, cursed to become a wolf, stands up. Set in the Heian period, a mother and daughter engage in a grueling battle across the universe!\n\n■Kaguya and the werewolf\nKaguya can perform two attacks: slashing (melee) and shooting (long range). When the tension gauge, which is charged when you defeat an enemy, is full, you can use it to It can turn into a werewolf. Although the werewolf is a melee attack only It has a very high attack power, and defeating enemies also restores HP You can turn the tables when surrounded by enemies.\n\n■Skills\nDefeating enemies earns you experience points and levels up when the stage is cleared or the game is over. You'll earn SKILL POINT as you level up.Strengthen your kaguya by setting up skills like \"Damage Reduction\" and \"Increasing Damage\".\n\n■Weapons\nWeapons are unlocked when you clear certain conditions.\nDifferent weapons have different attack power and range depending on the stage. Use it strategically. You can also use GOLD to level up, so\nGrow your favorite weapon.\n\n■The stage\nEach stage takes about 10 minutes to complete, so you can play easily.\nThe map contains doors and switches that can only be opened by defeating enemies. The gimmick to advance to the next step is placed so that you can get through the attack Let's capture it. There are hidden places in the stage where you can enter the side streets, such as GOLD\nThere are treasures to look for and get.\n\n\n\"Pixel Game Maker Series\" is a series where you can enjoy games created using the action game production software \" Pixel Game Maker MV\"(Not available on Nintendo Switch™) on Nintendo Switch™.",
+  "titleId": "0100859013CE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a5ae700f57239ced95a12af76a110a8397017aa634c60e8fbf62c2ac2205bac8.jpg",
+  "tests": [
+    {
+      "tester": "Cyucyu",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-09T03:18:22.546",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "2ca5963",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

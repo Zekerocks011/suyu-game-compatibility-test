@@ -1,0 +1,19 @@
+{
+  "name": "Titan Chaser",
+  "description": "Every night you leave the motel and drive through empty fields, looking for something.\n\nYour job is to scout wandering giants and drive them away from the sleeping town using light.\n\nIt's a meditative experience where you don't need to manage fuel, car maintenance, health, or damage. Just find where to drive and how to use your tools effectively. Or just forget about your work and drive through foggy landscapes to calm down after a hard day.\n\nIn Titan Chaser you can:\nWalk and interact with the environment and your car\nDrive your car in a fairly large open world\nListen to the music of krapka;KOMA in your car\nRelax and observe mystical landscapes\nScout Titans\nDo your job and make titans go away using lights and environment\nDiscover the story and personality of the protagonist through her commentaries about surroundings",
+  "titleId": "0100B4601500E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ad572d7d34293ebc42d98e5ca3a13dce5768927ef4830eef045298d61af7523d.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T19:07:32.642",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

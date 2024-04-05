@@ -1,0 +1,30 @@
+{
+  "name": "Super Crate Box",
+  "description": "Grab your baseball cap and loosen your pants, it's time to fight endless hordes of enemies and collect every weapon crate you can. Prepare for an arcade delight with tight controls, refreshing game mechanics, cracking retro art and a terribly hip chiptune soundtrack.",
+  "titleId": "0100B2D00C63A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a1097d174abd06fb42580b5017c87d710f08699358e172cc67760409693bf383.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-23T20:47:13.773",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "613f4ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-23T17:49:21.917",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "3bb3b24",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

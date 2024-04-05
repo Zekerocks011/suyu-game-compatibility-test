@@ -1,0 +1,19 @@
+{
+  "name": "BioShock: The Collection",
+  "description": "Explore the undersea city of Rapture, a haven for society's greatest minds that has devolved into a dystopian nightmare wrought by one man's hubris. Amidst the waterlogged ruins, a new ecosystem has emerged, where deranged Splicers hunt down the Little Sisters who would be helpless without their hulking Big Daddy guardians. Your only hopes for survival are quick thinking, reclaimed weaponry, and superhuman powers granted by DNA-altering Plasmids. To defeat Rapture's mutated monsters, you must become one.\n\nAlso includes:\n\n• Museum of Orphaned Concepts - Take a tour through BioShock's beginnings across multiple exhibits in this virtual museum, from early concept art to full in-game models. \n\n• Challenge Rooms - Test your combat skills and puzzle-solving prowess with this noncanonical series of trials.\n\n• Director's Commentary: Imagining BioShock - Discover new collectibles to unlock episodic videos featuring insights from Creative Director Ken Levine and Lead Animator Shawn Robertson.",
+  "titleId": "0100AD10102B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9ae5b1025c741330377ba56bef613e1c96e94c5ca82ab3af906008e5558e88a5.jpg",
+  "tests": [
+    {
+      "tester": "RinMaru",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-30T16:05:47.745",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "f5f35fb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

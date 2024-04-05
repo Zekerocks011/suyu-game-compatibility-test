@@ -1,0 +1,118 @@
+{
+  "name": "No More Heroes",
+  "description": "After being ranked #11 in the United Assassins Association, Travis Touchdown puts his trusty beam katana to the test as he faces off against the world's top 10 assassins in deadly battle.\n\nIt's a long way to the top, but this all-American otaku won't stop until he's the #1 assassin, baby!\n\n• Burn rubber through the coastal city of Santa Destroy on Travis' motorbike, the Schpeltiger!\n\n• Unlock a devastating arsenal of pro-wrestling moves—from Power Bombs to Brain Busters.\n\n• Unleash the powerful Dark Side to mow down the competition and show 'em who's boss!\n",
+  "titleId": "0100F0400F202000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9ee812b6392babb4f39dfd637c721815d6a95c0ef1d0fa778428abbff62be6f2.jpg",
+  "tests": [
+    {
+      "tester": "Salteador_Nema",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-02T18:10:48.453",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "1a45722",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-26T09:42:04.773",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "6f3982a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "matamocos",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-16T18:27:21.636",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER",
+      "version": "b1197f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-08-02T15:46:06.484",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-22T20:52:23.234",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "96238dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Daglot",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-27T09:01:35.944",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "2b4ead1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-08T11:14:47.375",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e3af49a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "fraud",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-09T10:58:48.647",
+      "cpu": "Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 Super",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-16T14:25:06.444",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-03T14:51:53.774",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

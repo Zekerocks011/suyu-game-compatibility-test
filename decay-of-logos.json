@@ -1,0 +1,63 @@
+{
+  "name": "Decay of Logos",
+  "description": "Immerse yourself in the world of Decay Of Logos and unravel its mysteries. Explore old dungeons, battle unforgiving foes and journey through a vibrant interconnected fantasy realm with your mystical elk companion.\n\nEmbark on a journey of revenge and betrayal set in motion by the destruction of our young adventurer's village at the hands of Crimson Knights. Find solace in your trusty elk companion as you battle the unforgiving foes that roam this once peaceful realm. Venture into ancient ruins and dungeons in search of its rewards in a quest to find the truth behind the attack of Ada’s home.\n\nTake heed - there’s a dark and treacherous force at work in this world that corrupts even its inhabitants. \n\n• Third-person action/adventure RPG with an emphasis on player exploration and minimal hand-holding.\n• Challenging combat with high risk-reward battle system; various short and long-range weapons featuring different move sets, combos, and ancient magic.\n• Elk companion system; strengthen your bond with the mystical elk as you solve environmental puzzles and unravel sinister mysteries.\n• Deep lore and intricate voice-acted narrative that will leave you guessing until the end of your journey through the far-reaching ancestral high-fantasy world of Decay of Logos.",
+  "titleId": "01004A4009106000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dc8f93ec4cefcad8545f7b0d9d4ea09d30c2ba9efebd8d32fd59b5bc556a1ca5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-20T01:26:32.376",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "e9310b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-07T13:21:03.052",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "3200bf2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OkaHachiko",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-01T03:37:21.073",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-28T10:22:38.575",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-02T20:30:32.152",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

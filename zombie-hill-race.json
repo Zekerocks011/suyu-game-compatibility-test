@@ -1,0 +1,19 @@
+{
+  "name": "Zombie Hill Race",
+  "description": "The only option is to find a car and make your way through the hills full of chaos...\n\nFeatures\n- Various vehicles at your disposal\n- Hordes of zombies to run over\n- Collect coins and modify your vehicle\n- Different types of zombies to kill\n- Lots of environments to discover\n- Deadly gameplay\n\nFind out what you can do in the world of the zombie apocalypse and take part in the racing battle for survival! Practice your mountain racing skills and try to survive on the front lines in the fight against the dead.\n\nCollect as many coins as possible, build a cool zombie killing machine, and deal with the hordes of undead roaming the mountains. If you don't want to join the ranks of the dead, you have to survive!\n\nDon't let yourself get killed, run over hordes of undead, and climb as high as possible to escape! Good luck, Zombie Killer!",
+  "titleId": "01001010134EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a449dc18534a8a73c0541cec4443d9488f1d93ef02e257f07a5a6e7ca4c90ff5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T21:33:26.084",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

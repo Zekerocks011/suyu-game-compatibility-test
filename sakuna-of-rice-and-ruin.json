@@ -1,0 +1,85 @@
+{
+  "name": "Sakuna: Of Rice and Ruin",
+  "description": "Spoiled harvest goddess Sakuna finds herself banished from her opulent celestial home to an island overrun with demons. In the untamed wilderness, she must rediscover her birthright as the daughter of a warrior god and harvest goddess by weathering the elements, fighting monsters, and cultivating rice, the source of her power. By her side in this forbidding place is her guardian Tama and a group of outcast humans. Together, these unlikely companions must join hands to tame both the soil and the demons of Hinoe Island.\n\nDeveloped by Edelweiss, the indie team behind the acclaimed Astebreed, Sakuna: Of Rice and Ruin combines side-scrolling action with deep crafting and rice cultivation in a powerful tale about finding one's place in the world.\n\nKEY FEATURES\n- Refined Side-scrolling Platforming Action\nUsing farm tools as weapons, chain together quick, heavy, and special attacks to take down demonic beasts, while mastering the magical “divine raiment” will be essential to grapple distant platforms, evade danger, and overcome powerful enemies.\n \n- Detailed 3D Simulation-style Gameplay\nLearn the ancient art of agriculture by following detailed steps from planting to harvesting to cultivate the perfect crop. As a harvest goddess, Sakuna’s strength grows with each rice crop, with attributes such as aesthetic and flavor directly correlating to her combat abilities. \n \n- Creating a Home in the Wilderness\nSakuna’s mortal companions make weapons, armor, and meals for her using the materials and ingredients she gathers on her adventures, and completing quests for them will unlock even more options.\n \n- A Fresh Take on Japanese Mythology\nThe heroine is part of a pantheon of gods and demons inspired by traditional Japanese mythology but featuring many unique twists. The story and world are filled with lovingly rendered details, some familiar and some completely original.",
+  "titleId": "0100B1400E8FE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e76b55cdfdb2c66e173be499207d530ca8931c5a654af19f3af57e974423cd41.jpg",
+  "tests": [
+    {
+      "tester": "landas1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-14T03:28:15.588",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "297fc97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-04T12:46:41.021",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-10T21:40:17.728",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-29T17:07:13.805",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SithRage",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-09T10:18:14.565",
+      "cpu": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+      "gpu": "GeForce 940M/PCIe/SSE2",
+      "version": "e926439",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-27T15:51:07.205",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "56521a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-02T11:12:30.323",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "fd8d8b1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

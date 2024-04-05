@@ -1,0 +1,19 @@
+{
+  "name": "Roombo: First Blood",
+  "description": "Roombo: First Blood is a comedic, top-down, stealth-action game about being a robot vacuum cleaner and fending off burglars from your home. \n\nHack smart-home gadgets like lights, doors and various appliances to set up traps, or improvised weapons from objects around the house. Hide under furniture, set your trajectory and plow into your enemies, knocking them over with such force that they go flying, then munch them up when they’re down. \n\nBut make sure you don’t leave too much blood on the carpet, because you’ll need to make sure the house is clean before the family gets home. Only you can save Christmas and show these burglars that justice sucks.\n\nThis is a short experimental game featuring 6 difficulty scenarios set in one stage and an unlockable gallery of concept art. ",
+  "titleId": "0100F3000FA58000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9149c0596c1a5e473b190d13e71f11fdf22fd78d0f6928234db1095cac43f4b3.jpg",
+  "tests": [
+    {
+      "tester": "Gamedev1909",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-03-02T17:58:02.368",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "dbd03a1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

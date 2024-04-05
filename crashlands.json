@@ -1,0 +1,30 @@
+{
+  "name": "Crashlands",
+  "description": "Play as Flux Dabes, a galactic delivery truck driver whose latest shipment gets interrupted by a megalomaniacal alien named \"Hewgodooko\" who tears her ship to pieces looking for useful tech. Crashlanded on Woanope, you must fight, tame, craft, quest, bossfight, and adventure your way to domination of all the things so that you and JuiceBox, your trusty sidekick/supervisor/robotic cargo palette, can send a message to the Bureau of Shipping and get those packages delivered!",
+  "titleId": "010027100BD16000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fe87d13bf996ca597f17828b120ea921ef1e21fbb5ca9cef7f23ed482e8daab8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-12T07:20:21.978",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "cbe9f12",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-01T09:21:47.707",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "cd97bdf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

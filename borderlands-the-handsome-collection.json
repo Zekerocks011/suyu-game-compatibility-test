@@ -1,0 +1,30 @@
+{
+  "name": "Borderlands: The Handsome Collection",
+  "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2 and the lunar madness of Borderlands: The Pre-Sequel in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\nBorderlands: The Handsome Collection includes:\n• The critically acclaimed BORDERLANDS 2 and BORDERLANDS: THE PRE-SEQUEL games in one package.\n\n• Piles of bonus add-on content for both games, adding 100+ hours of gameplay at an incredible value*\n\n• Cooperative gameplay for up to four players online.\n",
+  "titleId": "010096F00FF22000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eed91f1c578b6de3a69ba6567a311d6c497455d8efb8e1768bd6c62333e4eab6.jpg",
+  "tests": [
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-10T20:09:13.101",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "58be7cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-01T14:00:25.202",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "0230491",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Necrobarista - Final Pour -",
+  "description": "\"This is a story about death and coffee.\"\n\nInspired equally by film and anime, Necrobarista is a unique take on the visual novel medium. Follow a dynamic and diverse cast of characters as they navigate Melbourne's hipstery coffee culture, the questionable ethics of necromancy, and the process of letting go.\n\nStylized, fully 3D cinematic presentation that draws from anime aesthetics.\nSoundtrack by Kevin Penkin, BAFTA-nominated composer for Florence, Made in Abyss, and Norn9.\nDelve into the world of the Terminal and fantasy Melbourne through free-roaming first-person scenes.\nFeaturing goon-sack robots, alchemical coffee, and Australian folk hero Ned Kelly.\nSupport for fourteen languages, including Korean, Arabic, and Russian.",
+  "titleId": "0100E64015370000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/01d84a851b7ee733bf6c26d1915626b6e5e1d2ffd581ec98034551f8078addcf.jpg",
+  "tests": [
+    {
+      "tester": "Orlando_Isay_Sandova",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-21T07:07:12.772",
+      "cpu": "Intel(R) Pentium(R) CPU 4415Y @ 1.60GHz",
+      "gpu": "Intel(R) HD Graphics 615",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-14T08:45:21.55",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "Radeon RX 560 Series",
+      "version": "8145783",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

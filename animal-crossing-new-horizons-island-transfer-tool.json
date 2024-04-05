@@ -1,0 +1,41 @@
+{
+  "name": "Animal Crossing: New Horizons Island Transfer Tool",
+  "description": "Use this software to transfer the data for your whole island in the Animal Crossing: New Horizons game from one Nintendo Switch system to another. Download this software on both Nintendo Switch systems in order to transfer your island. Detailed information on the moving process can also be found on the Nintendo Support website. https://support.nintendo.com/",
+  "titleId": "0100F38011CFE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4310ef9dabb57caed54a390dfc1189d3b62d58da49f08c09c458f107c3415953.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-18T17:58:30.494",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 with Max-Q Design/PCIe/SSE2",
+      "version": "8cc0e93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EthanPHX",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-25T02:12:21.1",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EthanPHX",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-25T21:19:44.503",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

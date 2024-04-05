@@ -1,0 +1,30 @@
+{
+  "name": "Skully",
+  "description": "On a mysterious remote island, a skull washes up on shore and is reawakened by an enigmatic deity. Dubbed Skully, the newly reanimated being has been summoned to intervene in a war between the deity’s three siblings, whose quarrel jeopardizes the island they call home. \n\nFate has bestowed Skully with a second chance at “life” and his adventure will take him across a strange paradise as he seeks an end to the conflict that plagues the isle.\n\n•\tHop, skip and roll your way to victory. Dodge obstacles across the island as Skully, a skull reanimated by the power of magical clay.\n•\tAdapt to your environment. Transform into three distinct forms to overcome challenges and defeat enemies.\n•\tTraverse a mysterious island. Roll through 18 different levels in 7 distinct ecosystems each packed with unique dangers.\n•\tExplore a compelling story. Fully voiced dialogue and cutscenes breathe life into the island’s inhabitants and the charming world of Skully!",
+  "titleId": "0100D7B011654000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9d968f074f5f5e9912607be88b41bd0f2f7b7972b230690f5f11742858330dcd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-30T06:02:27.273",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "57d5103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ghost666",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-01T12:03:55.801",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "32639c5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

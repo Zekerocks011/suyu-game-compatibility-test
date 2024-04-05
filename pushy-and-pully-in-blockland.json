@@ -1,0 +1,30 @@
+{
+  "name": "Pushy and Pully in Blockland",
+  "description": "Pushy and Pully in Blockland Push is a cooperative arcade game with a retro feeling.\n\nHelp Pushy and Pully get back their spaceship on their trip across Blockland.\nPush blocks to defeat the monsters, join blocks of the same colour to get power ups and defeat the bosses to recover the parts of your broken spaceship.\n\nFEATURES:\n- Play solo or with a friend.\n- Classic gameplay with never-seen-before twists.\n- Combine blocks of the same colour to create the power up you need or the bonus points that will bump up your position in the leaderboards.\n- End the stage by defeating all the enemies before time runs out.\n- Defeat more than one monster at the same time or pop more than two blocks to get extra combo points.\n- 50 lovingly handmade levels.\n- 5 unique bosses to challenge you.\n- Rankings and stage rating. Can you make more points than your friends?",
+  "titleId": "0100F1200F6D8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/648cc539dc08918f75e4efc30dcdd359eaac6e4ab597e5d402946adbc3587deb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-23T02:06:34.409",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fefdfd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-28T18:15:11.391",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

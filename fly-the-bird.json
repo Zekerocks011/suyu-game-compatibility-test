@@ -1,0 +1,19 @@
+{
+  "name": "Fly The Bird",
+  "description": "Have you ever dreamed to fly like a bird?\n\nFeel the freedom to fly over beautifull landscape in this bird flight simulator. Master the art of flying by going form ring doors to ring doors successfully.\n\nServed by beautifull graphics and animations as well as emotional soaring musics, this never-ending flying simulation will bring you hours of peacefull and relaxing gaming.",
+  "titleId": "0100217014ABA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1cfd5bf37322895bb1a17388bf0b530138dfe297ebc558dafb061699d465d38d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-28T00:45:42.71",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

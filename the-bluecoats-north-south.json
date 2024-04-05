@@ -1,0 +1,52 @@
+{
+  "name": "The Bluecoats North & South",
+  "description": "Reunite with Sergeant Cornelius M. Chesterfield and Corporal Blutch in this remastered game that combines turn-based strategy and real-time action. Initially released on the Amiga at the end of the 1980s, this version will delight fans of the original game!\n\nMaster the turn-based strategy to achieve victory. Take control of new states, secure forts and railways to increase your resources, and lead reinforcements sent over from Europe. Discover or relive the experience of the original game \"The Bluecoats North and South\", in single or two-player mode, with this updated version featuring redesigned gameplay!\n\nWhether you're a rookie or an experienced player of strategy games, you can personalize your experience with a variety of options available to activate.\nDiscover various episodes in the history of the American Civil War by choosing which year to start in. You can attempt to change the course of history or maintain your positions.\n\nFeatures:\n\n*3 different gameplay modes:\n  - Turn-based strategy map: take charge of operations and move your battalions to capture new states, engage the enemy, or strengthen your positions.\n  - Real-time battles: get to the heart of the action and directly confront the enemy. Use your infantry, cavalry and artillery to achieve victory. Use the strengths of each corps to crush your opponent.\n  - Attack and defend forts and trains in FPS mode. The totally redesigned gameplay puts you in the shoes of the soldier. Defend your positions from the invader or take the initiative by attacking enemy possessions.\n\n*Full two-player mode.",
+  "titleId": "0100A5A00B2AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d35c6c18d4ce70f355c66d0cdc48f410385df47c845a7eb6ce0604ecdedd91d7.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T15:30:58.567",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "d9a36ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T23:26:15.014",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "9ab6a24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-27T23:10:49.003",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "9ab6a24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SithRage",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-05T15:34:38.158",
+      "cpu": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+      "gpu": "GeForce 940M",
+      "version": "ea28d02",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

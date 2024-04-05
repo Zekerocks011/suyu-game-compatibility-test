@@ -1,0 +1,19 @@
+{
+  "name": "Orbibot",
+  "description": "Orbibot is a game in which you control a ball-shaped robot and solve physics- and logic-based puzzles. \n\nBeing a ball doesn’t limit you as much, you can control buttons, laser switches, and doors to reach the end of the level. Sometimes you will need to use barrels or metal balls to get to your destination.\n\nWill you find the teleporter that will take you to the next level?\n\nFeatures:\n* 3D handcrafted levels\n* Ball rolling spatial logic and physics puzzles\n* Checkpoints, you won’t have to start from scratch\n* Find the plastic cats",
+  "titleId": "010006A0158A8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/865b49f80b31ce1a3f3f4f07149296a0e8c10c7034767fc38c60968cecfea9f5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-14T00:33:51.265",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

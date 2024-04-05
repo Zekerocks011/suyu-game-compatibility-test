@@ -1,0 +1,41 @@
+{
+  "name": "Road Redemption",
+  "description": "In the fiery remnants of a once vibrant world, gangs battle for dominance across wartorn highways. \n\nWhen a motorcycle assassin takes out the boss of the richest weapons cartel, the cartel offers a bounty of wealth beyond imagination for the assassin’s head. \n\nNow every thug, warrior, and bounty hunter with a bike and blade is out to catch the assassin and win the bounty, including you.  The race is on. \n\nTo succeed, you’ll have to fight your way across the country, through both friendly and rival gang territory, with whatever weapons you can get your hands on: swords, shotguns, baseball bats, sledge hammers, pipe bombs, and so much more. \n\nYou’ll need to use what you earn and learn along the way to upgrade yourself, your ride, and your weapons. The path to glory and riches is a long one paved in blood and pain, but luckily you’ve got a fast bike. \n\nStart Your Engines\n\nRoad Redemption is an action racing game where you lead your motorcycle gang on an epic journey of pursuit, blood, and speed. Through your travels, you will upgrade your character, bike, and weapons by completing races, assassinations, robberies, and more.  \nYou’ll need to use kicks, grabs, counters, and other moves to stay alive.  \nDeath is a constant companion on the roads of the wasteland, but it is not an end; if you are killed, you keep everything you’ve earned so you can get back in the race.  \n\nThe Lone Wolf Dies, the Pack Survives\n\nFeatures:\n- Tons of brutal weapons.\n- 2-player splitscreen co-op.\n- Massive, expandable skill tree. Rack in the loot to upgrade your character, your bike, and your weapons.\n- A deep motorcycle fighting system with grabs, kicks, counters, critical strikes, and more. ",
+  "titleId": "010053000B986000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1e7a28e3ade034e6bea60eeb55452d98347166df686622bc22abf233fb0f4ef5.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T03:10:55.084",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-18T01:16:24.548",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-04T13:43:20.924",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "22e869a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

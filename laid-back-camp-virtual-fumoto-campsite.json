@@ -1,0 +1,19 @@
+{
+  "name": "Laid-Back Camp - Virtual - Fumoto Campsite",
+  "description": "Experience Laid-Back Camp in 3D!\n\nTogether, Rin (you!) and Nadeshiko embark on a new camping adventure at the Fumoto Campsite, taking pictures and trying lots of delicious food.\n\nAbout the Game\nNadeshiko, Rin & co. encounter a variety of unique situations. Join them in VR for a short adventure game (each version is about the length of an anime episode), where the fully voiced characters and vibrant scenery will make you feel like you’re really there!\n\nCast\nNadeshiko Kagamihara (Yumiri Hanamori)\nRin Shima (Nao Toyama)\nChiaki Ogaki (Sayuri Hara)\nAoi Inuyama (Aki Toyosaki)\nEna Saito (Rie Takahashi)\nNarration by Akio Otsuka\n\n*Content in this game varies from that of Laid-Back Camp - Virtual - Lake Motosu.",
+  "titleId": "0100030012E82000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8dd2260efc4da86d93e88b36ff5c7c2223fa991d748e36cbe4beaf14f1f802c6.jpg",
+  "tests": [
+    {
+      "tester": "Elvoc",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-03T01:06:11.514",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "AMD Radeon (TM) R9 390 Series",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

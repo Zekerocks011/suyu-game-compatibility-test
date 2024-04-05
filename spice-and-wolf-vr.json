@@ -1,0 +1,41 @@
+{
+  "name": "Spice and Wolf VR",
+  "description": "-Story-\nKraft Lawrence is a traveling merchant who meets Holo, a beautiful woman who can transform into a wolf. \nAs they travel together they face many hardships, such as having to walk in the rain.\nIn order to avoid the sudden downpour, Holo and Lawrence take shelter in an old, abandoned water mill in the woods.\nThey huddle around a small fire and enjoy a slightly strange but relaxing time together.\nYou are able to share that time together with them.\n\nProduction Staff\nScenario: Isuna Hasekura\nCharacter Design: Ju Ayakura\nHolo's CV: Ami Koshimizu\nKraft Lawrence's CV: Jun Fukuyama\n\nThis product's content can be enjoyed without Toy-Con™ VR GOGGLES.",
+  "titleId": "0100C9B00EAEE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e523a8e61762c39033000fe557bd3eb52cefd975d0f7c3be61d6c645f0eae9d4.jpg",
+  "tests": [
+    {
+      "tester": "RodrigoTR",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-21T20:35:25.378",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "73cf424",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RodrigoTR",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T01:38:09.723",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "9a59d8f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "erg2222",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-16T22:31:43.522",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

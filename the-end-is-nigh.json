@@ -1,0 +1,63 @@
+{
+  "name": "The End Is Nigh",
+  "description": "The End Is Nigh is a sprawling adventure platformer where the player takes control over Ash, one of few \"things\" that have \"survived\" the \"end of the world.\" Follow Ash as he flops his way through a future of pain and suffering. Feel his stress levels rise as you throw him into an endless swarm of decaying, mutant animal-like creatures and help aid his final epic quest...to simply make a friend (out of pieces of people he finds along his journey). \n\nOh, also you collect video game cartridges and tumors! If that does anything for ya.\n\nFEATURES\n• 600+ levels!\n• 12+ explorable chapters!\n• 20+ collectible and fully playable mini-game cartridges! (each with their own tiny achievements!) \n• 80+ achievements that will make you feel good about yourself \n• 100s of collectible little squishy tumors!\n• Loads of hidden extras and endings that you will probably see someone else find before you do!\n• ...and stress!",
+  "titleId": "01004A9006B84000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8f15f14726d9c0469ee1233f37d48559ba4016ae16ef5c3b604b9da360bf9bff.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-06T11:43:50.968",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-17T16:41:47.51",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-02-19T18:32:43.351",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-05T22:13:19.085",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-07T14:43:25.035",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

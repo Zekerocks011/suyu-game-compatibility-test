@@ -1,0 +1,118 @@
+{
+  "name": "THE LAST REMNANT Remastered",
+  "description": "Last released in 2008, The Last Remnant captured the hearts and minds of gamers with its enthralling story, countless characters and intricate battle system. Now this cult classic RPG is back with a Remastered version and is coming to Nintendo Switch with even more beautiful graphics, enhanced via an updated game engine.                                                                                                                                                          There exists a world woven together by four races: Mitra, Yama, Qsiti, and Sovani.\n\nIn this world, mysterious objects called \"Remnants\" have existed since ancient times. Who created these objects? When? And for what reason? No one knew nor had the means to know, but continued to extract and use their colossal power.\n\nHowever, the Remnants' immense power gradually caused the world to fall out of balance. As further separation tore apart those who rule and those who follow, a war broke out―the beginning of a long and endless strife.\n\nA thousand years later, this story begins.\n\n■ Distinct Battle System\n\nA command-style battle with ever-changing scenarios\nComing in contact with enemies on the field will trigger battles. Strategize and make full use of the commands that change constantly depending on the positions and state of friendly and enemy forces.\n\nMorale of friendly forces greatly affects the outcome of battle\nIn battle, morale expresses the spirit of individuals and groups of both friendly and enemy forces. Higher morale has advantageous effects such as increasing the attack stat to deal more damage, or decreasing damage dealt by the enemy.",
+  "titleId": "0100AC800D022000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/31e0637d7929375da9197fd53798a64fabf5307e6d6b1be1fe5b50e526dd9cb0.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-03T22:34:07.984",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "93a2d4f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-04T09:51:24.088",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:02:37.937",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-31T21:12:59.515",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-26T00:27:33.877",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "1b69b6a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-04T09:51:29.728",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-31T21:13:06.687",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T16:03:18.738",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T16:21:52.848",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:02:43.801",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Black Rainbow",
+  "description": "For adventurer Helen Stone, the biggest adventure is yet to follow!\nHelp Helen escape the burning village and guide her through the dark and dangerous forests and help the people of Amazonia.\n\nThe evil behind the curtain is far bigger and dangerous than anyone could have ever imagined. It's up to Helen to restore the balance in this hidden and unexplored world. Will you survive the impossible!?\n\n- Find your way out of the dark forest of Amazonia\n- Search through dozens of hidden and sacred places\n- Help people of Amazonia stop the darkness\n- Solve dozens of exciting minigames\n- Numerous animated, colorful locations to explore",
+  "titleId": "0100236011A42000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fdb64c80935ba631fc32cd760e697d590a97900554b2100f281e4976b532bdd3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-13T18:11:34.728",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "20c42dc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

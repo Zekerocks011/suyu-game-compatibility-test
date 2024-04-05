@@ -1,0 +1,41 @@
+{
+  "name": "DoDonPachi Resurrection",
+  "description": "■ Story\n\nSix years after the battle in Lunapolis was over ...\nThe Moon-based \"DonPachi\" headquarters sensed a turbulence in space-time. As a result of their investigation, it was found that it was due to a large amount of material transfer to the past. The culprit was Exy, an element doll. She would have been abandoned in a runaway battle six years ago. The battle between Axie, who plans to rewrite history, and the DonPachi army, which tries to prevent it, begins. It will be set in Japan in May 2008.The world is once again engulfed in war. The bee's feather sound hasn't stopped yet!\n\n■ A battle system full of exhilaration\nSelect one of the three models that are characterized by their movement speed and shot type, and sortie. Orthodox \"Bomb Style\" that can use bombs to counteract enemy bullets at the same time as attacking the entire screen\nBomb hardly shoots, but \"power style\" that can switch shot power arbitrarily. And \"strong style\" that combines the two strengths. You can set the aircraft and shot style to your liking. \"Hyper counter mode\" that offsets enemy bullets at the same time as powering up your own machine,\nLet's lead the battle to your advantage with the \"counter laser\" that cancels the enemy's laser.\n\n■ Features\n* 8 modes for all DoDonPachi fans, regardless of skill level\n* Novice mode prepared for beginners and arrangement mode prepared exclusively for the home version\n* Strategy that spreads by \"Hyper Counter\" that offsets enemy bullets and \"Counter Laser\" that pushes back the enemy's laser\n* A battlefield with a sense of deja vu set in Tokyo in 2008\n* Simultaneous recording of \"Black Label\" with new system\n* Screen setting options that can be enjoyed in vertical mode",
+  "titleId": "01005A001489A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/da2906a12394cdd8fc9f66dd1fbc9b775110ca61e61e6da1b1914fb0d799ab1d.jpg",
+  "tests": [
+    {
+      "tester": "Ragnar_es",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-03T18:46:39.839",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "fd8d8b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T10:42:06.43",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jinete1805",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T18:46:39.091",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

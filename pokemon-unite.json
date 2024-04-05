@@ -1,0 +1,107 @@
+{
+  "name": "Pokémon UNITE",
+  "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pokémon, level up and evolve your partner Pokémon, and knock out the opposing team’s Pokémon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\n• BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pokémon in a variety of holographic outfits—with new styles arriving regularly!\n\n• UNITE MOVES: Unleash the true power of your Pokémon with Unite Moves! Leverage these all-new Pokémon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n• RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n• COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team’s success. Leverage signals, quick-chat messages, and—for the first time in a Pokémon title—voice chat to communicate and stay in sync with your team.\n\n• CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch™ system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pokémon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.",
+  "titleId": "0100939011ED4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/12fa1310168e0331c236568acab503ae42d27db3d87edbed4413c98cf4a383ac.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-30T17:30:18.905",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "cad9b50",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-23T17:44:47.056",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "ed1e288",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Henrique_Algarvio",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-29T20:03:13.641",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "537773d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Minediversion",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-23T21:03:57.502",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "ed1e288",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-24T20:00:25.042",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5600 XT",
+      "version": "7b86a68",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Hatulman",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-08-18T12:17:11.349",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "6f75a05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-23T05:35:25.764",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "66981d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-19T18:46:33.531",
+      "cpu": "AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "bdd20d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-10T17:01:20.01",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

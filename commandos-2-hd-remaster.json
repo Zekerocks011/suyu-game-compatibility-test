@@ -1,0 +1,19 @@
+{
+  "name": "Commandos 2 - HD Remaster",
+  "description": "Relive the real-time tactics masterpiece that defined the genre like no other for the first time on Nintendo Switch™: Originally developed by the legendary Pyro Studios, Commandos 2 - HD Remaster is a true homage to one of gaming’s most celebrated masterpieces. Experience Commandos 2 Men of Courage like never before in high definition with reworked controls, UI and tutorial. Take control of an elite group of commandos who must venture deep into enemy territory and utilize their combined expertise to complete a series of notoriously demanding missions set in World War II. Go covert into various environments based on authentic World War II locations and lead your team of commandos against overwhelming odds, operate covertly and turn the tide of war. \n\nFeatures:\n• Re-imagined in HD with reworked controls, modernized UI and an overhauled tutorial.\n• The Commandos series’ first appearance on Nintendo Switch™: rotate the environment 360 degrees, move seamlessly in and out of buildings, submarines, planes and underwater, and zoom in and out of the environment. \n• Interactive environments: steal enemy uniforms and weapons, climb poles, swing from cables, swim, utilize vehicles, and climb in/out of buildings, ships and planes.\n• Control nine unique commandos, each with different skills and specializations including green beret, sniper, demolition expert, diver, seductress and thief. \n• Authentic WWII scenarios: 10 missions spanning 9 different environments in night and day, with realistic weather effects. \n• The choice is yours: how you tackle each mission is up to you. Experiment with skills and weapons in a challenging “against the odds” gameplay style.\n• WWII vehicles and weapons, including jeeps, tanks, trucks, ships, bazookas and flame-throwers.",
+  "titleId": "010065A01158E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5d4aee75d969ffa3627b4cb6274c3b2f695cdcf2e442f8e1b29faa051ac9049a.jpg",
+  "tests": [
+    {
+      "tester": "JohnnyPR88",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-15T04:15:57.62",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU/PCIe/SSE2",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

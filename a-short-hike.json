@@ -1,0 +1,52 @@
+{
+  "name": "A Short Hike",
+  "description": "Follow the marked trails or explore the backcountry as you make your way to the summit. Along the way, meet other hikers, discover hidden treasures, and take in the world around you.\n\n• Explore the island any way you like. Choose your own path to follow and see where it leads you. You never know what you might stumble into!\n• Hike at your own pace - there's no need to rush to the summit! Take your time fishing along the river banks or swimming by the lakeshore.\n• Collect hidden treasures to reach new heights. Try taking a dive off the mountain peaks to soar above the forests.\n• Chat with the other hikers you meet along your route. You might be able to help each other out!\n• Listen to a lush original soundtrack by Mark Sparling that progresses dynamically as you explore the wilderness.",
+  "titleId": "01004890117B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0d9b9ce82c4c0f3efc5001ef11ddec912e05dc208db8425576389fb79b0c4b04.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-20T01:46:56.242",
+      "cpu": "AMD Phenom(tm) II X4 960T Processor",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "aeb4164",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-23T12:58:12.211",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-24T07:24:07.706",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "e0da593",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "d1xenotime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-16T03:55:42.878",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 580/PCIe/SSE2",
+      "version": "c0b1f06",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

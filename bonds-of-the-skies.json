@@ -1,0 +1,19 @@
+{
+  "name": "Bonds of the Skies",
+  "description": "Times are changing, and the existence of the Grimoas has become less relevant in everyday life. The young Eil is in the middle of his Coming-of-Age ceremony when suddenly his town is attacked by a demon and engulfed in flames. In the midst of this confusion, Eil enters into a pact with the Air Grimoa, Nogard, in order to save everyone. \nEil and Nogard set off to look for the demon who cast the town into a sea of flames, and to find other Grimoas in order to put a stop to its violence!\n\nThe game features classic turn-based battles, with a Synchro Gauge system which lets you unleash powerful skills when synchronized with the Grimoas. A wide range of achievements, including quests to complete and items to collect, await you during this epic adventure!",
+  "titleId": "01009AA00D49E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6c6713ea58af486233cf02e6add2eff80f836aa5cec4fd6e6c27ae90f6b892d5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T17:55:21.616",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "8cd5dc3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Infinite Minigolf",
+  "description": "Create and play on an unlimited amount of minigolf courses in Infinite Minigolf, a never ending minigolf experience from the experts at Zen Studios! Take part in competitive tournaments and challenges, unlock and utilize powerups, and experience unique gameplay, amazing graphics, and more wrapped up in the coolest minigolf game available.\n\nInfinite Minigolf crafts an astounding minigolf experience with accurate physics, dazzling graphics and detailed environments, each one with a distinct visual theme and gameplay features.\n\nUse the game’s robust toolset to create your own amazing minigolf courses and share them with the community, showcasing your creative abilities to other players worldwide. Create, share and play with the Infinite Minigolf community now!",
+  "titleId": "010039C001296000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e7e0e70fe8815dcdabe53b6cf5fca2cc11530f9e931d591c7ad310b467ab206c.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-24T18:30:33.743",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thebenjibenji",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-01T04:37:35.483",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

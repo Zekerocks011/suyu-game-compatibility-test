@@ -1,0 +1,30 @@
+{
+  "name": "Undernauts: Labyrinth of Yomi",
+  "description": "Escape from “Yomi” – a dungeon filled with riches – and danger. \n\nYou have been recruited into the Undernauts – a team of brave subterranean adventurers who comb the depths of a massive, monster-infested labyrinth in search of priceless resources. \n\nMake use of your powerful skills and magic items to create exits and reach the surface alive.",
+  "titleId": "010036D014A7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/08e58003cae4279e6250f1f7762434198f9220e267474eeb09055501f49321e9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T08:34:20.356",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T12:27:25.341",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "b79fc85",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dracula's Legacy",
+  "description": "Haunted by frightening dreams about her forgotten past, Isabella - along with her fiancé - travels to an old ghost town, the only clue to her origins that she has been able to dredge from the depths of her lost memories. \n\nAt the start of the dangerous journey, a terrifying creature attacks the pair and Isabella barely manages to escape with her life by fleeing into the dungeons buried deep beneath the town... where deadly vampires lurk. Now it is up to you: help Isabella as she tries to find her way out, reach the mysterious city of lost souls, and rescue her fiancé!\n\nSolve perplexing puzzles and explore colorful locations in \"Dracula’s Legacy\".\n\n- Hidden Object Adventure Game\n- Find clever clues and solve mysteries\n- Solve fantastic puzzles",
+  "titleId": "01001B80099F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a00cfbd430565dc9f8b7c304a3039f6562d4f886671e14317de6f4ca76c6824f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-25T03:28:10.073",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-18T18:15:02.524",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

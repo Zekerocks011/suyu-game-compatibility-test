@@ -1,0 +1,52 @@
+{
+  "name": "Deadly Premonition Origins",
+  "description": "A mysterious serial murder occurs in Greenvale, a small town in North America surrounded by a beautiful nature.\nFBI agent York sets out with his \"friend\" Zach to face the case.\nSpend time with the town-people, soak your self into the nature and truth will gradually become clear. When you finally get to the truth, you'll find yourself difficult to leave Greenvale.",
+  "titleId": "0100EBE00F22E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b9e3abbd040267f31139e6694418f0dc3e603ecbbd849aecd496ed137a488463.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-21T19:21:21.765",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-13T07:47:26.834",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-15T08:38:31.824",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "2b6bfbd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-05T16:16:46.298",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "6a2094a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

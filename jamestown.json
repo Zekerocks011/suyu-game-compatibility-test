@@ -1,0 +1,19 @@
+{
+  "name": "Jamestown+",
+  "description": "Built from the ground up to be exciting for players of all skill levels, Jamestown+ is friendly to shoot 'em up newcomers while also offering the full-throttle challenge that die-hard fans of the genre crave.\n\nSet on 17th-century British colonial Mars, Jamestown+ is a neoclassical cooperative shoot-em-up for up to four players. Lush pixelart and an award-winning orchestral soundtrack immerse you in Raleigh’s battle to protect Britain’s last bastion: Jamestown colony. Jamestown+ features all the intensity, depth, and lovingly handcrafted pixels of a classic arcade shooter, with a modern twist: deeply-integrated cooperative gameplay.\n\nEight years in the making, this is the definitive expanded and remastered edition of the critically-acclaimed debut title from Final Form Games.\n\nFun for all:\n\n- Jamestown's wide array of difficulty levels gives newcomers an exciting way to get into the shoot 'em up genre while also offering experts the crisply-controlling intense action they crave.\n- Jamestown+ plays beautifully at any number of players - you'll only lose a credit when the whole team is destroyed at once, so you're always happy to have a bonus friend in on the action!",
+  "titleId": "010000100C4B8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c718d0a07e087f25fea066b00399939f649927121defd420b14fcf6fc64b3472.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-26T16:58:59.98",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

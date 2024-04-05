@@ -1,0 +1,118 @@
+{
+  "name": "DARK SOULS: REMASTERED",
+  "description": "Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning detail. DARK SOULS: REMASTERED includes the main game plus the Artorias of the Abyss DLC. This marks the franchise’s debut on a Nintendo platform, and for the first time ever can be played on-the-go with Nintendo Switch™.\n\nDeep and Dark Universe— Delve into an epic dark fantasy universe stricken by the Curse. Explore its intricate world design, full of hidden passages, dungeons and secrets.\n\nEach End is a New Beginning— Each playthrough surprises you with new challenges and discoveries. \n\nGameplay Richness and Possibilities— Use hundreds of unique weapon, armor, magic, and crafting combinations to create your own playstyle and gaming experience.\n\nThe Way of the Multiplayer (up to 6 players)— Whatever your motivations are to play online – collaboration or confrontation, support or betrayal – you’ll find your true home among the nine covenants. ",
+  "titleId": "01004AB00A260000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70cababc9b81e73a866ba6762934c124ce6ed139682a76ffeb05b33a54047a5e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-20T23:48:47.733",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7197438",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "6flagssouth",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-10-10T02:41:54.3",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "George_Moraitis",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-21T19:54:50.915",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "69332c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-05T03:13:07.223",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "eca4ae6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-28T21:56:28.214",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "c82f2a9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-09T11:51:37.423",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "George_Moraitis",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-21T21:44:20.73",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "69332c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-04T01:52:40.317",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b241a35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-26T21:49:48.683",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f7292ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-28T20:59:20.288",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

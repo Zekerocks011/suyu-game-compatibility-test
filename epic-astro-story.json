@@ -1,0 +1,19 @@
+{
+  "name": "Epic Astro Story",
+  "description": "Ready to test your mettle against the final frontier?\n\nPioneer an untamed planet, building roads and houses for your fellow denizens of the future. Cultivate your quaint colony into a stellar space citadel, and you'll pull alien tourists from everywhere this side of Alpha Centauri!\n\nCareful though, not all intelligent life seeks souvenirs. Prepare to engage in heated battle with all manner of cosmic creatures! Win--and you just might be rewarded...\n\nStrap into your spacecraft, all systems are go for an epic astro adventure that'll warp you to light speed and beyond!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+  "titleId": "0100AE300D496000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e2b929f587b35219035dde13a0e3be8d6664c049dff3156e0192509778bce629.jpg",
+  "tests": [
+    {
+      "tester": "Shikinouta",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-09T03:29:21.772",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6321d75",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

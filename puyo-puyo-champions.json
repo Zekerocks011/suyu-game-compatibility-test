@@ -1,0 +1,30 @@
+{
+  "name": "Puyo Puyo Champions",
+  "description": "Easy to learn, tough to master! Jump straight into fast-paced puzzle action with features fit for both friendly rivalries and competitive tournaments in Puyo Puyo Champions. Challenge your friends and family in local multiplayer or compete against players from around the world through online matchmaking. Built for all ages, this classic puzzle game comes with a surprisingly competitive edge.\n\n- Craft strategic chains and drop devastating attacks with your favorite characters from over 25 years of Puyo Puyo history. \n- Competitive multiplayer modes feature fan favorite rulesets from Puyo Puyo 2 and Puyo Puyo Fever. \n- Hop online to battle in Puyo Puyo League matches or play casually via Free Play.\n- Run your own local tournaments with up to 8 players for the ultimate bragging rights!",
+  "titleId": "0100AAE00CAB4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c542ffb119278d51b78fd72a0eb6bd20d3b71f8f61b9f5682f72c15077e87766.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-29T21:05:14.762",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "758433f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BSoD_Gaming",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-06-04T13:20:07.104",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "a0950a5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

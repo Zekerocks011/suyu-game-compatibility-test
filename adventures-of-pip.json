@@ -1,0 +1,52 @@
+{
+  "name": "Adventures of Pip",
+  "description": "Welcome to the next evolution of the classic side-scrolling action platform game! Journey with Pip as he sets out to save Princess Adeline from the evil Queen DeRezzia. Pip’s quest begins when he learns he can absorb the Bitstream from his fallen foes to evolve and devolve between three different forms - single pixel, 8-bit, and 16-bit! Each transformation provides different powers that Pip can use to solve environmental puzzles and blast through enemies. Pip’s tale leads players through five different stylized worlds with up to 10 hours of epic adventuring gameplay.\n\nInspired by classic platformers, Adventures of Pip basks in a world where players can defeat a huge 32-bit boss as an 8-bit character or even as a single-pixel. Pip’s foes have weaknesses and strengths — pinpoint these, swap to the right form and take them out! Can you help our unlikely fearless hero save his 32-bit world from the clutches of Queen DeRezzia?\n",
+  "titleId": "01002B5012004000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3caa24d0ad15a306715a9beea51d25372a6defded0860326e129d3dfff950fd2.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-30T01:16:15.983",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "82e7e3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-21T18:22:42.809",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-21T18:22:35.334",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2379e67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-30T01:16:22.954",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "82e7e3a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

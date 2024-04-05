@@ -1,0 +1,118 @@
+{
+  "name": "New Super Mario Bros. U Deluxe",
+  "description": "Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!\n\nTwo games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content—like a Hints gallery and helpful reference videos**—make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con™ controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii™ character: Challenges, Boost Rush, and Coin Battle!\n\n*Additional accessories may be required for multiplayer mode. Sold separately.\n**Internet access required in order to access Videos gallery\n",
+  "titleId": "0100EA80032EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/658a846bafd5446bbdfc163c46937152887c6c39eb5f1e6b2337ddec3352b524.jpg",
+  "tests": [
+    {
+      "tester": "Mayercol",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T13:38:58.999",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "AMD Radeon RX 6700 XT",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BahaBulle",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-26T20:16:57.548",
+      "cpu": "Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 870M/PCIe/SSE2",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "xdyosh",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-29T20:50:47.799",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:10:07.709",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rodrigocofe",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-14T21:08:36.855",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T17:48:25.106",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CrunchyFrog",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-03T00:39:28.727",
+      "cpu": "12th Gen Intel(R) Core(TM) i7-12700K",
+      "gpu": "NVIDIA GeForce RTX 3080/PCIe/SSE2",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "geckronome",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-22T06:36:28.209",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ExeDesK",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-02T16:05:31.192",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Super",
+      "version": "a45f85b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-22T13:49:55.186",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

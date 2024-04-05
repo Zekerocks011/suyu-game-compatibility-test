@@ -1,0 +1,19 @@
+{
+  "name": "Hammer 2 Reloaded",
+  "description": "Enjoy intense action in this third-person shooter action game. Your job is to clean city of crime in mutiple missions, each one with its own goal.\nThe game features a fully Open World Environment. Improve your arsenal in the dedicated shop with cash you gained from previous missions.\n\n\n• Visually stunning graphics, character and vehicle models\n• HD quality graphics\n• Completely different missions\n• Thirdperson character controller\n• Camera system including camera shakes\n• Destructible buildings\n• Bullets, explosions and area damage\n• Enemy, boss and enemy vehicles smart behavior\n• Hours of intense gameplay",
+  "titleId": "01008FB015E40000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6f1769d34ab7b5dfc4117631d2bda8f0f8328f488251b4492c51f0119d2ec083.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-02T08:11:59.836",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5a2bacb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

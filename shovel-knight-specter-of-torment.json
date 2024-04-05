@@ -1,0 +1,52 @@
+{
+  "name": "Shovel Knight: Specter of Torment",
+  "description": "Disclaimer: If you have purchased Shovel Knight: Treasure Trove for your system, you will not need to purchase Shovel Knight: Specter of Torment separately. This title is included with all versions of Shovel Knight: Treasure Trove.\n\nShovel Knight: Specter of Torment is the action-packed prequel to Shovel Knight! Take control of Specter Knight, servant to the Enchantress, in a quest to recruit a cadre of knights and create the Order of No Quarter. With his scythe and preternatural agility at the ready, he can glide across the ground, clamber up walls, and command an arsenal of curious weapons.\n\nIf he carries out his duties, Specter Knight may have a chance at regaining his lost humanity and breaking his chains of servitude. But what cruel tricks might the Enchantress have up her sleeve?\n\nFeatures:\n• Climb walls, leap over gaps, and dispatch enemies with the Dash Slash. Specter Knight’s playstyle brings motion and action to the forefront! \n\n• Collect and upgrade curios to unleash all new special attacks.\nTest your scythe skills with Feats and Challenge Stages featuring boss rematches, platforming challenges, and more!\n\n• Yacht Club Games' beautifully authentic style bridges the gap between yesterday and today. Design, art, and audio hearken back to the days of 8-bit.\n\n• A somber tale told with a light touch to narrative with humor, levity, and heart.\n\n• Awesome soundtrack by Jake \"Virt\" Kaufman!\n\n• Balanced gameplay is a warm welcome to newcomers, and an old embrace for experts.\n\n• Crazy bosses and lovable characters.\n\n• Take on a new challenge and uncover all of the world's secrets with New Game+!",
+  "titleId": "01001180021FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e85fa0f167d8ffa36591ed28b1177beb7e530641dd7ffa1a20182934d2f77aa2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-02T11:19:02.817",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-06-16T00:28:20.249",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "7abd66d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-16T00:20:29.678",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6e09e59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-15T18:32:06.164",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7217371",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

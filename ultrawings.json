@@ -1,0 +1,19 @@
+{
+  "name": "Ultrawings",
+  "description": "Ultrawings is an open-world, aerial-themed game where you'll pilot an Ultralight, Gee Racer, Rocket-powered Glider and Sport Plane to complete a variety of challenges across a beautifully-stylised, island-themed world. You'll pop balloons, perform spot landings, take photos, compete in thrilling air races, and more! Earn in-game money to unlock new airports and new aircraft. Ultrawings is truly the ultimate hobbyist aircraft game for the Nintendo Switch! ",
+  "titleId": "0100DAF00B620000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c5e96518158ad54f51f6ae11a83fe8fab0cfa842550128af277405c377d83dff.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T19:40:11.851",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

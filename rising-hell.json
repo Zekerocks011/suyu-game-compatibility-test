@@ -1,0 +1,41 @@
+{
+  "name": "Rising Hell",
+  "description": "Rising Hell is a vertical platformer rogue-lite filled with adrenaline-pumping action and tons of heavy gothic metal shreds. Climb out from the ever-changing hell while you fight hordes of blood-lusting demons.\n\nABOUT THIS GAME:\nFight your way through hordes of blood-lusting demons and escape hell as you unlock new characters and talents to create chaos in the randomly generated and ever-changing landscape of hell!\n\nHeavy-metal riffs and pixelated madness will accompany you as you fight your way out from the depths of fiery hell, facing the bugs-ridden Beelzebub’s Lair, and other pits of hell with different creatures, bosses, and living traps lurking around. Chaining combos, jumping maneuvers, and talent building will be your key to help you climb your way out of hell in this adrenaline-pumping vertical platformer.\n\nFEATURES:\n- Vertical Rogue-lite: Climb out of the ever-changing procedurally generated hell while the ever-present threat of permadeath fills your veins with adrenaline.\n- Epic Boss Battles: Slay gigantic ancient demons such as Dagon, Beelzebub, and many more.\n- Multiple Game Modes: Choose between campaign and challenge modes complete with its own leaderboards.\n- Unlockable Characters: Play and unlock different characters that will give you a variety of different playstyles and strategies.",
+  "titleId": "010020C012F48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5b9b41345d1fe90290869b32b40700fd51e96529e0a28f750fa8dee6eaa2f44d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-16T19:48:35.879",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-19T14:45:57.078",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "1a8098a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AMHAMH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-28T05:13:03.246",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "47790e1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

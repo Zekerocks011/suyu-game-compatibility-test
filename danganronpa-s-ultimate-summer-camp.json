@@ -1,0 +1,30 @@
+{
+  "name": "Danganronpa S: Ultimate Summer Camp",
+  "description": "With an all-star dream lineup of characters from each Danganronpa game, gather Hope Fragments at a tropical resort. Explore Jabberwock Island and develop your Dangan characters. Gather money through battle and upgrade your equipment, then defeat bosses and move on to the next island!",
+  "titleId": "0100DF3014170000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2ea4d63bf370eea34c7f5a16da332aca49d0a8bba3c6a2beb7c2ab8838790af6.jpg",
+  "tests": [
+    {
+      "tester": "Boyyeee",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-20T02:33:01.564",
+      "cpu": "Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-13T20:25:37.389",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "172ef73",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

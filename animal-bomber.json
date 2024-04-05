@@ -1,0 +1,19 @@
+{
+  "name": "Animal Bomber",
+  "description": "Animal Bomber is a game where your focus is to eliminate all enemies and stay alive at the end. It’s a truly engaging, fun game where tactics are very important if you want to win. The lovely game world is also full of dangers, and you need to time everything wisely to really bring in the efficiency and results that you always wanted. It leads to a great opportunity and resounding quality and value.\nDo you have what it takes to eliminate these enemies in over 85 different levels? Test your skills and start becoming the ultimate animal bomber today. The game features endless replay value, lots of stages you can play through and engaging gameplay. Just check it out today!\nFeatures:\nAction-packed and fun gameplay mechanics\n85+ levels that you can play through\nVisually impressive, 2D game world\nMultiple stages and game worlds",
+  "titleId": "01000030146BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/89c5c45eb9d4e3afd033a2bf0c95b6f5193efe6ebf7778c864d80bbf1eb1ef3e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-03T19:30:21.227",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

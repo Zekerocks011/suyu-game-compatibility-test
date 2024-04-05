@@ -1,0 +1,19 @@
+{
+  "name": "S.N.I.P.E.R. - Hunter Scope",
+  "description": "In S.N.I.P.E.R.: Hunter Scope you will shoot, you will fight, and you will win!\n\nPlay S.N.I.P.E.R., the latest sniping game where you aim, fight and destroy virtual enemies. Try different types of missions, inspired both by classic rail shooters and modern cover shooters. Fight your way out during day and night, destroy evil forces and unlock new weapons and power-ups.\n\nGame includes:\n15+ STAGES\n30+ WEAPONS\n30+ GALLERY ITEMS\n60+ SPECIAL ACHIEVEMENTS \n\nBecome a hunter, mount your scope, and fight for our freedom!",
+  "titleId": "0100B8B012ECA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6281ffacf31760aec473b2d35232ffdc8672f5ca396a6cd5fdc5837ae06591d0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-03T20:27:39.196",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

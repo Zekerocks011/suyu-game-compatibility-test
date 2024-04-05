@@ -1,0 +1,30 @@
+{
+  "name": "Tcheco in the Castle of Lucio",
+  "description": "Tcheco in the Castle of Lucio is an 8-bit, 2D platformer. It’s a challenging, non stop action experience that incentivizes quick thinking, platforming precision and memorization. \nLike older 8-bit games, it’s a game that’s meant to be replayed over and over again until mastered.\nQuick reactions and timing are necessary for success in the game. Levels – which are in the form of rooms – are short and require you to quickly scan to find a way to get to the next room, which is either a doorway that requires a key found within that room or a black hole\nVisually and from an auditory standpoint, everything about the game is designed to look and feel like an old school 8-bit game. \n\nFEATURES:\n\n+2D platform game, perfect for classic Famicom™/NES™ game fans!\n+Graphics and sounds inspired by 8-bit aesthetics.\n+2 game modes, \"Classic\" and the brand new \"Try harder\".\n+65 rooms of progressive difficulty.\n+Easy to learn, simple gameplay.\n",
+  "titleId": "0100F43011E5A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/17632c29416875493120b8e2cadec55855bed109fcfb864084fb850947f4469d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-27T19:12:24.945",
+      "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "09c44a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-18T15:48:12.198",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "8060880",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

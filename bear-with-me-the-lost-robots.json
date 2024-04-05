@@ -1,0 +1,30 @@
+{
+  "name": "Bear With Me: The Lost Robots",
+  "description": "The noir episodic point and click adventure series Bear With Me is back! Introducing Bear With Me: The Lost Robots – an all new prequel chapter featuring Amber’s brother Flint and the callous detective Ted E. Bear. \n\nTake to the gritty and bustling undergrounds of Paper City, discovering new characters and rich lore leading up to the events of the first three episodes of Bear With Me.\n\nDark interrogations, sarcastic banter, and challenging puzzles lie in store for our heroes as they collect clues to solve a bigger, more sinister mystery. Featuring an evocative soundtrack, expansive narrative and a uniquely drawn 2D animated art-style accented by an impressive film noir style, Bear With Me will take players through an emotional rollercoaster of a journey that will determine the fates of our protagonists.\n",
+  "titleId": "010020700DE04000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/606efa1ea2129f65b8b30b8cc5b6cdd6ceaa9801d332df1ff8fac2e0a0033978.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-06T10:45:59.968",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-19T09:25:01.132",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

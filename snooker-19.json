@@ -1,0 +1,41 @@
+{
+  "name": "Snooker 19",
+  "description": "THE BIGGEST STARS IN WORLD SNOOKER\nPlay in every officially licensed tournament as any of the top 128 players in the world including: Mark Selby, Ronnie O’Sullivan, Ding Junhui and legends of the sport like Ken Doherty and Jimmy White.\n\nUNPRECEDENTED REALISM\nThis is the most authentic simulation of the sport ever created, with TV-style presentation and commentary, true-to-life physics and advanced artificial intelligence.\n\nBECOME A LEGEND\nMake history and break records as you assume the career of your favourite snooker pro, or start a brand new journey fresh from the Q-School academy.\n\nONLINE & OFFLINE MULTIPLAYER\nChoose from a full suite of offline and online modes, from quick play online match-making to global online tournaments that link in real-time with the live World Snooker calendar. Plus fully customised matches of full snooker, 6-red and shoot-out for both online and offline competition.",
+  "titleId": "01008DA00CBBA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f15ec1aed80171fd9f8f6f841327d18a8ec274116142213344820bc743f0a402.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-09T21:45:48.148",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-09T21:47:14.884",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T00:32:38.123",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "ad6caff",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

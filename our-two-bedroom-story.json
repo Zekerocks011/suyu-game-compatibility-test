@@ -1,0 +1,19 @@
+{
+  "name": "Our Two Bedroom Story",
+  "description": "The Story:\nYou work for a publishing house and decide to start living on your own.\nBut a coworker’s in your new home?!\n“This is my house… but you could live with me.”\nWhen your new roommate hands you the key, your secret life together begins…\n\nCharacters:\nMinato Okouchi   \"Bossy\"\nKaoru Kirishima   \"Cool\"\nShusei Hayakawa \"The Nice Guy\"\nChiaki Yuasa       \"Crafty\"\nAkiyoshi Zaizen   \"The Growler\"\n\nContents\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story\".\nCollection of Main Stories spanning the series up until the Proposal Epilogue for Minato Okouchi, Kaoru Kirishima, Shusei Hayakawa, Chiaki Yuasa, and Akiyoshi Zaizen.\n\nNotices:\n\"the Proposal: His PoV\" is only available in Japanese.",
+  "titleId": "010097F010FE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eb7ed3cb3d484ea3debe699399aa1abb980ebdb8f88cd1130f2bcfe179dd5f10.jpg",
+  "tests": [
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-24T23:30:39.148",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Mega Man X Legacy Collection 2",
+  "description": "Complete the exciting Mega Man X saga with this collection of four action-packed titles! Spanning two gaming eras, this collection showcases the evolution of the series with Mega Man X5, Mega Man X6, Mega Man X7, and Mega Man X8. Both Mega Man X and his ally Zero return as playable characters, allowing players to jump and shoot through challenging stages with X’s arm cannon, or slash through enemies with Zero’s energy saber.\n\nMega Man X Legacy Collection 2 also includes an armory of new features. Test your skills in the new X Challenge mode, which pits players against two deadly bosses in two-on-one battles. Explore a huge museum filled with rare production art, catalogs of classic merchandise, a playlist of nostalgic commercials, and more. The collection also includes an animated prequel film starring the origins of Mega Man X villain, Sigma.",
+  "titleId": "01005250086C4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fed15638a5dfd1d1e9393fb75b8cc7bfece6fdd19c58ff79a0ed9368d351f711.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-08T16:25:55.665",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "851523e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-05T21:43:05.093",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "5f7959a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-16T09:07:26.995",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "7487f5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-10T17:50:41.996",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-09T12:25:26.925",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

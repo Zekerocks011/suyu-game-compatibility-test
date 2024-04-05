@@ -1,0 +1,41 @@
+{
+  "name": "Hunting Simulator 2",
+  "description": "It's open season! In stunning natural environments, choose your gear from the best official weapons and accessories and set off with your dog in search of a variety of animal species in this hunting simulation.\n\n• Explore the plains of Colorado, the Texan desert and the forests of Europe in vast open worlds.\n• Track down 33 animal species in their natural environment by using the best hunting techniques.\n• Hunt animals with realistic behaviours and advanced artificial intelligence.\n• Use your hunting dog to track your prey. Labrador Retriever, German Shorthaired Pointer and Beagle, each dog has its specific hunting attributes.\n• Kit yourself out with over 160 weapons, accessories and clothing items from the best brands, including Browning, Winchester, Bushnell, Kryptek and Verney-Carron.",
+  "titleId": "010061F010C3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f48d0c0d0c44c06f859ac733b927f21e0c6e008fee632b0f8eaf34c1e1745d9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-28T21:50:41.655",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "ce842e5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T21:48:14.012",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-09T09:13:25.231",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a59d433",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Equestrian Training",
+  "description": "Alone or with friends, discover a new way to learn more about horses and riding. Based on the official FFE (French horse-riding federation) diplomas, known as Galops, the game helps you improve in the training mode, test your knowledge in the exam mode and have fun while learning with the various educational mini-games: you will soon be an expert in the field of horse-riding!\n\nA multi-player mode for up to 4 players! Challenge your friends' horse-riding knowledge and cooperate with them to complete the practical exercises!\n\n-2500 questions on horses and riding, written by horse-riding professionals and based on the official FFE diplomas.\n\n-A large glossary of terms related to horses and riding.\n\n-Fully personalizable training sessions: choose the theme (riding, knowledge or care), the number of questions and decide whether you want to use a timer.\n\n-More than fifteen mini-games split into 3 categories: endurance race, obstacle jumping and grooming, which will help you put theory into practice while having fun.\n\n-Statistics charts to monitor your progress and identify areas you need to focus your efforts on.\n",
+  "titleId": "0100E3A014626000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a7fa1a6e7f0199737f1ebdd84e10136340c6949a96f768b4abe580adea34c668.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-20T20:10:01.268",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "a13d163",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

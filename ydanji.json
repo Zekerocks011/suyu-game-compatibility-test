@@ -1,0 +1,19 @@
+{
+  "name": "Yōdanji",
+  "description": "Get the ability to summon and trap yōkai - numerous spirits that have been living hidden among us until now! Admire them, give them witty nicknames, and then put them in the brutal ever-changing dungeon to summon even more yōkai! Spooky cute graphics and powders made from various body parts included.\n\nFeatures:\n• Traditional rogue-like with turn-based combat\n• Challenge randomly generated dungeon\n• Spooky cute pixel-art graphics\n• Huge variety of playable characters, skills and amulets to collect",
+  "titleId": "01006A600623E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/94b0a578bf4db9925e709a9a6c2940d20b47444da5b1fa9c009f63dd35cdc924.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-26T08:15:55.429",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d5355f9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Caves and Castles: Underworld",
+  "description": "   Find adventure beyond your imagination and riches untold as you descend into the caves beneath an ancient castle! Match gems to remove obstacles, collect keys to unlock new passages and build your strength as fast as you can to break through barriers in Caves and Castles: Underworld, a sometimes relaxing, sometimes heart-racing match-three game!\n\n   Above ground, you'll become wrapped up in a quest to rebuild a castle and its grounds – only something strange is preventing you from achieving your goal! Unlock one mystery after another as you restore the stunning structure to its former glory!\nEnjoy colorful hand-drawn art and animation, a charming story and hours of match-three fun as you play Caves and Castes: Underworld!",
+  "titleId": "0100CEC013C56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/00289de5134f02a5f978a46696e8e219f9bda6810b55c3198cfcec1443596d80.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T08:31:38.892",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

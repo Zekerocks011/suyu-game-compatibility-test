@@ -1,0 +1,74 @@
+{
+  "name": "Gigantosaurus The Game",
+  "description": "Explore and race across the prehistoric world of Gigantosaurus. This Disney dino tale is part saving the world, part super race, and all giant fun! \n\nRocky, Tiny, Mazu and Bill have scary problems – like the meteor that’s blocked up Giganto’s volcano! Only you and your dino friends can dare to solve puzzles and save the day – but you might need Giganto’s powers too! And the end of each story is the start of a super rally to the next zone. Will you be the most roarsome adventurer or the fastest racer?",
+  "titleId": "01002C400E526000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/841a59a5926a26605c8b91d57b20bd0a6078f41922ba2cba0cc47398ce783fa1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-24T18:32:02.935",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-24T18:37:11.134",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-17T06:49:08.822",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "7872c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-15T04:19:30.919",
+      "cpu": "AMD Ryzen 5 1500X Quad-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "50148ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-25T15:52:19.095",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-11T04:00:01.045",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

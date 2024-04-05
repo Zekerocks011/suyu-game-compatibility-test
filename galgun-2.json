@@ -1,0 +1,118 @@
+{
+  "name": "Gal*Gun 2",
+  "description": "The Craziest Shooter Yet!\nHelp swarms of girls escape their demon possessions by using your Pheromone Shot gadget for euphoric exorcisms. \n\nA Gorgeous New Cast!\nWoo the girl of your dreams in a twisting, turning story full of surprises. With the aid of alluring angel Risu, become romantically entangled with girl-next-door Chiru and childhood sweetheart Nanako. \n\nBecome a Knight in Shining Armor!\nManage your schedule to receive quests from the academy's love-struck girls, and satisfy their demands to unlock new missions and story scenes. \n\nHarness the Power of Vacuuming!\nEquip the awesome Demon Sweeper gadget, capable of sucking up Gal*Gun 2's pesky demon menaces… and perhaps some clothing too! \n\nFull Motion Controls\nGal*Gun reaches new heights on Nintendo Switch™ thanks to optional motion controls in Handheld Mode. Throw yourself into the middle of the action, and beware approaches from all angles! ",
+  "titleId": "010024700901A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/600aeeaabd2a7753dafc6d5b94d35d8a5722aa3dae4830374e63a2124dae84b8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-01T20:55:45.627",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-18T23:53:00.067",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "a7f13ed",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thebenjibenji",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-01T04:36:49.241",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PerroCrown",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-06T00:02:50.551",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "3b357ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "messier",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-03T00:45:47.408",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "a928dbb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-20T00:16:53.938",
+      "cpu": "       Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "fc4729a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-07T01:05:21.152",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "1485528",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-26T16:40:48.502",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "82e4732",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-06T21:45:01.762",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 780 Ti/PCIe/SSE2",
+      "version": "6d59172",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-18T06:48:39.812",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f42bd44",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

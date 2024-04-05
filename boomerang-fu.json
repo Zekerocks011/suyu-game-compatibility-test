@@ -1,0 +1,19 @@
+{
+  "name": "Boomerang Fu",
+  "description": "Join a crew of your favorite foods as you grill, chill and spill your enemies. \n\nLOCAL MULTIPLAYER CHAOS\nRoast and toast your friends in lightning-fast rounds of cute physics combat for up to 6 players. Perfect for parties!\n\nSTACK POWER-UPS TOGETHER\nDiscover a ridiculous range of power-ups like explosive boomerangs, disguises and telekinesis. Then stack your power-ups together to form outrageous combinations!\n\nSIMPLE CONTROLS\nIt only takes one stick and three buttons to pulverize your pals. Anyone can play immediately, but hardcore players will love mastering the advanced techniques of this lost martial art. Deflect attacks, recall dropped boomerangs, and curve your throws around corners to become a powerful boomerang assassin.\n\nOVER 30 ARENAS\nJourney to an edible world as you do battle in over 30 Kung Fu arenas, each filled with unique tools and traps. Jump over moving platforms and sneak through lush foliage. Trigger sliding walls to squish your foes. Dive between giant rolling pins and delight the Toaster King.\n\nTEAM UP\nJoin forces with your buds to take on the ingenious AI opponents in local co-op. Or squabble over the precious Golden Boomerang in a frantic alternative game mode.\n\nCHANGE THE RULES\nPlay with only the power-ups you love. Turn off shields. Turn on friendly fire. You change the rules to suit your tastes!\n\nUNLOCK COSTUMES\nEarn experience points every time you play to unlock new hats and outfits for your favourite foods.",
+  "titleId": "010081A00EE62000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9377f09db17eb14309b90bdca865acce13d14a8f1baf78c0afa11575984c7130.jpg",
+  "tests": [
+    {
+      "tester": "d1xenotime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-22T00:30:04.509",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "NVIDIA RTX A4000/PCIe/SSE2",
+      "version": "69332c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

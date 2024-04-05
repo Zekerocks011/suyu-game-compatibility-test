@@ -1,0 +1,19 @@
+{
+  "name": "Whispering Willows",
+  "description": "Young Elena Elkhorn embarks on a harrowing journey to find her missing father and discover the secrets of the Willows Mansion. Aiding her journey is a unique amulet, she received from her father, which allows her to astral project her spirit into a ghostly-realm and communicate with the dead. Play as Elena to find her missing father, use your astral projection to solves the mansion’s tricks and puzzles, help the lingering souls and discover so much more in Whispering Willows.\n\nFeatures\n• Switch HD Rumble - Feel ghostly presences through Elena's amulet with unique patterns for friendly and aggressive spirits\n• Beautiful 2D Art - Immerse yourself in a beautifully hand-drawn 2D world as you traverse the Mansion grounds\n• Haunting Audio - Allow the haunting music and chilling sound effects to send goosebumps across your neck\n• Twisted Plot – Let the history of the Willows Mansion draw you into a plot full of twists and betrayal\n• Puzzling Secrets – Explore the vast Mansion and unlock its puzzling secrets as you search for your missing Father",
+  "titleId": "010015A00AF1E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/91065eebc7b7beb150dbc99e3d2fff0f68babce0176cd10d5b85f072b320483a.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-29T01:19:28.966",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e83ac20",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sea King Hunter",
+  "description": "Sea King Hunter is a fixed-screen marine action shooting game.\nPlayers will take on huge sea monsters that are rampant in various places, earn rewards, get special armor with the rewards they have, and take on even stronger UMA.\nIn the two-player cooperative play mode, players will take on UMA for a high score.\n\nStarting this century, Unidentified Mysterious Animal, also known as UMA caused a serie of incidents.\nUMA’s frequent apparition became a huge society problem.\nTo fight back against the invasion of UMA, the UMA Hunter Association was created.\nThe UMA Hunters developed special battle suit to eradicate sea monsters.\nThey are still fighting underwater to protect the world peace.",
+  "titleId": "0100B0C00EBB2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/819029339cd59a7ffadec106c33ffabf7fd2a576f6e9134ba715d701e0a98e1b.jpg",
+  "tests": [
+    {
+      "tester": "Wolf_Soul",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-11T16:12:39.715",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d294afe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

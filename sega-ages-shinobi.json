@@ -1,0 +1,19 @@
+{
+  "name": "SEGA AGES Shinobi",
+  "description": "Ninjutsu master Joe Musashi returns in this classic side-scrolling platformer. Utilize shurikens, throwing knives, and more to defeat the enemy and free the hostages. Need more time?  Use the rewind feature to move back in time to make sure you’re using your best moves. \n\nChallenge the SEGA AGES version of Shinobi by using the newly added melee button for a special bonus score.  Or if you prefer something more achievable, try out the AGES mode and Joe Musashi will have upgraded weapons and increased durability.",
+  "titleId": "010076800E30E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a7e29a528acc0226df78f5c35638c93e64e1f3e405bd3bcf7e9e97186ee93e10.jpg",
+  "tests": [
+    {
+      "tester": "Martina22",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-18T19:10:39.161",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "23a7d66",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

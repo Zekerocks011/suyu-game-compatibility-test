@@ -1,0 +1,96 @@
+{
+  "name": "Grimvalor",
+  "description": "Slice your way through the hordes of darkness and face King Valor's guardians as you delve deep into this darkvania! \n\nA malicious power stirs in the forgotten kingdom of Vallaris. Tasked with discovering the fate of its lost king, your quest quickly takes a sinister turn and you are cast into the abyss. Surrounded and outnumbered, you must grab your sword, steel your temper and fight your way through a land that does not welcome you. Except for the friendly merchant - he's grateful for your business.\n\nKey Features:\n\n• Hyper-Responsive Gameplay: Fluid mix of fast-paced combat and platforming.\n\n• Exploration & Treasure: Discover and upgrade powerful equipment and mysterious relics to unleash your full potential.\n\n• Challenging Boss Fights: Master skill-based combat, level up your character and bring down your enemies with all of your fury.\n\n• New Game+ Mode: Play through a reimagined world filled with ever more dangerous enemies and powerful equipment. Experience your journey anew!",
+  "titleId": "01001C700F518000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6bf54b1561645910a5aeb48557e513ea37314c28ee239ad286b5a6190d8ec3a2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-21T19:04:46.789",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dragon16",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-27T17:25:10.287",
+      "cpu": "       Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e419371",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T03:09:08.843",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "34ece38",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T09:59:31.775",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "d547695",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-08T00:14:12.065",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-05T11:27:46.608",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-14T12:29:05.491",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "20c42dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dragon16",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-27T17:25:46.903",
+      "cpu": "       Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e419371",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

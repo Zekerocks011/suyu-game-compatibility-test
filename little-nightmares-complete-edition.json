@@ -1,0 +1,74 @@
+{
+  "name": "Little Nightmares Complete Edition",
+  "description": "Do you remember your childhood fears? Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears as you help Six & The Kid escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal!\n\n•THE ALL-IN-ONE EDITION FOR NINTENDO SWITCH™ - Embark on a delectably dangerous journey with Six and The Kid to unveil all the secrets of The Maw in two parallel escape stories that will put your cool to the test.\n\n•A SPOOKY PUZZLE PLATFORMER - Trapped in an oversized dollhouse inhabited by monstrous residents, light your way through darkness, hide & sneak to avoid danger and run for your life to find a way out.\n\n•REKINDLE YOUR CHILDLIKE JOYS - Find your inner child and bend your imagination to find the way out by solving complex 3D puzzles. Each room is a cell, each resident a threat, and both are puzzles to untangle.\n\n•TAILORED TO THE DEVICE - Undock your Nintendo Switch™ and continue your delectably dangerous journey everywhere, anytime with full HD rumble support for the Joy-Con™ controllers for a more immersive experience.",
+  "titleId": "01002FC00412C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/765c5c93eaa0adc70d13b5ff3af3ed3a940cbf537a8de576e67d2c8622b19040.jpg",
+  "tests": [
+    {
+      "tester": "TAKOYAKI_GAMES",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-20T18:36:52.661",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2070 with Max-Q Design/PCIe/SSE2",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Moonlacer386",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-19T03:12:37.974",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1becd64",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-09T15:30:36.577",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "eee6ac6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jandri555",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-14T12:46:19.409",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "9ae9355",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:05:57.28",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Moonlacer386",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-20T00:49:58.186",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "07a5565",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

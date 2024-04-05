@@ -1,0 +1,19 @@
+{
+  "name": "Tracks - Toybox Edition",
+  "description": "\"...an intuitive, charming, and relaxing little Nintendo Switch™ indie\" - 8.5/10 (Nintendo Enthusiast) \n\n\"Tracks: Toybox Edition delivers just about everything I could have wanted with a wooden train set simulator\" (DESTRUCTOID)\n\nTracks is a toy train set builder which gives you the tools to play without limits.\nJump into an extensive sandbox and lay down tracks, create bridges and build worlds, then hop into the driver’s seat of your train in first person view.\nPlay with boosters, create firework displays, compose tunes and so much more.\n\nJump into the Ultimate Toy Sandbox\n\nStart with a pre-made environment, be it a modern lounge or a night time Winter wonderland, or jump into an entirely blank world canvas. Add trees and foliage from various world biomes, buildings, stations, animals, vehicles, decor and more. Customise your world further by altering terrain and fog colours. Make your train your own, selecting colours and patterns.\n\nBuild the Train Set of Your Dreams\n\nFrom sprawling green countryside to desert towns, and atmospheric foggy industry sites to vibrant circus setups, countless options await you and your train set. Let your imagination thrive and build the toy train set of your dreams.\nTracks – Toybox Edition includes Tracks Sci-Fi and Tracks Suburban.\n",
+  "titleId": "0100192010F5A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b93d0a7e66d1faea95487e70624bc3a67978fefa632c335f38167382f3bc4584.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-18T17:35:21.882",
+      "cpu": "       Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO THE KING OF FIGHTERS 2003",
+  "description": "“THE KING OF FIGHTERS 2003” is a fighting game released by SNK in 2003.\nIt features the same 3-on-3 battle system as the previous title in the series, but this time players are able to use the \"Multi-Shift\" format to freely tag in team members for speedier gameplay. A new character named ASH is also introduced, marking the beginning of a new chapter for the series!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100EF100AFE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d2cec853ed000b43cc14e6c5d2ec57bc060962b843173d508bf702f78a5d7993.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T22:41:38.898",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T00:45:10.497",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

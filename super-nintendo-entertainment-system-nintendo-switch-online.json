@@ -1,0 +1,118 @@
+{
+  "name": "Super Nintendo Entertainment System - Nintendo Switch Online",
+  "description": "With a Nintendo Switch Online membership, gain access to a large collection of Super NES™ games that are great to play anytime, anywhere! For the first time ever, you can play these classic games online and use voice chat via the Nintendo Switch Online smartphone app*. Compete or cooperate online with friends, share your screen, or virtually pass the controller, depending on the game.\n\nConquer classics such as Super Mario World™, Super Metroid™, and The Legend of Zelda™: A Link to the Past™, and EarthBound™. Depending on the game, you can engage in online competitive or co-op multiplayer, or take turns controlling the action. Need back up? Then team up in cooperative games like Donkey Kong Country™ and Joe & Mac 2: Lost in the Tropics. You can also compete against a friend in Super Mario Kart™, Kirby’s Dream Course™, and even Stunt Race FX™ —available for the first time since its original 1994 release! Friends can even watch each other play single-player games online, and virtually “pass the controller” at any time. Every classic Super NES game included in this collection will support voice chat via the Nintendo Switch Online smartphone app*. ",
+  "titleId": "01008D300C50C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b58b50069ed7d709764aa9898fa407df37a7106ca2675e4b76bd8bb9bf6abcb6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-02T22:10:48.007",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "f0ad2fa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-19T14:34:49.61",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f4b461d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Courtroom",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-31T19:50:15.35",
+      "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "edd87cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lex_Light",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-13T10:53:00.336",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "528d5b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "hide1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T00:29:22.89",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "6b21382",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-08-02T15:10:40.367",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "eebf1fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Nadim_M_Solis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-10-29T23:26:42.492",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "08c22e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EthanPHX",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-25T03:20:00.407",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-17T21:58:08.248",
+      "cpu": "AMD Ryzen 5 3500 6-Core Processor              ",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "070ba49",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-20T01:14:22.05",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c815be5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

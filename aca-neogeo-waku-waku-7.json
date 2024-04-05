@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO WAKU WAKU 7",
+  "description": "\"WAKU WAKU 7\" is a fighting game released by SUNSOFT in 1996.\n\nPlayers will control characters who have one of 7 WAKU WAKU  balls that grant wishes, and gather the remaining balls.\n\nLet's gather power in exciting gauge, and attack all over with the personality-rich technique of each character!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100CEF001DC0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/62ee66d94c40211526dc0df70f8db311eccecd60c1274645d70d0dc6bcc7af5f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T19:03:01.51",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T02:15:05.929",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

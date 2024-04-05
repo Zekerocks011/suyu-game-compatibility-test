@@ -1,0 +1,63 @@
+{
+  "name": "Razion EX",
+  "description": "The score system is based on growing gold cubes and using the beam to freeze the cubes.\nIt has 3 game modes (NOVICE/NORMAL/MANIAC).\n\nChanges for EX version:\n\n- reworked game play\n- re-balanced and reduced difficulty\n- added bullet canceling for certain enemies\n- reworked controls and ship movements\n- upgraded graphics and added 32 bit effects\n- upgraded to widescreen\n- added scanline filter\n- slightly reworked levels\n- reworked scoring mechanics\n- unlock-able continues\n- added training mode for unlocked levels and bosses\n- added small ending\n- CD quality music\n\nGame Features:\n\n6 stages with varied settings\n6 huge end bosses\n7 sub bosses\n3 game modes\n\nGraphics:\nRendered 16-bit CGI graphics horizontal shooting game",
+  "titleId": "010032B013CE4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e7d17c1c3909e44fb472551fc2575a5c730acb618fe013e5a83d70dc678950dd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-07T21:58:52.494",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "b96619e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-20T14:40:43.964",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "6977c3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-17T14:04:30.82",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "434e246",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-21T06:13:30.389",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "386d0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "manchita811",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-20T06:21:48.892",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8c25e51",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

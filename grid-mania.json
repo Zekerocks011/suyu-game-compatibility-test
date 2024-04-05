@@ -1,0 +1,19 @@
+{
+  "name": "Grid Mania",
+  "description": "If you own or buy Tactical Mind or Mad Carnage, you can save 20% off this title!\n\nSolve over 170 levels in 4 different modes:\n \nCasual Puzzle – No pressure, place each ball on its right spot without worrying about the number of moves you can make.\n\nQuick Challenge – Levels must be completed in just a few moves. There is probably only one solution, can you find it?\n\nGrid Madness – Make the most of your brainpower to fill the whole level with colors in Match-3 style game.\n\nChain Reaction – Build large chains of balls of the same color in a fun but mind-boggling maze.\n \nIf you manage to solve all those riddles, the challenge is not yet over: Grid Mania generates random levels which might prove even more puzzling to wrap your head around.\n \nFeatures:\n• 4 game modes\n• 170 custom-crafted levels\n• Randomly generated levels\n• Chilly music\n• Great for short gaming sessions\n• Real challenge for your brain",
+  "titleId": "010031200981C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ce8d06d6a70606365cd16aa4fefb7d633eb712fa3d011eaa416ce3d5426c4447.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T06:22:42.124",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

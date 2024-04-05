@@ -1,0 +1,74 @@
+{
+  "name": "Skelattack",
+  "description": "Play Skelattack and save the Underworld in this fun and unique action platformer!\n\nBeing dead is not so bad when you have the Underworld to live in. A magical and expansive world inhabited by quirky, charming and sometimes deadly inhabitants of the afterlife, the Underworld also includes Aftervale. Aftervale is a happy hub where the dead come to spend eternity and come to terms with their time alive through a Remembrance. \n\nFor our hero Skully, the day of his Remembrance is shattered by an invasion from the human kingdom above. However, unlike prior attacks by the humans, they are not seeking gold or other treasure. Instead, they kidnap Aftervale's elder skeleton Elzedon and then go after the magic that kindles the spirits of the dead, the Blue Flame. Without the Blue Flame, there is no Aftervale, no existence beyond death. \n\nTogether with your best bat friend Imber, you will need to jump, slash and flap your way though the Underworld. It's up to you to stop the humans, save the Elder, protect the Blue Flame and confront Skully's own life before coming to the Aftervale.\n\nFeatures:\nVersatile and fluid platforming fun for all ages. \nVisually rich art style.\nBe a warrior AND a skeleton.\nFight the Humans before they plunder your un-life!\nMeet a unique cast of friendly monsters, undead, and make friends along the way.\nPlay as an adorable bat named Imber, she is the best.\nTake your time, look for secrets, or even try to speed run, Skelattack is fun for all skill levels and challenge seekers. \nExtensive check point system of Blue Flames to practice your jumps!",
+  "titleId": "01001A900F862000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/52c413a2e06057fbd5faa9905665cbf189a927d230ced57ebdc8b6943f54031e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-09T19:20:57.246",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T23:47:12.059",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "d49473f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T17:36:25.232",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-01T16:03:38",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-26T08:09:44.518",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d5355f9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-01T20:19:34.434",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

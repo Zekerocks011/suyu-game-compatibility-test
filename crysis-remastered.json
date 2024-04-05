@@ -1,0 +1,118 @@
+{
+  "name": "Crysis Remastered",
+  "description": "Suit up:  Your Nanosuit’s speed, strength, armor, and cloaking allow creative solutions for every kind of fight. \n\nAdapt: In an ever-changing environment, adapt your tactics to dominate on battlefields ranging from frozen jungle to alien environments.\n\nCustomize:  A huge arsenal of modular weaponry provides unprecedented control over play style, with options ranging from the experimental to the alien. \n\nConquer:  Life-like enemy AI require a strategic and flexible playstyle, as new challenges – including a zero-g battlefield– require players to take the offensive and be proactive.\n\nExplore: Choose your own path through the open world of Crysis, destroying obstacles, driving vehicles, and using the environment itself against your enemies.\n\nWhat begins as a simple rescue mission becomes the battleground of a new war as alien invaders swarm over a North Korean island chain. Armed with a powerful Nanosuit, players can become invisible to stalk enemy patrols, or boost strength to lay waste to vehicles. The Nanosuit’s speed, strength, armor, and cloaking allow creative solutions for every kind of fight, while a huge arsenal of modular weaponry provides unprecedented control over play style. In the ever-changing environment, adapt tactics and gear to dominate your enemies, in an enormous sandbox world.",
+  "titleId": "0100E66010ADE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f4d41bf9dbc8f7379e2f7530b8e969220dfdc933506ec8eaab7085267533a50.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-16T22:57:33.425",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "b1197f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-24T01:00:52.569",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-16T19:01:13.218",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-21T16:52:20.01",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-16T19:01:07.294",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-10T10:12:40.653",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-24T01:00:59.304",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-22T19:42:31.085",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "fcc1473",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-22T13:57:32.946",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "a13d163",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-10T10:19:03.318",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

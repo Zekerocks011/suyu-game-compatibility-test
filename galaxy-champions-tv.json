@@ -1,0 +1,30 @@
+{
+  "name": "Galaxy Champions TV",
+  "description": "Get powerful weapons and power-ups, kill huge amount of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time! Are you ready to become the Champ?! \n\n\"Good luck! You'll need it!\" \n\nFeatures:\n- Brutal, fast paced run and gun gameplay. Be fast or die!\n- Arcade score chaser-style game!\n- Global leaderboard: player can compete with other players.\n- 2-player local co-op mode. Don't fight alone! Win this show with your friends!\n- Difficulty levels: player can select difficulty before start a run.\n- 40+ unlockable upgrades.\n- 15+ powerful weapons (5 powerful upgradable weapons).\n- 4 different planets.\n- 15+ various enemies.\n- 4 insane boss fights.\n- Champions mode. How long can you survive?",
+  "titleId": "010023500EF76000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa674924b0d7fef7d8b88a1888af138fba95f0a81c816a0a9a059d0cf6fae0af.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T00:22:47.131",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-18T20:10:48.187",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "60308c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

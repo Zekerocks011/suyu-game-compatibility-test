@@ -1,0 +1,19 @@
+{
+  "name": "Gem Smashers",
+  "description": "Long ago, the Earth was devastated by a fearsome creature: the scientist IMBU and his henchmen robbed the Earth of all its energy and trapped its peaceful inhabitants in sparkling gemstones. Miraculously, three heroes escaped: BAU, BAM and BOM. They became the Gem Smashers – with impressive leaps and quick spins, they skillfully smash the colorful crystals to free their friends.\n\nHelp them on this exciting adventure!\n\n• Choose between three playable characters, each with different characteristics in terms of speed, jump and style\n• Story Mode with over 100 levels across eight different worlds\n• Challenge your friends in the Battle Mode",
+  "titleId": "01001A4008192000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/91abbe1679ee1ab419974a8071fdaec372c46d0a371d1a2be0c252aa38f3fda9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T15:36:47.885",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

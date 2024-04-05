@@ -1,0 +1,41 @@
+{
+  "name": "Die for Valhalla!",
+  "description": "Die for Valhalla! is an action RPG where you possess and take full control of heroes, monsters and other things to help Vikings save their realm!\n\nYou are a Valkyrie, a supernatural maiden bestowed with the ability to possess fallen warriors. You embark on a quest that will lead you through strange lands where Norse Mythology collides with Lovecraftian mythos. Sounds Weird? Well, because it is!\n\nThe game offers two story modes with procedurally generated worlds: Beat ‘Em Up and Rogue-lite.\n\nBeat ‘Em Up mode creates a larger world for you to explore with a more relaxed difficulty curve. You can revive your friends and the potions you find have useful or hilarious effects (or both).\n\nRogue-lite mode generates a smaller world featuring steeper difficulty curve and permadeath. Some of the potions you find have malicious effects - you have to learn which ones to avoid in each run!\n\nYou can play solo or with friends locally (up to 4 players).\n\nKey Features:\nAn action-packed hybrid of Roguelike and arcade Beat ‘Em Up.\nUnique Possession gameplay mechanic.\nMore than 10 Viking Clans to discover and unlock. \nEach of the 7 Viking Classes comes with unique play styles and combos.\nOver 80 skills to choose from when leveling up your Valkyrie.\nCute but bloodthirsty creatures will become your companions. \nPlay against your friends in Deathmatch and Survival modes.\nAnd more!",
+  "titleId": "0100D98005E8C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf27c90d7b89c7771cb215334cdb78a7a7243d1595c99ea4483f6cea9f5962fc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T13:53:18.894",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-10T16:05:34.594",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-12T17:03:31.264",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

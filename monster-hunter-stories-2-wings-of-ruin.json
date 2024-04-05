@@ -1,0 +1,118 @@
+{
+  "name": "Monster Hunter Stories 2: Wings of Ruin",
+  "description": "A new adventure awaits you in this second installment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
+  "titleId": "0100E21011446000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f819e4d166d4ff1f77e3dabacca0afd11c6dc97afb9f55b081125b9ff62d3fb1.jpg",
+  "tests": [
+    {
+      "tester": "OkaHachiko",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T03:44:15.079",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonstation",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-06T22:40:40.014",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "6f4ae66",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Coexistencium",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-18T13:49:20.548",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "N207670",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-06T06:42:59.6",
+      "cpu": "Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "dc97cc1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Overkiller324",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T14:53:24.536",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pogbaxd1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-14T16:38:20.753",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "f870aa0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Starcrater21",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T14:21:32.564",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 5500 XT",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KZavi",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-30T15:35:27.095",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "poprockjaw",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-28T05:06:20.859",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "3c320a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-26T14:38:40.386",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

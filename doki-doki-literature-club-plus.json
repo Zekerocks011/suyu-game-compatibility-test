@@ -1,0 +1,96 @@
+{
+  "name": "Doki Doki Literature Club Plus!",
+  "description": "Enter the #1 Psychological Horror Experience!\n\nWelcome to a terrifying world of poetry and romance! Write poems for your crush and erase any mistakes along the way to ensure your perfect ending. Now’s your chance to discover why DDLC is one of the most beloved psychological horror games of the decade!\n\nYou play as the main character, who reluctantly joins the Literature Club in search of a romantic interest. With every poem you write and every choice you make, you’ll charm your crush and begin to unfold the horrors of school romance. Do you have what it takes to crack the code of dating sims and get the perfect ending?\n\nNow, the original mind-shattering DDLC experience is packed with tons of new features and content exclusive to Doki Doki Literature Club Plus!\n\nDoki Doki Literature Club Plus Features:\n\n• 6 new Side Stories about friendship and literature, totaling hours of new content\n• 100+ unlockable images including new game art, wallpapers, never-before-seen concept sketches, and more\n• 26 total music tracks, including 13 all-new unlockable songs by Nikki Kaelar, plus special guests Jason Hayes and Azuria Sky\n• A built-in DDLC music player to unwind with your favorite songs in a custom playlist, or loop a single track forever\n• A high-fidelity visual upgrade with all artwork now in Full HD (1080p)\n\nMeet the Literature Club!\n\nSayori – Sayori, your childhood friend, begins your story by recruiting you to the Literature Club! As a daydreamer full of positive energy, Sayori’s greatest passion is to deliver happiness to others.\n\nNatsuki – Natsuki tries to act tough, but her cuteness can make it hard to take her too seriously! She might be willing to warm up to good listeners who can respect her love for cute things.\n\nYuri – Yuri, the quiet bookworm, reserves her passionate side for those who can more deeply understand her enigmatic mind.\n\nMonika – Monika, the superstar President of the Literature Club, will keep you on track for a perfect ending. Monika is always there to give you a guiding hand, both in literature and in love!\n\nThis game is not suitable for children or those who are easily disturbed.\n",
+  "titleId": "010086901543E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/31130dc94f5a8ae26ae45d4ef36ce2908c9040cf8db8ffc3047d6c2f31e2a5e9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-28T12:47:11.323",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "d970788",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ClassicLinkMain",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-30T18:53:19.592",
+      "cpu": "Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "version": "923bf76",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-23T22:47:13.687",
+      "cpu": "AMD Ryzen 7 PRO 1700 Eight-Core Processor      ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-10T01:30:33.721",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "22734ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ChristianSM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-07T18:53:01.294",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "zhein",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T10:28:43.436",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "Radeon RX 560X Series",
+      "version": "884f989",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T22:50:49.144",
+      "cpu": "AMD Ryzen 7 PRO 1700 Eight-Core Processor      ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Akiba91",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-08T15:20:56.353",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 980 Ti",
+      "version": "c9c4b05",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

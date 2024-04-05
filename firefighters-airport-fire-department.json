@@ -1,0 +1,19 @@
+{
+  "name": "Firefighters: Airport Fire Department",
+  "description": "Fire can be a friend, but also a merciless foe. Nowhere else is the danger greater than at a modern airport with thousands of travellers and highly flammable kerosene.\n\nMove out with your team and experience tense missions. As a member of the airport fire department, you and your team extinguish massive aircraft fires and beat a path through the flickering flames. Drive all kinds of fire-fighting vehicles and put out conflagrations with the mounted fire monitors. Combat local fires with extinguishers and everything you can find in your equipment. Vanquish the indomitable flames!\n\nYour team is counting on you. Don't let them down! \n\nFEATURES\nRealistic models of fire-fighting vehicles \nOver 20 km² of airport grounds for a wide range of missions\nDetailed vitality system for information about your own fitness",
+  "titleId": "0100BB1009E50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c7551fd664b4b19d91da616deaf3ffbdc3a496a91e7bf5dec8f349b65f76c7be.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-01T20:47:07.359",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

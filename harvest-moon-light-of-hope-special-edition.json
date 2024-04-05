@@ -1,0 +1,107 @@
+{
+  "name": "Harvest Moon: Light of Hope Special Edition",
+  "description": "Looking for a fresh start and some new surroundings, you set off on a voyage to begin your new life! Unfortunately, the weather has different plans, as your ship is hit by a storm, and goes down! You drift into a small harbor town, now in shambles from the storm, where a young doctor named Jeanne saves your life. The town has been deserted, but you're never one to back down from a challenge! It will be up to you to help rebuild the town and save the lighthouse...but it won't be easy! Nevertheless, with some hard work growing crops, tending livestock, and gathering materials for repairs, you will be able to make new friends, start a family, revive the lighthouse, and save the town, your new home!\n\n• Collect important materials to rebuild the town and restore the lighthouse!\n• Complete requests from villagers to unlock new areas and items!\n• Grow crops, tend livestock, and gathering materials, either by yourself or with a Co-Op friend!\n• New and unique festivals, including the Dog Racing Festival!\n• Make new friends, get married, and start a family from a variety of bachelors and bachelorettes, including a secret one!",
+  "titleId": "0100CF8003E70000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ede330dd047a82086d2af69fb0bc2e1aad81a34628bb711a2b5b26925b5d70d6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-07T02:20:37.54",
+      "cpu": "Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 750/PCIe/SSE2",
+      "version": "499be67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-22T02:12:18.337",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-11T19:50:48.5",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "7e8bf4a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Selfie_Masters",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-12T14:43:49.793",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c4d0e7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-11T19:44:06.386",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "364932d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Thomas16093",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-01-19T11:10:52.421",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "AMD Radeon R5 M255",
+      "version": "d856337",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-25T21:52:41.064",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1080",
+      "version": "b9f600f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-17T17:11:54.264",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "894a681",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-05T07:01:00.218",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1485528",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

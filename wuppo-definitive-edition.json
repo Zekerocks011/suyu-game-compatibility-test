@@ -1,0 +1,19 @@
+{
+  "name": "Wuppo: Definitive Edition",
+  "description": "After losing its home, one lonely Wum must travel the length and width of the world to find a new place to live. From the metropolitan haven Popocity to the cavernous Bliekopolis, our Wum will discover magical places and encounter strange creatures. But this Wum is no traditional hero and only by using wit and charm can it succeed in this massive journey.\n\nWuppo is a two man passion project, with hand-drawn visuals, an extensive soundtrack and a huge world to explore.\n\nFeatures:\n- Enjoy the game together in an all new co-op mode!\n- Explore a wondrous world filled with Wums, Fnakkers and other strange creatures.\n- Resolve an ancient conflict on your quest for a new home.\n- Use items and social skills to overcome diverse challenges.\nFight numerous enemies, ranging from small, to big, to MASSIVE!\n- Collect filmstrips to discover the world's detailed history.\n- Enjoy an enchanting and memorable orchestrated soundtrack.\n",
+  "titleId": "01003F800E87C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/12d6a49db918f833f60d5826a9b96128d0b4d3b0a79037c6595987c0186ef5bd.jpg",
+  "tests": [
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-12T09:37:20.719",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "f764d1e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

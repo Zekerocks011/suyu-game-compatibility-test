@@ -1,0 +1,118 @@
+{
+  "name": "FINAL FANTASY XV POCKET EDITION HD",
+  "description": "Explore the world of FINAL FANTASY XV with a cast of cute and cool characters! \n\nNow you can enjoy the FINAL FANTASY XV story across 10 exciting chapters.\n\n【Story】\nThe Tale of the Chosen King, Savior to the Star.\n\nAfter years of fighting, the nations of Lucis and Niflheim at last agree to an armistice.\n\nAs a symbol of this promised peace, Noctis, crown prince of Lucis, is to wed the Lady Lunafreya of Tenebrae.\n\nThe prince sets forth for his wedding on the eve of the signing ceremony, sent off by his father, King Regis.\nUnbeknownst to Noctis, however, the journey ahead is fraught with perils...\n",
+  "titleId": "010068F00AA78000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/092a99a900d5c9920e1bc2a450a96f85022dff5be79067f68e7499ed7da43210.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T01:53:51.002",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T01:52:24.299",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gamer_tug",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-24T07:44:32.286",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "f863208",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-19T01:42:51.949",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "bc7c764",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T01:53:56.947",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T01:52:11.879",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EthanPHX",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-25T02:18:34.627",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-27T22:59:00.119",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "47790e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T01:52:18.09",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-14T01:58:17.943",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2743b9f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

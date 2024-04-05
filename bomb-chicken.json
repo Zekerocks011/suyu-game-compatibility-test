@@ -1,0 +1,74 @@
+{
+  "name": "Bomb Chicken",
+  "description": "\"Who doesn’t love chicken… especially when it’s smothered in delicious blue hot sauce? After a freak accident, a seemingly ordinary chicken becomes a bomb laying free range hero. Explore the versatile mechanic of laying bombs in this explosive exploration platformer.\n\n• Lay stacks of explosives to reach impossibly high places.\n• Kick Bombs to take out staff and deadly native wildlife.\n• Bounce your bombs through impassable areas and even around corners!\n• Use your bombs as a handy weight.\n• Create a barricade and shield enemy attacks.\n• Dig and destroy to uncover secret areas.\n• Set things on fire and watch them burn!\n\nDiscover the darkest kept secret of the fast food giant known as BFC, their bestselling addictive blue hot sauce, and answer the ultimate question: Which came first the chicken or the bomb?\"",
+  "titleId": "01008AF00A532000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2e871f26b4858f19c83dc4dc0d4d5771cb2e0954ddcdb7033e1691c8ac327638.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-08-26T23:19:35.763",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-23T20:25:33.176",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T17:45:44.866",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-25T09:57:51.466",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "92ff0d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-19T20:13:00.209",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-06T10:53:38.853",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

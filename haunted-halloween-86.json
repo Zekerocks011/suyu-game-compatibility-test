@@ -1,0 +1,19 @@
+{
+  "name": "HAUNTED: Halloween '86",
+  "description": "October 31st, 1986: In the once-quiet town of Possum Hollow, two 11-year old kids are gearing up for some Halloween hijinks! Before a fun-filled night of trick-or-treating Donny and Tami venture up to the old farm house where Harry, the crazy old farmer, suddenly thrusts them into a nightmare. Now trapped deep down in his dungeon on a pile of bones, they must break out and find their way back home. They will face hordes of heinous haunts, monstrous bosses and environmental hazards as they make their way through the various landscapes of Possum Hollow and fight to save their town from the curse that plagues it.\n\nFeatures:\n● Donny and Tami, two adorable little bit-kickers with a stern lesson for anyone who tries to ruin Halloween.\n● 7 levels of beautifully pixelated environments with hordes of unique enemies and bosses, all built to the restrictions of the Nintendo Entertainment System™.\n● Tag Team Technology allowing you to swap characters on the fly.\n● A killer combat system unlike anything from the era with upgradeable power moves, combos and momentum-based physics that feel entirely modern.\n● Coded entirely in 6502 Assembly language down in our 8-bit laboratories. #8BitLegit\n● Sizzling chiptune soundtrack composed entirely in Famitracker.\n",
+  "titleId": "010085500F6B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9d4028e614c1f90da6c71d13eca1b668749816bce02fbf8a42e3136209660d33.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T07:08:03.419",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

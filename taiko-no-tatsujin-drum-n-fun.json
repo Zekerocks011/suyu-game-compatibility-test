@@ -1,0 +1,118 @@
+{
+  "name": "Taiko no Tatsujin: Drum 'n' Fun!",
+  "description": "• Shake the Joy-Con™ controller using the Drumstick Grip! \nSwing down the Joy-Con™ to make a DON and diagonally to make a KA. HD rumble makes you feel like you're really hitting a drum!\n \n• Featuring special characters! \nThey will help you with DONs and KAs, and drumrolls. Splatoon 2's Inkling and Kirby from Kirby's Dream Land will join! Let's try out new songs!\n \n• Party Mode: Max 4 players!\nShare the Joy-Con™ with up to 4 players. 20 songs, 2 difficulty levels! Prepare a controller for each player. Joy-Con™ can be used separately. \n \n• Play YOUR way! \nCompatible with TV, tabletop, and handheld modes! You can use up to 4 Nintendo Switch™ consoles to play locally! Each player needs a copy of the game. \n \n• +70 songs! Even Super Mario Odyssey and Splatoon 2!",
+  "titleId": "01002C000B552000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d5da9f03d07cbbba230ea04e0eee8e4b600fb22536c6834c4d91d86f60c0716b.jpg",
+  "tests": [
+    {
+      "tester": "nk20bot_v2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-20T07:54:16.106",
+      "cpu": "        Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HauruI",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-23T04:51:08.159",
+      "cpu": "Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "archie",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-20T09:26:40.466",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "bdd20d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-22T20:43:05.004",
+      "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "2637ea3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Javier_Elniu",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-05T04:59:04.062",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "93a2d4f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-16T21:54:34.425",
+      "cpu": "AMD FX(tm)-8320 Eight-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "e8a9a26",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-06T22:38:17.645",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ChristianSM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-30T15:01:18.651",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HekBech",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-20T09:51:45.989",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-14T09:33:23.282",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

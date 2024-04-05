@@ -1,0 +1,19 @@
+{
+  "name": "AVICII Invector",
+  "description": "Belt up and blast into the rhythmic regions of unexplored space in AVICII Invector. \n\nCreated in collaboration with the late superstar DJ, AVICII Invector is a pulse-pounding, frenetic rhythm-action experience.  \nSoar through vocal melodies, sweep each fade and attack every beat in 25 of AVICII’s biggest hits, including global chart toppers: Without You, Wake Me Up and Lay Me Down.  \n\nFly solo or recreate the party feeling of an AVICII concert with heart-thumping, competitive gameplay.\n\nEach track is built to perfectly match the on-screen visuals taking you through a musical odyssey of serene exploration.\n\nFind your rhythm, feel the beat and keep the musical journey flowing.",
+  "titleId": "010064600F982000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/33ea89368f3900735a05b8b837105e726eb3133534fa17abe704343c4c9fff0d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-30T13:34:41.248",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

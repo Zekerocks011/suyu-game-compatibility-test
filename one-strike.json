@@ -1,0 +1,19 @@
+{
+  "name": "One Strike",
+  "description": "Become the deadliest fighter in a vintage Japan! \nOnly one strike settles the duel, master the fighting style of each warrior to outsmart your opponents. \n\nChallenge your friends or the AI in easy, medium or hard mode. \n \n7 fighters in medieval Japan:\n• Kenji the honorable samurai and his katana\n• Hinode the ninja striking her Sai weapons at the speed of light\n• Soujirou the monk wielding his long-range Nodashi\n• Hangaku the fastest girl in the East with her Kusarigama\n• Bailong the Chinese veteran and his proud Kwan dao\n• Tomoe the killer with her sharp Wakizashi\n• Oni the demon with his massive Tetsubō\n \n4 modes:\n• One Life: just like in real life, you've got only one\n• Arcade: you get 5 lives to train with your character\n• Team Duel: put together your best team of 3 warriors\n• Tournament: up to 8 players (AI or real person) fight for the final victory!\n \nThe game lets you consult your achievements at any time.",
+  "titleId": "01003A800B102000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df76fc6f716b9d12eacce78ee1786f265815b75c364ae102216370dcf72a2d59.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T02:29:56.095",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

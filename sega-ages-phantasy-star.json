@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES Phantasy Star",
+  "description": "The tyrant Lassic rules the cosmos, and it is up to you to defeat his evil reign. Witness the revival of this defining RPG in SEGA AGES Phantasy Star.\n\nTake advantage of the new dungeon map display and the acclaimed “Ages Mode” as you traverse tricky dungeon mazes and battle ferocious 8-bit beasts. Phantasy Star has claimed its place as a pioneer RPG and its retro-spirit is sure to find a home in the hearts of old and new fans alike.",
+  "titleId": "01005A300C9F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8f5f05917b7d1a41a62005475b9aaadf52ce2c5b382057bee8a527e47eda2c25.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-24T01:57:15.636",
+      "cpu": "AMD Phenom(tm) II X4 970 Processor",
+      "gpu": "AMD Radeon (TM) R7 370 Series",
+      "version": "37b70d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-04-26T14:51:58.429",
+      "cpu": "AMD Phenom(tm) II X4 970 Processor",
+      "gpu": "AMD Radeon (TM) R7 370 Series",
+      "version": "6cab0f1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

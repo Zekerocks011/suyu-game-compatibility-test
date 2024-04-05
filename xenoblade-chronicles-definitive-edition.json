@@ -1,0 +1,118 @@
+{
+  "name": "Xenoblade Chronicles™ Definitive Edition",
+  "description": "Discover the origins of Shulk as he and his companions clash against a seemingly-unstoppable mechanical menace. Wield a future-seeing blade, chain together attacks, and carefully position your party members in strategic, real-time combat as you journey across a massive world.\n\nDuring an attack from the mechanical invaders known as the Mechon, Shulk discovers that he can tap into the full power of a mysterious blade known as the Monado. With the mighty Monado in hand, Shulk sets out to defeat the Mechon once and for all.\n\nIn addition to the Mechon, you’ll run into wildlife that ranges from docile to deadly. Keep an eye on what attracts monsters’ attention to avoid unwanted conflict…or try your hand at bringing down an ultra-powerful Unique Monster.\n\nUpgrade your party as you progress through the adventure by selecting equipment, enhancing weapon skills, and using benefit-granting gems. Put your dependable companions to work by filling the party gauge to trigger a Chain Attack and attack enemies in quick succession!",
+  "titleId": "0100FF500E34A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3b9eb62296e2835cc177bb44c360edcc6eac5d70b6abd6eacf3bb7c7d6ddf9e5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-15T09:26:24.812",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-25T20:39:59.683",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "2848a44",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "blacktail122",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-21T15:05:11.263",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 745/PCIe/SSE2",
+      "version": "8729540",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tiggz",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-18T00:53:06.992",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T22:31:04.035",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "donenilo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-12T16:25:43.623",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1060",
+      "version": "b7cd227",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-25T17:43:07.56",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "f81aa7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DMoguri",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-27T07:08:40.836",
+      "cpu": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "bb21460",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiegoXD",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-20T04:54:58.279",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-25T04:04:48.888",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "db6f01d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

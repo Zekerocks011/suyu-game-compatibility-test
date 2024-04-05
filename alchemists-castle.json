@@ -1,0 +1,19 @@
+{
+  "name": "Alchemist's Castle",
+  "description": "Discovering the philosopher's stone turned the wise and kind alchemist into a power hungry, selfish tyrant. Task of stopping him falls upon you, the former apprintice of the alchemist. Discover the secrets of the Alchemist's Castle, survive and destroy the philosopher's stone!\n\nAlchemists's Castle is a 2D side-scroller platformer, inspired by old-school Metroid and Castlevania games.",
+  "titleId": "010001E00F75A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c84913310818aacf6bedbace25007bd487382c8b5784d0582e0112238c3bc191.jpg",
+  "tests": [
+    {
+      "tester": "dharmang1910",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-06T18:40:17.814",
+      "cpu": "Intel(R) Core(TM) i5-4430S CPU @ 2.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "c5812ef",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

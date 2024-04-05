@@ -1,0 +1,30 @@
+{
+  "name": "STURMWIND EX",
+  "description": "STURMWIND EX is a shoot-em up  in the tradition of old arcade games. If it moves - shoot it!\nYou can play missionmode with all 16 levels with saving your progress with every finished level or arcademode with 6 levels and no continues. \n\n• 2 different game modes: missionmode and arcademode\n• 16 Levels \n• 3 difficulty levels \n• different weapons selectable \n• Upgradeable weapons, drones and different weapon-/drone-formations\n• Additional superweapons like superbeam and smartbombs\n• more than 20 large boss-enemies \n• hundreds of different enemies \n• Achievements, Highscore and Levelstatistics \n• Customizable User Interface",
+  "titleId": "0100C5500E7AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1611259811cc33a6731b668c4e0fe56b07ead5ba9a45b4b587002c5ac81c9103.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-08T14:06:20.414",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ddee3ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-25T20:28:32.889",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "2848a44",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

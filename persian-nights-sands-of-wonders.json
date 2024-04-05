@@ -1,0 +1,19 @@
+{
+  "name": "Persian Nights: Sands of Wonders",
+  "description": "Ominous clouds are gathering over Persia. The good natured king Badiya is mortally ill and the demonic Grand Vizier Zaved holds his subjects in an iron grip, bringing the country to the edge of ruin. To make matters worse, a shadowy disease has appeared out of nowhere, spreading across the land. A young and talented apothecary Tara decides to find the cause of this plague and prevent it from spreading further.\nA quest full of puzzles and challenges awaits, one that will lead her to the far reaches of the kingdom and even beyond it. Luckily for her, Tara won't be alone in this endeavour. She will be assisted by a mysterious acrobat and swordsman Darius, as well as the goofy but kind-hearted genie Minu.\nWill the 3 daredevils succeed in finding the source of an ancient evil and stop the impending doom? Join the quest and lead Tara to victory.\n",
+  "titleId": "010023100B96E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0d60b86afff7435499954b663b52ae2359c8af7ce9e47558e22164f1694b5e2f.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T17:49:06.276",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

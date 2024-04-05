@@ -1,0 +1,19 @@
+{
+  "name": "Construction Machines Simulator",
+  "description": "If you are a fan of construction or destruction this game is for you. \nBecome a boss of the building company. Sit behind the wheels\nof multiple vehicles like excavators or cranes and expand your business. \nBuild campsites, rental homes, office parks and more.\n\n- control 4 different construction machines\n- build multiple constructions\n- destroy old facilities, fences and other buildings\n- buy, develop and manage properties to gain profits\n- over 20 upgrades for machines\n- work in various weather conditions\n- execute city projects founded by mayor and grow rich\n- over 100 construction contracts",
+  "titleId": "01004BA00B566000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/74ba24d7a9207c06bf3a31e0f446c752f086b05e42c34107df0eaad1fc38620d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T09:16:26.892",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fb162da",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

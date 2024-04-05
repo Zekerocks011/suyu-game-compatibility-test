@@ -1,0 +1,30 @@
+{
+  "name": "World of Goo",
+  "description": "World of Goo is a multiple award winning physics-based puzzle/construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore — but they don't know that they are in a game, or that they are extremely delicious.\n\nMysterious Levels — Each level is strange and dangerously beautiful, introducing new puzzles, areas, and the creatures that live in them.\n\nWorld of Goo Balls — Along the way, undiscovered new species of Goo Ball, each with unique abilities, come together to ooze through reluctant tales of discovery, love, conspiracy, beauty, electric power, and the third dimension.\n\nThe Sign Painter — Someone is watching you.\n\nWorld of Goo Corporation — Congratulations! World of Goo Corporation is the Global Leader in Goo and Goo Related Product, including World of Goo Corporation Trademark Brand Soft Drink Beverage and World of Goo Corporation Trademark Brand Facial Exfoliating Lotion. Succulent!\n\nCongratulations, and good luck!",
+  "titleId": "010009E001D90000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e597475e0266a15bde65fe9047aba3fdcdbb160836a2aa7025cdb85e77e4a66b.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-14T23:15:23.894",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-20T17:46:53.24",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

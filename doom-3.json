@@ -1,0 +1,107 @@
+{
+  "name": "DOOM 3",
+  "description": "Celebrate DOOM's 25th anniversary  with the release of DOOM 3, available for the first time on Nintendo consoles. \n\nIn this critically acclaimed action-horror re-telling of the original DOOM, players must battle their way through a demon-infested facility before entering the abyss to battle Hell's mightiest warrior - and put an end to the invasion.\n\nDOOM 3 includes the Resurrection of Evil and The Lost Missions expansion packs. ",
+  "titleId": "010029D00E740000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fb2947fb7e2b19b6419627807327b6ba120971291728442b442107664b0c9620.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-19T09:36:54.512",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-05T12:59:44.152",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-05T12:59:36.58",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-27T20:26:30.424",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d1a04b3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-25T09:44:21.505",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "10ffca2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-12T06:23:14.341",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-14T04:37:17.19",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "878a493",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-29T05:13:32.188",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "8a8bd4a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-19T19:03:41.16",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "d2a0bb7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

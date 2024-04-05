@@ -1,0 +1,118 @@
+{
+  "name": "Cuphead",
+  "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era: traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings. \n\nPlay as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!",
+  "titleId": "0100A5C00D162000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/139836b3193bb50dab4982ac706d5d5d148fb7cc34ff3c6c21c34cdefa4f5df7.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-10T21:35:50.996",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "30668d6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-16T10:35:58.648",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "6ac2dcd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-14T21:00:21.322",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d767bc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-12T14:58:37.067",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "02d339c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-14T16:09:32.73",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2a2e03c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-27T23:35:32.937",
+      "cpu": "        Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-07T20:00:09.747",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab0fb89",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-17T01:03:09.763",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rayquadza",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-18T00:55:37.346",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-10T13:27:17.542",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9aa3dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

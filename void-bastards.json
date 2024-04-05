@@ -1,0 +1,52 @@
+{
+  "name": "Void Bastards",
+  "description": "Forget everything you know about first-person shooters: Void Bastards asks you to take charge, not just point your gun and fire. Your task is to lead the rag-tag Void Bastards out of the Sargasso Nebula. You make the decisions: where to go, what to do and who to fight. And then you must carry out that strategy in the face of strange and terrible enemies.\n\nOn board derelict spaceships you’ll plan your mission, taking note of the ship layout, what hazards and enemies you might encounter and what terminals and other ship systems you can use to your advantage...\n\nMove carefully through the dangerous ships, searching for supplies and manipulating control systems. React to what you find - will you detour to the generator to bring the power back online or will you fight your way into the security module to disable the ship’s defenses? Choose carefully when to fight, when to run and when just to be a bastard.\n\nUse your hard won supplies to improvise tools and weapons, from the distracting robo-kitty to the horribly unstable clusterflak.\n\nNavigate your tiny escape pod through the vast nebula. Flee from void whales and pirates, and politely avoid the hungry hermits. All the while you must keep scavenging for the food, fuel, and other resources that keep you alive.\n\nVoid Bastards features a 12-15 hour campaign that you can complete with an endless supply of prisoners, each with their own unique traits. When one dies, another steps forward to carry on the fight. Don’t worry though, as any crafting progress you’ve made is retained from one to another.",
+  "titleId": "0100D010113A8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f29a714fc3d054a252be93759f71ae7997ba216a6539c162a9aa0dda6835da28.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-08T08:30:59.869",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "e0644db",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-24T16:47:29.941",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "29ce4fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T12:06:25.948",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-19T14:49:43.413",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f21009b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

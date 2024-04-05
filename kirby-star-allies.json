@@ -1,0 +1,118 @@
+{
+  "name": "Kirby Star Allies",
+  "description": "When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!\n\nWith tons bosses and enemies standing in your way, Kirby has a new bag of tricks. Take baddies out by taking advantage of their elemental weaknesses.",
+  "titleId": "01007E3006DDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ff44624d05899c24ef7e74dba3e8a43118641ffaab9f379425037608d3fc8f34.jpg",
+  "tests": [
+    {
+      "tester": "Torphedo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-14T00:01:11.998",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "42bedc8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonstation",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-03T21:29:11.172",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "761fa23",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-07T14:18:33.599",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "690259e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FireD4sher",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-11T13:50:54.42",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "111354",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-18T04:55:02.849",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "755b975",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-27T08:51:55.744",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "wizard",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-28T14:59:07.478",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "e4f21ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "StallionX",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T14:55:07.238",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "anamenot",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-21T23:47:51.819",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "StallionX",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T14:55:59.088",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

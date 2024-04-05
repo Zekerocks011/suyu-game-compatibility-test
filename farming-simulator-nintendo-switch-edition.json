@@ -1,0 +1,41 @@
+{
+  "name": "Farming Simulator Nintendo Switch Edition",
+  "description": "Take on the challenges of the modern farmer! Explore a huge open world including a detailed North American environment, loaded with farming activities, over hundreds of acres of land. Drive over 250 authentic farming vehicles and equipment from over 75 manufacturers, including brands such as Challenger, Fendt, Massey Ferguson and Valtra.\n\nHarvest many types of crops, tend to your livestock, take part in forestry work, and sell your products to expand and invest in your farm! Transport your goods in trucks and trailers, or load and drive trains to reach your destination.\n\nMAIN FEATURES\nDevelop your farm in 2 huge environments, a North-American and a Eastern-Europe environments\nHarvest a large variety of new crops (sunflowers, soybeans, and many more)\nTransport your goods with trucks and trailers, or try out the newly-added drivable trains\nTake care of your livestock, including pigs, cows, sheep, and chickens. \n250 faithfully reproduced farming vehicles and tools from over 75 manufacturers",
+  "titleId": "0100D04004176000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3ba19940d65aaa41dc1a1eb62e9c0098248f8dcf9570b8b086dc1004ab406a45.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T20:07:53.323",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GDhex12",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-11T19:23:48.357",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7382025",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-16T06:18:29.235",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU/PCIe/SSE2",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

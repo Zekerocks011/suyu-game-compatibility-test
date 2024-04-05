@@ -1,0 +1,63 @@
+{
+  "name": "Plants vs. Zombies: Battle for Neighborville™ Complete Edition",
+  "description": "Now on Nintendo Switch™, tackle hilarious missions and defeat epic bosses in the Weirding Woods, Mount Steep, and Neighborville Town Center to collect medals and unlock outrageous outfits. Party with up to three friends and goof around in Giddy Park or dive into some 8v8 multiplayer in Turf Takeover, vanquishing opponents, blasting gnome bombs, bouncing on pink ooze – it’s the most fun you’ll have since sliced bread.\n\nTake your system anywhere, and prepare to kick some grass offline and online in a plant-on-zombie conflict that will take you to the outer edges of Neighborville and back again!\n\n- Venture to the Outer Edges of Neighborville Offline - Discover Giddy Park, PvE free-roam regions and Private Play modes all without an internet connection. \n- Customize Every Character for Battle - Earn in-game coins only through play, and spend them at the Rux store to unlock cool customization items, characters and perks. \n- Play with Your Favorite People -Party with up to three friends and goof around in Giddy Park or dive online into some 8v8 multiplayer in Turf Takeover, vanquishing opponents across a gigantic suburban skirmish.\n- Motion Controls  & Touch Menus  - Use motion controls for aiming, with a full range of settings to customize to your preference.  Interact with UI menus throughout the game using touch input including map zoom. \n- Prize Map Selector - Choose from and interact with all 12 prize maps at any time, and exchange prize bulbs for unbeleafable rewards!",
+  "titleId": "0100C56010FD8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/02201d7dde750ce477c76491ffe5bac757368e31e63d84a37eb9990758c35118.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-04-29T21:03:11.937",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "758433f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-05T21:32:48.099",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "khertal",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-30T05:39:15.947",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ELiTE1",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-26T17:08:58.044",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-11T15:28:55.023",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "BRIGANDINE The Legend of Runersia",
+  "description": "■Conquer the continent in this grand strategy simulation game\nThe continent of Runersia is home to six major powers with more than 40 bases, 100 knights, and 50 types of monsters.\nSelect a ruler, compose your platoons of knights and monsters, and march to claim enemy bases.\nThe player chooses how they will battle, so devise the best strategy to lead your nation toward continental conquest. How will your legend unfold?\n■Simple yet deep war simulation game with unit growth and map-based platoon battles\nTime passes on Runersia in seasons, each one consisting of an Organization Phase and an Attack phase.\nDuring the Organization Phase, knights and monsters with various classes and skills are organized into platoons in preparation for the upcoming battles.\nDuring the Attack Phase, turn-based platoon battles take place on a map made up of hexagonal spaces. Make use of unit skills, elements, enclosure effects, terrain advantages, and other battle tactics to lead your side to victory!\nAll nations, knights, and monsters in the game will continue to battle and grow as you do.\nThe game is also packed with other ways to grow your armies such as class changes, equipment, and various items.\n■Immersive gameplay with high replayability\nEnemy nations aim to conquer the continent as well and will attack your bases to do so. The battle for the continent will differ with each playthrough.\nAccumulate stories and events from the six nations in the Records. After clearing the main mode, The Legend of Runersia, the Alternate Chapter challenge mode will be unlocked, allowing for even more replayability.\n■World settings\nRunersia - a continent blessed with mana showers from times of old.\nFive Mana Stones discovered long ago have been embedded into special armor called Brigandine, each one representing the ideology of the nation possessing it.\nThese have come to be known as the Brigandine of Justice, Sanctity, Freedom, Glory, and Ego.\nThe time now is Runersia 781, and a war looms on the horizon for five nations and a small tribe with incompatible ideologies.\nSix rulers and their rune knights will throw themselves into the conflict, each with their own hopes and expectations.\nOnce the land has been unified under a single banner, memories from The Legend of Runersia will be reclaimed and the truth of what happened here on Runersia shall be revealed.\nIn the free trial mode, you are able to play up to 10 seasons or until you control 7 or more bases.\nSave data cannot be transferred to the full version.",
+  "titleId": "010011000EA7A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d63099fae033ae8c69330b6d76c33f681840c80927953110d6eaf246be95620f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-04T16:42:20.019",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-17T15:01:26.078",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tony_Wibowo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-14T04:30:52.28",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-18T11:54:20.701",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-02T04:51:04.66",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "b0c7e20",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T18:26:19.559",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

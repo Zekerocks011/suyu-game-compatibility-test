@@ -1,0 +1,19 @@
+{
+  "name": "Laid-Back Camp - Virtual - Lake Motosu",
+  "description": "Experience Laid-Back Camp in 3D!\n\nTogether, Nadeshiko (you!) and Rin embark on a new camping adventure at Lake Motosu, taking pictures and trying lots of delicious food.\n\nAbout the Game\nSet near scenic Mt. Fuji, Nadeshiko, Rin & co. encounter a variety of unique situations. Join them for a short 3D adventure game (each version is about the length of an anime episode), where the fully voiced characters and vibrant scenery will make you feel like you’re really there!\n\nCast\nNadeshiko Kagamihara (Yumiri Hanamori)\nRin Shima (Nao Toyama)\nChiaki Ogaki (Sayuri Hara)\nAoi Inuyama (Aki Toyosaki)\nEna Saito (Rie Takahashi)\nNarration by Akio Otsuka",
+  "titleId": "01002BA012E80000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/926830185481ee007f854aa0a62dc1155d5aec47e1e79497db88295563054a7a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-18T15:09:00.116",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "2fced7f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

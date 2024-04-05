@@ -1,0 +1,118 @@
+{
+  "name": "The Great Ace Attorney Chronicles",
+  "description": "Immerse yourself in a dramatic yet charming and witty world of evidence-gathering, deduction and courtroom battles with this double-pack of the adventures of rookie lawyer Ryunosuke.\n\nSet in late 19th century Japan and England, each title features five murder-mystery episodes filled with all the drama, laughs, twists, and “turnabouts” you’ve come to expect from the legally labyrinthine legacy of Ace Attorney. Join Ryunosuke Naruhodo, ancestor of series mainstay Phoenix Wright, as he attempts to uncover the secrets behind an international criminal conspiracy and solve a hauntingly baffling cold case, while tackling a series of tricky trials along the way. Dozens of hours of attorney action awaits you!\n\nIn the course of each case, you’ll speak to witnesses, examine evidence and clues, and attempt to deduce the dastardly intent behind the crime before proceeding to the courtroom. In court, you will hear testimonies, cross-examine witnesses, and present evidence. And of course, it wouldn’t be an Ace Attorney game if you couldn’t shout “OBJECTION!” when you know you’ve got the facts and evidence needed to contradict the prosecution’s claims and prove your client’s innocence.\n\nThe game includes a convenient assistance feature in case you hit a dead end in your investigation, so even if this is your first Ace Attorney game, you can get into your amateur sleuthing adventures with ease! Will you be able to crack these clever cases? The game is afoot!",
+  "titleId": "010036E00FB20000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/db564f9afdadda94a8db88785f105da3b09204086478eab127d025b8658c171e.jpg",
+  "tests": [
+    {
+      "tester": "shimeku",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-24T22:16:57.905",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "d5cc9c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cnells2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-30T19:15:20.824",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "cad9b50",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "joestarleo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-14T14:21:38.709",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "f7e76ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "eoin2000",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-09T09:07:53.792",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Akiba91",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-08T15:24:42.788",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 980 Ti",
+      "version": "c9c4b05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-02T18:27:48.117",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3080/PCIe/SSE2",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "joestarleo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T19:11:52.489",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "joestarleo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-11T22:51:20.477",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "outtatheblue",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-07T00:04:45.477",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "ad45690",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-13T19:30:34.899",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "8145783",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

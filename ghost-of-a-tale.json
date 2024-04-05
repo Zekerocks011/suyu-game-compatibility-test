@@ -1,0 +1,85 @@
+{
+  "name": "Ghost of a Tale",
+  "description": "Ghost of a Tale follows a courageous minstrel Mouse named Tilo on a perilous quest to escape the dungeons of Dwindling Heights Keep and discover the fate of his true love, Merra. Set in a medieval world where Rats rule over all other creatures, Ghost of a Tale weaves an epic, yet intimate story combining elements of classic adventure, action-RPG, and exploration with a rich and highly immersive visual style.\n\nArmed with a mouse’s talent for stealth, agility, and disguise and a minstrel’s talent for music, you'll explore the decaying keep, from its expansive woodlands and lakeshore to its spider-infested catacombs, evading its many dangers and discovering its most ancient secrets.\n\nDwindling Heights is a dangerous place for a little Mouse, and Tilo's hardly a fighter. When confronted by deadly enemies twice your size, guile and swiftness are your only allies. Talk to the denizens of Dwindling Heights, make allies of your enemies, and leave no stone unturned in your quest to find Merra.",
+  "titleId": "0100D140112BC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a3d5250809111cd0a1af7210c25e1935864fa94408e68cb487a3b629e5aaca26.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-10-09T13:01:09.065",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unoaphex",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-16T06:16:58.746",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "99e4dd4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-23T03:50:47.92",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "c788cba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unoaphex",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-06T02:33:39.091",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "715245e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-04-11T03:49:19.676",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unoaphex",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-10T00:55:50.608",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "58a85d6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-28T23:42:16.305",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4f948b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

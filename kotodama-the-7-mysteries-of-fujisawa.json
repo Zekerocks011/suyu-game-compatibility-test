@@ -1,0 +1,19 @@
+{
+  "name": "Kotodama: The 7 Mysteries of Fujisawa",
+  "description": "Features\n\n• Investigate the secrets of Fujisawa Academy across seven visual novel chapters – where each chapter hides the truth to one of the seven mysteries.\n\n• Battle key characters using ‘Kotodama’ – the power of words. Interrogation battles see you stripping your target naked - exposing the truth behind their lies!\n\n• Uncover key words in the game’s investigation phase. The more keywords and clues you find, the more potent your power in the puzzle phase.\n\n• Nothing is as it seems! Kotodama intentionally plays on classic tropes and clichés to continually twist the story and surprise the player.\n\n• Repeated playthroughs will yield new facts within the story. Uncover them all to unlock the true ending and a full gallery of artwork.\n\n• Continue to play the fiendish puzzles in Fantasize Mode to perfect your high scores!",
+  "titleId": "010046600CCA4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/62dafcb91a994d4b23b17bc8be1e59c6ba207f4a0394f7049b44e9dd8bc55374.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-13T20:25:43.162",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "8145783",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

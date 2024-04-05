@@ -1,0 +1,19 @@
+{
+  "name": "PLANET ALPHA",
+  "description": "Pursued by relentless enemies, you must harness the power of night and day as you struggle to survive.\n\nKey Features:\n\nMarooned upon an alien world...\n\nYou have awoken on a strange alien world. Injured, alone and stranded you venture across this foreign land, navigating beautiful and varied terrain as you try to stay alive.\n\nPower over Day and Night\n\nThe world of PLANET ALPHA is affected by the solar cycle, and as you progress you’ll discover a unique gift – you can manipulate the time of day and use it to your advantage.\n\nUnlock the Mysteries of  PLANET ALPHA\n\nExplore a unique world and piece together your story. What will you discover on PLANET ALPHA?",
+  "titleId": "010003C0099EE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5a8861842193c0193566a3677c30891f315c799156f15a266b2ba0808dff0554.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-23T07:37:50.672",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

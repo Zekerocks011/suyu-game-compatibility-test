@@ -1,0 +1,52 @@
+{
+  "name": "Atelier Ayesha: The Alchemist of Dusk DX",
+  "description": "The promise begins.\n\nThe Dusk series, a trilogy of RPG titles from Gust's popular Atelier series, tells the story of a world on the verge ruin, told from the perspective of its unique characters.\nThe 1st title in the series \"Atelier Ayesha\" is now available as a deluxe version.\n\n<DX version features>\n- Quickly explore fields with the newly added \"Run\" feature!\n- The tempo of battles is improved with the newly added \"Fast-forward Battle\" feature!\n- Elements added to the Plus version and numerous past DLC are included!\n\n<Story>\nA Dusk era has fallen upon this world many times, yet people have managed to survive and reclaim a meager livelihood thus far.\nHere, in a remote atelier, there was a lone girl making her living by making medicine. \nHer name is Ayesha.",
+  "titleId": "0100D9D00EE8C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/557917a9d4da581377ac29f4cc5753e8504089e754436fdfe04232663e54c95c.jpg",
+  "tests": [
+    {
+      "tester": "Jose_Deleviria",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T12:17:28.163",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "03bd85a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jose_Deleviria",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-24T21:34:06.511",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "03bd85a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jose_Deleviria",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T17:36:54.872",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "6da1884",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jose_Deleviria",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-25T14:30:32.503",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "6da1884",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Joe Dever's Lone Wolf",
+  "description": "Lone Wolf is back, as a video game with a brand-new story, a deep combat system, stunning graphics and much more! Make meaningful choices and carve your own path through this epic non-linear adventure. Test your strength in dynamic turn-based battles, prove your skill with the lock-picking minigame and accept the challenge of wits posed by the mysterious Shianti Cube!\nThe author Joe Dever has played an active role in the development of the game. The story he has written fits with the original continuity, but it also sheds a new light on Lone Wolf’s world, Magnamund!\nFor Sommerlund and the Kai!\n\nKEY FEATURES\n• A brand-new adventure written by Joe Dever, with a deep and dark redesign of Lone Wolf, his world and his enemies.\n• A seamless experience that includes all 4 acts of the story. Discover what happened at the frontier village of Rockstarn, explore the Sunken Forest and unveil the secrets of the Shianti Temple. Then, take the fight to the enemy storming the fortress of V’taag. Are you ready to write your own destiny?\n• A real medieval tome with hand-drawn illustrations.\n• Create your character and try out different combinations of Kai Disciplines, traits and gear.\n• Write your own story through multiple choices.\n• A real combat system, where your prowess really counts –no random number table or dice to throw!\n• Wield Lone Wolf’s signature weapon, the Sommerswerd, to unleash devastating attacks that can change the tide of any battle!\n• 3 different difficulty levels to make the fighting experience more accessible -or more challenging!\n• Play again, make different choices and explore new paths and fighting styles!",
+  "titleId": "0100D49008748000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f92d35f7b0d83767a85bab558168565243b7beac7fd8360ce70666b2868171bc.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-18T21:49:40.331",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "f21009b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gamer_tug",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-12-28T03:36:42.184",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER",
+      "version": "517de9d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

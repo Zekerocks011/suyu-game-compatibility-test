@@ -1,0 +1,52 @@
+{
+  "name": "Taxi Chaos",
+  "description": "Get behind the wheel and get ready for a brand-new taxi experience! Drive around the city as the seasoned cab driver Vinny or the self-proclaimed ‘influencer’ Cleo, and pick up the craziest of customers! \n\nPower through midtown in a strong muscle car, race past the parks in an exotic supercar or drift around the business area in a Japanes tuner taxi. Whatever you choose - your challenge is to deliver your passengers on time! At least, if you want to make any money.\n\nNavigate through crowded streets, dodge pedestrians across sidewalks or even defy the laws of gravity by jumping over rooftops! Nothing is too extreme when it comes to delivering your passengers on time! Discover the best shortcuts and get to know New Yellow City (NYC), as well as your passengers, like the back of your hand. \n\nAre you ready for this crazy and chaotic ride?\n\n• A completely fresh and modern take on the old-school classic taxi games! \n• Explore and master the streets of the immense and vibrant New Yellow City. \n• Discover the best routes to speed up and maximize your fares!\n• Go hard! Go crazy! The more risk you take and the crazier you drive, the higher your rewards!\n• Break the rules in seven extreme rides: from the iconic yellow cab to a full-blown muscle car! Earn enough to complete your collection.\n• Get to know your bizarre passengers through hilarious and fully voiced conversations! Pick up a hipster, plumber, rockstar, an alien and many more!\n• Smash through mailboxes, streetlights, fire hydrants or everything else that is in your way! The city is your playground. \n• Test your driving skills in three distinct game modes! Enjoy the classic Arcade Mode, cruise around in Freeroam or step up for a real challenge in Pro Mode.",
+  "titleId": "0100B76011DAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1f61282203e57b51fd237fd0b36654da6f9f06a6a260d1949d3fbaca2a507aa9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-24T19:30:31.35",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-27T16:21:06.66",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 970/PCIe/SSE2",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-01T01:13:10.611",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4f948b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-01T21:25:03.046",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

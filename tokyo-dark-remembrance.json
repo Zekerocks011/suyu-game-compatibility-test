@@ -1,0 +1,19 @@
+{
+  "name": "Tokyo Dark – Remembrance –",
+  "description": "Detective Ito`s partner is missing, but what starts as a straightforward case soon spirals into a twisted nightmare that causes Ito to confront her past and question her own sanity.\n\nTokyo Dark places the narrative in your hands. Your decisions and actions change Detective Ito's state of mind, opening doors to different possibilities as you attempt to find your partner and understand the dark and horrifying world around you. \n\nKEY FEATURES\n\n・The S.P.I.N (Sanity, Professionalism, Investigation, Neurosis) system keeps track of every decision you make, changing how other characters react and the actions available to you.\n・A deliciously dark delve into the world beneath Tokyo, that will leave you questioning each and every decision.\n・A branching narrative that delivers 13 exciting endings.\n・The exploration, discovery and puzzle solving found in Point and Click Adventures married with narrative depth and intrigue of visual novels.",
+  "titleId": "01003E500F962000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1b37cff7bae9dad05ba894ba1fefc98c51698e7d578ffb52d4d0e64b8cf5cf68.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-29T00:56:20.911",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e83ac20",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

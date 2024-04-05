@@ -1,0 +1,19 @@
+{
+  "name": "Star-Crossed Myth - The Department of Wishes -",
+  "description": "The Story:\nYour days are dreamless and mundane until, one night, you notice a star sparkling in the heavens.\nSuddenly, the beautiful gods of the stars appear before you.\nTheir goal? To erase their sins. This exquisite, heartrending true love…all began with a sin.\n\nCharacters:\nGod of Leo  Leon\nGod of Cancer  Karno\nGod of Aquarius  Huedhaut\nGod of Taurus  Teorus\nGod of Capricorn  Aigonorus\nGod of Sagittarius Tauxolouve\n\nContents:\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story\".\nS1 Prologue\nMain Story\nHis PoV\nEpilogue\nSequel\nSequel His PoV\nSequel Epilogue\nMusings on Love\nS2 Prologue\nA Promise of Infinity\nA Promise of Infinity His PoV\n\nNotices:\n①The following characters' \"Musings on Love\" are not included.\n　Karno, Aigonorus, Krioff, Tauxolouve, Partheno\n\n②\"A Promise of Infinity: His PoV\" is only available in English",
+  "titleId": "01005EB00EA10000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9f0f8e82589c0b672cde9c66ee174bdc38e73b709325bfb6869b031f65d164f5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-28T23:03:00.352",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

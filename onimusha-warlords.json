@@ -1,0 +1,118 @@
+{
+  "name": "Onimusha: Warlords",
+  "description": "This version includes the original game’s intense swordplay and dramatic revenge story, plus improved controls, widescreen display, a new soundtrack, and more. Experience this enhanced version of the best-selling action-adventure classic!",
+  "titleId": "0100416008A12000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f37baa57b1e8a7d774823601890a6aa25970adc4c959d78835ab21161cd7a2e5.jpg",
+  "tests": [
+    {
+      "tester": "rodrigocofe",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-12T19:58:16.022",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MineMaser",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-04T12:40:53.631",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "25b7631",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-15T12:39:27.732",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c427e5e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-17T03:20:50.286",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-01-02T02:11:53.392",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "eb3f2df",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MineMaser",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-31T12:43:30.66",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5d06e33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MineMaser",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-07T18:13:48.312",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d39f2d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MineMaser",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-29T14:30:33.061",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9edb712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "matamocos",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-05T02:04:00.8",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MineMaser",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-30T12:53:30.232",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d05b067",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

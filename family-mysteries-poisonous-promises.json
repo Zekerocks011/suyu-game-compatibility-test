@@ -1,0 +1,19 @@
+{
+  "name": "Family Mysteries: Poisonous Promises",
+  "description": "Entertaining plunge into the world of debauched elites, alluring women and corrupted cops, where power is the ultimate currency. This is a thrilling introduction to the brand new Hidden Object Game series in the tradition of best police dramas.\n\nWelcome to the magic city of palm trees, yachts and pleasant living. Place where the elite high rollers park their sleek lambo's for free with a handicap tag. Put yourself in the shoes of a probing detective and help your partner Duke solve the mysterious murder case.\n\nRich dynasty, exploded yacht, two survivors, ominous looking drowned with traces of poison in the body, and you, caught in the middle of the imbroglio.\n\nFind clues, interrogate witnesses, analyze samples, gather evidence - turn up the murderer to uncover even the bigger scheme.\n\nEver-present danger, glitzy surroundings and a unique rhythm of the glamorous yet deadly city, evoking a fanciful nostalgia for such TV hits like Miami Vice, Beverly Hills Cop and CSI.",
+  "titleId": "0100034012606000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c9a8e0e11beec20fb373f01bf34d6d49a1964e2ebff29132dd23e6334def67d4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-01T11:17:11.657",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "cd97bdf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

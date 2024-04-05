@@ -1,0 +1,52 @@
+{
+  "name": "Chasm",
+  "description": "Welcome to Chasm, an action-adventure game in which you play a new recruit undertaking your first mission for the Guildean Kingdom. Thrilled to prove your worth as a knight, you track strange rumors that a mine vital to the Kingdom has been shut down. But what you discover in the mining town is worse than you imagined: The townspeople have disappeared, kidnapped by supernatural creatures emerging from the depths.\n\nHonor-bound to solve the mystery and restore peace to the Kingdom, you embark upon an epic adventure, with deadly battles against cunning monsters, exploration of ancient catacombs and castles, and powerful new equipment hidden at every turn. Though the overall story is the same for all players, your hero's journey will be unique: each of the rooms has been hand-designed, and behind the scenes Chasm stitches these rooms together into a one-of-a-kind world map that will be your own.",
+  "titleId": "0100DE200C350000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ea60a99ee6ad3863bdb8cf7ad7a23e306d5fdbb906e37e76f5529bc31694f910.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T12:25:00.151",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T00:45:20.587",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-11T11:11:05.258",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "8df00fd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-25T10:55:43.28",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

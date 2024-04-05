@@ -1,0 +1,74 @@
+{
+  "name": "LUMINES REMASTERED",
+  "description": "The critically-acclaimed puzzle game produced by legendary creator Tetsuya Mizuguchi arrives on the Nintendo Switch™! An HD remaster of the original game, LUMINES REMASTERED beautifully marries the elements of sound, light and puzzle-action into one addictive, yet easy-to-play game. \n\nYou’re at the center of the high-energy, block-dropping action while you groove to awesome house, trance and techno beats! Play LUMINES REMASTERED on-the-go in Handheld mode or at home in TV and Tabletop modes. \n\nFeel the sound: Play over 40 skins with electronic atmospheres from chill to upbeat. Shuffle skins (like a music playlist) as more are unlocked in a new Shuffle mode.\n\nFeel the challenge: Faster tempos means less time to make combos, but slower songs can mean uncleared stacks. You’ll get hooked.\n\nFeel the fun: Take the challenge to unlock all skins and avatars, play against friends in local VS 2-player mode, or climb the ranks to the top of the online leaderboards.\n\nFeel the vibration: Turn on Trance Vibration and sync multiple Joy-Con™ controllers to feel the bass across your body.",
+  "titleId": "0100A4200A284000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f33ae1af4328bd2ef3805f933fd8593a543d97d7ba96fe1621784b174d737242.jpg",
+  "tests": [
+    {
+      "tester": "mbc07",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-27T20:43:34.137",
+      "cpu": "      Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz",
+      "gpu": "GeForce GT 635M/PCIe/SSE2",
+      "version": "6282d5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mbc07",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-27T23:08:01.327",
+      "cpu": "      Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz",
+      "gpu": "GeForce GT 635M/PCIe/SSE2",
+      "version": "6282d5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-30T03:37:44.146",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2cff0ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-25T22:31:19.73",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-03T11:04:22.644",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-27T12:20:47.136",
+      "cpu": "Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "9fcef30",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Disgaea 5 Complete",
+  "description": "Disgaea 5 Complete is a strategy RPG that offers hundreds of hours of over-the-top, award-winning gameplay, and marks the first time the core game is available on-the-go. The game includes all 8 bonus scenarios, 4 fan-favorite characters, and 3 character classes that were originally DLC in the PlayStation®4 release of Disgaea 5: Alliance of Vengeance.",
+  "titleId": "01005700031AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/261432409c91bc23ca2b42e310104f8977695997ee37b7454115801e4b0b27fd.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-25T01:22:25.369",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "92ff0d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-08T03:18:03.121",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-28T20:53:26.407",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Konata400",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-25T19:10:31.446",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070",
+      "version": "9675abf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Konata400",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-19T00:58:49.972",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070",
+      "version": "63c0d2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-03T04:45:15.491",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 960M/PCIe/SSE2",
+      "version": "6ee10f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-03T05:54:37.112",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 960M/PCIe/SSE2",
+      "version": "6ee10f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-03T22:12:21.195",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "5da33ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Konata400",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-14T17:06:42.46",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "8d61914",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-01T06:09:03.835",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "e2fd3a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

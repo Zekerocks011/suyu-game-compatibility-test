@@ -1,0 +1,118 @@
+{
+  "name": "BLAZBLUE CROSS TAG BATTLE",
+  "description": "An unrivaled clash of explosive proportions! The beloved BlazBlue franchise Crosses universes, Tags in fan favorites, and Battles it out in BlazBlue: Cross Tag Battle! Created through an all-star collaboration between BlazBlue, Atlus’ Persona, French Bread’s Under Night In-Birth, and Rooster Teeth’s hugely popular RWBY web series, Cross Tag Battle celebrates the fighting genre for pros and newcomers alike! Choose your team in fast paced 2v2 team battles filled with the craziness you’ve come to love from BlazBlue, with all the tight mechanics, smooth gameplay, and gorgeous 2D graphics you expect from Arc System Works.\n\n• CROSS Cross over between 4 different universes! Play as characters from the BlazBlue, Persona, Under Night In-Birth, and (for the first time ever in a fighting game), RWBY series!\n• TAG Dive deep into the accessible 2 vs 2 gameplay system in a gorgeous 2D tag team based fighting game!\n• BATTLE Take the fight to your friends, online, or against CPU opponents in robust single and multiplayer modes!\n• LOOK GOOD DOING IT High definition anime styled 2D characters alongside beautiful 3D backgrounds and smooth animation brings the game to life!\n• ARC ASSEMBLED Developed by Arc System Works, creators and developers of critically acclaimed and fan favorite fighting series BlazBlue and Guilty Gear.\n\nBlazBlue, celebrating 10 years of fighting game excellence in 2018, is a series long beloved by the fighting game community for its deep and engrossing story, its vast cast of balanced characters, and its quick and kinetic gameplay style.\n\nAtlus’ Persona series, a worldwide RPG phenomenon and no stranger to the fighting game genre itself. Persona characters have appeared in Arc System Works games before, notable Persona 4 Arena and Persona 4 Arena Ultimax.\n\nUnder Night In-Birth is veteran fighting game developer French Bread’s first foray into an original title, coming hot off the heels of their success with the cult classic series Melty Blood.\n\nRooster Teeth’s animated mega hit, RWBY, has been a popular franchise for years, crossing both gender and age barriers to become a mainstream hit. Characters from the RWBY series have never appeared in a fighting game before. Until now.",
+  "titleId": "0100B61008208000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9f4e8520884fe3ac813595c0da7654c88b8026e191d51bcc18ded0516f86e577.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-13T09:39:46.265",
+      "cpu": "Intel(R) Core(TM) i7-9700KF CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "3dfadbe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-10T06:17:06.784",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "b101090",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-06T17:19:36.099",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T22:35:35.05",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-04T06:22:46.547",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "2ce5f7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-06T17:19:28.765",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-24T01:45:13.098",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-22T15:33:19.633",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "e74af07",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-14T11:48:19.357",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "bf6ebec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-08T14:54:24.21",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

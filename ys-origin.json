@@ -1,0 +1,52 @@
+{
+  "name": "Ys Origin",
+  "description": "Enter the World of Ys and discover one of the greatest japanese A-RPG of all time.\n\nFollowing a devastating demonic invasion, the twin Goddesses use their magic to bring the inhabitants of legendary Ys safely into the sky. While the demons work to construct Devil’s Tower and reach the humans’ new abode, the Goddesses disappear. As a mighty warrior or a cunning mage, you must seek the Goddesses in Devil’s Tower. With your swordsmanship and spells, can you banish evil from the land of your ancestors? \n\n- 3 playable characters, each with unique skillsets and powers \n- Several exciting environments \n- 4 game modes: Story, Time Attack, Arena Mode and a Speedrun Mode\n- A Blood Level Option\n- Numerous artifacts and powerful relics to use \n- Breathtaking art direction \n\nWith its captivating story, stirring soundtrack, and epic boss battles, Ys Origin remains one of the best action-RPGs of all time!",
+  "titleId": "0100F90010882000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3a80e42e7aff0a23a0e8bb23ee6b350bf471c590f3f3e9706d5204a77f2dfb82.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-13T08:39:46.366",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "9166450",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-20T00:52:08.887",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-06T15:20:26.093",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "3b586bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-23T16:00:12.317",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d35ad7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO REAL BOUT FATAL FURY 2",
+  "description": "“REAL BOUT FATAL FURY 2” is a fighting game released by SNK in 1998. It is the 7th title in the Fatal Fury series. New elements have been added on top of refining the previous systems. This entry adds Rick Strowd and Li Xiangfei as playable characters, and Geese Howard makes his return as well!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100CF3008798000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/133a3d9095b2dc92f534ed9ebc21e5cce27d40fd39bd86f47ee81bca2038d3dd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T03:06:59.218",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

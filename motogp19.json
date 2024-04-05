@@ -1,0 +1,19 @@
+{
+  "name": "MotoGP19",
+  "description": "MotoGP™19 celebrates passion for motorsports with many new features!\n\nWith the Historical Challenges mode you can relive the most exciting rivalries that made the history of the MotoGP™!\n\nCompete with a faster, smarter and more accurate AI based on machine learning!\n\nPlay with your favorite 2019 Championship rider and race on 19 different tracks! Discover all the classes: MotoGP™, Moto2™, Moto3™, Red Bull MotoGP™ Rookies Cup and the new MotoE™.\n\nCreate your style and customize your helmet, lower back patch and racing number with the new graphic editors!\n\nImprove your bike's performance working on different technical aspects during dedicated tests and plan your strategy to be the best!",
+  "titleId": "01004B800D0E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/192e11cc2d096f3868d52208a05fc27c5b1cb84c946a8b09b90e7ed417a05b96.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T22:26:11.314",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

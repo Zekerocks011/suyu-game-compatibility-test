@@ -1,0 +1,52 @@
+{
+  "name": "Blossom Tales: The Sleeping King",
+  "description": "Explore a vast open game world in classic action-adventure fashion as Lily, Knight of the Rose! \nSlash your way through monster-infested dungeons to save the Kingdom of Blossom from eternal darkness. Collect unique weapons, spells and items during your journey to take down powerful bosses and solve clever puzzles. Be part of a vivid, dynamic story passed down from grandfather to grandchildren by influencing the course of events yourself!\n\nHARDCOREGAMER:\n..'A perfect title for anyone who wants to recapture the sense of discovery felt while playing through A Link to the Past for the first time.'\n\nFeatures:\n• 15+ hours of gameplay\n• HD Rumble support\n• Huge, diverse game world with many different locations\n• 5 challenging dungeons \n• Various items impacting gameplay and fighting style\n• Fun, charming storytelling ",
+  "titleId": "0100C1000706C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2e91aae2c771185d0ce80f1335b1ffdc405490d889c8c49a11ba6d1a44464a29.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T10:10:11.744",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-15T06:51:20.417",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c922c5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-26T20:03:40.329",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f8ec872",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T23:13:13.786",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

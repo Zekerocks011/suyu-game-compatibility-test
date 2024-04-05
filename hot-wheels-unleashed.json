@@ -1,0 +1,74 @@
+{
+  "name": "HOT WHEELS UNLEASHED™",
+  "description": "Collect the best vehicles in the Hot Wheels™ universe, build spectacular tracks and dive into breathtaking races.\n\nCOLLECTOR OR ARTIST? BOTH\nThe most iconic and sought after Hot Wheels™ vehicles are waiting for you. Get ready to make them race at full speed!\nStand out in the crowd by setting off your personality with the exclusive livery editor.\n\nALWAYS RUNNING\nProve your skills by competing in awesome races and get ready for pure fun! Drift, charge the booster and launch yourself into spectacular loops. But be careful! If you're too slow gravity will do its job.\n\nThe bigger the challenge, the greater the glory.\nRace side by side with your friends in split screen mode for 2 players or face up to 12 opponents in online challenges.\n\nCREATE THE SHAPE OF YOUR TRACK\nWaiting to host your races are enormous interactive environments with their own distinguishing features, where every object can become an integral part of the track. \n\nUnleash your creativity with the most exciting track editor ever! Build your track by taking advantage of what surrounds you, and create amazing layouts inside and outside the race course. Bend and stretch the iconic \"orange piece\", add loops, special boosters, obstacles and special elements to make an incredible amusement park for your races. \nShare your craziest creations online and try those of other players.\n\nRACE IN YOUR WORLD\nFurnish your own personal room with a huge number of elements that you will collect during your adventure and host the most amazing races inside it.",
+  "titleId": "0100AA60136D2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5cc3227418ecfde2c6aef9bdb9e48e0a9334b7a50f965b98d3f8d05b6253a7cd.jpg",
+  "tests": [
+    {
+      "tester": "umfhero",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-03T00:17:03.543",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "1b69b6a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-08T18:31:48.78",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fgfalll",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-19T12:55:05.457",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz",
+      "gpu": "Quadro P2000/PCIe/SSE2",
+      "version": "70c0c12",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marco_Oliveira",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-25T01:17:45.827",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 760",
+      "version": "d1a5ef3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "umfhero",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-03T00:12:21.928",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "1b69b6a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gervasao",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-07T03:44:11.74",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "5a7b92c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

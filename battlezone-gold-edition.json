@@ -1,0 +1,19 @@
+{
+  "name": "Battlezone Gold Edition",
+  "description": "Blast through a thrilling rogue-lite campaign for 1-4 players where different environments, enemies and mission types are blended together. No two playthroughs will be the same!\n\nLIMITLESS SOLO & CO-OP PLAY – Blast through campaigns solo or in 2-4 player co-op (supports online and local wireless play).\nDEVASTATING ARSENAL – Unleash destructive weapons and awesome special equipment, from laser-guided missiles and artillery to EMPs and shield boosts.\nCUTTING-EDGE UPGRADES  –  Unlock ever more powerful tanks, weapons and special equipment and pick from hundreds of deadly combinations! \nFIGHT WITH STYLE – Customise your tank with new skins, cockpit bobbleheads, and horns, now all included in the Gold Edition!\nCLASSIC MODE – Travel back to the 80s with the retro-inspired Classic Mode, featuring Battlezone’s original two-track controls and worldwide leaderboards!",
+  "titleId": "01006D800A988000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/98e2dee1a72a902db2112f56d39c0e293a727cd7d7f40eb2c08ec5f733c3330d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-09T09:40:31.526",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

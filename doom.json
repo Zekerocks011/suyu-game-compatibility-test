@@ -1,0 +1,118 @@
+{
+  "name": "DOOM",
+  "description": "Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. There is no taking cover or stopping to regenerate health as you beat back Hell’s raging demon hordes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.",
+  "titleId": "0100416004C00000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c2e67342379ca57e6e906c8ff6ed73b0cdb382ea0aedbb62c50a19584ed03495.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-10T18:19:15.001",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "dfd381d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-11T16:15:29.161",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T14:38:29.815",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-10-06T04:44:58.115",
+      "cpu": "Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "aea17c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JohnnyPR88",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-15T05:36:22.953",
+      "cpu": "Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GPU/PCIe/SSE2",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "usrunknwn",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-01T20:24:11.121",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-26T17:11:09.739",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f7292ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Melocoton",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-21T23:56:24.783",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-04T08:11:14.113",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "5fb0739",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-11T17:06:11.368",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

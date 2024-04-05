@@ -1,0 +1,41 @@
+{
+  "name": "TowerFall",
+  "description": "TowerFall is the ultimate version of the beloved archery combat/party game, featuring all of the content from Ascension and Dark World, and several Nintendo Switch™-exclusive additions!\n\nInspired by classics from the golden age of couch multiplayer, TowerFall centers around hilarious, intense versus matches - best played against friends, sitting cross-legged on the floor within punching distance of each other.\n\nThe core mechanics are simple and accessible, but hard to master, with a huge amount of gameplay variants, arrow types, power-ups, and levels. And when you need a break from the competition, team up in 1-4 player co-op modes, where you’ll fight off a wide variety of monsters, enemy archers, and bosses. \n\nThe Nintendo Switch™ version includes several new and exclusive features, including 6-player battles utilizing widescreen levels, new gameplay variants, and guest archers Madeline and her reflection Badeline from fan-favorite platformer Celeste!",
+  "titleId": "0100A1C00359C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e52755a544037c95f8c88416f116d75e470d259f63d1a883539bb5da18c29b0e.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-18T04:54:36.638",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "8669314",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-28T12:17:12.113",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T15:55:19.22",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

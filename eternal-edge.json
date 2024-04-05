@@ -1,0 +1,19 @@
+{
+  "name": "Eternal Edge",
+  "description": "Eternal Edge is an Action Adventure role-playing game following the young hero Cross on a quest to defeat the Skeleton King, Lord of the Dead. Gear up with powerful weapons, epic armor, and hidden spells to journey across the vast lands of the Little Kingdom and free its inhabitants from a long reign of evil.",
+  "titleId": "010007100A16A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8e1751e209ba20e05800fb1ed752a30e01a72d18139b489967865e8c9946e9a7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-22T07:57:02.433",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

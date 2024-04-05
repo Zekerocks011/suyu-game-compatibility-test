@@ -1,0 +1,118 @@
+{
+  "name": "Game Builder Garage™",
+  "description": "Kids can learn how to make their own games with guided lessons created by Nintendo. From a simple game of tag to a run-and-jump obstacle course, each lesson is broken down into multiple, manageable segments that let kids go at their own pace—and have fun in the process.\n\nLearn the basics of visual game programming \n\nBy playing through interactive lessons, kids will learn the basics of visual game programming. Nodon, colorful creatures with distinct personalities, keep kids engaged through lessons with tips and motivating messages. With a simple press of a button, swap between the programming screen and the game screen—watch how programming changes the game on the fly.\n\nTrack progress and build confidence\n\nAfter completing each lesson and building a game, kids will test their knowledge by completing Checkpoints—small puzzles or tasks to solve with programming. Master these skills and head to Free Programming mode to let your imagination (and programming chops) run wild.\n\nThe Nodon you meet each have distinct personalities that complement their functions. Have fun connecting them together to see how they interact and bring your game to life. The in-game Nodopedia lets you quickly check what each Nodon does as you create. There’s also a guide that recaps important skills! Easily swap between the Programming and Game screens to see the hard-working Nodon in action.\n\nTake advantage of the Nintendo Switch system’s many features. Instead of the control stick, program motion controls to control your game. Want to create some competition? Add in a multiplayer function and pass a Joy-Con™ controller to a friend. It’s up to you (and your Nodon friends) to decide what type of game you want to make.\n\nLooking for inspiration? Exchange codes and download* games from friends. You can even go into Free Programming mode to look at those downloaded games’ programming and put your own twist on it. Upload your own creations and share them with other Game Builder Garage players*. Learn programming, build games, and share with friends!",
+  "titleId": "0100FA5010788000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a2a960a0dcb94c28147c9d08aa320d74bb6d65fa8bc63d02857477c58ff05c51.jpg",
+  "tests": [
+    {
+      "tester": "Michelle_Pineda",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-10T21:20:02.123",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050/PCIe/SSE2",
+      "version": "f9427f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-15T02:00:14.206",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "bc7083d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Night_Rider",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-31T02:31:44.503",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "52e6b55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zeus_Monroe",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-06T12:41:54.59",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "03a59dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Stefan_580",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-28T16:32:23.136",
+      "cpu": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "177d1d4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-15T16:19:52.797",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 650/PCIe/SSE2",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-04T15:31:51.91",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "e4d13c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "snnh",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-04T06:30:44.533",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "14f3eb8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-05T21:39:36.875",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "version": "2655193",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-18T19:04:50.21",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "1b2e2d4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "BRAVELY DEFAULT™ II",
+  "description": "The Bravely Default II Final Demo is now available!\n\nTake a trip to the scenic continent of Excillant. The latest Bravely Default II Final Demo is here to give you a taste of the vivid art, strategic battle system, and memorable music of the game's first main chapter. This demo begins with the game's four main characters, the Heroes of Light, already on their journey, and with numerous Jobs and Abilities at their disposal! Whether you're brand-new to the series or a longtime fan, this demo is a great way to try out the game!\n\n================================\n\nEmbark on a search for four Crystals in the latest entry in the Bravely series. Explore a new world filled with new characters—with the atmosphere and gameplay the series is known for.\n\nFour new Heroes of Light emerge\n\nSave the continent of Excillant with the help of new Heroes of Light! Follow the story of the young sailor Seth as he sets out on a grand adventure and meets plenty of friends (and foes) along the way.\n\nThe Brave and Default battle system is back\n\nBalance risk and reward in turn-based battles. Characters can make multiple moves in one turn, but then they may be unable perform actions for a while. Balance is key.\n\nA new world, a new story, and all-new Heroes of Light ready to save Excillant! Engage in turn-based RPG combat with a risk/reward system in the next entry of Square Enix’s Bravely series.\n\nThe saga begins when our hero Seth, a young sailor, washes up on the shore of one of Excillant’s five kingdoms. Here, he meets Gloria of Musa, a princess who fled her kingdom when it was destroyed by evil forces bent on stealing its Crystals. He also encounters Elvis and Adelle, two travelers determined to decipher a mysterious and magical book. It’s up to you to stop the forces that threaten these heroes and all of Excillant. \n\nSelect from many different jobs, skills, and abilities to customize each party member to fit your strategy. The more you learn, the more tactics you’ll wield. Find and defeat one of the powerful bosses who holds an Asterisk to take on even more jobs—take down Orpheus for the Bard job or fell Dag to become a Vanguard!\n",
+  "titleId": "01006DC010326000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2aad4ebaefb3103c9322d54ec8fdda2a62c814beedcbf45a104d9a7ababae1ab.jpg",
+  "tests": [
+    {
+      "tester": "wchisme_2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-07T05:20:13.323",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "22f9fc7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Obelos",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-29T03:53:19.579",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Vector79",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-26T21:18:49.005",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-04T13:22:40.023",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "07f75ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-14T01:19:19.504",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "8145783",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Eclipkatana",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-28T23:05:49.22",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "09f9788",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:20:25.184",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "wchisme_2000",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-08T06:15:32.583",
+      "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:20:18.408",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Eclipkatana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T03:29:07.398",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3080/PCIe/SSE2",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

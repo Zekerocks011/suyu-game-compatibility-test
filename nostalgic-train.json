@@ -1,0 +1,19 @@
+{
+  "name": "NOSTALGIC TRAIN",
+  "description": "NOSTALGIC TRAIN is a mystical and melancholic first-person adventure/walking simulator set in the Japanese countryside, where you solve not only the mystery of the missing people of Natsugiri, but also that of \"yourself\". \nIt contains both a story mode, \"Two fluctuations at journey's end\", and a free mode, where you can explore the world of Natsugiri at your own pace. \nRelax and immerse yourself in a fantastical world full of tragic stories and beautiful nostalgic scenery, created by the Japanese indie game developer, Tatamibeya.\n\n*Recommended by the 22nd Japan Media Arts Screening Committee*\n\n【Story】 \nI was so dazzled that I could barely open my eyes. The singing of the cicadas and the humid air surrounded me. The air is filled with the faint smell of the sea breeze. \nI'm sitting on a wooden bench in an old station building. \nWhere is this place? And... what am I doing here? \n\nA nostalgic countryside. \nA station marked \"Natsugiri\". \nA single-track railroad. \nAs if stepping out of the purest of white light, I woke up here, my memories gone.\nI could not find anyone in this strange place...",
+  "titleId": "0100160014F22000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/aa16994dd7154399b167db97226bd2849b4ad34e0288562b24ffea9ec335c463.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-13T11:15:02.368",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "b79fc85",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

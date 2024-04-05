@@ -1,0 +1,30 @@
+{
+  "name": "Speedway Heroes",
+  "description": "Are you a speedway fan?\nDo you like the roar of the engine and side by side competition?\n\nYou will be excited when you’ll try Speedway Heroes – fresh speedway game from Simplicity Games, delivered for this ‘black sport’ fans (and not only for them!).\n\nStart now your speedway adventure through countries like every speedway-fan should know – Great Britain, Germany, Poland, Australia, Sweden, Russian, and many others soon.\n\nWhat is waiting for you in our racing game? Dirt track, flat track racing\n\n- polished driving model\n- advanced AI of opponents\n- realistic competition on tracks\n- the climate of real speedway races\n- over 100 stadiums – full of details, in different places of the world\n- four seasons\n- day/night mode\n- upgrading character\n- upgrading bike\n- an increasing level of difficulty\n- dozens of costumes and helmets\n- dozens of motorcycles\n- player statistics\n- chests with surprises after every game\n- beautiful 3D graphics\n\nEven if you don’t like speedway but you could appreciate a good racing game – check your skills in Speedway Heroes!\nDon’t wait and buy now! Dirt track, flat track Race for you.",
+  "titleId": "01006CC015D12000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fb366f353548f39e6f0bb5e12946043d1d03fddaaa4444838be95c827c52f927.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-29T10:29:40.819",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "75b28ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-07T09:21:33.935",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2147945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

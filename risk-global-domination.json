@@ -1,0 +1,63 @@
+{
+  "name": "RISK Global Domination",
+  "description": "Get 33% off if you have downloaded the Trivial Pursuit Live! Nintendo Switch™ version.\n\nGet 50% off if you have downloaded the Monopoly for Nintendo Switch™ version.\n\nLead your troops to victory in this modern version of the classic RISK® game, with enhanced 3D visuals, custom rules, and tactical gameplay. Play at home or on the go with up to four players, or play solo against opponents online from around the world. \n\nClassic rules with a twist: Play with the standard rules or choose Capture the Capitals for a shorter game.\n \nModern battle map: Direct your troops from a high-tech control room and get tactical advice to help you reach your objectives.\n\nExciting rewards: Unlock epic videos of tank battles, air combat, and more as you lead your troops to victory.\n\nChallenge yourself online: Play against opponents from around the world or take on the best of the best in League Play. \n\nThanks to the Nintendo Switch™ system, you can now enjoy RISK® anytime, anywhere! Play at home on your TV screen or on the go with the tabletop and handheld modes.",
+  "titleId": "0100E8300A67A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f719726593c2990a59ce9531af2fd9ce451b411eb81f35aed36d469fc4fc2cf9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-27T15:12:26.819",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-27T22:27:42.58",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-11T16:34:50.25",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-04-12T04:56:34.878",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-27T15:49:58.988",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

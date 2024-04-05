@@ -1,0 +1,74 @@
+{
+  "name": "SUPER DRAGON BALL HEROES WORLD MISSION - Launch Edition",
+  "description": "SUPER DRAGON BALL HEROES WORLD MISSION is a Tactical-Card game packed with exhilarating confrontation, deep card game strategy and a thrilling storyline taking place in the wide Dragon Ball Heroes universe!\n\nWelcome to Hero Town, an alternate reality where  Dragon Ball Heroes card game is the most popular form of entertainment. Create your own avatar and follow his journey to become the world champion of Super Dragon Ball Heroes. However, when the antagonists from the virtual game world appear in Hero Town and start wreaking havoc, you have to jump into the game world and team up with famous Dragon Ball characters to restore peace in the real world. \n\n- Create your own avatar\n- More than 350 Characters\n- More than a thousand cards !\n- Card and Mission Creation Mode\n- Online and local Battle\n\nA must-have for all Dragon Ball fans and Card Game enthusiasts!\n\nBuild your best deck and become the World Champion of Super Dragon Ball Heroes !!",
+  "titleId": "0100E5E00C464000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ad82c9c81b651b0596270cb207f520cc5bcd97cb286f35f1fc4890d2147d61cd.jpg",
+  "tests": [
+    {
+      "tester": "Yair_Yakobson",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-04T11:56:35.428",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yair_Yakobson",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-28T19:18:41.787",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "5091108",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-04T17:18:20.326",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-26T20:56:29.655",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "3404b5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yair_Yakobson",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-13T20:15:39.476",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "1d270cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CAT_xott",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-05T15:08:28.415",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "92a3069",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate",
+  "description": "Labyrinth City Orario, where gods live amongst humans and provide them with extraordinary powers. Experience the tale of Bell Cranel, a young boy striving to become a great adventurer, and Aiz Wallenstein, a first-class swordswoman, as their lives become intertwined and decide the fate of all Orario!\n\nExperience an Expansive Story - Discover exclusive new narratives not covered in the anime!\n\nExplore the Dungeon - Defeat monsters in the dangerous labyrinth underneath the city!\n\nTake on Extra Challenges - Once the story concludes, continue to undertake additional randomly-generated dungeons for extra replayability!\n\nGo out on Dates - Deepen your relationships and become intimate with several characters by going on dates, exclusive to the game!",
+  "titleId": "010063E0104BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6950e6259086b46718cf9e51faec2c46c4b7aa645cfed1c40877bb3f93e292f5.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-28T21:12:21.127",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

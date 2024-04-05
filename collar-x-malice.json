@@ -1,0 +1,63 @@
+{
+  "name": "Collar X Malice",
+  "description": "A dangerous shadow organization launches a campaign of fear and violence in the city of Shinjuku, pushing society to the brink of chaos. As a young police officer tasked with restoring order, you become the target of an attack, and have a poisonous collar attached to your neck. With the situation spiraling out of control and time running out, five mysterious strangers appear to aid you in your quest for the truth.",
+  "titleId": "010083E00F40E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bd0f81253427bd382be2eecfc9c08b94d82045971f010868b5e96c568c9ecf36.jpg",
+  "tests": [
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-07T19:31:21.361",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-17T23:03:41.127",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "e04c91f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-10-28T20:37:29.361",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "AMD Radeon (TM) R9 380 Series",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "QJune",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-03T13:23:07.346",
+      "cpu": "        Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+      "gpu": "GeForce GT 640/PCIe/SSE2",
+      "version": "89646e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yukibana",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-02T20:26:50.624",
+      "cpu": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "eecf58e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

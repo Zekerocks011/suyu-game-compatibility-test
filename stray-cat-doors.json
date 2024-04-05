@@ -1,0 +1,19 @@
+{
+  "name": "Stray Cat Doors",
+  "description": "・It is an escape game that solves a mystery together with a cute character.\n・Escape game It is a game that even beginners can enjoy.\n・Go around various stages, use items or solve problems and escape.\n・Clear room will become lively.\n・Healing music. Turn on BGM and play around.\n",
+  "titleId": "01002D200CF50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5a54d5df48b3ca5d334a58e892781eae49892c7277da9eba58112db10ca08969.jpg",
+  "tests": [
+    {
+      "tester": "parkingplace94",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-30T04:24:20.557",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "bd1833f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

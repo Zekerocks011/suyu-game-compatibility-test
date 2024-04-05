@@ -1,0 +1,30 @@
+{
+  "name": "Scribblenauts Mega Pack",
+  "description": "Get the best of Scribblenauts with Scribblenauts Mega Pack! Two classic games with ALL-NEW content to explore!\nScribblenauts Unlimited - Journey into Maxwell and Lily's world as you use the power of your imagination to solve exciting puzzles in endless ways. Discover the story of Maxwell's 41 siblings and create unique objects of your own to share online with your friends!\nScribblenauts Unmasked: A DC Comics Adventure - Challenge your wits in an epic adventure against earth's mightiest villains! Invent your own alter ego with the Hero Creator. Join your favorite DC Comics super heroes to explore iconic all-new locations like TITANS TOWER & BELLE REVE and restore order to the universe.\nWith Scribblenauts Unlimited & Scribblenauts Unmasked combined, the fun is limitless!",
+  "titleId": "0100E7100B198000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/649765f732445fefa464bb6829e9f8e6d66fde149525e1b7ed8ab16ad322fcda.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-05T21:52:57.601",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T04:40:00.183",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "931c521",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

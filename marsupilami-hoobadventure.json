@@ -1,0 +1,41 @@
+{
+  "name": "MARSUPILAMI - HOOBADVENTURE",
+  "description": "A new dimension has been found in Palombia, welcome back to MARSUPILAMI – HOOBADVENTURE. Embark for a new colourful adventure full of dinosaurs and discover 10 new levels at the heart of mysterious hidden worlds…\n\nPunch, Twister and Hope are three Marsupilamis who live a peaceful life in Palombia. While the three companions open a cursed sarcophagus by playing with debris on a beach, they inadvertently release a mysterious ghost that puts a terrible curse on all animals. Fortunately for them, the Marsupilamis are immune. Our three heroes will have to go on an adventure and chase the ghost in order to ward off the spell\n\nBut a world that has been completely… forgotten has now appeared. Not so new carnivorous enemies and brand new in-game elements will be part of this thrilling adventure!  Collect new items and achievements in these Jurassic levels from the Dino World…\n\nExplore 26 levels of the 3 original worlds and discover 10 new ones of the hidden World full of dinos! \n\nContinue to enjoy the beautiful graphics, the colorful art style and always the immersive music of the Palombian’s universe.\n\nSurpass yourself in a new hardcore mode.\n\nNew items and achievements have to be collected to completely remove the curse ! ",
+  "titleId": "010074F014628000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/058546866e8b85896fd577054aff0fdd015fe5a0866cc78beec0a5fefff81bcf.jpg",
+  "tests": [
+    {
+      "tester": "Jinete1805",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-22T20:55:55.472",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-21T13:50:48.748",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8729540",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "antelo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-16T08:27:52.093",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "dd43a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

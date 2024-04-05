@@ -1,0 +1,30 @@
+{
+  "name": "Roof Rage",
+  "description": "Roof Rage is a fast paced, easy to pick, hard to master, platform fighter.\n\n\nIt is both a party game and a competitive game for platform fighter's players.\n\nThe cast include 13 characters, each one offering a unique playstyle.\nYou can pick and throw roof tiles, catch them, deflect your opponent's projectiles, wave-dash, parry and smash attack for a finishing move.\nPick your stage among 13 iconic, cultural inspired, rooftops.\n\nKey Features :\nLOCAL match, up to 8 players with different game modes : stock match, team match, score match and practice\n\nSolo Arcade mode with an unlockable boss. \n\nONLINE coming soon in a free patch.\n\nChallenging CPUs with 9 different levels of difficulty\n\n4000+ sprites -> expect great quantity of pixels moving\n\n13 Awesome 16bits soundtracks and their showdown versions",
+  "titleId": "010088100DD42000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/34c7ab387382084444049fe76d5d71c4983e643c4245991b6aa16041a476ceec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-08T08:47:44.524",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b2c07a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-08T08:22:55.248",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b2c07a8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

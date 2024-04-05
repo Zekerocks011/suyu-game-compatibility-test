@@ -1,0 +1,19 @@
+{
+  "name": "Sakura Swim Club",
+  "description": "In Sakura Swim Club, follow the story of Kaede, just your average guy. Upon transferring to a new university, he meets two beautiful girls in the swim club. Things haven't gone well for the swim club lately, but with Kaede's help, that all changes.\n\nMake a splash as the new hero to the swim club, meet beautiful girls in bathing suits, and make decisions which impact the story. \n\nSoon you’ll be meeting together outside of practice to share some extra time together, and seeing where it leads!\n\nFeatures \n* Visual novel\n* Multiple story paths\n* Beautiful manga art\n* Gorgeous, athletic girls to romance",
+  "titleId": "0100425015F7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ed3283570cc7b286553bc9339cd9b50ef9041bef434025252fd816fb68ccba60.jpg",
+  "tests": [
+    {
+      "tester": "Cheezeburgerz",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-18T07:02:12.194",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "755b975",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

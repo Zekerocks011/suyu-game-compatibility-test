@@ -1,0 +1,19 @@
+{
+  "name": "Pic-a-Pix Deluxe",
+  "description": "The ultimate edition of the popular picture crossword game, featuring:\n• 300 exclusive new puzzles!\n• Touchscreen handheld mode!\n• 2-4 player co-op mode!\n• Bigger puzzles than ever before!\n\nPic-a-Pix are exciting logic puzzles that form whimsical pixel-art pictures when solved.  Pic-a-Pix are sometimes known by other names, such as Picross, Nonogram, Paint by Numbers, Griddlers, Hanjie and many more.\n\nSolve puzzles with a friend - or the whole family - with co-op play for up to 4 players using any combination of controllers!  In handheld mode, immerse yourself with intuitive touchscreen controls.\n\nPic-a-Pix Deluxe now includes classic black and white picross, as well as color puzzles, which use color-coded clues to add a new dimension to the game.\n\nThere are 150 color and 150 classic puzzles, all designed by Conceptis Ltd and all brand new!  Puzzles range in difficulty and size from introductory 5x5 pictures up to challenging 35x25 grids!\n\nContent previously available in Pic-a-Pix Color on Nintendo 3DS and Wii U can be downloaded as DLC, and extra add-on packs will be released regularly.",
+  "titleId": "01005F900416E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/85b4287fc574f3a73a99b3a024c147c677e2159b48a180c5f7ddf32f14d54f28.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-01T05:44:04.722",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "d1a04b3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

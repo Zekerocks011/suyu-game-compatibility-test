@@ -1,0 +1,41 @@
+{
+  "name": "Minit",
+  "description": "Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute. Minit is a collaboration between Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.",
+  "titleId": "0100ED600A87A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/35ffcf3350aaaf17d8e2ad513b4e2e06e88992e45abf8f9d42b905a40c101abc.jpg",
+  "tests": [
+    {
+      "tester": "juan_lopes",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-29T07:03:12.607",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T00:28:24.463",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-25T16:20:31.026",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "ece3a3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

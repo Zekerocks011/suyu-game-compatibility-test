@@ -1,0 +1,74 @@
+{
+  "name": "SAMURAI SHODOWN!2",
+  "description": "● Haohmaru, Ukyo Tachibana, Nakoruru, and many other iconic characters from the SAMURAI SHODOWN Series come back in SD version! Even this boss character !?\n \n● Every character can be played in two different ways to double the fun!\n\n● \"Collection Cards\" that allow to customize your characters can be unlocked after fulfilling specific conditions. Get them all!",
+  "titleId": "010095300F778000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c155756265b956c42facabd920bf5027e101d2d7f179ffa149d44679ed2c8ce7.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-04T20:57:27.311",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "90d1d31",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-30T23:37:35.517",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5389c62",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-26T06:52:29.065",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "3bdf92c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-05T15:57:10.721",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ccd49b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-10T22:54:29.382",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "6158021",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-01T17:16:36.003",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "d373261",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

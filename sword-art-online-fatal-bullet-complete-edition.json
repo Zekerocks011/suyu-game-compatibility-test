@@ -1,0 +1,85 @@
+{
+  "name": "SWORD ART ONLINE: FATAL BULLET Complete Edition",
+  "description": "Packed to the rim with content, the SWORD ART ONLINE: FATAL BULLET Complete Edition includes the main game, three DLC packs, the expansion \"Dissonance of the Nexus,\" and bonus in-game items. Now on the Nintendo Switch™! \n\nYour choices are heavier and faster than a bullet.\nCreate your own character and log in to Gun Gale Online, a world of guns and steel, where a chance encounter partners you with a rare support AI called ArFA-sys as you both are caught up in a tempestuous story of fate.\nExperience the thrilling battles of a third-person shooter (TPS) together with the story and progression of an RPG in this first-ever \"TPSRPG\" from Sword Art Online!\nCustomize your avatar and master a wide array of weapons and skills!\nChoose from over 30 playable characters in online PvP, ranging from Alice and Eugeo from \"Alicization,\" season 3 of the SAO anime, to Eiji and Yuna from Sword Art Online the Movie: Ordinal Scale!",
+  "titleId": "01005DF00DC26000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70096ec167eadc5ed77fa5863b5eb8aa646a4b101ab83500aa7ab72e258b5687.jpg",
+  "tests": [
+    {
+      "tester": "vatal_3rror",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-22T08:05:45.343",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "f870aa0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T12:05:05.702",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-09T00:55:16.552",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-26T09:06:14.131",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "GeForce MX130/PCIe/SSE2",
+      "version": "e0cf276",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-03T09:11:59.544",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "GeForce MX130/PCIe/SSE2",
+      "version": "e0cf276",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheLeksi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-03T08:48:48.052",
+      "cpu": "AMD Ryzen 7 4800HS with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti with Max-Q Design/PCIe/SSE2",
+      "version": "fbeaa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-11-03T09:09:05.949",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "GeForce MX130/PCIe/SSE2",
+      "version": "e0cf276",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

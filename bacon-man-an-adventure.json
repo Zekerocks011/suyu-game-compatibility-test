@@ -1,0 +1,41 @@
+{
+  "name": "Bacon Man: An Adventure",
+  "description": "Description:\n\nTake on the role of Bacon Man, and battle through the food groups to confront those who’ve condemned him. Clear his name, and reclaim his rightful place on the Meat Throne.\n\nFeatures:\n●\tTougher-than-nails platforming - in air, or on foot - using the patented \"Bacon Control System™\".\n●\t2 Player Couch Co-Op: Crush 25 levels with a friend. Choose from 4 unique characters, each with their own special abilities.\n●\tObliterate enemies with versatile fighting moves like the Sky Divider, Smash, Stinger, Ground Pound... each one doubles as a method of mobility!\n●\tCollect experience, level up, and gain incredible new abilities through the power of tutorials! Unlock classy costumes for a sassy new look.\n●\tPlay through a huge and satire-rich story ...or straight up ignore the developers’ hard work by pressing the skip button.\n",
+  "titleId": "0100EAF00E32E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbeed29ad3a798a9d8b974690dcb3b7276f2f135b1c9dd5d9887700b21a391db.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-21T22:39:14.793",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-21T02:52:39",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d920d7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T03:17:41.83",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

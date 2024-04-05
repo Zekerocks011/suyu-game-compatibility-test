@@ -1,0 +1,30 @@
+{
+  "name": "Hard West",
+  "description": "Welcome to the Wild West as you've never seen before. Follow Warren on his descent into the darkest recesses of the human soul, and try to survive in a world full of hard choices and even harder consequences. Because in this world, death is a constant presence and the black pacts which you make with forces beyond human comprehension will forever haunt all those around you. \n\nJourney deeper into the world of Hard West and meet a colorful cast of playable characters whose fates are intimately intertwined with yours. Together you will need to make divisive choices to uncover the ultimate plans of the ancient powers at play, as you unravel a deep narrative storyline featuring multiple endings depending on the choices you make during the game.\n\nFEATURES\n- A Unique “Weird” West World: Explore a world where Western legends meet demons, arcane rituals, and satanic cults and where the dead can walk the Earth again. For a price. \n- Compelling Combat: Control 1-4 squad members in turn-based combat encounters and master a range of powerful western-inspired special abilities\n- Choice and Fate: Experience a deep story where decisions made during and between combat scenarios will resonate through future events and change the ultimate fates of a divisive group of colorful characters\n- Luck of the Draw: Use a combat system that goes far beyond pure probability by featuring luck as a unique guardian of engaging and challenging combat\n- Dynamic Cover: Change the flow of combat thanks to an extensive cover system which allows for the creation of effective cover from objects in the environment\n- Shadow Spotting: Locate out of sight enemies by the shadows that they cast, along with the sounds they make\n- Ricochets: Utilize Metal objects to shoot beyond the line of sight for increased tactical combat options, and diversified planning\n- 40 Historically Inspired Weapons",
+  "titleId": "0100ECE00D13E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/13f2c5a65ce5b739eb8ea321181b31337f9352f6424c41aa630aab15f436b626.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-26T09:57:00.834",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-12T09:24:53.922",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "f764d1e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

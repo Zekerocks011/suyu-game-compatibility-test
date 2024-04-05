@@ -1,0 +1,118 @@
+{
+  "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition",
+  "description": "You are the Luminary, the hunted hero who will protect the land from destruction in the latest RPG from the iconic DRAGON QUEST® series. With a ragtag band of adventurers, you’ll engage in well-balanced, turn-based battles and embark on quests across the kingdom of Erdrea. Forge gear, develop party members’ skills, and alter their outfits without changing gear in this edition of the game! This version also lets you ride and attack with monsters on the field to earn experience points, as well as change between HD or 16-bit visuals, symphonic or synth music, and English or Japanese audio. Complete the tale with new character-focused stories, and travel to past DRAGON QUEST worlds!\n\nAcross the land, you’ll meet the mysterious Tockles—creatures that allow you to visit 2D, 16-bit versions of areas from popular entries in the series like DRAGON QUEST IV and DRAGON QUEST VIII! It’s fun to see these classic worlds reimagined in retro style, meshing perfectly with the main game’s 2D mode. Like all past DRAGON QUEST games, this one’s character designs are based on the signature style of famed artist Akira Toriyama. Paired with the voiced dialogue, the rich personalities of your most loyal companions and fiercest enemies are brought to life, so you can fully immerse yourself in this quest to discover the Luminary’s true heritage and awaken your power. For a greater challenge, start the game with the Draconian Quest setting, and capture your favorite moments with Photo Mode!",
+  "titleId": "01006C300E9F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2f38431f900de078c4e5057f8ed8604ca63ae15ff64f509c3619d355368712c0.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-20T00:59:08.261",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-16T13:08:57.566",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "6ac2dcd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-22T02:24:24.695",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-02T09:45:22.33",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "de5691e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-25T15:23:15.59",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "a861465",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DAGP498",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T11:27:44.863",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-25T02:38:02.153",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "41b7dcf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DAGP498",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T19:19:38.841",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T16:49:35.71",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "6ac2dcd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-29T01:43:06.318",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

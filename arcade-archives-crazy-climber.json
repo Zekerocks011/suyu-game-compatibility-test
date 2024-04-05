@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives CRAZY CLIMBER",
+  "description": "\"CRAZY CLIMBER\" is an action arcade game produced by Nichibutsu in 1980.\n\nPlayers control the right hand and left hand of the twin lever, to overcome various obstacles, to climb aiming the top of the skyscraper.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games. ",
+  "titleId": "0100BB1001DD6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dcc3a03d2b764c302d549e44edbeac6148c7ee5587b0da07ba9784df80f391d5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T16:39:26.653",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T06:11:56.691",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

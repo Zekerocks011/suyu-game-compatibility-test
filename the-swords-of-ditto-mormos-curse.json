@@ -1,0 +1,52 @@
+{
+  "name": "The Swords of Ditto: Mormo's Curse",
+  "description": "The Swords of Ditto: Mormo's Curse is a compact action RPG that creates a unique adventure for each new hero of legend in the relentless fight against the evil Mormo. Explore a delightful but dangerous overworld, brave menacing dungeons, and improve your hero in a charming village, during your quest to overcome the evil that plagues the island. Unleash the mystical Sword of Ditto and grab a co-op friend for an unforgettable adventure filled with delightful characters, extraordinary loot, and heroic battles!\n\nKey Features:\n\nUnique Adventures Linked Together: Each adventure becomes its own legend, both distinct from those that came before it and part of a heroic legacy that bind together. The deeds, successes, and failures of each hero's adventure have implications for those that follow including the ability to find weapons and recover loot from history’s fallen heroes.\n\nSolo & Cooperative Adventuring: Battle Mormo and her evil armies alone or summon a brave friend to take up arms alongside you in local co-op mode. Fear not, even less experienced adventurers will find help from their fellow heroes through the magic of a good old-fashioned revival hug!\n\nWeapons, Items, & Stickers: Wield the traditional sword and bow combo alongside the decidedly less traditional vinyl record Frisbee, magic golf club, and colossal foot from the heavens to put Mormo and her legions back on their heels. Collect and equip stickers to boost up your hero and add perks to their gear to become powerful enough to banish the wicked sorceress. \n\nMain Quests and Secret Side Missions: Approach your legend however you see fit by battling through dungeons in any order, completing side missions through dark caverns and deep wells, or confront Mormo right from the start for the ultimate challenge.\n",
+  "titleId": "010037D00D568000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/77c634ff4f6c79b4ba60cbf923834565f237ae129d5d8fa60df902f2ed61ff35.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-17T09:15:57.356",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "af68624",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-28T18:35:23.343",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "b7cd556",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-05T08:25:48.24",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "db6b42f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-27T07:41:59.486",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "58d832f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

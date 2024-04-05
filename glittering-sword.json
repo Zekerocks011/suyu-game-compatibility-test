@@ -1,0 +1,30 @@
+{
+  "name": "Glittering Sword",
+  "description": "Not every game can be rated solely by screenshots. It's like a human's essence that can’t be measured by a staged photo. And thus Glittering Sword is not that kind of game that some may think judging by screenshots or trailer. On the first glance it looks like typical action-adventure, like many other classic titles from the 90's. Glittering Sword is full with the spiritual references to these classical gaming brands, and it’s shiny and balanced graphical setting helps the player to dive into the memorable adventure. Best way to describe this game by phrase: «fantasy adventure set in a cozy world with Sokoban-style puzzles». Here, each screen is the individual location with traps, enemies, portals and switches, and the player needs to learn the exact order of completing things the right way. The more you play Glittering Sword, the harder it gets with traps being more and more deadly, and the enemies become tougher. We hope that players who are addicted to adventure games will fall in love with this small but very entertaining game.",
+  "titleId": "0100230013D0C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d33a0e1a05b7835d614448936837a14d7e9d6a60e12c83697946748aa86cd2b8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-06-03T13:39:29.062",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "6a33fb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cyucyu",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-17T02:06:50.557",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "1c8eef8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "9th Dawn III",
+  "description": "9th Dawn III is a huge 2D open world Role Playing Game and collectathon dungeon crawler packed full of adventure! Delve into the depths of the darkest dungeons, fighting over 270 unique monsters and searching for vast amounts of loot, treasures and rare materials. 1400 uniquely drawn items to collect, including over 300 weapons, and over 550 armour/accessories!\n\nTrain yourself by unlocking spells and abilities and fine-tuning your attributes and skills and evolve into an ultimate warrior! Level-up your crafting abilities in cooking, enchanting, weapon-smithing, and much more! Recruit some monsters to fight alongside you, taking care of them and improving their combat skills to turn them into powerful allies. Unlock a mysterious companion to fight alongside you to build the ultimate team! \n\nTake a moment from your adventure to enjoy a game of Fyued, a robust card game played throughout the region with 180 collectable cards! Help the townsfolk with their problems to raise the prosperity of their villages with sidequests ranging from silly to treacherous! Equip your best gear and experience a journey across the fields of Ashwick, the snowy regions of  Halstom, dense forests of Vlak, the sprawling depths of huge dungeons, and the perilous Hollow Mountains of Scorn as you embark on an epic quest- To uncover the secrets of a mysterious evil force that threatens the lands.",
+  "titleId": "0100DB00117BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4652e1db9620e4d119d81543ab112b3db9c6db74ee3510f34150727c3450c10f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-12T17:52:03.947",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "6d5436d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-21T07:46:07.603",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-12T15:32:11.383",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "6d5436d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-12T20:17:45.041",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "6d5436d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-12T18:57:18.857",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "6d5436d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Arcade Classics Anniversary Collection",
+  "description": "KONAMI starts  its 50th anniversary celebration with this first installment of the Anniversary Collection series of the all-time classics! \n\nThis collection includes 8 arcade masterpieces of the 80s, from Nemesis to Haunted Castle, but also a bonus eBook packed with new information about the titles, including interviews with the development staff, behind-the-scenes insights, and sketches and design documents never before revealed to the public!\n\n_______________________\n\n・New Features\nFor the first time, these classic titles support mid-game saves, difficulty levels, and display options which provide a fresh experience to longtime fans.\n\n・Bonus Book\nAlso includes a bonus eBook packed with new information about the titles, including interviews with the development staff, behind-the-scenes insights, and sketches and design documents never before revealed to the public!\n\n・Lineup:\nScramble \nThe side-scrolling shooting game which started it all. It could be considered to be the original game which inspired the creators of the Gradius series.\n\nTwinBee\nThe first game of the TwinBee series loved for its cute graphics.\n\nNemesis (also known as Gradius)\nThe smash-hit first installment in the Gradius series, known for its unique power-ups and enemies.\n\nSalamander (also known as Life Force)\nThe second entry in the Gradius series which took the series to the next level with its upgraded gameplay and improved graphics.\n\nTyphoon (also known as A-Jax)\nThe timeless shooting game that introduced ground-breaking sprite zooming and rotation effects that added depth to the graphics.\n\nHaunted Castle\nThe arcade version of Castlevania which bewitched the fans with its haunting graphics.\n\nVulcan Venture (also known as Gradius II)\nConsidered by many to be the pinnacle of the Gradius series, memorable for its beloved music and top-notch level design.\n\nThunder Cross\nThe game that introduced many players to the shoot'em up genre, thanks to a more inclusive difficulty and unique design",
+  "titleId": "010050000D6C4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d86d0177e89801b35d705ee70cfa77a0a9920223869cb3118d40b7a300354b14.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-16T14:21:24.009",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T13:31:08.965",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-24T16:04:56.16",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-01T18:29:13.607",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-01T18:29:24.444",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T18:19:36.972",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "f5705ca",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

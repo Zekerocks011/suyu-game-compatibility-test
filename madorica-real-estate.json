@@ -1,0 +1,19 @@
+{
+  "name": "Madorica Real Estate",
+  "description": "Enjoy solving puzzles with the floor plans and a pencil!\n\nIn this game, you solve puzzles while looking at floor plan maps.\nIt is possible to view a digital version of the floor plans inside the game, but you can enjoy the game even more by printing the floor plans and playing with them. Follow the software instructions to download the floor plan maps and print them out.\n\nStory\nYou are a new employee at a real estate agency. Apparently in this city, there are many properties with ghosts living in them! In Madorica Real Estate, you have to search for the only property that doesn’t have ghosts in the entire city.\n\nYour job requires you to exorcise the ghosts in each room so that the new owners can live there in peace. Hints to beating the ghosts can be found around the rooms and from Mr. Madorica. If you use the hints to solve the puzzles and input the commands, even a newbie real estate agent like you can use magic!\n\nSearch for hints, jot down notes on your floor plan maps, and seek out magic to exorcise all the ghosts!",
+  "titleId": "010099700BF10000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6fc9c51104f1cf8384b169e25c65ffa97c826dfb9e10178e7cefb77d845d7976.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T19:12:04.345",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

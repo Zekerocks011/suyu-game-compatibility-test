@@ -1,0 +1,118 @@
+{
+  "name": "Cotton Reboot!",
+  "description": "Japan’s favorite shooter mascot finds her way into a beautiful HD game with stunning graphics and remixed soundtracks. This is the original “Cute ‘em up”, and will test your skills as well as tug on the heartstrings as Cotton and her friends are finally back in the ultimate celebration of one of Japan’s most beloved gaming mascots. Choose between the HD Reboot mode or go legit with the X68000 original mode with pixel perfect graphics from the iconic Japanese home computer.\n\nFeatures:\n• Play the brand-new HD Reboot mode or the fantastic retro X68000 mode\n• Cute ‘em Up action based on one of Japan’s longest running game series\n• Enjoy the awesome soundtrack either fully arranged or in its original home computer form\n• Guide Cotton and her friend Silk in a highly approachable game! Easy to play, but difficult to master!\n• Compete online for high scores\n",
+  "titleId": "01005E8013CD8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/20b782370b445966b24538e14052800ed87b052fe033f6d23569b4632d89ccec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-15T20:30:18.79",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "4b8a61d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-01T08:59:17.533",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7e02456",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-11T14:23:46.967",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "f9427f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-07T09:32:22.098",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-07T20:41:25.543",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f65a442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gamepro",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-21T12:13:42.767",
+      "cpu": "AMD Ryzen 3 3300X 4-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 770/PCIe/SSE2",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jinete1805",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-22T20:57:46.49",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-01T10:19:32.429",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gamepro",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-21T12:18:30.613",
+      "cpu": "AMD Ryzen 3 3300X 4-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 770",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-30T12:00:14.02",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "bd1833f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ace Invaders",
+  "description": "BACKGROUND\nAs a commander of Galaxy Guardians Space Federation Star-ship. You and your crews were ambushed and captured by the alien battle fleets.\n\nWith the help of an alien defector, you managed to escape and steal a few enemy space ships. Now you find yourself back in the fight with superior weapons but still heavily outnumbered.\n\nThe odds are stacked against you but surrendering is not an option this time round!\n\nMISSION BRIEFING\nYou start out with a fleet of spaceships. You can select a spaceship by moving your screen pointer with right Joy-Con™ over it and clicking [ZR].\n\nOnce a ship is selected you can move it by holding the left Joy-Con™.\n\nShooting is done by holding [ZL] and you can collect weapon upgrades by shooting the green tanks.\n\nSometimes an enemy ship contains members of your crew. Save them to earn gold.\n\nWhen a level is cleared you will move on to the next level, they are altogether 100 levels to clear. Watch out for those big bosses with super weapons and infinite health...  Have fun and good luck, commander!",
+  "titleId": "0100189013E9C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1e866a1f5eb023562fd4612f9441895d96d80426bb3d6897aa786e66e4a1205c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-03T15:23:40.62",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

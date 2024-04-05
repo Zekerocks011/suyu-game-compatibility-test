@@ -1,0 +1,118 @@
+{
+  "name": "Bubble Bobble 4 Friends",
+  "description": "The popular dragons Bub and Bob are back! Bubble Bobble 4 Friends - The Baron is Back! is the latest game in the legendary Bubble Bobble series from Taito. \n\nPlay alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through the levels to defeat the wicked wizard Bonner and his henchmen. The Baron is BACK with 100 brand new stages, making a grand total of 200 stages to complete. \n\nCollect E-X-T-E-N-D bubbles to activate and upgrade skills, such as lightning and bomb bubbles. Develop countless new strategies to travel through the worlds and take advantage of air currents. Also included is the original Bubble Bobble arcade game from 1986, which captured the hearts of players around the world and still has fans humming its title melody today.\n\nA celebration for fans and fun for the whole family!",
+  "titleId": "010010900F7B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2314eb01c0580249ff20cb0dde910d302370ef9616156dd415dc26ce4b5fa33a.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-28T22:14:29.898",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Neowar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-07T16:02:30.418",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4e9911a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-05T19:09:08.133",
+      "cpu": "        Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "57812d3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-23T20:33:47.343",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5389c62",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-25T05:16:12.975",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "7be598e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-10T22:53:46.65",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "6158021",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-14T13:51:41.465",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c4d9f17",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-26T18:18:58.945",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e419371",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-22T12:19:57.537",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "6614fb6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-26T13:50:43.615",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "36b5a79",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

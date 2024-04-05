@@ -1,0 +1,30 @@
+{
+  "name": "1979 Revolution: Black Friday",
+  "description": "Based on true stories and historical events, 1979 Revolution: Black Friday is an interactive drama about choice and consequence, chaos and order. The year is 1978, the place is Tehran, Iran. You play a photojournalist who returns home to find his people protesting the ruling King, the Shah. Armed with your camera, you're soon pulled into a dangerous world of revolution and civil unrest.\n\n• Choices: The choices you make shape your experience in the revolution \n• Cinematic: A striking visual style, with motion-captured animation and voice over performances \n• Exploration: Discover a collapsing city under martial law: covert headquarters, rioting protests, bustling streets and more \n• Photography: Take photos of the in-game world and compare them to archival images by real photojournalists \n• Collectables: Unlock 80+ unique stories that enhance your experience of the Iranian Revolution Based on True Events: First-hand testimonies of freedom fighters, witnesses, and casualties of the revolution.",
+  "titleId": "0100D1000B18C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4995007e70536ab814e08dd39a4f4e34910102b2da352a7bbbd347ad3e49957e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-01T06:29:44.846",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-14T20:26:14.363",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

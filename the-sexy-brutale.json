@@ -1,0 +1,74 @@
+{
+  "name": "The Sexy Brutale",
+  "description": "The Sexy Brutale, a never-ending masked ball featuring intrigue, murder and the quite possibly occult. Relive the same mysterious and murderous masked ball as the story unfolds in real-time. You must find answers to every enigma and end the loop, to save all guests’ lives as well as your own.",
+  "titleId": "0100F89003BC8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d6ca732dabefdaca43ebb5a0b91706a25348a46dbe5e86aad7d7087d45b65729.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-10T16:22:13.121",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-22T12:34:55.274",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "5e2db75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-18T16:35:04.305",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7acbec3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-02T11:18:26.635",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-05-11T18:02:31.371",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d3797be",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-05T15:24:59.902",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "5f7959a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

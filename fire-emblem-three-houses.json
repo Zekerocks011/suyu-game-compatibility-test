@@ -1,0 +1,118 @@
+{
+  "name": "Fire Emblem™: Three Houses",
+  "description": "War is coming to the continent of Fódlan. Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories. As their professor, you must lead your students in their academic lives and in turn-based, tactical RPG battles wrought with strategic, new twists to overcome. Which house, and which path, will you choose? ",
+  "titleId": "010055D009F78000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/11c6f71a52f1ac7282fe02ef9b96e0db42f7f664fc694be5bff744becd79894d.jpg",
+  "tests": [
+    {
+      "tester": "Philborg",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-07T21:47:25.236",
+      "cpu": "12th Gen Intel(R) Core(TM) i9-12900K",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "4e9911a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JefEV",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-11T00:13:06.978",
+      "cpu": "Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9de52ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Luminux",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-21T14:01:03.565",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "version": "b0453e9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DMoguri",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-08T14:28:46.741",
+      "cpu": "Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "e84870a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dabi_Uchiha",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-13T07:17:13.895",
+      "cpu": "AMD Ryzen 5 4600HS with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "9de140b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pham_tuan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-03T15:38:08.022",
+      "cpu": "12th Gen Intel(R) Core(TM) i5-12600K",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "George_Dutra",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-20T21:01:52.35",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GT 710/PCIe/SSE2",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fat-Fat",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-31T05:07:35.032",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "07e6d20",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-18T01:16:21.353",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T11:12:13.894",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

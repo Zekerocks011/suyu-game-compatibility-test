@@ -1,0 +1,19 @@
+{
+  "name": "ONE PIECE Pirate Warriors 3 Deluxe Edition",
+  "description": "ONE PIECE Pirate Warriors 3 Deluxe Edition comes to Nintendo Switch! Re-live the original ONE PIECE story from Fushia village, where everything started, to the kingdom of Dressrosa, a mysterious island dominated by the evil “Heavenly Demon” himself, Donquixote Doflamingo. Gather members of the Straw Hat Crew and sail to the most illusive places and enter epic battles: Marineford, Fishman Island, Punk Hazard and Dressrosa! The deluxe edition includes many of the previously released DLC and provides players with all of the fun and excitement right from the anime.\n\nONE PIECE ON NINTENDO SWITCH: Take your favorite Straw Hat Pirates on the go.\nLOCAL CO-OP: Play split-screen with your friends in Dream Log mode.\nDELUXE EXPERIENCE: Includes previously released DLC content that adds extra costumes and missions.\nRE-EXPERIENCE THE ORIGINAL ONE PIECE STORY: From Luffy’s departure from Fushia Village to latest episodes of Dressrosa, re-live all of the greatest moments in the ONE PIECE saga.\nFAN FAVORITE CHARACTERS: The roster of characters now includes Sabo, Donquixote Doflamingo, Fujitora, and many more.\nTHE EXPERTISE OF KOEI TECMO GAMES AND BANDAI NAMCO: The PIRATE WARRIORS series combines the beloved characters from the ONE PIECE series with the furious action of the Dynasty Warriors franchise.",
+  "titleId": "0100774009CF6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c89d9bd7b95773e67be64f65c98c6c59a0b5fd8ab93637ecd693b01423497362.jpg",
+  "tests": [
+    {
+      "tester": "BSoD_Gaming",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-24T16:15:46.119",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "a7f49e6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

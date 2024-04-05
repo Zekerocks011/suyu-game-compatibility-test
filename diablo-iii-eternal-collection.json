@@ -1,0 +1,118 @@
+{
+  "name": "Diablo III: Eternal Collection",
+  "description": "Ages ago, angels and demons birthed your world in a forbidden union. Now they’ve come to claim it. Stand tall among Sanctuary’s meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.\n\nUnholy Trinity\nThe Diablo III game, the Reaper of Souls expansion, and the Rise of the Necromancer pack are all part of the Eternal Collection: 7 classes, 5 acts, and seasons’ worth of demon-smashing.\n\nNintendo Switch™ Exclusives\nDiscover pieces of Zelda’s world in Sanctuary. The Eternal Collection on Switch™ includes the Cucco companion pet, a Triforce portrait frame, and an exclusive transmogrification set that will let your heroes sport Ganondorf's iconic armor. You’ll also receive unique cosmetic wings.\n\nDefy the Darkness\nYou’re a surrounded world’s only defense against Heaven and Hell. Arm yourself with a Joy-Con™ or the Pro Controller, and choose from 7 dark fantasy classes, each with its own way to slay.\n\nEternal Replayability\nEvil is never vanquished forever. Whether you’re testing yourself against new difficulty settings, playing through the epic story campaign, searching for the perfect skill combo, expanding your collection of gear, racing through random dungeons, or traveling Sanctuary anew each season, you’ll always have a fresh challenge to seek out.\n\nAssemble the Perfect Arsenal\nAs you charge through Diablo III’s five story acts, you’ll collect gear from Sanctuary’s furthest reaches, including legendary items that change your entire playstyle and armor sets that provide dynamic bonuses as you uncover more pieces.\n\nYour Path to Power\nDiablo III’s power-building system is flexible enough for an afternoon or a full season. Push back the Burning Hells with spears, storms, and zombie dogs—over 800 unique abilities to unlock and master. Turn fire into lightning, split your magic blasts, and change your skills to create devastating power combinations.\n\nIt’s Dangerous to Go Alone\nJump into local, action-RPG multiplayer with up to three friends, and crush demons from your comfiest couch cushions, no internet required—or fill out the ranks of your party online. You can play Diablo III shared-screen on a single Nintendo Switch™, remotely on up to four Nintendo Switch ™ consoles, or combine TV and handheld play.",
+  "titleId": "01001B300B9BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf924a38ce1da69413bdba496afad2ef562f73ea5273621c09cac878ab7ad0b5.jpg",
+  "tests": [
+    {
+      "tester": "DionG",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-18T09:19:38.325",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "neonoafs",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-12T18:24:41.164",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "AMD Radeon (TM) R9 390 Series",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Krakobesiche_Bes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-11T20:12:56.682",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Francisco_Alaniz",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-28T03:50:20.437",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GT 1030/PCIe/SSE2",
+      "version": "3c320a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Haondoor",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-05T03:01:26.818",
+      "cpu": "AMD Ryzen 7 3800XT 8-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "e753ed7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-10T00:32:43.933",
+      "cpu": "Intel(R) Xeon(R) CPU           X3440  @ 2.53GHz",
+      "gpu": "Radeon (TM) RX 470 Series",
+      "version": "f3467ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Hary_Andriantsilavo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-16T06:39:19.76",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "bc7083d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Lucas_Godoy",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-11T21:24:39.628",
+      "cpu": "Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Krakobesiche_Bes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-11T21:26:13.231",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "c5fcdf0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Krakobesiche_Bes",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-19T21:29:57.029",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "2759f89",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

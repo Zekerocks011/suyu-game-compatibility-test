@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives DONKEY KONG",
+  "description": "\"DONKEY KONG\" is an action game released in 1981 by Nintendo. Avoid a variety of obstacles while heading through a construction site to make it to the top and rescue Lady. Use the hammer to destroy the barrels and fire coming towards you to earn more points. * This version contains both the early and later versions as well as the international version.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100E9E00B052000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/51245ea71b045584145a0cee2b6e9d1ffd4c53374d48205e7c19ca19e443839b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-04T10:28:35.396",
+      "cpu": "AMD Athlon(tm) X4 760K Quad Core Processor     ",
+      "gpu": "NVIDIA GeForce GT 630",
+      "version": "4ec0c2b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T15:17:24.703",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

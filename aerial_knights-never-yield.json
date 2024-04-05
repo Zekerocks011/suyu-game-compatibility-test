@@ -1,0 +1,41 @@
+{
+  "name": "Aerial_Knight's Never Yield",
+  "description": "Survive A futuristic Tokyo style Detroit in this 3D runner that tells the story of Wally who has uncovered the evidence that can change his city forever. Explore a game world with a dope-tastic soundtrack featuring the authentic sounds of Detroit Artist.\n\nSTORY\nTake the role of Wally. A mysterious character that has recovered what was taken from him. Hopefully, you're fast enough to outrun your enemies. Expose the truth and try to uncover the mystery of what happened to them. With an average runtime of an action movie (about an hour and a half on Normal), a first run of this action-packed adventure can be enjoyed in an afternoon. Afterwards you can improve your score.\n\nGAMEPLAY\nAerial_Knight's Never Yield is a 3D side-scroller that plays much like a classic endless runner. The game has an interesting story that keeps players always in motion. Run, Jump, Slide or \"Dash\" for acrobatic variants leading to dope combinations and avoid the challenges that await. Aerial_Knight's Never Yield is being built for players who love to speedrun games while being an experience that casual players will enjoy as well.\n\nSOUNDTRACK\nThis Soundtrack for Aerial_Knight's Never Yield is being done by \"Danime-Sama\" A Detroit artist with vocals from artists from all over the world.\n\nNOTE FROM THE DEV\nThis project began as just a passion project I started on my own to create something familiar but new for this generation of gamers while highlighting aspects of a culture that is often overlooked. I really hope you enjoy the game once its released and follow my journey to create new and interesting games\n\n- Aerial_Knight\n\nA free demo for Aerial_Knight's Never Yield is now available!\nWitness an early peek of what Wally has discovered and where his journey will take him!",
+  "titleId": "0100E9B013D4A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8208d4ba839ad3033aeea7730783495fe9795c8f0666691ab343b451e67b1102.jpg",
+  "tests": [
+    {
+      "tester": "Retr089",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-05T07:16:09.59",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "0ed706e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-26T13:21:28.005",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Retr089",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-24T15:44:47.462",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "0ed706e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

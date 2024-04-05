@@ -1,0 +1,41 @@
+{
+  "name": "Sky Gamblers - Afterburner",
+  "description": "This is the latest and greatest jet dogfight game, coming from the creators of Sky Gamblers, Battle Supremacy and Radiation series! Get into the cockpit and prepare to take-off.\n\nUnlock, upgrade and customize the weapons and defenses of more than 30 planes. Paint your favorite jet fighter, customize patterns and badges for the ultimate looks. Become the master of the skies!\n\nUntangle the story of great bravery and despicable treason through the single player campaign. This is not an easy task. You'll experience huge open world areas with carefully recreated cities like San Francisco and Rio de Janeiro, Danger is everywhere. Skies are filled with menacing enemy jet fighters, the sea is crawling with heavily armed battleships and SAM sites are lurking within buildings or forests.\n\nPolish your evasive maneuvers, aerial combat and targeting skills against AI in custom set games and go prepared for online PVP or PVE. Experience non-stop action against or together with top world players in up to 7 vs 7 airplanes.",
+  "titleId": "010003F00CC98000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/41bf54f818815b7f9501a6ef092acc9a90d492c2a9fc35aa9cf36fcb7283b810.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-11T10:40:04.169",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "ec1b5f1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-19T04:19:27.514",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "5235cb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-16T15:36:24.033",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "f83b139",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

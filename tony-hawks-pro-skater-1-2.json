@@ -1,0 +1,118 @@
+{
+  "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+  "description": "Play Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more.\n\n- Skate as the legendary Tony Hawk and the original pro roster, plus new pros\n- Skate to songs from the era-defining soundtrack along with new music\n- Hit insane trick combos with the iconic handling of the Tony Hawk’s™ Pro Skater™ series\n- Play all the original game modes and go head-to-head with local 2-Player modes\n- Show off your style and creativity with upgraded Create-A-Park and Create-A-Skater features\n- Take your sessions online and compete against players from around the world in Multiplayer modes and leaderboards\n\nBreak skateboarding boundaries, show off your own style and be part of the next generation of skaters and creators with Tony Hawk’s™ Pro Skater™ 1 + 2.",
+  "titleId": "0100CC00102B4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e29ff36a3889657926c61687cc6191e7521a971efa7ad78e15674e8bb19d38a0.jpg",
+  "tests": [
+    {
+      "tester": "cnells2000",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-30T19:14:58.943",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "cad9b50",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-07T02:05:20.65",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-06T22:26:47.145",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-06T05:52:58.65",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T22:51:53.33",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "9ab6a24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "axxlester",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-25T20:08:03.747",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070",
+      "version": "db6f01d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-01T06:52:58.822",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "e2fd3a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-29T11:55:33.653",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "09f9788",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-03T13:46:44.144",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-14T23:18:31.13",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "The Witcher 3: Wild Hunt",
+  "description": "A WHOLE WORLD TO EXPLORE. AT HOME AND ON THE GO.\n\nWinner of over 250 Game of the Year awards, The Witcher 3: Wild Hunt is a story-driven, open world adventure set in a dark fantasy universe. \n\nYou are Geralt of Rivia, mercenary monster slayer. At your disposal is every tool of the trade: razor-sharp swords, lethal mixtures, stealthy crossbows, and powerful combat magic. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.\n\nFeatures\n\n-A gigantic open world to explore.\nVisit the luxurious and corrupt city of Novigrad, face the frigid cold of the wind-swept Skellige islands, and challenge the dark forces roaming the forlorn, ravaged No Man’s Land. Sail through open seas, dive in search of long lost artifacts or gallop your mount into combat — the world of the Witcher beckons to be explored. \n\n-Unparalleled novel-like story spanning over 100 hours of gameplay.\nWith over 100 hours of core and side-quest gameplay, The Witcher 3: Wild Hunt combines the intense, plot-driven pull of traditional RPGs with the freedom of choice only open world games can offer. Make choices and face their consequences to unlock endings tailored to how you play. \n\n-Now on Switch — play at home and on the go.\nDeveloped to take advantage of everything Nintendo Switch has to offer, the game delivers a truly powerful on-the-go experience.",
+  "titleId": "0100E67012924000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fef0a997e4d9a83d307426c8097380d33f37e09a9003d46046ea3bb3e46e8b26.jpg",
+  "tests": [
+    {
+      "tester": "RocKit",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-10T09:46:01.512",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Spoony",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-02T14:31:54.418",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fbeaa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MarcoEstevez",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-30T21:44:56.886",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "bd1833f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

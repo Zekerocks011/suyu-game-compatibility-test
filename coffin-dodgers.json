@@ -1,0 +1,30 @@
+{
+  "name": "Coffin Dodgers",
+  "description": "Pimp up your mobility scooter and take on the Grim Reaper and his Zombie army in a race for your soul. Armed with a variety of homemade weapons and gadgets, battle your way through a 13-race championship or face your friends in a 2-4 split-screen multiplayer race, where only the most skilled racer will survive. \n\nThere are 4 areas within the Sunny Pines Retirement Community, each featuring its own mini tournament in which your rank against other competitors will ensure you progress to the next stage; however finish bottom of the pile and the Reaper gets to take your soul! The final race takes place over each of the 4 areas in a straight shoot-out between you and the Grim Reaper.\n\nCan you survive the retirement village?\n\nFEATURES\n• Customise and modify your mobility scooter\n• Player to player combat & rag doll physics\n• Local multiplayer versus race mode (2-4 players)\n• 3D open world game environment \n• 13 unique race tracks\n• Single player Story and Time Trail modes\n• Race & Battle the Grim Reaper and his army of zombies. \n• Save one of the 7 quirky retirement village residents",
+  "titleId": "0100178009648000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5b2ae89acdfbbb979a80d5a883c58f71db3df4cc64d61da97f8f382c51a69f7b.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-24T03:36:11.298",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T10:25:13.094",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "10 Second Run RETURNS Demo",
+  "description": "null",
+  "titleId": "0100DC000A472000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-18T00:09:45.622",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-30T17:54:46.519",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d05b067",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "legoj15",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-10T00:41:20.521",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090/PCIe/SSE2",
+      "version": "aa0647f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

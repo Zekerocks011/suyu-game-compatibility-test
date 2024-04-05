@@ -1,0 +1,19 @@
+{
+  "name": "Sphinx and the Cursed Mummy",
+  "description": "Sphinx and The Cursed Mummy is an original 3rd person action-adventure inspired by the mythology of ancient Egypt. Travelling the world via magical portals to foil the evil plans of Set. Sphinx's Journey will require all his wits, agility, and special powers. He will also rely on his reluctant hero friend, The Mummy, to help when being inconspicuous is the only solution. By finding the stolen magical crowns of Egypt, Sphinx can stop Set and save the world.\n\nFeatures:\nUse Sphinx and his increasing array of skills to face deadly mythical monsters while avoiding perilous traps with acrobatic ease. Weaken enemies and use capture beetles to store and unleash their abilities at will.\n\nTake control the Mummy when strength & combat skills aren't needed — use the Mummy's stealth and unconventional antics to avoid enemies, solve puzzles and sabotage right under the enemy's nose.\n\nInteract with hundreds of unique and imaginative creatures, enemies and allies.\n\nFantastic graphics bring this mythical world based on Egyptian legends to life.\n\nTotally immersive storyline and epic gameplay.",
+  "titleId": "0100BD500BA94000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a10f5edf75a96e477c4fc5d1c87abb0cf1e56e831acc51d72ecdd309791e9261.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-06-10T17:45:53.366",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "14cb090",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

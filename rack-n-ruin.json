@@ -1,0 +1,19 @@
+{
+  "name": "Rack N Ruin",
+  "description": "Join Rack on an epic adventure across a world filled with magic and wonder. Then watch in astonishment as Rack befouls, corrupts, slaughters, and brings about a general air of misfortune to everything and everyone he confronts. Chaos reigns in this top-down action adventure rpg that's infused with the intensity of a classic shoot 'em up.\n \nFeatures\n-Burn through hordes of foes with an arsenal of over 28 different spells, items, and abilities.\n-Weave through complex bullet patterns while smiting titanic bosses and over 30 unique enemies.\n-Explore an enchanted benevolent world, and then transform it into a nightmarish image of its former self.\n-Ransack castles, pillage dungeons, escape eternal prisons, navigate gloomy caves, and awaken ancient evils.\n-Meet a charming cast of townsfolk, and collect their souls to upgrade your weapons.\n-Unravel devious puzzles, and scour the land for over 100 secrets.\n-And of course, destroy the world.",
+  "titleId": "0100B8100C54A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b0b38c830ea75d52efb85a8cd5467ae85177a41fe6a07b837386f8dd4df94287.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T04:42:54.073",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

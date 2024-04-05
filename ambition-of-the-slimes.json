@@ -1,0 +1,30 @@
+{
+  "name": "Ambition of the Slimes",
+  "description": "The weakest monster ever known in gaming history, the \"Slime\" is finally standing up (?) for its rights! Slimes are surprisingly versatile - they can use magic, they can multiply, they can use special abilities...but no matter how capable they are, unfortunately, they usually end up bashed into a mush, sometimes not even by the protagonist of the game but by a village commoner!\n\n…Now it's time to change things using the ability \"Claim\". With this ability, slimes are able to take control of their opponents' bodies by jumping into their mouths! Use \"Claim\" strategically to take over strong enemies and win your battles. As you fight through the levels, unveil the ambitions of the Slime monster...\n\nThis is possibly the most unexpected underdog-hero fantasy simulation RPG you will ever play!",
+  "titleId": "0100A620083DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b07e9cf247fc655188fe599516b8f9e0d9a7afe00124e2f98eacd70ab17a0f80.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-26T18:54:50.661",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-16T14:38:56.091",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Monster Blast",
+  "description": "It´s all about blasting Monsters. On randomly generated maps you are shooting your path to find the exit and move on to the next level. \n\nLots of monsters and nasty bosses make your work difficult. Collect monster energy to get special weapons. Find boxes with special items to improve your health. Use support items that help you blast more monsters.\nIncrease your experience from map to map and improve your health, firepower and luck. So you can get harder monster and find better items.\n\n4 different worlds with 24 challenging levels allow you a few hours of challenging shooting fun.",
+  "titleId": "0100E2D0128E6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e8c127228e89a039495b6f79b42490e44b9f57cd116c2c2dffe57a45d54999ec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-30T12:48:22.626",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "29fd3c0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

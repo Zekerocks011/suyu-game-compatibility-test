@@ -1,0 +1,63 @@
+{
+  "name": "Immortal Planet",
+  "description": "On the icy surface of a forgotten planet stand ruined tombs where immortals sleep. While sleepless warriors roam the halls with their minds eroded by eternity, a lone Awakewalker emerges from cryosleep. With no memory of their past, it’s up to them to forge their future, discover the planet’s mysteries, and find a way out of this icy hell.\n\nSouls-like Progression\nRecover Experiences lost upon death and use them to upgrade your character. Customize your playstyle with dozens of items and spells.\n\nTight Level Design\nLevels are designed around single checkpoints from which you explore the area around it. Levels feature many unlockable shortcuts so you are always progressing no matter what.\n\nIntense Bossfights\nEvery level features a powerful boss enemy. Fights with these enemies are multi-stage struggles that are a real test of skill and determination.",
+  "titleId": "01007BC00E55A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/26808d050e9285eb55b56d90e16b4ff8b72e9e0e0b6dfd6af05333cbfc2080b6.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-02T15:38:49.824",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e2f72ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-31T23:49:47.659",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-26T16:32:48.319",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-04T10:12:30.552",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b8192f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-08T00:11:56.189",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

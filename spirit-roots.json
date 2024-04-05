@@ -1,0 +1,19 @@
+{
+  "name": "Spirit Roots",
+  "description": "Your destination is on the outskirts of the stellar system, where a hundred years conflict created a unique situation: the small remaining parts of the two fighting planets had to be stitched together to create a surviving larger one. Welcome to the Stitched-Together Planet! \nBoth populations agreed on one condition that should never be broken: nobody can cross the border that separates them. But what exactly happens if someone breaks the rule? That’s what you will find out!\n\nRun, jump, fight, avoid traps, collect coins and beat bosses in this fun and family-friendly platformer adventure. In each of the 5 worlds you will discover new challenges and enemies and evolve in unique and fantastic sceneries.\n\nWhat exactly can you expect with Spirit Roots:\n- Wonders and variety. 50 levels in 5 worlds with their own atmospheres, enemies, mechanics and music;\n- Platformer gameplay. Run, jump, collect items and fight mean creatures on the way;\n- Epic boss battles. Farmer robots? Huge spiders? Flying skulls? Mud monsters? We've packed it all into our game!\n",
+  "titleId": "01000AC00F5EC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3c03ae5c3a4d57eca386ac9fd85ae1ea124d4619cef94082eea9028288ed13a4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-02T11:21:36.352",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

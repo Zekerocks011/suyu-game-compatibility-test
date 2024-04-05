@@ -1,0 +1,52 @@
+{
+  "name": "Nintendo 64™ – Nintendo Switch Online",
+  "description": "With a Nintendo Switch Online + Expansion Pack membership, access a collection of Nintendo 64™ games that are great to play anytime, anywhere! For the first time ever, you can play these classic games online and use voice chat via the Nintendo Switch Online smartphone app*. With these features, compete in a Mario Kart™ 64 race with friends online, share your screen and bring someone along for your Star Fox™ 64 ride, and suspend your game at any point during The Legend of Zelda™: Ocarina of Time™. You can even play the action-packed Sin & Punishment™ game, which was originally released in Japan only! \n\n• A selection of classic Nintendo 64 games with newly added online play\n• Games can also be played offline, so you can play while on the go—anytime, anywhere\n• Create suspend points for each game to save your progress\n• With online play added to every game, you can compete or cooperate online with friends, share your screen, or pass the controller, depending on the game\n• Use the Nintendo Switch Online smartphone app* to play online with voice chat\n• European versions of some games are also included, allowing for additional language options\n• Supports Joy-Con™ controllers, Nintendo Switch™ Pro Controller**, and the Nintendo 64 Controller***\n",
+  "titleId": "0100C9A00ECE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5c8195b43aac4ba5f033f9a3d188ed57010add2b05060497a25f3568612405bc.jpg",
+  "tests": [
+    {
+      "tester": "VersedMeat",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-30T20:37:01.356",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-04T15:26:58.387",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "e4d13c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VersedMeat",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-30T20:33:39.479",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-10-28T16:58:52.295",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "c0793f0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

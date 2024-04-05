@@ -1,0 +1,19 @@
+{
+  "name": "There Is No Game: Wrong Dimension",
+  "description": "\"There Is No Game: Wrong Dimension\" is a Point&Click comedy adventure (and Point&Click only!) that will take you on a journey you never asked to go on, through silly and unexpected video game universes.\n\nWill you be able to play along with the \"Game\" to find your way home?\nWe sincerely think NOT.\n\nFeatures: \n- A Point&Click comedy adventure.\n- Incredible 3D graphics that are flat. Completely flat. And very pixelated.\n- Almost fully voiced. (May contain traces of foreign accents here and there.)\n- Solve riddles that require you to think \"Outside the box\".\n- Hint system included because you can't think \"Outside the box\"...\n- Shorter than an MMORPG, which leaves you plenty of time to finish some REAL good games.\n- Discover the Top 10 best walls. The fourth one will surprise you!\n- Motion sickness free, which is pretty remarkable for a non-VR experience.\n- Contains tons of bugs... but it’s supposed to be like that.\n- And lots of other surprises!",
+  "titleId": "0100009013566000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/30880388f710afae81709c526c0aa55fd375c14660ab2349dd75808ca1275d6a.jpg",
+  "tests": [
+    {
+      "tester": "joonboi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-02T16:07:26.74",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "6c83fca",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

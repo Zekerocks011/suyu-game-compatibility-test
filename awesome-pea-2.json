@@ -1,0 +1,30 @@
+{
+  "name": "Awesome Pea 2",
+  "description": "Greedy Pea is back in the game! Now with even more dark dungeons, deadly traps and gold!\n\nWhat you will definitely find in this game (again):\n- Pixel gameboy-style graphics (when everything is green)\n- 25 different levels\n- Retro soundtrack (sounds like your old computer)\n- Lots of shiny coins",
+  "titleId": "0100B7D01147E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/453bec1c3b0560ddf472931b136300e2c05fbdb6e66efbcf5379809572307e12.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T09:28:43.369",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-30T13:37:52.999",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

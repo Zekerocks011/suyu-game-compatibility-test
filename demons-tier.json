@@ -1,0 +1,118 @@
+{
+  "name": "Demon's Tier+",
+  "description": "Enter the dungeons of King Thosgar and destroy his demonic minions!\nCombining the best elements from Xenon Valkyrie+ and Riddled Corpses EX, this is the latest game in the Diabolical Mind trilogy!\n\n- Epic storyline\n- 2 players local cooperation mode\n- 8 heroes with different stats and abilities\n- Procedurally generated dungeons\n- High quality chiptune music\n- Twin-stick shooting\n- Achievements\n- Localized into 4 languages\n\nThosgar, a hated king attracted by demonic rituals, turned into a dark and diabolical being... destroying almost all of humanity and flooding the world with monsters.\nThis story became a legend and peace returned to the land.\nThousand years later, a mysterious pit appears in a village after a huge earthquake where an evil aura emanates from...\n\nWill you be the hero to save this world?",
+  "titleId": "0100161011458000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/97a0dc65f3b7697c7b23dea0e0947acdd30a9d40d5d61d60903958424ebe3bba.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-02T16:31:11.1",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f60d240",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-28T17:35:59.312",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "eecd84d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheMOchES",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-05T20:41:18.068",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "483bb64",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-20T16:31:15.174",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f19f40d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-20T16:32:43.556",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f19f40d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-23T15:39:01.088",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheMOchES",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-05T20:42:42.223",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "483bb64",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-07T20:01:35.108",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab0fb89",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-05T13:55:05.66",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-18T14:41:22.115",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d22784c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

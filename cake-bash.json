@@ -1,0 +1,19 @@
+{
+  "name": "Cake Bash",
+  "description": "Fight to be the tastiest cake in Cake Bash! A frantic four player party game where adorable drawn-to-life cakes beat the crumbs out of each other.\n\nPick your favorite cake and battle in a variety of lifelike arenas with unique goals - cover yourself in sweeties or hurl fruit into a pie, there’s plenty for everyone!\n\nTo cool down, try an assortment of minigame treats - roast perfect marshmallows, pipe the finest frosting, or be the last flan standing in Fork Knife.\n\nGuide your cakes through the bakery as they dress to impress the customer in Get Tasty! Buy delicious toppings in a series of games to be the chosen one...\n\nYou could also just play your favorite mode again and again, it’s up to you!\n\nCompete on the same screen, find challengers online or battle well-baked bots. It’s time to get out of the oven and into the fray!",
+  "titleId": "010014A0115BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1841027130bd4294e00a15f9f72b0fd7acba05510401b1a5fd2730be62c8d447.jpg",
+  "tests": [
+    {
+      "tester": "archie",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-17T15:03:56.556",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "8e2f938",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "20XX",
+  "description": "20XX is a roguelike action platformer that you can play with a friend. Jump and shoot your way through ever-changing levels, collect awesome new powers, and battle mighty bosses in the name of saving the human race maybe!\n\n20XX also features full co-op. Play with a friend on the couch or over the internet!\n\n20XX supports 1-2 players locally or online.\n\nFeatures:\n• Crisp, precise controls - do exactly what you want your character to!\n• Over 100 mighty powerups to collect!\n• Tons of different play modes and optional difficulty modifiers!\n• Seeded Daily and Weekly Challenges!\n• All gameplay features available in both single player and co-op! (online or local)\n\nRoguelike Elements:\n• Random levels: each time you play 20XX, the stages you play through will be brand new!\n• Permanent death: each 20XX playthrough is a self-contained life! Death sends you back to HQ, where you can buy powerful upgrades for future runs. (There's also a Reverent Mode where you get three lives to make it through the game instead of one.)\n• Persistent Upgrades: as you play 20XX, you'll earn Soul Chips, which unlock powerful Permanent Upgrades and expand the pool of items that can you can find as you play!",
+  "titleId": "0100749009844000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc3d4f9bbb98224474f607a8924f6f4ef07084cf438596f721da534f73256b2d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-14T20:36:07.694",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-19T18:50:18.739",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "cfba203",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-25T22:01:38.935",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JasonMaskell",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-02T12:50:42.682",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-25T18:20:33.239",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "f5705ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-25T22:48:30.898",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

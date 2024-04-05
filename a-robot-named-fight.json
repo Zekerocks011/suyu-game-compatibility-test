@@ -1,0 +1,41 @@
+{
+  "name": "A Robot Named Fight",
+  "description": "Millennia of peace have passed since the mechanical gods ascended and left the lower order robots to cultivate the world. Unfortunately for those left behind, something forgotten and terrible stirs amidst the stars: the Megabeast, a pulsating moon-sized orb of flesh, eyes, mouths and reproductive organs – unleashing its children onto the world like an unstoppable plague.\n\nA Robot Named Fight is a 2D action adventure roguelite focused on exploration and item collection. Take on the role of a lone robot tasked with stopping the entity known as Megabeast. Explore procedurally-generated labyrinths, uncover randomized power-ups and artifacts, find secrets, and blast meaty creatures in this deliciously gory adventure.\n\nKey Features:\nExplore a procedurally-generated labyrinth with more than 4 billion unique runs.\nProve your worth with true permadeath.\nTake on over 60 menacing enemies solo or with a friend via local co-op.\nAdapt to a different item set every run with more than 100 unique items\nComplete in-game achievements to unlock new content.\nEnjoy an unreasonable amount of meat!",
+  "titleId": "0100EB600A4DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/275e181c92170b4eaa6d0e783a49670b7892b40ba1e466ea171e295d052416e0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-08-26T18:00:55.005",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-24T16:55:41.419",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER",
+      "version": "692b1e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-26T12:24:30.444",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "cd4d1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

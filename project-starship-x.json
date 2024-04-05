@@ -1,0 +1,30 @@
+{
+  "name": "Project Starship X",
+  "description": "Project Starship is back with a wacky take on cosmic horror. In this rogue-lite shooter, you’ll take the role of the tentacled-yet-hip Swagthulhu as you CRASH-KILL comical abominations in flashy 16-bit style! With multi-purpose dodge mechanics and tons of crazy pick-ups, you’ll be able to crash your ship straight through the enemy and emerge unscathed. Project Starship X celebrates genre conventions by turning them upside-down!\n\nFeatures:\n\n• Discover 14 levels with unique themes, 5 in each playthrough.\n• Use tank modules, bowling, throwable items, bombs, spoons and more!\n• Experience Mad Events that remix the action!\n• Challenge a variety of modes to put your skills to the test.\n• Enjoy unlimited replay value with procedurally generated elements.\n• Get in the mood with a pumping soundtrack and screen shake effects!",
+  "titleId": "0100EC5012BDE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/991db4196ce269f126b0c1a5f5049138d6e41d1474657a0d51b2a083623bf3c9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-03T20:41:22.963",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7d4854f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "9nOOm",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-03T19:12:43.066",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 with Max-Q Design",
+      "version": "6ee10f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

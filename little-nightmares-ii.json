@@ -1,0 +1,118 @@
+{
+  "name": "Little Nightmares II",
+  "description": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nWith Six, the girl in the yellow raincoat, as his guide, Mono sets out to discover the dark secrets of The Signal Tower. Their journey won't be easy; Mono and Six will face a host of new threats from the terrible residents of this world.\n\nWill you dare to face this collection of new, little nightmares?",
+  "titleId": "010097100EDD6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4dfb37171bdd954247af39a826e7bb700a52ae7c14b9fd5baa17c9a5be6aa965.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-03T03:35:39.193",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 3090/PCIe/SSE2",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-25T20:14:42.705",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-11T05:51:12.448",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-25T14:14:07.93",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 970/PCIe/SSE2",
+      "version": "b3a042e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TAKOYAKI_GAMES",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-20T18:29:24.977",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2070 with Max-Q Design/PCIe/SSE2",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "power12",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-01T02:28:33.751",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon RX 5500 XT",
+      "version": "302c42a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TAKOYAKI_GAMES",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-03T01:05:27.2",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2070 with Max-Q Design/PCIe/SSE2",
+      "version": "29c2075",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "power12",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-19T10:51:17.257",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon RX 5500 XT",
+      "version": "b12df54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-18T15:41:57.345",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TAKOYAKI_GAMES",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-20T07:48:49.476",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2070 with Max-Q Design/PCIe/SSE2",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "MagiCat",
+  "description": "MagiCat takes players on a quest to retrieve a stolen artifact and explore the astounding magical worlds of the MagiCat universe. Using  the powers of dashing, high jump, and fireball, along with items that can be unlocked as the story progresses, players must help MagiCat regain the world’s lost relic. Players will indulge in a memorable adventure packed with excitement and addictive gameplay.\n\nThe game features:\n- Handcrafted retro experience ranged from the colorful pixelated art, nostalgic music, and classic platformer gameplay mixed with modern elements.\n- World map with many secrets to explore.\n- 63 levels each with their own unique boss battle spread across 7 worlds.\n- Gorgeous level design with a learning curve that will satisfy those that love to face challenges.\n- Various unlockable skills and color schemes for the main character.",
+  "titleId": "01008E500BF62000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8ebf180b4b9c0aba85f55ad3a5dc33f56d2a86dd798c2680c8bf21d5ab5634e9.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-27T09:25:01.922",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

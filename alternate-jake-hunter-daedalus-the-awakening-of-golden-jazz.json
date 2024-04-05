@@ -1,0 +1,19 @@
+{
+  "name": "Alternate Jake Hunter: DAEDALUS The Awakening of Golden Jazz",
+  "description": "That was one month ago today.\nSomeone has murdered Saburo's grandfather, Kyosuke, while he was living in New York.\n\nSaburo sets off to New York to sort through the belongings and memories his grandfather left behind.\nThe nostalgia of the cityscape and reunions with old friends is fleeting, however.\nHe soon discovers that his grandfather's last word was, 'Daedalus.'\n\nWhat does it mean?\nWhy was my grandfather killed?\n\n\"Remember, Saburo: tend the orchard of your mind.\"\n\nKyosuke's words and teachings on the art of thinking are just distant memories.\nAnd yet, young Jinguji Saburo who is alone in the world, takes up the gauntlet for himself and for his late grandfather!",
+  "titleId": "0100C3D00D1D4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/660b544f950053cb84ee5b7efe6553e71d544e75470f828c5472461b4819789f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-25T10:51:06.114",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "0159182",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

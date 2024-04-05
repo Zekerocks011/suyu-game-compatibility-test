@@ -1,0 +1,30 @@
+{
+  "name": "Trailblazers",
+  "description": "Get ready for high-speed thrills with an explosion of colour in Trailblazers, the first-ever second-to-second co-operative arcade racer. Paint the track as you go to dynamically change the racing line, boost on your team's colour and outwit the opposition in a sprint for the finish. The more you paint, the faster you can go!\n\nTrailblazers is an innovative co-operative racer with groundbreaking on-track gameplay. Racing in teams of up to three-versus-three, players paint the track to create the best racing line, then use that paint to boost up to insane speeds. Drive with flair and style to gain skill points and blaze your way to victory! Experience blistering high-speed action with up to six players online, or locally via split-screen for up to four local players with additional online or AI-controlled challengers. \n\n• Paint the track as you race and create your own dynamic racing line to boost on… no two races are ever the same!\n\n• Work together with your teammates to paint, boost and race better than your opponents, racking up points for driving with skill and flair.\n\n• Multiple game modes - 3-on-3, partner races, solo sprints and more - plus a full story campaign to discover.\n\n• Play solo or split-screen with friends either locally or online against people from all round the world - including cross-platform!\n\n• Switch exclusive content! Race against others locally with a new character and car, or dive straight into cup tournaments to take home the gold!",
+  "titleId": "0100BCA00843A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/aecd9e523f46c422c2af1dd9b13402a606287d1ad7e849406fb12130a9513a49.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-26T12:37:14.968",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-29T19:57:13.284",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "5758498",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

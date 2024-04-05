@@ -1,0 +1,118 @@
+{
+  "name": "Good Job!™",
+  "description": "As the clumsy child of a CEO, you must climb the corporate ladder one office-themed puzzle at a time! Complete puzzles in multiple ways as you experiment with the interactive environments—a projector can be wheeled gently through an electric door…or catapulted through the wall. So toil (or tumble) your way to the top and make your father proud!\n\nYour job duties can vary from fixing the office’s internet connection to cleaning up experimental goo. You may bump into your coworkers or knock over a priceless item or two in the process, but as long as you get the job done you’re one step closer to the executive suite! True star employees can also replay stages to try to earn a higher score by maximizing speed while minimizing damages.\n\nPass a Joy-Con™ controller to a friend (or coworker) for some help solving puzzles, divvying up tasks, or collecting in-game outfits. Whether you’re playing alone or with a friend, Good Job! turns sometimes-mundane office dealings into a puzzling and hilarious take on climbing the corporate ladder.  \n\nThe dress code at your father’s company is…flexible to say the least. By exploring the office’s many departments, you can find over 100 in-game outfits hidden throughout. These looks range from business casual to Viking chic, so you can leave the suit at home and let your true colors show!\n",
+  "titleId": "0100B0500FE4E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bfa2af93d02bdb8e79ed222bcbc5dfdd3386434bda08a7bdc431a9aef9341377.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-04T22:06:41.847",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "eca4ae6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ashley",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-24T05:04:33.03",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "2fcd46f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-20T12:42:15.576",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "50a66d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-17T12:13:17.586",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "fddc180",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-12T21:58:05.33",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "01f58b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-21T20:57:21.896",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-20T01:50:51.347",
+      "cpu": "AMD Phenom(tm) II X4 960T Processor",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "aeb4164",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-12T22:05:06.241",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9a5a85e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fander",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-13T09:53:56.2",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "5725f83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "szd1348497554",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-15T18:53:58.203",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 6600 XT",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

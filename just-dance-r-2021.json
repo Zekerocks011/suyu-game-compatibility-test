@@ -1,0 +1,118 @@
+{
+  "name": "Just Dance® 2021",
+  "description": "Just Dance® 2021 is the ultimate dance game, with 40 hot new tracks from chart-topping hits like \"\"Rain On Me\"\" by Lady Gaga & Ariana Grande, \"\"Kick It\"\" by NCT 127, and \"\"Ice Cream\"\" by BLACKPINK x Selena Gomez. Start a dance party your friends and family can enjoy!\n\n- Dance to over 600 songs with the Just Dance® Unlimited subscription streaming service. One month FREE included with the game!\n- Play with friends and share the fun with co-op mode!\n- Dance the way you like by creating your own personalized custom playlists. \n- Enjoy eight new kid-friendly songs and choreographies for a family-fun experience.\n- Use your smartphone to track moves with the Just Dance Controller app – no additional accessories required! Up to six players can join!\n\n",
+  "titleId": "0100BF9011B52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/92d331673b8fe8163e9fa7aa4fbaba1d4aa2aa3dc8ca353210fcd4848b8fe761.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-18T18:17:38.073",
+      "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "49f8b7b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-11T19:53:46.574",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LerainL",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-02T21:03:15.527",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-07T02:47:12.167",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Sniibi",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-10T23:56:04.182",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2",
+      "version": "9a47a2f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-17T14:47:20.865",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6f75a05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-02T17:03:06.217",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Maxban6915",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-05T13:36:56.621",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "e4d13c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jsolano27",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-29T15:31:37.602",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "6ef6910",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-18T11:19:53.999",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "e04c91f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

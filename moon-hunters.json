@@ -1,0 +1,74 @@
+{
+  "name": "Moon Hunters",
+  "description": "Create your own legend in a 1 to 4 player co-operative personality test! Explore a mystical Mesopotamian-inspired world that's different every time you play. When the moon does not rise over Issaria, monsters to infest the land and cause chaos. You must set out alone or with the other chosen children of the Moon to solve the mystery and restore balance. You have only 5 days before King Mardokh and the Sun Cultists declare war. The Nintendo Switch™ console version includes the Eternal Echoes DLC, as well as three exclusive new companions to find in the world!",
+  "titleId": "01004FD00382A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2e309b68c9fd04c3c0e05391d5d1a7907a9a273d9dfc49810d5ff78e030a3ea1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-15T07:41:13.862",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c922c5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-17T23:58:33.926",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "620537f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-10-04T08:34:02.96",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "1485528",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-27T10:48:43.581",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-17T23:58:26.506",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "620537f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-10-03T19:36:34.794",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

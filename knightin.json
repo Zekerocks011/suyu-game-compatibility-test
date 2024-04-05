@@ -1,0 +1,19 @@
+{
+  "name": "Knightin'+",
+  "description": "Join brave Sir Lootalot on his epic quest in this little adventure. Explore and fight your way through the four dangerous dungeons filled with dangerous traps, devious puzzles and magical artifacts.\n\nSurvive all four dungeons by unlocking new abilities and items that can help Sir Lootalot conquer his enemies. \n\nKnightin'+ is a classic adventure game inspired by many of the amazing masterpieces from 90s.\n\nFeatures:\n * Classic adventure gameplay \n * Tongue-in-cheek story (that shouldn't be taken seriously by any means)\n * Stylish pixel art graphics\n * Groove to a catchy original soundtrack while exploring!",
+  "titleId": "01005F8010D98000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8870febc824d52b8012292f51d261fa37e913f654cd70b36c65fc9d75e2e9fc7.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-26T17:43:30.257",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

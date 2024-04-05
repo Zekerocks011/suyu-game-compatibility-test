@@ -1,0 +1,30 @@
+{
+  "name": "League of Evil",
+  "description": "Use your acrobatic skills to punch your way through levels filled with deadly traps and defeat your enemies.\nThe world is counting on you!\n\nFeatures:\n140 challenging levels, divided into 4 chapters.\nClassic 8-bit style art style\nAwesome one punch decapitations!\nRocking chiptune soundtrack.\nSuper fast and challenging gameplay\nEach level has a briefcase to collect as a bonus challenge. Try to collect them all!\nBeat the levels as fast as you can to receive the highest score!",
+  "titleId": "01009C100390E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2fde5ee28aa532f3adaff86f01871ccfffe17f75e4808b69e2b1934d5579e8cb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T14:44:57.035",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Thomas_S",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-06T18:28:06.619",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "The LEGO Movie 2 Videogame",
+  "description": "The alien monster invaders have left Bricksburg in ruins and taken Emmet's friends! It is now up to Emmet and a host of heroic characters to go beyond their world and save their friends from the strange inhabitants of the Systar System. Journey into outer space, discover new worlds, and test your Master Building skills.\n",
+  "titleId": "0100A4400BE74000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e03b44dde42612e36979c06933287ca6856a12bda2872be31ee77817990cccfc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-06-16T20:10:36.39",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "571698a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-11T20:00:16.881",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "a82b611",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

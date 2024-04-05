@@ -1,0 +1,19 @@
+{
+  "name": "Othello",
+  "description": "The well-acclaimed boardgame for all ages, Othello is now on Nintendo Switch!\nPlay in the comfort of your home or outside, and play in a style that suits you best!\n\nA total of 16 levels of computer AI difficulty are available for Single Player Modes!\nHints on where the stones can be placed, and displays to show which tiles will be flipped in this move are also available to help new players understand the game better!\n\nTwo-player mode is also available!\nBoth players can play together on 1 Nintendo Switch by simply sharing the Joy-con, or simply operate directly on the Touch Screen!\nDo play with your family and friends!",
+  "titleId": "0100902001014000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6849ddb048e40fb5913b70226c8831d10b045ea61d6baf0b5cde397bfcacb7af.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-11T03:45:56.837",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "931c521",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

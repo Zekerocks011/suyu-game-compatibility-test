@@ -1,0 +1,30 @@
+{
+  "name": "1001 Ultimate Mahjong  2",
+  "description": "Mahjong Solitaire has attracted players from around the world for decades - it took us just a couple of years to gather their experience into one, beautifully crafted proposal. What is so addictive in this subtle, yet demanding at a time, pair matching game? Now you can find the answer on your favourite gaming console!\n\n\n• 1001 stacks within 11 different categories.\n• Refined user interface makes it as easy and intuitive on the Nintendo Switch as it could be.\n• Customization options to tune the game into your individual one.\n• 8 different tile sets ranging from classical to crazy ones.\n• 6 varied themes mean there is something for every taste.\n• Over 50 beautiful backgrounds.\n• Challenging or relaxing way to play.\n• ...and... just come back every day to solve a new puzzle!\n\n\n1001 Ultimate Mahjong ™ franchise wants to offer you the ultimate Mahjong experience. Since 2009.",
+  "titleId": "010063E00BBDC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/95662dba53bb0fb5144faa16aabfb8d35e758994536e789ff5e5b1e88450c8db.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T20:59:07.777",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-28T23:35:31.809",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "5091108",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

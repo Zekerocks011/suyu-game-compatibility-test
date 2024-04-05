@@ -1,0 +1,19 @@
+{
+  "name": "Moto Racer 4",
+  "description": "Moto Racer 4 is racing game you can play on asphalt or dirt.\n\nIn a world where freestyle and risk-taking dominate, impose your riding style all around the world. Impress your opponents and win races with class!\n\nMaster drifting, wheelies, sharp turns and other techniques to earn a place on the podium!\n\nCustomize and upgrade your bike! Progress through Moto Racer 4 and take in the stunning environments.\nFrom the United States to the Himalayas by way of the desert, Moto Racer 4 takes you through perilous, breathtaking courses at 100 miles an hour.",
+  "titleId": "01002ED00B01C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a181ff08c855fdd38922de257294cd3fe169be24a7e83c3dab2f74fd8aac59e5.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-05T01:57:36.787",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

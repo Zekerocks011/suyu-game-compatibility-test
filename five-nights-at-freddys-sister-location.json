@@ -1,0 +1,30 @@
+{
+  "name": "Five Nights at Freddy's: Sister Location",
+  "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\n\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.\n\nDon't hold it against us.",
+  "titleId": "01003B200E440000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b5078274773689c8fcda5fc7e5a646a5e2c3aa664c2abff9d64bb618186b0448.jpg",
+  "tests": [
+    {
+      "tester": "funtimeandrefoxy",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-08T15:29:00.238",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "bc88d05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "funtimeandrefoxy",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-08T15:28:26.146",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "bc88d05",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

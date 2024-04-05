@@ -1,0 +1,19 @@
+{
+  "name": "GIGANTIC ARMY",
+  "description": "GIGANTIC ARMY is a heartfelt homage to 16-bit era mech shooters.\n\nIt is the 21st century and Earth is at war with the Ramulons – an alien race determined to stop humanity’s advance into space.\n\nMankind’s war against the Ramulons has reached the planet Ramulon itself and it is now down to YOU to pilot the ‘GMR-34 SALADIN’ - a Manned Combat Robot - and take on the Ramulon army. Customize your arsenal of explosive, projectile and plasma weapons, and combine them with melee attacks, thrusters and shield to take the fight to the enemy and end the conflict!\n\nGIGANTIC ARMY boasts awesome retro arcade stylings, slick animation, superbly detailed character and stage design, and addictively frenetic game play.",
+  "titleId": "010067A00D35E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ab51faa2dcf60637ebeab746289bdc22a23324a024ddf5924416185e39924631.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-06T16:00:09.844",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

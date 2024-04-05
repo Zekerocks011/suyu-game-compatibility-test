@@ -1,0 +1,30 @@
+{
+  "name": "forma.8",
+  "description": "forma.8 is a unique take on the proven Metroidvania action-adventure formula, with a striking visual style and a huge world to explore.\n \nAs the small exploration probe forma.8 you're stranded alone on the surface of an alien planet. Separated from your companions by accident you have a life or death mission to accomplish: find and recover a lost, powerful energy source before it's too late. Ancient civilisations, great perils and dystopian visions await you. And not everything is what it seems...\n \nExplore a huge, open world full of secrets\n\nSolve ancient mysteries\n\nGain new power-ups to progress in your adventure\n\nFight deadly enemies and face powerful bosses\n\nDelve into a deep and cryptic lore\n\nBeautifully hand-drawn vector graphics, presented in silky smooth 60fps\n \nAre you ready to uncover the truth?",
+  "titleId": "01008EA00405C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0da5e6804791ed361884887972d064e993b6bfdfeb8aa14f81b133514683d522.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-07T08:49:52.852",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "7f82541",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T21:22:53.286",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

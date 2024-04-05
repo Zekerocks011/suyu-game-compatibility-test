@@ -1,0 +1,19 @@
+{
+  "name": "Frost",
+  "description": "IGN Greece 7.9/10\nGamePitt 9/10\nHandsomePhantom 8/10\nGamingTrend 8/10\n\nFrost is a deck-building, solo survival card game set on a harsh, frozen world ravaged by a lethal storm. You must lead a group of nomads in search of the Refuge – a haven away from the Frost’s icy grip. \n\nAs well as the unrelenting threat of the Frost, your arduous trek will be fraught with many other dangers, such as wolves, cannibals, hunger and fatigue. Manage your cards wisely to stay alive and make it all the way to the Refuge.\n\nKey features\n•\tChallenging survival deck-building gameplay, requiring anticipation, strategy and memory\n•\tDozens of cards to discover – card types include resources, weapons, ideas, dangers and regions\n•\tAn intriguing and immersive world\n•\tBeautiful hand-drawn artwork\n•\tHours of gameplay with difficulty modes, endless mode, scenarios and new cards to unlock\n•\tEncounter many different characters and make use of their abilities\n",
+  "titleId": "0100B5300B49A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a5ce8b69fd370b871ba081e59b095bf80e77e5891d84902ab933e276bfab30f2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T21:44:01.033",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

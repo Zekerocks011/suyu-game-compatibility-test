@@ -1,0 +1,30 @@
+{
+  "name": "My Friend Pedro",
+  "description": "My Friend Pedro is a violent ballet about friendship, imagination, and one man’s struggle to obliterate anyone in his path at the behest of a sentient banana. The strategic use of split aiming, slow motion, and the ol’ stylish window breach create one sensational action sequence after another in an explosive battle through the violent underworld.\n\nUnleash a torrent of destruction with an incredible level of control over both your weapons and your body. Twist and turn through the air while aiming both hands at priority threats or line up a perfect ricochet to drop an unsuspecting gangster from behind.\n\nBreak up the high octane running and gunning a bit with dynamic sequences like a thrilling motorcycle chase or slow it all down and take a moment to think through a series of clever (and possibly fatal) physics-based puzzles.",
+  "titleId": "010031200B94C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1fd8075f3740ab5b964f93baabb51b094036ed29073ed0ddd6f39e0900a4ae85.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-06-29T15:19:09.506",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SK_TATU",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-03T06:27:26.087",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "63f1dbd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

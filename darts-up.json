@@ -1,0 +1,19 @@
+{
+  "name": "Darts Up",
+  "description": "The ultimate darts game is now on Nintendo Switch™.\n\nDarts Up is a fun game of darts in which you will have complete control over aiming thanks to the motion sensor. You can play with your friends and family, up to a maximum of 4 Players.\n  \nThere is also a combo mode with special moves and, most importantly, an arcade mode with an online ranking table, where you can compare your best scores with friends and players from around the world.\n\nFeatures of Darts Up:\n\n- 4 Players in Classic, Combo and X01 modes.\n- Use the motion sensor to aim and view the surroundings.\n- New Arcade mode with Online Ranking!",
+  "titleId": "0100BA500B660000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/37556a2ec2dcdc97b018b76765242d796ea72179e6c879a081f27323be116e53.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T11:26:41.117",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

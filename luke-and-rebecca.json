@@ -1,0 +1,30 @@
+{
+  "name": "Luke & Rebecca",
+  "description": "～Story～\nSirens echo throughout the city once more.\nOn every street corner, the murmur of voices.\n\nThe Familiars,\na group of phantom thieves, have struck again.\n\nAnd they're all anyone can talk about.\n\nTheir identities and purpose are mysteries. \n\nBut they always get what they're after.\n\nSo if you're on their list,\nwatch out...\n\nBecause whatever's yours will soon be theirs.\n\nJust where will they strike next...?\n\n～Rules～\nYour goal is to find the diamonds hidden in each stage and escape.\nUse the various objects in a stage to locate the specified number of diamonds, then get out of there!",
+  "titleId": "0100A5A00B34E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1f25dd3b511a93258ec5c94a715051fd85caa3934c84e3d07447441d5c06e84e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-26T00:57:13.619",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "d2b0bd7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-03T20:15:52.9",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "d2433e8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

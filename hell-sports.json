@@ -1,0 +1,19 @@
+{
+  "name": "Hell Sports",
+  "description": "3 min to win. Aim for the top league in Hell!\n- Simple rules! While protecting your sinners and tank, score goals!\n- Prevent opponent's goals by using Hell Sports various skills! \n- 2 on 2 battle in 3 min! Co-play with your friends or play by yourself!\n\n10 unique characters available!\n- Unlock adorable characters and let them join your team!\n- Each character has various different skins!\n\nMake a strategy and develop your characters to be Stars!\n- Become the top team by increasing the fan base!\n- Challenge higher leagues by increasing each player's Star level. \n\nVarious game modes available!\n- League Match: Try out your skill!\n- Challenge Match: Play with particular rules!\n- Free Match: Play with your friends!\n- Online Match: Aim for the top!",
+  "titleId": "010036A01342C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d206c47eacc99adce8e75c93977b3219ffc0fd0bfc431df1a50801f09233146a.jpg",
+  "tests": [
+    {
+      "tester": "ong_ong",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-02T13:16:07.237",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "29fd3c0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "DAEMON X MACHINA™",
+  "description": "When the moon tore apart, the sky bled red with light, ushering in an apocalyptic new age…and to survive, you must fight. As a mercenary, defend Earth through high-speed combat against corrupted robots in a series of missions from the cockpit of your Arsenal, a fully customizable mech. Equip your Arsenal with a vast array of parts and weapons, obtain more from downed enemy Arsenals, and swap them on the fly to suit your strategy in the face of ever-rising threats.\n\nIn this brand-new action game from Kenichiro Tsukuda (Armored Core) and mech designer Shoji Kawamori (Super Dimensional Fortress Macross), your environment is your ally. Collect and use Femto Energy on the field to boost your stats and create powerful mirages; or wield objects like cars and street signs as melee weapons and projectiles. For even more power, upgrade your physical combat abilities and learn new skills through body modification. It’ll also come in handy when you eject from your Arsenal and fight on foot using special weapons and abilities.\n\n• Defend Earth through high-speed mech combat against corrupted robots \n• Kenichiro Tsukuda, well known for his work developing the Armored Core series, and his talented team have developed this brand-new title with the goal of making it “the best mech action game” out there\n• The player’s avatar and Arsenal are fully customizable with a variety of options\n• Defeated enemies may drop ammo and weapons, which the player can obtain and use on the fly\n• Squad up with three other players* to destroy titanic bosses in online** Co-op mode\n• Mech designs created by Mr. Kawamori, who also worked on the Armored Core series and the Super Dimension Fortress Macross series\n",
+  "titleId": "0100B6400CA56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/20ed025aab6919ee83e73d394439bf7cf48d2c90f8dcfa5bc6835625b8375fa2.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-26T20:04:39.323",
+      "cpu": "Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-19T19:53:05.327",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c815be5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-18T13:04:15.232",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-03T05:45:23.364",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-10T12:17:15.741",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9aa3dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-21T13:09:53.782",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "38d5741",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-21T02:38:14.743",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-23T15:14:32.317",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Abee263",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-24T05:41:49.05",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-23T21:19:50.725",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

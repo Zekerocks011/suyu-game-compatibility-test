@@ -1,0 +1,30 @@
+{
+  "name": "Beholder 2",
+  "description": "Cold, gray, forbidding walls stretch to the sky. Massive oak doors conceal the most important secrets of the State. This is where fates are decided. This is the Ministry!\n \nWelcome, intern!\nYou are now a part of the SYSTEM!\n \nWe have entrusted you with work of great importance. As part of the Ministry, you are expected to perform your duties with impeccable thoroughness.\n \nWhile you are now at the bottom of the career ladder, that is more than many of your fellow citizens will ever achieve! You will work hard for the public good and help thousands of citizens. Your efforts won't go unnoticed. In fact, the Wise Leader himself will decorate you with official honors!\n \nYet...\nYou are not going to dust off the applications of insignificant citizens, are you? No, pushing papers is not your cup of tea! Your goal is the Prime Minister's seat! You'll get there, too, and destroy anyone who dares to stand in your way! Scheming and blackmailing are just the tip of the iceberg – and the ends justify the means!\n \nBut…\nHow did you end up here? Could you have landed this job on your own? No, that would have been next to impossible! So, who sent you and – more importantly – why?\n \nThey want what?? NO!! No one can know this! Otherwise, your will career end before it begins! \n \nHow are you going to do what you must do? Are you even going to pursue that goal? After all, you are now an officer of the Ministry, with the power and freedom to shape your own future!\n \nSo what will you become?\nThe choice is still yours to make!",
+  "titleId": "01000DF00EBBA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7c36902db50251dd8947749f580924b798137628c687451ee93f924d05654e9c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-25T15:16:04.759",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dea7c08",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-02-06T10:51:47.975",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

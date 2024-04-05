@@ -1,0 +1,19 @@
+{
+  "name": "The Legend of Dark Witch",
+  "description": "Syega Crystals gave their powers to the people of the world, but somebody has stolen all of them...\n\nAfter all the Syega crystals are missing, the world plunges into darkness. As the dark witch Zizou, you must retrieve the missing Syega Crystals.\n\nThe Legend of Dark Witch is a 2D platform action game. Zizou can learn new attacks by defeating bosses. She will need every one of those attacks if she is going to save the world.\n\nOther Features:\n\n-A magical world beautifully depicted through in-game graphics.\n-Diverse levels that provide a fair challenge.\n-Additional bonuses that reward those who replay the game.\n-3 difficulty modes.",
+  "titleId": "0100B1900F0B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8000fc5c1183f2e1fb016d84531ce7bf871996bac7ff05ca80df011381a3ee87.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-11T04:17:31.665",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2b4661d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

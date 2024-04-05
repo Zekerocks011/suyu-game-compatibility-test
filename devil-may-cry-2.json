@@ -1,0 +1,19 @@
+{
+  "name": "Devil May Cry 2",
+  "description": "Dance with the devil once again. \n\nSet some time after the events of Devil May Cry, this sequel adds even more moves to Dante's arsenal and brings it to the next level of stylishness. Use the wall run to get the vantage point on your enemies, then assault them with a spinning barrage of bullets using Rain Storm. Reprise your role as Dante, or play as the new femme fatale, Lucia, who prefers deadly throwing daggers to bullets and utilizes her speed with ninja-like reflexes. Build up your Devil Trigger gauge, then transform into a powerful demon with enhanced power and speed. While in demon form, Dante and Lucia can also utilize Devil Hearts - amulets that give them special powers like the ability to fly, super speed or even slowing down time.\n\nDevil May Cry 2 also introduces the unlockable bonus mode, Bloody Palace - where players can earn Red Orbs while trying to clear wave after wave of enemies.",
+  "titleId": "01007CF00D5BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/37cf30b1c9e5a3c4a4bdbbe501c4cf8431cc1ad9aa1d1a3bf854bf58c9881396.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-23T01:23:14.561",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

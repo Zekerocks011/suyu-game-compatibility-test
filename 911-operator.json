@@ -1,0 +1,41 @@
+{
+  "name": "911 Operator",
+  "description": "In 911 Operator, you take on the role of an emergency dispatcher, who has to rapidly deal with the incoming reports. Your task is not just to pick up the calls, but also to react appropriately to the situation – sometimes giving first aid instructions is enough, at other times a police, fire department or paramedics’ intervention is a necessity. Keep in mind that the person on the other side of the line might turn out to be a dying daughter’s father, an unpredictable terrorist, or just a prankster. Can you handle all of this?\n\nSpecifically redesigned for Nintendo Switch™, 911 Operator lets you put your patience and management skills to the test, whether you're eager to save lives on the go or want to give out orders from the comfort of your couch with a Pro Controller.\n\nPLAY IN ANY LOCATION IN THE WORLD\n\nOver 900 cities from all around the world. The Free Play mode lets you choose a city to play on along with real streets, addresses, and the emergency infrastructure. You can also try the Career mode, which contains 6 cities with unique events – survive an earthquake in San Francisco and save Washington, D.C. from bomb attacks.\n\nMANAGE TEAMS\n\nA number of police, fire department and paramedic units are at your disposal. The forces may use a variety of vehicles (from common ambulances to police helicopters), essential equipment (e.g., bulletproof vests, first aid kits, or technical tools) and consist of team members with different abilities.\n\nKey features:\n\n- Opportunity to play on over 900 cities in the world!\n- Expansive Career mode, featuring unique calls and events.\n- Nintendo Switch exclusive World Map feature that allows you to pick any location you want to play!\n- More than 140 types of reports to encounter. \n- 12 types of emergency vehicles (including helicopters, police cars or motorcycles).\n- Real first aid instructions.",
+  "titleId": "0100CF10099B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f531ce03bed2f08840a7cd30d3e657bd22d13bf3e4c13009d3a3e8516e41a4a0.jpg",
+  "tests": [
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-14T09:10:52.924",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "bf6ebec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-19T18:55:07.887",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "cfba203",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-30T20:06:18.381",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "28cf846",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

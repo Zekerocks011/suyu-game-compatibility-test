@@ -1,0 +1,30 @@
+{
+  "name": "Sniper Elite 3 Ultimate Edition",
+  "description": "Sniper Elite 3 is a tactical World War 2 third-person shooter with stealth gameplay, authentic ballistics and huge open levels. \nStalk your targets through the canyons, oases and cities of North Africa, as you sabotage a Nazi super-weapons programme that could end Allied resistance for good.\nUse stealth, planning and skill to hunt your targets. From long distance sniping, to melee takedowns and explosive traps, you are as deadly up close as you are from afar. \n\nAUTHENTIC SNIPING – Distance, gravity, wind and even your heart rate affect the shot\nMULTIPLAYER & CO-OP – Compete with up to 4 players local and 8 players online, or team up and play the Campaign, Overwatch and Survival mode in 2 player co-op\nX-RAY KILL CAMERA – Watch bullets rip into organs, bones, and even vehicles, or turn it off to focus on the mission at hand\nALL DLC INCLUDED – Includes 4 extra Campaign missions, extra weapons and more\nNINTENDO SWITCH™ EXCLUSIVE CONTROLS – Enhanced Pro Controller support and motion controls",
+  "titleId": "010075A00BA14000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df4358b45078a022478efc37d8ac88424a990db7498719fcd82b7ac656fdca9e.jpg",
+  "tests": [
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:36:56.895",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T22:56:13.335",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

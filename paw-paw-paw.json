@@ -1,0 +1,30 @@
+{
+  "name": "Paw Paw Paw",
+  "description": "Paw Paw Paw was a peaceful and prosperous kingdom until one fateful day, when the King had decided to enforce everyone to wear pants.\n\nYou play as part of the resistance group ANTIPANTS, in their effort to bring down the King. Hack and slash your way to victory, and beat all your enemies into pulps!\n\nFeatures:\n* Play single player or local co-op up to 4 players\n* Level up your character\n* Unlock new combos\n* Loot and equip new weapons\n* Hire a companion to help you in battle\n* Ride your mount into battle",
+  "titleId": "01008E2013144000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/82fac735caa2597dc1ea13069aca36d8f12f767b63cf863a129a95c59c619af1.jpg",
+  "tests": [
+    {
+      "tester": "Winston_Lycan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T20:18:02.461",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "22f9fc7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-07T08:43:38.43",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

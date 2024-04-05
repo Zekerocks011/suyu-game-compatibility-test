@@ -1,0 +1,19 @@
+{
+  "name": "Legend of Kay Anniversary",
+  "description": "\"Mastering others is strength. Mastering yourself is true power.\" - Lao Tzu\n\n10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.\n\nExperience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving\n\nMeet, befriend or fight loads of quirky animal characters like Gorillas, Rats, Foxes, Hares, Pandas and Frogs\n\nLearn to master various weapons and special skills to defeat hordes of well-armed enemies\n\nConfront huge bosses to test your Martial Arts skills\n\nDiscover and secure the treasures of the demons’ underworld\n\nExplore a world inspired by the threats and beauties of ancient China, by foot, well, paw, or on the back of a wild boar, a wolf or even a dragon",
+  "titleId": "01002DB007A96000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5b591cc2888c488c635da8d61bf80827da2172630a0ca42c6f0f01fc66386789.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-07-24T08:18:58.221",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

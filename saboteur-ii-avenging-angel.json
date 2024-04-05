@@ -1,0 +1,19 @@
+{
+  "name": "Saboteur II: Avenging Angel",
+  "description": "Saboteur II: Avenging Angel is the second part of the classic retro game hit made by Clive Townsend in 1985 for the ZX Spectrum 8-bit computer. In 1985 Saboteur! received the prestigious award \"The Crash Smash\" from Crash magazine and was high-rated with a 93% score. In 1987 Clive made the sequel Saboteur II: Avenging Angel - the first video game to feature a female protagonist - Nina - sister of the ninja from the first part of the game.\n\nNow after 32 years SimFabric in collaboration with Clive Townsend have prepared the special remastered version of Saboteur II: Avenging Angel for Nintendo Switch™.\n\nIn the game you'll experience the original mission from 1987 version. Additionally the story will continue with new levels and enemies. Now you'll be able to know more about sister of Saboteur and her dark and secret mission.\n\n- Original mission from 1987 in five versions ZX Spectrum, Commodore 64, Amstrad CPC, MS DOS, Special Retro\n- New levels\n- New enemies\n- New story\n- New soundtrack and music\n- Over 10 hours of gameplay\n- 5 retro consoles graphic modes\n- Retro special effects\n- Restro original music, graphics\n- 8 language versions\n- 22 special achievments\n- Secrets and easter eggs to reveal",
+  "titleId": "010007700CFA2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/503c5f267dc37cb62fa87e46efd0f35f976656574f8f95894d18606fe88e5c70.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-29T16:47:51.347",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

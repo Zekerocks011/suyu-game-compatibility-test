@@ -1,0 +1,52 @@
+{
+  "name": "Super Neptunia RPG",
+  "description": "Story\nThe self-proclaimed hero, Neptune, awakes in a familiar world, but has no recollection of anything other than her name. With the help of a mysterious girl named Chrome, as well as three other familiar faces beloved in the Neptunia™ series, Neptune embarks on a journey through the mysterious dimension to try to regain her memory.\n\nLittle do they know, the world they inhabit is under attack by an enemy who wants to take civilization back to the time where 2D reigns supreme. \n\nCan Neptune and her friends save the world and 3D games as we know it, or will they be flattened into two dimensions forever?\n\nKey Features \nNew Me in 2D – Your favorite Goddesses jump from three dimensions to two! Artisan Studios and Compile Heart proudly present new, vibrant backgrounds and newly developed 2D animations hand drawn in this action-inspired side-scrolling RPG! With Artisan Studios and Tsunako collaborating to create new background and character art, fans and newcomers alike can see Gamindustri in a new 2D perspective.\n\nWhere You Lead, I Will Follow – With four Goddesses to rotate on-the-fly during battle, players can change their formation type and unleash devastating attack combos. Depending on which Goddess is leading the pack, players can strategize attacks from four different formations: Strike, Magic, Support and Heal!\n\nGoddess ‘bout to Break! – Strut your stuff and dish out your special Break Attack to ensure victory! Armed with their classic ability to transform, the Goddesses gain additional stat bonuses that enhance their attacks and lay waste to any enemy!\n\nPut a +2 Str Ring On It – Strengthen your Goddesses by utilizing Skills and Abilities that can be unlocked with weapons, armors, or accessories! Strategically assign Skills and rearrange your abilities for each battle.",
+  "titleId": "01004D600AC14000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cbcb2c21d929df5c2324542c4cb2fc0c438fd7ceb85a1ed67ee8b55b85e76492.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-01-01T19:05:31.25",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9ae9355",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T15:29:23.97",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-13T00:36:47.862",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-05T00:41:32.565",
+      "cpu": "       Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

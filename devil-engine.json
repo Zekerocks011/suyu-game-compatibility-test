@@ -1,0 +1,74 @@
+{
+  "name": "Devil Engine",
+  "description": "Gameplay\nDevil Engine is a high octane, classic styled side scrolling shoot-em-up heavily influenced by the best in the genre from the 32-bit era, featuring a variety of incredible locations, hand drawn pixel art, and a blood-pumping soundtrack that brings the dark future to life.\n\nFeatures\n\n- Use 3 shot types with unique bombs to destroy everything in your path.\n- Build a point multiplying combo with careful play and expend it with a bullet absorbing burst.\n- Compete across 8 game modes for score supremacy.\nLeave a wave of carnage across 6 incredibly detailed stages.\n- Points aren’t just for collecting! Spend your accumulated points to unlock in-game shaders, additional music, stages and playable ships.\n- Featuring pulse pounding music tracks composed by famed shmup composer Hyakutarou Tsukumo.",
+  "titleId": "010031B00CF66000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0d7316ed40d95a323434c4decc36d4a67f36dd5f2688acb5ad77708ad298a3a4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:31:20.779",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-06-28T07:34:58.038",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7d4854f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-07T20:33:43.319",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "f65a442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T15:35:25.662",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-04T15:22:12.965",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-18T17:03:29.386",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "a2e5c55",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

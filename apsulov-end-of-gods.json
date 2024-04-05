@@ -1,0 +1,19 @@
+{
+  "name": "Apsulov: End of Gods",
+  "description": "Apsulov: End of Gods is a future Viking horror and sci-fi adventure unlike any other.\n\nThe humans dug deep below the earth to find the mercy of the gods. What they found was never meant to reach the surface. Not on Midgard, nor any of Yggdrasil’s realms.\n\nYou wake in a facility built to research the worlds of Yggdrasil. Survive lurking dangers as you journey through a world of technology and mythological artifacts, where chaos rules over the human realm. It is in this chaos that you find your purpose and destiny.\n\nKey Features\nExplore a nightmarish sanctuary of futuristic technology and Norse mythology\n\nExperience first-person horror in uniquely atmospheric environments\n\nMaster otherworldly artifacts and the secrets of Yggdrasil",
+  "titleId": "01008560110C6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3b5c9e1a45b4c07d89579b4097a0139ef9f7b1bb8e6eee2dade09306ec6fada4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-30T17:44:47.986",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "94b0256",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

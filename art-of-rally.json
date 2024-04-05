@@ -1,0 +1,41 @@
+{
+  "name": "art of rally",
+  "description": "\"\"To do something dangerous with style is art...\"\"\n\nart of rally is a stylized experience inspired by the golden era of rally from the creator of Absolute Drift\n\nRace across the world through colorful and stylized environments in top-down view.\nCompete for first place in the leaderboards with daily and weekly challenges.\n\nWill you master the art of rally?\n\n- Experience the golden era of rally in Career mode, travelling across 72 stages from Finland to Sardinia, Norway, Japan, Germany and Africa.\n\n- Get behind the wheel of your favorite vintage cars, ranging from the 60’s to the 80’s, Group B, Group S and Group A.\n\n- From beginner-friendly options to driving modes that’ll challenge the most expert drivers, all players can tackle the races using their favorite rally driving tricks: Scandinavian flick, counter steering, left foot braking, handbrake turns.\n\n- Get your name at the top of the Leaderboard in our daily and weekly challenges.\n\n- Show off your driving skills, or simply your favourite landscapes, with the integrated Photo and Replay mode",
+  "titleId": "0100A88012504000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4e0e5fc8ed3b45104f38ddc1589ad44ff64cb5f7f1bea70a884f21cde9f1d32f.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-13T18:31:33.209",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "b8e2c74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-02T21:18:32.206",
+      "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "cd97bdf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VVi3ard",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-18T14:22:24.827",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "8677995",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

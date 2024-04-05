@@ -1,0 +1,19 @@
+{
+  "name": "The Bridge",
+  "description": "The Bridge is a logic puzzle game that forces you to reevaluate your preconceptions of physics and perspective. It is Isaac Newton meets M. C. Escher. Manipulate gravity to redefine the ceiling as the floor while venturing through impossible architectures. Explore increasingly difficult worlds, each uniquely detailed and designed to leave you with a pronounced sense of intellectual accomplishment. The Bridge exemplifies games as an art form, with beautifully hand-drawn art in the style of a black-and-white lithograph.\n\nKey Features: \n• 48 thought-provoking puzzles, each unique from the rest, all requiring an innovative solution.\n• Gravity manipulations, gravitational vortexes, parallel dimensions, and many more mind-bending concepts in a world where the laws of physics are not what they seem.\n• M. C. Escher-esque worlds with impossible architecture set in the style of beautifully hand-drawn black-and-white lithographic art.\n• An alternate version of the game unlocked after the main storyline has been completed, including challenging alternate versions of each of the 24 main puzzles, along with an alternate ending.\n• A time-backtracking system to alleviate any fears of making a mistake.",
+  "titleId": "01002A2004530000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8c6f2675796ea463fbba7a7952c2e59508e4ab7a81f5c2f58f82d168739d9b19.jpg",
+  "tests": [
+    {
+      "tester": "Patman111196",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-08-25T00:04:13.555",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

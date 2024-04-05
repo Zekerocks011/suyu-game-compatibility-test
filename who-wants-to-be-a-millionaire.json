@@ -1,0 +1,30 @@
+{
+  "name": "Who Wants to Be a Millionaire?",
+  "description": "Gather all your knowledge and get the jackpot while avoiding all the trick questions facing you!\n\nTHOUSANDS OF QUESTIONS\n\nWith 15 questions to answer, it will become harder and harder to increase the prize fund: over 3,000 themed questions waiting to be answered (geographic, science, history, but also entertainment or arts) with a growing difficulty...\n\n6 iconic countries are represented in the game, each with its own set and with a batch of 2,000 dedicated questions: the United Kingdom, the USA, Spain, Italy, France and Germany!\n\nUnlock questions packs by collecting “Neurons” in practicing/playing solo or with friends.\n\nSelect the themes you want to practice to improve your general knowledge and increase the odds of winning the jackpot.\n “Family mode\"\":  has been specially created with children-tailored questions included, for the players to play as a family no matter how old they are.\n\n\nPLAY BATTLE ROYAL\n\nUp to 100 players online in the battle royal mode\n “Battle Royale” mode: compare your general knowledge with up to 99 players online: the last man standing will be the greatest champion!\n\n\nNEW GAME MODES\n\n- “Cooperative” mode: team up with up to 3 other players and give the right answer together.\n\n- “Taking Turns” mode: compete with up to 9 other players in LAN by sharing the controller!\n\n- “Free-For-All” mode: answer the most questions in a row to earn bonus points: the one with the largest amount of points in the end will win!",
+  "titleId": "010027F0128EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d9e9f1e6227b2f662831770c601373ba464f212d1d84023395049410d9b32846.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-09T16:57:05.408",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "216a3f5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T09:56:19.065",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 780 Ti",
+      "version": "f83047e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

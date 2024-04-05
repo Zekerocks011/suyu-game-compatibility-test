@@ -1,0 +1,19 @@
+{
+  "name": "Pacific Wings",
+  "description": "Pacific Wings is a vertical scrolling shoot-em-up and it features retro-style-graphics.\nThe story plays during the \"Battle of Midway\" in 1942 where you have to fly an American P-38-airplane against all kinds of japanese airplanes.\n\nFeatures:\n- 20 incredible levels\n- Retro-style graphics!\n- 4 different weaponupgrades on your plane!\n- different enemies!\n\nIf you find bugs or have any suggestions to make \"Pacific Wings\" even better please tell us!",
+  "titleId": "010006900EF5E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5544e45ab2670051046814284a3f724868278e7e67d9edbbf7e936cf8a04f59d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-08T14:53:26.795",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

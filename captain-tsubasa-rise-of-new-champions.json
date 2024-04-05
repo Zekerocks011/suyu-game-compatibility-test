@@ -1,0 +1,85 @@
+{
+  "name": "Captain Tsubasa: Rise of New Champions",
+  "description": "Captain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.\n\nGet a real taste for the world of Captain Tsubasa through two story modes! To savor the drama alongside the action in Captain Tsubasa, we've prepared Episode: Tsubasa, a story mode where you can experience the events as seen in the anime. Additionally, become a part of the world of Captain Tsubasa, as you play through Episode: New Hero, an original story mode found in this game.",
+  "titleId": "0100EAE010560000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f152d5b9296e14bb85d165a357f2abe80b180b68963e2286636642b49e4acc35.jpg",
+  "tests": [
+    {
+      "tester": "envol",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-26T19:16:49.238",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070 with Max-Q Design",
+      "version": "ab679ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-08T19:48:53.491",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "envol",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-11T16:36:35.847",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070 with Max-Q Design",
+      "version": "ed4b9b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "phaMR2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-03T05:32:03.648",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "bcfe7aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-08T19:49:27.036",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-09-21T01:50:36.232",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "29f0098",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-08T19:47:39.905",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

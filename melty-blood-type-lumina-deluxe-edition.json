@@ -1,0 +1,52 @@
+{
+  "name": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition",
+  "description": "Early Purchase Bonuses:\n- Additional Content: Arcueid Round Announcements\nThese bonuses will be available to download for free until October 27.\nCustomers who purchase the game after October 27 will be able to get the bonus content as paid DLC.\n \nMelty Blood is reborn.\nThis is the latest addition to the series of 2D fighting games based on TYPE-MOON's visual romance novel, Tsukihime.\nThe curtain rises once more on dramatic battles played out with familiar characters from Tsukihime -A piece of blue glass moon-.\n \n◆ All-New Stories, Visuals, & Characters\nExplore an all-new MELTY BLOOD world from scenario writer Kinoko Nasu, based on the events of Tsukihime -A piece of blue glass moon-.\nUnique story events for each character give each playthrough its own feel, adding to the overall experience.\nVisuals have been updated with HD graphics, and include animation sequences by A-1 Pictures for special attacks.\nDialog is fully voiced and will change depending on which characters are brought into battle, giving more insight into the characters' interpersonal relationships.\n \n◆ Iconic Battle Systems\nUse characteristic Melty Blood mechanics such as Aerial Combos, Shields, Magic Circuits, Arc Drives, and Last Arcs, as well as a few new powerful techniques under the Moon Skill system. On top of that, an all-new simple control system has been implemented to make the intense battles a little more manageable, while also maintaining a balance which will allow both seasoned veterans and new players alike to fully enjoy the world of Melty Blood.\n\n◆ Online battles using rollback netcode\nMELTY BLOOD: TYPE LUMINA utilizes rollback netcode for stable online battles against other players.\n \n◆ Rich Customization & Gallery Feature\nCustomize your title, profile icon, and character outfits for battle. They can even be used in online matches!\nCollect visuals, opening cinematics, music tracks, voices, pixel art, and more in the gallery. You’ll even be able to take a look at guest illustrations created by artists connected to TYPE-MOON titles.",
+  "titleId": "01001E30126A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e4ba793564d957c3c6a8011291af26897e67489218511fa73eff0b7c2b6e56d5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-27T14:42:48",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "3c320a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-01T11:36:22.577",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PAtricio_Wenkulleo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-15T16:41:40.02",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-30T14:16:17.773",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "94b0256",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

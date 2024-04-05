@@ -1,0 +1,41 @@
+{
+  "name": "PAW Patrol: On a Roll!",
+  "description": "PAW Patrol is on a roll!\nNo job is too big, no pup is too small! The PAW Patrol is ready to save the day in Adventure Bay on 16 exciting rescue missions, but they can only do it with your help! Help each pup use their unique abilities to rescue friends and keep their community safe. Jump into eight awesome Adventure Bay locations, including Farmer Yumi’s Farm, Jake’s Mountain, a desert canyon, under the waves, and more! Get ready for fun puzzle-platforming action that is PAWfect for kids of all ages with all the pups of the PAW Patrol! \n\nFeatures \n• Ryder and all eight PAW Patrol pups, including Everest & Tracker!\n• 16 daring adventures set in 8 Adventure Bay locations!\n• Special pup abilities that need to be used for each rescue!\n• Playing as two different pups per mission! ",
+  "titleId": "0100CEC003A4A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbd5215d1823f0d5aca6c418ae0bf6826a3628a9b66569f32f316d0b6039c18e.jpg",
+  "tests": [
+    {
+      "tester": "rockhwd",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-19T01:33:58.203",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "47c7e6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-15T12:56:24.44",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c4d9f17",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "vlmaksime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-11T20:35:41.071",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "c5c6e14",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

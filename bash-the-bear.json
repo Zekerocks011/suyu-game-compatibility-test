@@ -1,0 +1,19 @@
+{
+  "name": "Bash The Bear",
+  "description": "Lead the squad of hedgehog commandos in reclaiming the mushrooms stolen by the lazy bear from the forest animals. Work out a plan, put your prickly friends in place, and light the fuze! Teach the old rascal a lesson – show him who is the boss here!\n\n\"Get ready to have real fun! Lead the squad of hedgehog commandos in reclaiming the mushrooms stolen by the lazy bear from the poor forest animals. Work out an elaborate attack plan, put your prickly friends in place, light the fuze – and let the explosive fun begin!\n\nUse powerful cannons, baseball bats, and everything else you have at hand to right the wrong in your own home. Teach the old rascal a lesson – show him who is the real boss in the forest!\"\n\n\"Get ready to have real fun! Lead the squad of hedgehog commandos in reclaiming the mushrooms stolen by the lazy yet ravenous bear from the poor forest animals. Time to restore justice! Work out an elaborate attack plan, put your prickly friends in place, light the fuze – and let the explosive fun begin!\n\nKeep in mind that a couple of dynamite crates can solve any problem! Teach the old rascal a lesson – show him who is the real boss in the forest!\"",
+  "titleId": "010023300CD52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f8bf3d19a3e849dce2c75189385fb4bb99cf211c9b103d7db0f73629e184e8dd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:47:36.807",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

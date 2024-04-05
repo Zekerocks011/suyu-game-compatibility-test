@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO STAKES WINNER",
+  "description": "\"STAKES WINNER\" is a realistic jockey action game released in 1995 by SNK. Use skills such as showing the whip, formation split and hyper dash, collect items on the course, and power-up your beloved horse in this multifaceted game. Ride with your horse through a variety of races as you aim to conquer the GI.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01004B600A2FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/21bce89f70b54b020022b8e1ee78fc2e3dc6d677f3eb4c721b17637e87519fd0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T22:47:22.657",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

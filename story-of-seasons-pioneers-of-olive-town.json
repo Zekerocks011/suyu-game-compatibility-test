@@ -1,0 +1,118 @@
+{
+  "name": "STORY OF SEASONS: Pioneers of Olive Town",
+  "description": "Welcome to Olive Town, a peaceful community established by your trailblazing grandfather and his friends. Now that you've taken over his farm, it's your job to carry on his legacy.\n\nPlant crops, raise animals, build relationships, and get to know the residents of your new home in this brand-new entry in the STORY OF SEASONS series!\n\n▪Cultivate Your Farm, Cultivate Your Town\nTame the wilderness and build your farm from the ground up! Gather and process materials to fulfill requests and improve Olive Town's infrastructure, upgrade tools, or commission new outfits and accessories.\n\n▪A Farm of Endless Possibilities\nClear the land, repair old facilities, and place new ones wherever you see fit. Level up your farming skills and craft a variety of decorations and facilities, from fences and automatic feeders for livestock to sprinklers for crops!\n\n▪New Adventures Off the Beaten Path\nFinding Earth Sprites while exploring your farmland may lead you to mysterious, fantastical lands such as gardens where the seasons never change, an island in the sky, or even the inside of a volcano!\n\n▪There's Always Something Going on in Olive Town!\nParticipate in local festivals and watch the town come to life! Get to know your neighbors better with over 200 unique events, and you may even find love with a special someone!",
+  "titleId": "010082E012A84000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ee46ed08fc5baea136ab1977701c2e6f6fd984bf5ada28f90dc44577ac728a4e.jpg",
+  "tests": [
+    {
+      "tester": "AmirRozila",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-25T23:34:31.056",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "AMD Radeon (TM) R7 360 Series",
+      "version": "0ed706e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Obelos",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-25T13:33:23.609",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "7b6ef79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-27T11:01:04.985",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AmirRozila",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-25T23:34:08.716",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "AMD Radeon (TM) R7 360 Series",
+      "version": "0ed706e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-25T07:55:53.767",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "7e444d3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T05:29:39.41",
+      "cpu": "AMD A10-9700 RADEON R7, 10 COMPUTE CORES 4C+6G ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-31T18:07:53.659",
+      "cpu": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "db61bcb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zenverse",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-05T04:37:14.837",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "eca4ae6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-31T21:20:17.858",
+      "cpu": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "db61bcb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-03T05:33:03.835",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "ddf3c23",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Super Hydorah",
+  "description": "An evil force has launched an invasion over the Omios star! Fly with the space fleet in a campaign to liberate planets, destroy enemy bases and discover the misterious force behind the attack. Biomechanical enemies, space creatures, exotic planets and climatic threats are waiting for you, so select a route, equip your ship and prepare to die!\n\nSuper Hydorah is a side scroller non-linear SHMUP which gives the player a challenging experience with the best from the greatest classics of the genre: straightforward action, old school visuals and a wide array of content with unique space settings.\n\nFeatures\n\n· Easy to learn, hard to master!\n· 21 levels divided into 35 sublevels, 35 bosses and more than 100 enemies\n· 3 game modes: single player, co-op multiplayer and the minigame robot chase\n· Non-linear level layout with route selection\n· Analog and super precise control of your ship\n· Dangers of different nature in each level (not just bullets)\n· Weapon selection and power-ups in every mission\n· Original soundtrack with 60+ tracks\n· Secrets, multiple endings, trophies and rank system\n· CRT Monitor effect\n\n",
+  "titleId": "010099F00B374000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c2a6d36e2125fd4e95ae39192bfd461255371636d5884055826f89900899e6b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-17T02:29:01.873",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bc8e3b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-31T11:06:54.012",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d970b69",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

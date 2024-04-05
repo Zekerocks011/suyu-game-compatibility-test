@@ -1,0 +1,41 @@
+{
+  "name": "Livestream: Escape from Hotel Izanami",
+  "description": "<About>\nIn this side-scrolling action-adventure game, you'll need to scour the inside of an abandoned hotel, looking for clues to solve the mystery of the hotel and ensure your escape from a mysterious, murderous mascot intent to kill. \nThe fate of the girls' lives will change dramatically depending on your actions in the game. \n\n<STORY>\nOnline streamers Mio Ikoma, Nana Sakurai and Azusa Shiraishi travel to the locally famous haunted resort, the Hotel Izanami, at Nana's request to shoot a video there.\nIt would be a film shoot at an average haunted location with no particular legend attached.\nTo finish shooting without a hitch and get an end result that was vaguely horror-esque...was all they wanted.\n\nDuring filming, Mio gets separated from the group, and suddenly gets attacked by a mascot costume that has come to life. \nFrom that point on, the trapped girls are at the mercy of numerous horrors throughout the hotel. \nWhy is a mascot trying to harm them, and why have they been shut in to the hotel with no escape?\nCan the three girls escape from the hotel with their lives?\n\nA livestream set in an abandoned hotel begins...\n\n<SYSTEM>\n■Run from the mysterious mascot chasing you, and escape from the abandoned hotel!\n\nWhile exploring the inside of an abandoned hotel, a mascot swinging a bloody hatchet suddenly appears and starts chasing after the three streamers! \nWhen you encounter the mascot, run away quickly, hide yourself, and escape from its pursuit. One hit from the mascot's hatchet will lead to instant death (game over). \n\n■Use hints and items to help you find clues on how to escape!\n\nWhile exploring the hotel ruins, you will come across various items and hints. \nSearch every nook and cranny of the rooms to get items and hints that will help you survive! \nSome items will greatly change the fates of the girls... \n\n■Is this a curse?! The livestreaming girls are cornered by the descent of a life-threatening horror!\n\nYou'll be met with various frights while exploring the hotel ruins. Investigate your surroundings to get hints and use items you find to help the girls escape from desperate situations. \nYou can even touch the girls, regardless of their plight... Is this also the work of the curse?!\n\n<CHARACTER>\n・Mio Ikoma　(CV:Haruka Yamazaki）\n・Nana Sakurai　(CV:Asuka Nishi）\n・Azusa Shiraishi   (CV:Satsumi Matsuda）\n\n<STAFF>\n・Character Design:Waon Inui\n・Scenario:C-Garden,Inc.\n・Producer:Yujiro Usuda",
+  "titleId": "0100E45014338000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/46a349f1340c1591834a79df21d5785e13afd162f50d0389b0db501d488bd022.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-23T15:05:02.003",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "fuhuan416",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-17T17:56:30.566",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "3e54a05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-28T01:19:09.958",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "cebacd9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

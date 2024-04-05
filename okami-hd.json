@@ -1,0 +1,118 @@
+{
+  "name": "OKAMI HD",
+  "description": "Experience this acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution.\n\nTake the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf Shiranui. Use magical abilities, attacks, and Celestial Brush techniques to restore the land of Nippon to its previous glory full of life and color. \n\nNot only can you play in both widescreen and and the original 4:3 aspect ratio, you can now use the Joy-Con (in TV mode/tabletop mode) or touch screen (in portable mode) for intuitive, direct Celestial Brush controls.\n",
+  "titleId": "0100276009872000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e41590ee10372b8887a187286311294e5e57de8f9fd5392cfe9c835f7040b8fb.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-16T03:03:18.833",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9530112",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-28T01:39:05.756",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3f28b77",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-14T01:50:38.566",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f5be216",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-22T19:20:17.988",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f276676",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-28T14:47:37.827",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5091108",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-26T01:43:50.502",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-19T13:41:46.669",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "403113f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Octolimar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-10T20:35:16.381",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "d294afe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-06T14:17:59.286",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-11T17:15:46.237",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

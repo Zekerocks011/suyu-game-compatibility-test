@@ -1,0 +1,19 @@
+{
+  "name": "Forager",
+  "description": "Forager is a 2D open world game inspired by your favorite exploration, farming and crafting games.\n\n- Gather, collect and manage resources.\n- Craft useful items & structures.\n- Build and grow a base out of nothing. Buy land to expand and explore.\n- Level up and learn new skills, abilities, and blueprints.\n- Solve puzzles, find secrets and raid dungeons!\n- Achieve anything you want! The choice is yours, you set your own goals to work towards!\n\nStart small and improve your base, skills, equipment, network of friends (and enemies!) and build your future as you see fit!",
+  "titleId": "01001D200BCC4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6b4fd75123392dcc44e4804c456af4974ab3d9c14ea297605d6ef483c310efa7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T05:31:25.619",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

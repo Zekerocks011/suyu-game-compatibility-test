@@ -1,0 +1,52 @@
+{
+  "name": "Battle Princess Madelyn",
+  "description": "Battle Princess Madelyn is a game that follows the journey of a young knight in training, Madelyn, and her ghostly pet dog, Fritzy. They set out on a journey to save her kingdom and her family from the clutches of an evil wizard.",
+  "titleId": "0100C4D0093EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2b508f48234de84ab197d5c23ab76b1b3baa3a1c08a536754a9ceaba78a87e75.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-06T06:29:30.617",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-06T06:27:58.724",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-01-07T21:47:19.043",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d39f2d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-06T06:34:41.222",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jotun: Valhalla Edition",
+  "description": "Jotun is a hand-drawn, action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla.\n\nExplore vast regions of Norse Purgatory to find runes to unleash the jotun, giant Norse elementals. Fight them using only your massive two-handed axe, the blessings of the Gods and your skills! \n\nFeatures: \nExperience beautiful hand-drawn animation, remastered for the Switch!\n\nFight five epic jotuns, giant Norse elementals \n\nExplore nine vast and mysterious levels filled with Viking mythology \n\nSummon powers bestowed upon you by the Viking Gods \n\nTest your skills in the boss rush Valhalla Mode, featuring fiercer versions of the mighty Jotun",
+  "titleId": "0100340009736000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7889f2dc5005c9e009e2041bb930f9d51b1b196e3132b2718c4cee3a211190f8.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-26T20:16:31.83",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

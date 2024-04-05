@@ -1,0 +1,19 @@
+{
+  "name": "RUINER",
+  "description": "RUINER is a brutal action shooter set in the year 2091 in the cyber metropolis Rengkok. A wired sociopath lashes out against a corrupt system to retrieve his kidnapped brother and uncover the truth under the guidance of a secretive Hacker friend. \n\nSophisticated & Brutal Combat: Become the boss of the battlefield acquiring deadly supplies, enhancing your tactical senses and mastering other mind-breaking skills and gadgets that will leave your foes confused and powerless.\n\nCyberpunk Inspired Arsenal: Employ state of the art gadgets and abilities like energy shield, kinetic barrier or grid converter. Dash augmentations, reflex booster or overload will make you uncatchable while with ghost break you can hack your opposition onto your side of the fight.\n\nStory-Driven Action: Violent confrontation is a means to an end and trust is a devalued currency in Rengkok as you navigate a senseless world and dismantle the corporate titans of virtuality dealers at HEAVEN.",
+  "titleId": "01006EC00F2CC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cba578836eb9328317f533c0c62dc2695712fee10572b4a3c721640b7530a8c0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-27T05:27:40.331",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

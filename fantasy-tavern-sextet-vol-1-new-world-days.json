@@ -1,0 +1,63 @@
+{
+  "name": "Fantasy Tavern Sextet -Vol.1 New World Days-",
+  "description": "You'll laugh! You'll cry! Set against the backdrop of a fantasy world's tavern, this slightly naughty, slapstick love-harem drama is about to begin!\n\n<STORY>\nOne day without warning, a young cook working behind the scenes at an Akihabara maid cafe suddenly gets spirited away to another world!\nThe new world he finds himself in is one of fantasy, where magic exists and monsters run wild.\n\nWithout a way to return to his own world and at a total loss, a monster appears out of nowhere and is about to attack him when, at the last moment, Lupine, the owner of the tavern \"Stray Sheep\" appears and saves his life.\n\nBrought to \"The Stray Sheep\" by his lifesaver Lupine, he finds nothing but a sad empty tavern with not even a single customer.\n\nWith nowhere to go, the main character decides to aid Lupine in reviving The Stray Sheep, knowing that if enough adventurers come by, one of them may know a way for him to return home.\n\nUtilizing the cooking skills he cultivated during his time in the maid cafe, can he be the one to save the tavern from its precarious management situation?!\nYou'll laugh! You'll cry! Set against the backdrop of a fantasy world's tavern, this slightly naughty, slapstick love-harem drama is about to begin!\n\n<STAFF>\nIllustration:WaonInui\nScenario:Linkedbrain Inc.\nProducer/Planner :Yujiro Usuda",
+  "titleId": "01000E2012F6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/060a6e2e9599d6c5095186643928b8cd277f151ad9c8daf00ee42d4d87aba971.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-02T18:23:28.013",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0bc79ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-01T20:49:27.206",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kayla_Duggan",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-18T08:19:24.397",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-30T10:56:46.501",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "f7d88bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-30T10:56:18.43",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "f7d88bc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

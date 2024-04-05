@@ -1,0 +1,19 @@
+{
+  "name": "Debris Infinity",
+  "description": "Debris Infinity is an action packed game that puts your reflexes to the limit, allowing you to manipulate time itself to make impossible maneuvers, using an advance scoring system to rank your performance!\n\nWith 3 different single-player game modes you can test your skills in exciting scenarios: Fight against the clock in Time Attack, plan you attacks with precision in Power Wave or survive to earn the highest score in Normal mode.\n\nBring along a friend and enjoy the cooperative gameplay in all game modes, where one player act as the pilot and the other as the gunner: Synchronization is key!\n\nOr fight in Versus Mode, where you can use enemies as weapons or bait, to confuse and defeat the other player!\n\nTest and improve your skills in the pulse-pounding experience of Debris Infinity!",
+  "titleId": "010034F00BFC8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3d59775bedae983a9f6fdd942c902f8880c34ec2c69faf1b2947e943d5fc5b7f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T12:20:41.848",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "67fb480",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

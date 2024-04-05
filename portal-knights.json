@@ -1,0 +1,30 @@
+{
+  "name": "Portal Knights",
+  "description": "Prove yourself a Portal Knight by levelling up your character, crafting epic weapons, and vanquishing foes in real-time in this cooperative, 3D sandbox action RPG.\n\nExplore dozens of randomly-generated islands! Build almost anything! In a world torn apart by the Fracture and terrorized by the Hollow King, you and your friends are its only hope!\n\n- RPG character classes including warrior, ranger and mage.\n\n- Tactical action combat.\n\n- Epic boss battles.\n\n- Travel between randomly generated 3D sandbox worlds.\n\n- Meet the colorful inhabitants of the land, complete their quests, and recruit them to your home.\n\n- Architect your own island! Create AMAZING structures quickly and easily in Creative Mode!\n\n- Mine and gather resources from across the lands to craft your arsenal and supplies.\n\n- Build your home with dozens of materials and furnishings.\n\n- Join your friends in 4-person cooperative multiplayer and 2 player split screen. \n\n- Random Events.",
+  "titleId": "0100437004170000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9054a17d9167063192fbff371cee873da5cb454c2f242c77501d5f5fce082c77.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-06T11:53:45.014",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-11T13:44:19.259",
+      "cpu": "Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz",
+      "gpu": "GeForce RTX 2070 with Max-Q Design/PCIe/SSE2",
+      "version": "a8cc9db",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

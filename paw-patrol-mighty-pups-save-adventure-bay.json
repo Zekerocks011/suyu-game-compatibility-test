@@ -1,0 +1,30 @@
+{
+  "name": "PAW Patrol Mighty Pups Save Adventure Bay",
+  "description": "A fallen meteor has given the pups mighty powers – and left Adventure Bay in a mighty mess. Now, it’s up to you and the Pups to use their powers, rescue skills and gadgets to make the town PAWsome again! \n\nEmbark on a super-heroic mission with the Mighty Pups and Chase’s Super Speed, Marshall’s Mighty Heat, Skye’s Whirlwind Power and the whole mighty PAW Patrol team. Explore the town and journey to Jake’s resort, Tracker’s jungle and beyond. With a whole town to help out and 2-player co-op fun, Adventure Bay has never been so interactive! \n\n• EVERY PUP IS HERE – Play as Chase, Rubble, Marshall, Everest, Skye, Rocky, Zuma and Tracker \n\n• EXPLORE ADVENTURE BAY – Take on 7 super-heroic missions to rescue friends and save the day. Plus 7 fun mini-games!\n\n• USE MIGHTY POWERS – Play as the pups and use their mighty powers to create whirlwinds, use Energy Super Tools, lift the heaviest things, and more!\n\n• TEAM UP ON THE DOUBLE – Two can play in co-op mode on the same screen",
+  "titleId": "01001F201121E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d237d684c02e9b37b9e67e7e094d7902891f55b5ed7d2e919b68039047e333f0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-21T08:34:54.074",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "939d89f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-02T02:30:42.914",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3bef3ae",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO ZUPAPA!",
+  "description": "“ZUPAPA!” is an action game released by SNK in 2001. Control the brave young Zupapa and Zupipi and rescue the Zooks, who have been kidnapped by a mysterious adversary! Run freely through the fun, unique stages using simple controls, and aim for the final stage. This game can also support 2P play.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01002E700AFC4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6495bb7515838cb9c536d1771db87c70362a66c5063eb7b46d327dd3a2509308.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T20:15:32.912",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "LEGO CITY Undercover",
+  "description": "Join the Chase! In LEGO® CITY Undercover, play as Chase McCain, a police officer who's been tasked with going undercover to hunt down the notorious — and recently escaped — criminal Rex Fury and putting an end to his city-wide crime wave. With two player co-op, friends can explore the sprawling open-world metropolis that is LEGO® City, with more than 20 unique districts to investigate, car thieves to bust, hilarious movie references to discover, vehicles to drive, and hundreds of collectibles. LEGO CITY Undercover brings together witty, original storytelling with signature LEGO humor to create a fun-filled experience for players of all ages to enjoy.\n",
+  "titleId": "01003A30012C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/424285e21c7a4256f50504f70495b78a33d4a78d83d331b5f42cee4154a7cdeb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-02T13:09:48.944",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "dfbd763",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Motobug",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-19T02:09:45.993",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 6800",
+      "version": "70c0c12",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-29T15:13:40.164",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

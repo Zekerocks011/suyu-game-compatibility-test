@@ -1,0 +1,19 @@
+{
+  "name": "Duel Princess",
+  "description": "This is a side-scrolling tower defense game where you lead your units from your own castle towards the Princess' castle and capture it. \nThere are roguelite elements that lets you enjoy building new decks each time you play the story mode.\nThere are also many sexy rewards that men all over the world can enjoy!",
+  "titleId": "0100EDD016562000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a1495ecebc1b5c0a7c5547b17d57d18bbc369461b1a6cc5fe1a12947dc3bfe9b.jpg",
+  "tests": [
+    {
+      "tester": "Androu1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-19T19:29:39.208",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5235cb4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

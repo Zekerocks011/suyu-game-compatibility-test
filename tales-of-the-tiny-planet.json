@@ -1,0 +1,30 @@
+{
+  "name": "Tales of the Tiny Planet",
+  "description": "«Tales of the Tiny Planet» tells the story of a Planet searching through the galaxies for his lost friends. You have the ability to manipulate the world elements to guide him safely through the galaxies in this Physics-Puzzle-Adventure. Will the missing planet be behind the next portal? Find out, Beat the high-score or compete with your friends in this new Physics-Puzzle!\n\nOne button controls everything - Think that it's simple?\n\nUse one button to control a group of complex mechanisms. The timing of the button press must be precise to carry the planet through the portal to the next level. Try to beat the levels as fast as possible to collect stars that will unlock more levels. Each world brings new elements, mechanics and surprises. Find out how you can bring all the planet-friends back together!\n\n• Fun 2-Player-Mode\n• 6 lovingly crafted worlds\n• 84 varied levels\n• Stars and stuff\n• Lots of achievements\n• Rankings - to compete and overtake your friends\n• Infinite vastness and endless joy",
+  "titleId": "0100408007078000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fd1db46e19af8a6e9bc877f0859eb1b1fa2d3043fedca723566bfdf0562481b9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T09:17:37.416",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "57d5103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-04T16:38:05.457",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "711f3c8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

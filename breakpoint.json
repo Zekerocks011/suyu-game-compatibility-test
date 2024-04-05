@@ -1,0 +1,19 @@
+{
+  "name": "Breakpoint",
+  "description": "We mixed elements from classic arcade games with modern sensibilities to bring you Breakpoint: a challenging top-down score chaser featuring melee weapons that explode. \n\nIn a twist on the twin-stick formula, you have no ranged attack. Instead, slice, crush, and blast your way through the swarm. Push your weapons to their breakpoint to unleash a devastating explosion on your enemies. Break, charge, and break your weapons again as you fight to stay alive.\n\nFeatures:\n• Master the challenges of a single, focused game mode.\n• Wield five distinct melee weapons, each with three levels of upgrades.\n• Break your weapons, annihilating everything in the blast zone.\n• Dodge through swarms of twelve different enemies.\n• Compete with your friends for score, or reach for the top of the global leaderboard.\n• Watch the best run of anyone in the world through the replay system.\n\n",
+  "titleId": "01009380114E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d1d2f86170fb95fb659a28608337563d9baffe05fa7aec3a26721386e7ae42d8.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-22T04:20:27.772",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

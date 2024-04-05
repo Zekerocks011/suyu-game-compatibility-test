@@ -1,0 +1,118 @@
+{
+  "name": "Mega Man Legacy Collection",
+  "description": "Mega Man Legacy Collection is a celebration of the 8-bit history of Capcom’s iconic Blue Bomber. Featuring faithful reproductions of the series’ origins with the original six Mega Man games, the Legacy Collection will remind long-time fans and introduce newcomers to what made Mega Man such a popular and iconic character.\n\nFEATURES\n\n• Includes the six 8-bit classics that originally released on the Nintendo Entertainment System™ (Mega Man, Mega Man 2, Mega Man 3, Mega Man 4, Mega Man 5, and Mega Man 6)\n• Explore the series’ history with rare concept art and original promotional materials in Museum Mode.\n• Tackle stage remixes in Challenge Mode and compete against your friends for the fastest completion times on the online leaderboards.\n• Unlock additional trials in Challenge Mode using the Mega Man amiibo™!\n• A handy new Rewind feature gives players the option to instantly reverse gameplay, correcting unexpected pitfalls or deadly enemy encounters.\n• The new Turbo CPU Speed feature also lets players take advantage of the performance power of Nintendo Switch™ to reduce slowdown when the action gets intense.\n• The magic of Nintendo Switch™ allows you to play Mega Man at home or on the go!\n",
+  "titleId": "01002D4007AE0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/03c5aa7785bc5c7474c9316b8427fa55e8532e2ea2fabaea9a49ee3a96b20c12.jpg",
+  "tests": [
+    {
+      "tester": "mastercho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-22T14:19:20.482",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-05-07T15:26:11.06",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "711985a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-27T16:47:27.613",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "6eb01a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-05-07T15:26:02.415",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "711985a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-23T23:34:09.429",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "0750835",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReinUsesLisp",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-27T06:36:44.42",
+      "cpu": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "03a06b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-20T06:05:57.002",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "77a73fc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T14:39:23.572",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "juan_lopes",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-29T06:47:41.154",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-27T16:40:20.333",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "6eb01a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

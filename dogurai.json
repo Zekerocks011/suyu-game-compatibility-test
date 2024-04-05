@@ -1,0 +1,30 @@
+{
+  "name": "Dogurai",
+  "description": "In a dystopian future, where Armies and the Police were replaced by robots and machines, their creator decided to take over the world. Now, it's up to Bones, a retired dog samurai from the Special Forces, to fight against the robot menace alone.\n\nYou will face several robot leaders in an action-packed platforming throughout the city, fighting in urban sewers, military facilities, factories and even in sky-high structures. Each level features several gimmicks and different challenges inspired by classic platformers from the past decades, as well as different enemies and memorable boss encounters!\n\nFeatures\n\n- Play as Bones, a samurai dog with plenty of moves familiar to platforming fans! Perform double jumps, slice bullets in half and finish off enemies with special combos!\n- Fight through 8 different stages with different challenges and enemies - from slippery ice to motorcycle rides across the desert.\n- Defeat powerful bosses with unique attacks and move sets.\n- Retro graphics and sound inspired by action platformers from the 90s.\n- Compatible with game controllers for a more authentic experience.\n- Boopable snooter.",
+  "titleId": "010077B0100DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4adc1930a3ff4a4ac702e7a9edb4ddbcdfb123f35756e0185775506a2e5d4ecc.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-28T10:23:29.278",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "veloxSZ",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-28T18:19:06.305",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

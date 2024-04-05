@@ -1,0 +1,19 @@
+{
+  "name": "Putty Pals",
+  "description": "Two adorable bouncing blobs are lost far from home, and only teamwork, communication and a whole lot of hilarious mistakes will guide them back. Sitting side-by-side on the couch, you and a friend will glide, bounce, squish and swing your way through a vibrant cartoon landscape, solving puzzles, avoiding danger and uncovering hidden secrets.\n\nPURE CO-OP GOODNESS\nPutty Pals isn’t just a single-player game that two people can play together. It’s been designed from the ground up to be a cooperative two-player experience.\n\n- Color-based puzzles mean both players have important jobs to do\n\n- Flatten yourself into a trampoline to bounce your friend to new heights\n\n- Communication is key: you won’t get anywhere if you don’t talk to each other\n\nA WHIMSICAL WORLD!\nYou know what Putty Pals isn’t? BROWN! Play as colorful characters in a colorful world and enjoy a fun, feel-good experience that will leave you smiling.\n\n- Featuring cute characters with adorable animations\n\n- Hilarious character voices that will make you giggle\n\n- Explore locations from explosive Mt Puttuvius to frozen Puttarctica\n\nSO MUCH TO EXPLORE\nShare hours of fun with your co-op buddy as you bounce your way through a bonanza of challenges and collectibles.\n\n- 28 full-sized levels, plus 25 unlockable bonus mini-levels for extra challenge\n\n- Cunningly hidden secrets and taxing time trials will keep you coming back for more",
+  "titleId": "010049E003748000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8d61619110bf612ce45ebeff4487d3ccbcbf67b7da4741d2bc433ef67c363fb5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-05-31T08:41:25.609",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8075e34",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

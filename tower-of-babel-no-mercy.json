@@ -1,0 +1,19 @@
+{
+  "name": "Tower of Babel - no mercy",
+  "description": "Who, as a child, didn't enjoy smashing his brother's or sister's carefully built tower?\n\nTower of Babel is a multiplayer physics-based tower building game. You and your friends will have to build a tower together. But beware! Who makes the tower collapse loses the game. Build with caution then cast magic spells to scupper your friends moves!\n\nEasy to pick up and endless fun! Play with your friends or with your family in 3 crazy modes. You can also play online against another team!\n\nWith alliance games and combined magic spells, it won't be an easy ride. Tower of Babel is a game that cements friendships and breaks towers... or the other way around!",
+  "titleId": "01002D20103E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/30f3a505159e7e0e6bfd31ce119c02b4d383d2a37078dab60147ca4ce9040cef.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-21T21:31:09.89",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

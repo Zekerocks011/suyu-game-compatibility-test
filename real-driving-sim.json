@@ -1,0 +1,19 @@
+{
+  "name": "Real Driving Sim",
+  "description": "Do you love cars? Real Driving Simulator is the best driving simulator that features more than 80 vehicles and a huge open-world map to explore. A big selection of vehicles is waiting for you: sedans, supercars, off roaders, SUVs and more, with realistic engine sounds and accurate interiors! Drive across Europe, complete many challenges like racing, consumption challenge, high speed driving, no damage challenge and many more! \n\nFeatures:\n• Huge Vehicle Selection\n• Open World Map with over 20 cities\n• Highways, Deserts, Snow, Mountain and Cities\n• New Engine Sounds with crackles and super downshift sounds!\n• Lots of challenges to complete\n• Visual and mechanical damage on vehicles\n• Next Gen Dynamic Weather System (snow, rain, sun...)\n• Off-Road mode available!\n• Exterior and Engine tuning available!",
+  "titleId": "0100748012ABE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8dd7e3532cc009e02c319acfab33b15c40c2023ef0c761ee36e0ca017777bdb1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-28T01:30:52.339",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

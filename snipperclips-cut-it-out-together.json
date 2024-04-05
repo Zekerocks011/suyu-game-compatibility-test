@@ -1,0 +1,96 @@
+{
+  "name": "Snipperclips – Cut it out, together!",
+  "description": "Hey, cut it out! No, really! In this action-puzzle game, paper pals Snip and Clip must cut each other up to overcome tricky obstacles…or just to laugh their heads off (sometimes literally). Partner up with friends or family to cut the heroes into the right shapes, interact with objects, and solve a world of imaginative puzzles. \n\nSomeone grab a paper weight—these puzzles just won’t stay still! The only limitation to solve puzzles is your imagination. Snip may need to cut Clip into a needle to pop balloons, or maybe they’ll have to team up to form a squawking, egg-laying bird! \n\nWhen playing together, prove you’re a cut above the rest in Blitz mode, where 2-4 players* can compete in a series of puzzlingly action-packed challenges. Three is never a crowd when you’re paper thin, so make it a party! In Party mode, up to four players* can team up to solve tough challenges. Ready or not, this couch co-op is a riot, any way you cut it!",
+  "titleId": "0100704000B3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c4c7ca6e9f1a1f777890e2dcf7fb84407bdd701f3e57a3e7ba07c78770331d23.jpg",
+  "tests": [
+    {
+      "tester": "hithere2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-11-24T15:57:33.351",
+      "cpu": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "b3a35d6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-10-03T19:03:26.928",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Overwrited",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-14T07:44:28.793",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 750 Ti",
+      "version": "878a493",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-10-04T05:01:55.068",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 820M/PCIe/SSE2",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-03T19:03:08.167",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "98fd1ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-21T06:25:36.537",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "589f473",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-09T08:16:24.284",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "8f99c5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-06T17:58:27.01",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

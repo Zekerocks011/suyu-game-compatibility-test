@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon™ Legends: Arceus",
+  "description": "Get ready for a new kind of grand, Pokémon adventure in Pokémon™ Legends: Arceus, a brand-new game from Game Freak that blends action and exploration with the RPG roots of the Pokémon series. Embark on survey missions in the ancient Hisui region. Explore natural expanses to catch wild Pokémon by learning their behavior, sneaking up, and throwing a well-aimed Poké Ball™. You can also toss the Poké Ball containing your ally Pokémon near a wild Pokémon to seamlessly enter battle. Travel across land, sea, and sky on the backs of Pokémon to explore every corner of the Hisui region.\n\nTravel to the Hisui region—the Sinnoh of old—and build the region’s first Pokédex\n\nYour adventure takes place in the expansive natural majesty of the Hisui region, where you are tasked with studying Pokémon to complete the region’s first Pokédex. Mount Coronet rises from the center, surrounded on all sides by areas with distinct environments. In this era—long before the events of the Pokémon Brilliant Diamond and Pokémon Shining Pearl games—you can find newly discovered Pokémon like Wyrdeer, an evolution of Stantler, and new regional forms like Hisuian Growlithe, Hisuian Zorua, and Hisuian Zoroark! Along the way, uncover the mystery surrounding the Mythical Pokémon known as Arceus.\n\nA free software update brings special mass outbreaks and new challenges \n\nIn the free Daybreak update, you will begin investigating mysterious mass outbreaks of Pokémon that are popping up all over the Hisui region. You’ll also have a chance to battle powerful opponents like Legendary Pokémon in Eternal Battle Reverie and wardens at the Jubilife Village training grounds. Daybreak content will be available after viewing the game’s end credits. The Eternal Battle Reverie will become available after completing all missions. ",
+  "titleId": "01001F5010DFA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/96acc14bf510d575c210eae08b6372fd5a536dea802da5c0331b39c4c358fe7c.jpg",
+  "tests": [
+    {
+      "tester": "AlexDzX",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-25T04:20:40.155",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "5e68e59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Vinunax",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-23T16:36:30.487",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 with Max-Q Design/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rescue-012",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-27T02:21:30.53",
+      "cpu": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics ",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-25T07:56:47.026",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "a4ca339",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-24T04:51:48.901",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "25acca1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Henrique_Algarvio",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-23T19:19:48.421",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "25acca1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shin_Chan",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-26T19:43:20.359",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mrdaaze",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-25T10:40:58.615",
+      "cpu": "Intel(R) Xeon(R) W-3235 CPU @ 3.30GHz",
+      "gpu": "Quadro RTX 5000/PCIe/SSE2",
+      "version": "a4ca339",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-22T16:39:02.976",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "antshunter",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-23T15:11:00.605",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

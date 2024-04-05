@@ -1,0 +1,19 @@
+{
+  "name": "Color Zen",
+  "description": "Color Zen is a new kind of puzzle game. With simple, intuitive controls, the game invites you to relax and immerse yourself. There are no points or penalties for failure; just an abstract world of color to move through at your own pace. So put on your headphones and find your way, with Color Zen.\n\nGame features:\nMeditative puzzle-cracking flow: just match the colors to win the level\nImmersive soundtrack keeps you in the groove\n460 levels to solve (all DLCs)\nMusic by Steve Woodzell",
+  "titleId": "0100CA100C0BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8e431af41da9911425354d68b1c4200ef12748655422088a94507051b5db5719.jpg",
+  "tests": [
+    {
+      "tester": "Thomas_S",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-06T18:27:20.182",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

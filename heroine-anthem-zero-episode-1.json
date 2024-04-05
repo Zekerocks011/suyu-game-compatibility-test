@@ -1,0 +1,41 @@
+{
+  "name": "HEROINE ANTHEM ZERO episode 1",
+  "description": "With a emotionally resonating soundtrack and beautiful visual art style, Heroine Anthem Zero is the FIRST EPISODE in an epic fantasy adventure game from WindThunder Studio. \nAn unforgettable experience that blends storytelling, music and stunning visuals, it is over ten years in the making. Come and enter the moving world of adventure from long ago.\n\nThe story begins with the last Cataclysm, with the descendants of the Savior rebuilding the land around the World Tree Terasyr. Thousands of years later the Engora Dynasty grows into prosperity, with Fae and Human together resisting the encroaching advances of evil from the edges of the world, and deathly Longhorn Woods.\nAs fate brings Wanin the Forest Keeper and the wandering cat-girl Shama Kutami together, the entangling web of destinies unfolds. In a world unforgiven by God, their fight for survival unknowingly bears the weight and sins of thousands of generations hereafter.\n\n\nKey Features\n\n1. Available in English for the first time! Heroine Anthem Zero is the first game in the series to support English!\n2. Featuring well-known Voice Actors in various languages, including Yūsuke Kobayashi (The Heroic Legend of Arslan) and Tomoka Wakabayashi (The iDOLM@STER)\n3. Exquisitely detailed 2D visuals, bring the world of Heroine Anthem Zero to life with its vibrant characters and stunning world setting.\n4. A hauntingly beautiful soundtrack, following in the tradition of the Heroine Anthem series: famous composers (known for their work in RPG classics such as Chinese Paladin series) as well as Japanese composers new to the series have joined forces to produce unforgettable music.\n5. Weapons and skills -- Character progression is closely tied to the weapon and items in Heroine Anthem Zero, switching weapons changes damage and other attributes,as well as attack motions. Weapons can also interact with the stage levels.\n6. Explore carefully crafted side-scrolling maps and dungeons, solve interactive puzzles and discover hidden treasure locations for powerful items.",
+  "titleId": "01001B70080F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d6a0d06254d780a53ee70e2ae877ae2c6d05a55da925e34281ee9f0b24697f1b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T18:21:48.562",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-10T04:32:05.35",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "eb8505d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-01-24T02:51:25.604",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "72ec982",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

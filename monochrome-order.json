@@ -1,0 +1,19 @@
+{
+  "name": "Monochrome Order",
+  "description": "The world must forever make choices. The Arbiters' mission is to use the ancient magic known as “Judgment” to follow their own justice and guide the world to a better place. A newly-appointed Arbiter, is assigned to a desolate country where he will have to make various Judgments. However, not everyone will agree with his idea of justice.\nWhen faced with two extreme choices, which will he choose?\n\nYour Judgments will greatly affect the story and your character's role in both good and evil paths. As there are multiple endings, explore different routes to guide the world toward the right direction! Get up to 18 allies from your Judgments to try various formations and overcome challenges with each character's unique skills!",
+  "titleId": "010075200F1CA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eac55d3f4b55c5a7cbe65246120c5fe640844a6dff7f64e1ddc9f8b6409a74be.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T00:44:28.678",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "3597037",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

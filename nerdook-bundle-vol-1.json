@@ -1,0 +1,19 @@
+{
+  "name": "Nerdook Bundle Vol. 1",
+  "description": "One-man indie developer Nerdook is a master at making games that are easy to pick up and play, but impossible to put down. This collection includes three Nerdook gems: Monster Slayers, Reverse Crawl, and Vertical Drop Heroes. \n\nMonster Slayers: A rogue-like deck-building RPG adventure with an innovative card-based battle system. Choose your path through the perilous Northern Valley as you follow your quest to defeat the legendary Harbinger.\n\nReverse Crawl: You’re dead already! But that isn’t going to stop you – the Revenant King – from reclaiming your throne. This fast-paced turn-based strategy RPG that lets you lead mobs of monster minions and back-from-the-grave goons into battle. \n\nVertical Drop Heroes: A procedural platformer RPG hybrid with roguelike elements. Armed with a variety of skills and traits, use your cunning and reflexes to survive the dangers of each stage, until you face the final boss and uncover the truth behind the game!",
+  "titleId": "01000B2011352000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f42f863c3d949431e320f7c47013be943391a697bb2c54bea7e00e8e0d4af69.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T09:15:23.676",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "08ddd19",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

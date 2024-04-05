@@ -1,0 +1,19 @@
+{
+  "name": "Antiquia Lost",
+  "description": "Edelstein, a world inhabited by three tribes, was a site of the Great Battle in the past. Today, the world is at peace due to the three tribes' cooperation. But dark clouds are gathering over the future of the world that everyone thought would go on forever... It's time for Bine and his friends to discover the truth of the history of the world!\n\nAntiquia Lost is a fantasy RPG featuring beautiful 2D turn-based battles. Become the master of the battlefield by using the characteristics of the three tribes, Fai, Ruta and Eeth.\n\nThe half-slime heroine, Lunaria, eats gems to grow and even mimic monsters' powerful attacks. Customize the heroine as you wish to deal with strong enemies!\n\nThe game offers a variety of achievements and elements, from weapon refining to harvesting items! Don't miss out on the challenges that await during the quest and in the arenas!",
+  "titleId": "0100016007154000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f7f808e9e54fcfb01a548b7e75e54dd3d3800637f2fe337571b3103bf808da89.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T19:27:42.674",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

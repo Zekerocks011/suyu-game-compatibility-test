@@ -1,0 +1,52 @@
+{
+  "name": "Spirit of the North",
+  "description": "Spirit of the North is a single-player 3rd-person adventure game inspired by the breathtaking and mysterious landscapes of Iceland. The story takes root from various pieces of Nordic folklore. \n\nThe game is unique in that it purposefully has no dialogue or narrative. Players must breathe in their surroundings to solve various puzzles and speculate the meaning of a lost ancient civilization. \n\nPlay as an ordinary red fox whose story becomes entwined with the guardian of the Northern Lights, a female spirit fox. As you journey over the mountains and under red-stained skies, you’ll discover more about your companion and a land left in ruin.",
+  "titleId": "01005E101122E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/83012ea4a9d874e65a10fe62bfcc1d2bec5b25e4d8925e082fc2313cdca4a14d.jpg",
+  "tests": [
+    {
+      "tester": "Ghost666",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-11T02:45:37.026",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "140a19f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T10:52:56.638",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-21T17:41:12.741",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "441bc5d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-03T15:52:09.055",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "eea7582",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

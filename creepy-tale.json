@@ -1,0 +1,19 @@
+{
+  "name": "Creepy Tale",
+  "description": "\"CREEPY TALE\" FEATURES:\n▪ Unusual puzzles with unusual solutions.\n▪ Elements of a classic quest: collect items and use them in a wide variety of cases.\n▪ Hide, run away, jump high, lure, distract and even... learn to play the reedpipe!\n▪ A unique and beautiful 2D art will take you to a dark tale and will send shivers down your spine.\n▪ Surreal audio design matching the otherworldly story and gameplay.\n\nABOUT \"CREEPY TALE\":\nWhile walking with your brother, everything turns into horror and drags the hero into a series of terrible events. \nYour brother has been taken by inhuman beings, and you are left face-to-face with an ominous forest filled with dangers and strange creatures. \nSolve the puzzles that you meet on the way, do not let yourself be caught, and save your brother!\n\nFind out the dark story that befell the once-calm and peaceful forest, turning it into a terrifying place filled with otherworldly evil.\nPerhaps it is you who will solve all the secrets of the forest and restore the peace... but don't get your hopes up.\n\n\"CREEPY TALE\" is available in 11 languages:\n1) English\n2) Latin American Spanish\n3) Brazilian Portuguese\n4) Italian\n5) German\n6) European Spanish\n7) Portuguese\n8) Russian\n9) Simplified Chinese\n10) Traditional Chinese\n11) Turkish",
+  "titleId": "0100A19011EEE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e941b7f1028570b06b2e111d3d84af6027d2f71418a6f121a5ab1a7beea0ed0e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-12T20:39:32.225",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "e3651bc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

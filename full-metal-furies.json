@@ -1,0 +1,63 @@
+{
+  "name": "Full Metal Furies",
+  "description": "From the creators of Rogue Legacy comes a \"true-cooperative\" action RPG. FULL METAL FURIES puts an emphasis on team play with a unique combat system where everyone is important. Work together to defeat special enemies, string organics combos to deal massive damage, and save a war-torn world that is battling itself to extinction. Play on the couch or online with friends, and make it a party for up to four players! Or go solo in single-player, and show off your skills through a Pick 2 quick-switch system that retains all the nuances of multi-play.",
+  "titleId": "010079300AD54000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c54c7728ad3de0d2b67a371a5c23815e617a5490975d792122aadfbdb15192fa.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T23:14:06.907",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T23:15:12.785",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T23:14:57.446",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T23:14:48.345",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-01T03:19:18.097",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "97722b8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

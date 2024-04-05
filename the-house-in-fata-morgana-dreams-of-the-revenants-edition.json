@@ -1,0 +1,41 @@
+{
+  "name": "The House in Fata Morgana: Dreams of the Revenants Edition",
+  "description": "A gothic suspense tale set in a cursed mansion. 'The House in Fata Morgana' is a full-length visual novel spanning nearly a millennium that deals in tragedy, human nature, and insanity.\n\nThis version includes three games and more:\n1: The House in Fata Morgana: the main storyline.\n2: A Requiem for Innocence: a prequel shedding light on the origins of Fata Morgana’s terrible curse.\n3: Reincarnation: a sequel featuring the central cast members reincarnated in the present day. *The part including voices*\n4: Other additional short stories.",
+  "titleId": "010016101100A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/03afcb1b07f4a94b487ff95f9429dce30a9dc18623f60fcec5b4214848d39584.jpg",
+  "tests": [
+    {
+      "tester": "pogbaxd1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-07T09:38:25.601",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "a2481e8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-21T22:28:20.54",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "sj33",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-18T17:02:08.69",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "eddea06",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

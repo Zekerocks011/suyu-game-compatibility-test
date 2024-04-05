@@ -1,0 +1,41 @@
+{
+  "name": "Legendary Fishing",
+  "description": "Experience the thrill of catching over 20 different types of fish, from king salmon to largemouth bass, in this legendary fishing experience. Includes unlockable gear, missions, multiple destinations, and hours of fun solo or with friends and family. Cast, hook, and reel! \n\nChoose your tackle and hone your skills in three different modes in this arcade-style fishing game. Challenge yourself with career mode, featuring 80 missions to take you from casual angler to legendary fisher. Perfect your techniques to unlock 10 different venues with varied fish in four seasons and different weather conditions. \n\nPlay with up to four friends or family and challenge them into catching different types of fish. Nintendo Switch™ system: Use motion controls with the Joy-Con™ controllers to cast (classic controls also available). ",
+  "titleId": "0100A7700B46C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5571bad0a91253939248e8ee1f02a2fe837deec2ff50ea645cb41b60b194f7ef.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-08T00:54:52.133",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "a18d960",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-05T20:58:10.541",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T07:11:44.086",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cathedral",
+  "description": "Wake up in a world with no recollection of how you got there. A world full of secrets, hidden rooms, dungeons and towns; Cathedral features a vast world, meant for exploring!\nControl a nameless protagonist from a different world and team up with the spirit known as Soul and set out to demolish the demi-god known only as Ardur.\n\nAn action adventure game ready to challenge you!\n- Just like the days of the past, this is not a game that will hold your hand. Set out adventuring to dungeons where enemies roam every corner and treacherous bosses guard every treasure.\n\nA world meant for exploring\n- A massive hand-crafted world filled to the brim with exciting new areas, upgrades, collectibles and many secrets to be found. Use the handy in-game map so you’ll always find your way forward.\n\nJust like the good old days\n- Cathedral is an homage to games of the past, built using modern technology. With a retro aesthetics color palette, sound capabilities and a chipping’ good soundtrack it’ll take you on a beautiful pixelated journey.",
+  "titleId": "0100BEB01327A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/61b3f410922e57713a30a9c249a239cf3272ade0c7e1aef8bb329110c3c41ba8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-19T22:40:57.286",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "433954d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

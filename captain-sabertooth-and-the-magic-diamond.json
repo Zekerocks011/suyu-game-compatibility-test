@@ -1,0 +1,19 @@
+{
+  "name": "Captain Sabertooth and the Magic Diamond",
+  "description": "Play as either Pinky or Sunniva, and join the legendary pirate Captain Sabertooth's crew on the hunt for a mysterious magic diamond.\n\nTraverse a dangerous yet gorgeous world as you sail between islands and explore pirate harbours, exotic beaches and ancient ruins.\n\nSearch for treasure, collect upgrades and new abilities, and fight against the evil Maga Khan and his army!\n",
+  "titleId": "0100F0C011A0C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1eb803fe262e800658cdecfec4be961c83d94aae7b5926743c2c8797365e4baf.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T09:30:24.5",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

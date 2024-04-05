@@ -1,0 +1,19 @@
+{
+  "name": "Speed Truck Racing",
+  "description": "In Speed Truck Racing you'll enjoy the dirtiest, fastest, and most spectacular races at speeds over 150 Mp/h, avoiding multiple collisions against 10 adversaries. The game has different modes, such as Championship, Arcade, and 4-player multiplayer.\n\nOnline ranking chart where you can compare your best times with friends and players from all over the world.\n\nFeatures:\n\n-Arcade driving\n-4-Player Multiplayer\n-Online Ranking\n-Achievements",
+  "titleId": "010061F013A0E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/76eb33bef7f81e9708d3a537fa762bfcaa49ca57b1cc9c3030df9936173176e0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-03T20:45:46.294",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

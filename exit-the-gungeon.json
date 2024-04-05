@@ -1,0 +1,74 @@
+{
+  "name": "Exit the Gungeon",
+  "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces… and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
+  "titleId": "0100DD30110CC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf0e25306eb10b6b2b6dc58ade00fbf978dd1019543731b1534fe943b6e70354.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-31T07:27:12.709",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-31T14:55:18.689",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-31T22:06:09.692",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-02T11:32:50.67",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "846462e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T16:37:51.27",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-07-02T11:32:29.988",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "846462e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "King Oddball",
+  "description": "Blow up tanks! Crash helicopters! Squash puny humans! Collapse structures! Hurl boulders until nothing remains! END THE WORLD!\n\nThe King swings a boulder back and forth with his tongue and you get to release it by pressing a button. Time the release accurately and crush as many targets as possible with each boulder. Simple but addictive!\n\nExtra boulders are awarded for crushing three or more targets with a single throw. Master the game by anticipating how boulders roll, bounce, and launch from explosions. Take advantage of collapsing structures too!\n\nConquer the world in more than 120 fun and increasingly challenging levels!\n\nFEATURES\nSingle button press gameplay: How hard can it be?\nMore than 120 levels + secrets!\nEccentric art style\nOriginal music by Jonathan Geer",
+  "titleId": "0100B1300783E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7339de4eb25b7abf5a62d8b5226580a2ae21983e5fd77282446abba148fb6573.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-22T16:03:24.28",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-16T08:54:36.611",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "34ece38",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

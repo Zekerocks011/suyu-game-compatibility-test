@@ -1,0 +1,41 @@
+{
+  "name": "Crawl",
+  "description": "Crawl is a fast-paced arcade dungeon crawler for one to four players. Battle through randomly generated dungeons full of cruel traps and horrid beasts- all controlled by your friends! If one of them kills you they take your place and it's their turn to crawl. It's a race to gain enough XP and loot to face them all as they possess the flailing limbs of the hulking final boss!\n\nA NEW SPIN ON DUNGEON CRAWLING\n• Every trap and monster can be controlled by your real-life buddies!\n• Play solo or with up to 4 in local-multiplayer.\n• Vicious single player AI, challenges to master, and items to unlock.\n\t\nTURBO CHARGED ROLE PLAYING\n• Level up, increase your stats and amass powerful weapons in each 30 minute game.\n• Evolve your monsters from mere vermin into mighty demons and undead warriors.\t\n\nEVERY BATTLE IS UNIQUE\n• Explore randomly generated dungeons.\n• Discover a huge variety of weapons, spells and items.\n• Master over 60 playable monsters! ",
+  "titleId": "0100BF7006BCA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/185c7f395f436c484e4e8ba86ad046339e8ce26a83b38234849784cface429e3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T10:54:25.905",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JasonMaskell",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-02T13:18:04.122",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-06T15:56:43.292",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

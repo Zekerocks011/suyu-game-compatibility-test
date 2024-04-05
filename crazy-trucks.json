@@ -1,0 +1,19 @@
+{
+  "name": "Crazy Trucks",
+  "description": "Features:\n★ Party racing game for 1 to 4 players\n★ Monster Truck themed arenas\n★ Realistic, slightly crazy psychics\n★ Dozens of trucks to choose from\n★ Over 10 game modes with additional settings\n★ Highscores to compare yourself with friends\n★ Numerous tracks customized for game modes\n★ Customizable victory conditions\n\nGame modes:\n★ Soccer - A soccer match designed for 1v1 or 2v2 players\n★ Elimination - Clear the arena of your rivals before they get you\n★ Storage Wars - Collect and store tires scattered across the map\n★ Challenge - Jump over your rivals on the world's highest ramps\n★ Endurance - Race against opponents on challenging tracks\n★ Scrabble - Complete the slogan by collecting lost letters\n★ Collect - Find items scattered throughout the arena\nand more ...",
+  "titleId": "0100079016724000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/24f5053079944cbedbb881532fbcc551c5363915d4e606f71e0df5885bf07a84.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-29T02:41:55.964",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "cd930e5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

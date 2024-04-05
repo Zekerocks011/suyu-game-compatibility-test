@@ -1,0 +1,41 @@
+{
+  "name": "Hot Springs Story",
+  "description": "Build your own resort and propel it to success with but a touch of the finger in this one-of-a-kind simulation!\n\nRooms, restaurants, arcades, and baths--position each facility to lull your guests into hot spring Nirvana and skyrocket your establishment to fame! \n\nCraft the perfect Japanese garden from lanterns, pine trees, azaleas, and more--you'll need it all if you want to attract VIPs like pop stars and novelists. \n\nThere can only be one #1! Do you have what it takes? \n\nTurn your device to rotate the screen, touch to scroll, and pinch to zoom in and out. \n\n--\nTry searching for \"Kairosoft\" to see all of our games!!",
+  "titleId": "010090B00B1F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0c2e0e7ea614307fc3f9d547da851a180e0dc3f0906c0ec55601b08e7231bc3b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-17T19:01:58.122",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1aab2d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-02T11:17:06.11",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-29T20:19:46.711",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9edb712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

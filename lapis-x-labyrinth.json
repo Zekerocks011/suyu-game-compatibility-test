@@ -1,0 +1,96 @@
+{
+  "name": "Lapis x Labyrinth",
+  "description": "Help a struggling town recover from bankruptcy in an age of dwindling adventuring. Plunge into the mysterious Labyrinth while collecting more loot than you can ever imagine.",
+  "titleId": "010059500D070000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/26a0f0c2d708427fc14fc497f4b6341fbdb2b7651cad95538f45b47dff48e809.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-06T06:58:03.809",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "1d6b8b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-09T00:59:08.886",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e0e0030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-17T23:19:18.004",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "d8dbe42",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-11T10:50:18.365",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "8df00fd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-12T11:02:30.806",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "4da5dd4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-26T02:46:12.288",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "8b59c0e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-13T23:04:56.717",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-01T09:36:46.13",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "6a523d8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

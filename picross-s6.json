@@ -1,0 +1,52 @@
+{
+  "name": "PICROSS S6",
+  "description": "New puzzles in\"Extra\" mode have been included as a freebie along with four other Picross modes: Picross, Mega Picross, Color Picross, and Clip Picross!\n\nThere are 300 Picross and Mega Picross puzzles, 150 Clip Picross piece puzzles, 30 Color Picross puzzles, and 5 Extra puzzles, a grand total of 485 puzzles!\nLink play data from Picross S, Picross S2, and Picross S3 to unlock three Extra puzzles.\n\nFrom this title onwards, units of 10 squares on the Count Grid are highlighted in different colors on the Extra Puzzles screen for large Picross puzzles.\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+  "titleId": "010025901432A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a39b7e5db28adc3d8bf3fd8d221ccbf4f42fa39134c5ec0325d6001cc67ab0ab.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T15:03:15.981",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-15T07:31:53.738",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "stuken",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-23T15:40:11.301",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "ed8afd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-14T22:35:10.549",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

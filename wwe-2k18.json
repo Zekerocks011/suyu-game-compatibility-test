@@ -1,0 +1,118 @@
+{
+  "name": "WWE 2K18",
+  "description": "NOTE: All multiplayer servers for WWE 2K18 will be shutdown as of 05/31/2019. After that time, all game functions requiring online servers will no longer function.\n\nFinally, WWE video games are back on Nintendo platforms with WWE 2K18, available for the first time EVER on Nintendo Switch™!  Featuring cover Superstar Seth Rollins, WWE 2K18 promises to bring you closer to the ring than ever before with hard-hitting action, drama, excitement, new game modes, additional match types, deep creation capabilities, and everything you’ve come to love from WWE 2K.  The best part is, the action never stops on Nintendo Switch, and you can enjoy WWE 2K18 at home, on-the-go, anywhere!  \n\nMost Realistic WWE Video Game Ever!\nThe most realistic WWE video game experience just became more intense with the addition of a new grapple carry system, new weight detection, thousands of new animations and a massive backstage area, bringing the drama of WWE to life like never before!\n\nMyCAREER\nA new MyCAREER experience puts you on the path to greatness as you journey along on the road to WrestleMania.  Explore WWE like never before through free-roaming backstage, conversing with WWE Superstars, forming alliances, making enemies, seeking out quests, and strategizing for upcoming matches.\n\nRoad to Glory\nCan your MyPlayer make it to the WWE Hall of Fame?  Introducing the all-new Road to Glory! Compete with opponents online to improve your MyPlayer by earning unlockables, boosts and upgrades all while securing your entry into special events that are held alongside real-life WWE special events, such as pay-per-views.\n\nDynamic Creation Suite \nCustomize WWE like never before with an even deeper set of customization tools and the new Custom Match option! The robust Creation Suite also offers even more detailed features for Create-a-Superstar, Create-a-Video and Create-an-Arena.\n\nSeriously, THE BIGGEST ROSTER EVER!\nDominate the ring with TONS of your favorite WWE, NXT and legendary Superstars! We’re not kidding, WWE 2K18 offers the most complete roster of the biggest and brightest WWE and NXT Superstars and Legends to ever grace a WWE ring! ",
+  "titleId": "010009800203E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4c890f799ffa15feaef636d36bb5abf062a3a9b583cc60e48e39ec12b0df1461.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-05T03:03:24.736",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-23T14:37:08.934",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-04T11:41:25.068",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "25b7631",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-26T00:02:16.187",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d2b0bd7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-20T21:22:09.404",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ace896b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-04T00:59:10.04",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "733cbb5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-10T22:04:10.657",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "43418eb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-15T02:25:17.048",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "c427e5e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-08T21:38:23.904",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "93618bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-20T02:00:49.88",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "57220c6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

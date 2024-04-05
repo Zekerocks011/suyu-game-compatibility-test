@@ -1,0 +1,19 @@
+{
+  "name": "Gato Roboto",
+  "description": "Pounce inside of your cozy armored mech and set off on a dangerous trek through an alien underworld full of irritable creatures and treacherous obstacles in a valiant effort to save your stranded captain and his crashed spaceship. Tiptoe outside the friendly confines of your technological marvel and follow your feline instincts through tight tunnels and mysterious waterways to scavenge for new weapons and gear. Adventure awaits the most curious of cats in Gato Roboto!\n\nKey Features:\n\nExplore the underground labyrinth of a deep space outpost and uncover the dastardly deeds that unfolded before your arrival.\n\nBlast and dash your way through enemies and obstacles in an agile mech suit to face the guardians stationed precariously throughout the base.\n\nCautiously venture outside the mech and risk all nine lives to explore areas inaccessible to your bulky, mechanical armor.\n\nDiscover secrets abound and gather new weapons and items to help open up new areas on your journey through dozens of handcrafted environments.",
+  "titleId": "010025500C098000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/476b70c13a795e8f2521c1b11886e7ad67779169f46683cf0607a1710ed2b556.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:02:42.875",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

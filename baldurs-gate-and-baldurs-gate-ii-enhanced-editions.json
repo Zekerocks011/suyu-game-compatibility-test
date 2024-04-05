@@ -1,0 +1,41 @@
+{
+  "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+  "description": "Legendary Dungeons & Dragons classics are now on Nintendo Switch™! Immerse yourself in an epic RPG series where every choice matters. Play over 100 hours of adventure in enhanced editions of Baldur’s Gate and Baldur’s Gate II— plus the full Siege of Dragonspear expansion!\n\n- CONTENT - \n\nBALDUR’S GATE: ENHANCED EDITION\nBaldur’s Gate: Enhanced Edition brings you the classic RPG with fresh updates for modern adventurers. Customize your hero, recruit a party of brave allies, and explore the Sword Coast in your search for adventure, profit…and the truth. The enhanced edition includes:\n• The Original Baldur’s Gate Campaign\n• The Sword Coast Expansion\n• New challenges in the Black Pits arena\n\nBALDUR’S GATE II: ENHANCED EDITION\nThe legendary adventure continues as you explore the Forgotten Realms and discover your destiny! Includes the original campaign and expansions: \n• The original Shadows of Amn campaign\n• The Throne of Bhaal expansion\n• New challenges in the Black Pits II arena\n\nBALDUR’S GATE: SIEGE OF DRAGONSPEAR (Expansion)\nExplore a brand new chapter in the Baldur’s Gate Saga! Siege of Dragonspear is a full expansion to Baldur’s Gate: Enhanced Edition, with 25+ hours of adventure in the classic style of the original RPG.\n\n- LANGUAGES -\nBaldur’s Gate: Enhanced Edition supports the following languages: English, French, Italian, German, Spanish, Polish, Russian, Brazilian Portuguese, Czech, Hungarian, Turkish, Ukrainian, Japanese, Korean, Simplified Chinese\n\nBaldur’s Gate II: Enhanced Edition supports the following languages: English, French, Italian, German, Spanish, Polish, Russian, Korean, Simplified Chinese\n\nBaldur’s Gate: Siege of Dragonspear supports the following languages: English, French, Italian, German, Brazilian Portuguese, Ukrainian\n\n*Note: Non-English languages are available as free downloadable content",
+  "titleId": "010010A00DA48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/63f6f4e5e71b738d06e7c37de7b66ecf197fb3ddabaf742b4697c389229c0cf8.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-22T03:32:42.479",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gkfisher",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-27T05:32:43.463",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "2e37452",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-30T13:39:31.543",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8bbb257",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

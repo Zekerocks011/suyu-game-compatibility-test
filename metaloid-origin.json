@@ -1,0 +1,30 @@
+{
+  "name": "Metaloid: Origin",
+  "description": "Metaloid: Origin is an fast-paced gun’n run 2D platformer. Take on the role of one out of three android warrior's known as “Predator” and dash through 9 different levels in order to save their planet from an robot army led by Lucian Corp, whom invade their planet and exploit the planetary resources to fuel their galactic war efforts.\n\n3 Playable Character\nChoose and play as one from three characters which all offer different set of abilities and weapons!, Play as Erika and flood entire screen with barrage of bullet fire, alternatively reduce giant enemies to ashes in the blink of an eye as Zeta using atomic thunder or fly as Neva across the level equipped with jetpack to bring aerial doom.\n\nDash through 9 levels with unique tileset theaters and gameplay mechanics.\nFrom waterfall cave to scooter interception in desert, riding cart in volcano mine and fighting a giant walker on a snow field.\n\nCollect Soulrium and unlock new equipment\nCollect Soulrium gems from levels and enemies, then use them to purchase new weapons and unlock new powers from anywhere in the game by simply opening pause menu, however some upgrades will require more than Soulrium to unlock them.\n\nDifficulty Settings\nMetaloid: Origin features 2 difficulty settings to choose from for the player, some gimmick or enemies would function differently depending on which setting you did choose. On the hard difficulty mode enemies would move faster, deal more damage or even gain new attack type.",
+  "titleId": "01002DE00E5D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/325e4115c0d362779cf30ea6f67372d27bd29e552799a93e24edf7caa5953b9f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-22T14:42:05.355",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "613f4ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:12:02.313",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

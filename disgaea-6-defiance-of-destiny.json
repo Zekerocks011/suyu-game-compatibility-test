@@ -1,0 +1,118 @@
+{
+  "name": "Disgaea 6: Defiance of Destiny",
+  "description": "The first new DISGAEA game in six years is here! Meet Zed, a zombie that has risen above them all except one - a God of Destruction!\n\nCan a mere Netherworld zombie rise up and destroy a god? Find out in the newest installment of the DISGAEA series! Features such as Super Reincarnation, 3D visuals (a first for this series), and adjustable gameplay settings make this the perfect game for both new and old DISGAEA fans!",
+  "titleId": "0100ABC013136000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bea5c1738332ca7f0f033d6c4fa643e43a383474a8e180022ca1853758d8136a.jpg",
+  "tests": [
+    {
+      "tester": "nKaero",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-14T11:09:47.4",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HaiSeCrind",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-18T01:57:22.609",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "755b975",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Vincent_Schaddelee",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-04T17:47:47.262",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "ef62a7e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RendasT",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-14T22:35:30.275",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1050/PCIe/SSE2",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Vincent_Schaddelee",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-04T17:46:59.249",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "ef62a7e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ven",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-01T12:02:48.538",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KZavi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-30T15:34:25.113",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T14:58:18.003",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "8389c24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-26T14:37:54.242",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-12T17:20:16.963",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "5df5e4c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

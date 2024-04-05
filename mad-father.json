@@ -1,0 +1,19 @@
+{
+  "name": "Mad Father",
+  "description": "In this horror adventure game, play as 11-year-old girl Aya Drevis and uncover the secrets of a bizarre incident that befalls the Drevis residence, where maniacal experiments are conducted night after night.\nTo arrive at the truth, you'll need to make use of chainsaws, knives, hammers, even bottles of eyeballs to explore every inch of the terrifyingly mad mansion.\nThis is a remade version of the original Mad Father. In addition to updates such as a total revamping of the in-game graphics, this remake adds brand new scenes and Blood Mode: a new second playthrough which alters the story.",
+  "titleId": "01005E7013476000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/87fa9a0d940a90d87905918c2bdace7a7845c5e8ad61e7c73185d19d57aa2a30.jpg",
+  "tests": [
+    {
+      "tester": "Mizuki_Fujimoto",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-19T00:55:23.53",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU/PCIe/SSE2",
+      "version": "70c0c12",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

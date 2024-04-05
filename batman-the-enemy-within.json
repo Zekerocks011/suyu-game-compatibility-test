@@ -1,0 +1,30 @@
+{
+  "name": "Batman: The Enemy Within",
+  "description": "In this latest chapter from the award-winning studio behind Batman - The Telltale Series, both Bruce Wayne and Batman will be forced into precarious new roles. The Riddler has returned to terrorize Gotham City, but his gruesome puzzles merely foreshadow an even greater crisis. With the arrival of a ruthless federal agent and the return of a still nascent Joker, Batman must navigate uneasy alliances while Bruce Wayne undertakes a perilous series of deceptions. Which of Batman’s new allies will you choose to trust? And how deep into the darkness will you let Bruce descend?\n\nIncludes access to all five episodes in this all-new season from the award-winning studio, Telltale Games.",
+  "titleId": "0100E6300AA3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d0ee9821e36e994d2dea4d2195c6c3ad0d1e1007fc38e8ed96c2902faecc5ef0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-11T16:11:31.821",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-27T20:35:11.373",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "The Elder Scrolls V: Skyrim",
+  "description": "Winner of more than 200 Game of the Year awards, The Elder Scrolls V: Skyrim, the open-world masterpiece where you can be anyone and do anything, now allows you to go anywhere – at home or on the go. Skyrim® brings to life a complete virtual world for you to explore any way you choose,  including all-new features like motion controls, plus outfits and gear from compatible The Legend of Zelda™ amiibo. Take down enemies with the Master Sword, protect yourself with the Hylian Shield or look heroic in the Champion’s Tunic. The legendary freedom of choice and adventure of Skyrim is realized like never before. Dragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand amongst them.",
+  "titleId": "01000A10041EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e9b1545083c46c612295a6f76ac609c355f04aefa90db09cf94ceeca682460be.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-14T09:42:58.798",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "08b8f77",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kcoryz",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-21T01:30:24.057",
+      "cpu": "Intel(R) Core(TM) i5-10600KF CPU @ 4.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-11T22:20:46.482",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "1d26d2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-20T11:12:35.867",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "aeb4164",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-14T17:42:22.35",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080",
+      "version": "8582dd2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-18T08:57:40.927",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-20T23:42:02.471",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7197438",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-22T16:37:59.619",
+      "cpu": "Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz",
+      "gpu": "GeForce GT 740M/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-22T00:18:30.863",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "74125e7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-04T15:20:34.721",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "3844a49",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

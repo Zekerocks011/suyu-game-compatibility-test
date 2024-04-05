@@ -1,0 +1,118 @@
+{
+  "name": "Mario Party™ Superstars",
+  "description": "Roll your dice and race to get the most stars (and sabotage your opponents) on 5 game boards. Each board is filled with treats and tricks—plant flowers (and Piranha Plants) on the delectable Peach’s Birthday Cake board or go intergalactic on the Space Land board. With minigames, star-stealing ghosts, and the troublemaking Bowser, you can turn the tables on your friends and family in an instant. Want to play with far-off friends and family? All modes can be played online*!\n\nTake on 100 classic minigames fit for the whole family\n\nTry your hand at a superstar collection of minigames from throughout the Mario Party™ series. Whether you are sharpening your skills solo or challenging your family at game night, there is nothing quite like being the last one standing in Booksquirm or surviving a penguin stampede in Pushy Penguins. All minigames are played with button controls, so you can stick to the Joy-Con™ controller or bust out the Nintendo Switch™ Pro Controller or a Nintendo Switch Lite system.\n\nParty with superstars near or far\n\nBring the party anytime, anywhere with same-system**, local wireless**, or online* play. Use stickers to praise or pester fellow players as you race across the board collecting stars. All modes support online multiplayer, so you can hop in with friends for a few minigames or a marathon 30-turn match. Victory is just as sweet (and stealing stars is just as satisfying) from anywhere across the globe.",
+  "titleId": "01006FE013472000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/22fa52ed91f3cb5cf8ccba24ec495035903a2534ef4020406358c716b7c4e261.jpg",
+  "tests": [
+    {
+      "tester": "NayToon",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-21T02:27:51.815",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "NVIDIA GeForce GTX 1660",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fgfalll",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-06T08:33:29.508",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "Quadro RTX 4000/PCIe/SSE2",
+      "version": "7687a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-29T00:40:57.455",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "cd930e5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-20T13:29:03.334",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-15T10:45:07.757",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VersedMeat",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-30T19:39:51.107",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "STCapricorn",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-23T11:45:51.55",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11600KF @ 3.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thethiny",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T10:12:22.141",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lyokofanatic9999",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-19T22:45:48.489",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OkaHachiko",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T03:43:14.109",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

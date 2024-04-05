@@ -1,0 +1,63 @@
+{
+  "name": "Cobra Kai: The Karate Kid Saga Continues",
+  "description": "Choose a side, master your moves, and embrace your destiny in an epic beat 'em up adventure inspired by the hit show. Take control of 8 playable characters with deep movesets, combos, progression, real-time character swaps, ultimate attacks, and much more! 34 years after the events of the 1984 All Valley Karate Tournament, the rivalry of Daniel LaRusso and Johnny Lawrence continues. The fight is in your hands now!\n \n•Two-Fold Storyline -  Featuring an all-new storyline filled with unique cutscenes and dialog-choose to take control of Daniel and his students at Miyagi-Do Karate through a storyline campaign. Or select their rivals, Johnny Lawrence and his disciples at Cobra Kai to play their side of the story. Completing both sides of the campaign unveils an ultimate ending.\n\n•RPG-Like Dojo Progression - Master 40 unique skills and upgrade your characters' stats as you karate your way through enemies.\n\n•Character Swap System - Choose your Dojo then seamlessly swap between your favorite characters within, including Miyagi Do's Daniel, Robby, Sam and Demetri; or Cobra Kai's Johnny, Miguel, Hawk and Tory.\n\n•Live the Cobra Kai Universe - Explore Los Angeles in the Karate Kid universe across 28 missions filled with characters and enemies from the show!\n\n•Authentic Cobra Kai Experience - Featuring the voices of William Zabka, Ralph Macchio and other top-tier cast, along with an exclusive soundtrack from the creators of the Cobra Kai show.",
+  "titleId": "01005790110F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7e0cdc2f9dfb28f6e022d686be1005418ef546dd0e7d21b18794b84559283ce1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T20:55:01.303",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-26T09:15:11.717",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-10T07:10:30.557",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "9aa3dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-09T09:21:37.903",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a59d433",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-02T15:32:08.807",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "1d0728c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

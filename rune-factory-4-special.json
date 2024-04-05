@@ -1,0 +1,96 @@
+{
+  "name": "Rune Factory 4 Special",
+  "description": "Welcome to Selphia, a region ruled by the Native Dragon Ventuswill...and you! Start an exciting new life in the village and embark on a grand adventure!\n\nFeatures:\n-Grow crops, raise monsters, catch fish, cook up tasty dishes, and craft powerful equipment. Live your life however you choose!\n\n-Become friends (or more than friends) with a charming and interactive cast of characters, and breathe life into the village with seasonal festivals and competitions.\n\n-Play through a special story alongside your spouse in the brand-new Newlywed Mode, and fall in love with your favorites all over again!\n\n-If you're a Rune Factory 4 fanatic, challenge yourself with a new difficulty mode.\n\n-Enjoy new in-game cutscenes, colorful CG illustrations, and an updated opening sequence.",
+  "titleId": "010051D00E3A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6a2b23e3b2ace9cdd6568de72b9eefe923e258aed30e7b30dddaa7196806b478.jpg",
+  "tests": [
+    {
+      "tester": "Zarick",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-01T14:29:15.291",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T02:20:48.738",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-09T18:41:03.734",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-13T09:08:00.096",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX/PCIe/SSE2",
+      "version": "ac4ae0e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rocktard",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-02T04:47:15.876",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "2d91943",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dimas_Agustino",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-26T00:23:27.365",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 750/PCIe/SSE2",
+      "version": "f81aa7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-29T11:42:11.669",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "47790e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-07-16T04:07:17.612",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "7487f5b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

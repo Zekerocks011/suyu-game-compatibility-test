@@ -1,0 +1,30 @@
+{
+  "name": "KORAL",
+  "description": "Dive into the beautiful undiscovered underwater world and heal coral reefs while you traverse the entire world in search for bleached, dying reefs. Interact with various kinds of corals, each one of them with unique skills you can interact with that will help you go on in the adventure.\n\nAs a player you play as a current. Flow anywhere you want to find for ways to transport healing energy for other corals and heal entire reefs, watching realtime how the seafloor becomes colorfull again and vibrant with life and diversity.",
+  "titleId": "010088500D5EE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/878791a3f999ea72477972e6c360bc75ca1bfdd9a211cd501e751ccd0dd41758.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-03T15:32:49.615",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-28T06:42:36.968",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d0c5bcf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

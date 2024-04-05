@@ -1,0 +1,19 @@
+{
+  "name": "Soul Knight",
+  "description": "“In a time of gun and sword, the magical stone that maintains the balance of the world is stolen by high-tech aliens. The world is hanging on a thin thread. It all depends on you retrieving the magical stone…” \n\nWe honestly can’t keep making it all up. Let’s just shoot some alien minions!\n\nThis is the game you have always wanted in your subconscious. Explore the dungeon, collect crazy weapons, dodge bullets and shoot‘em all up! Extremely easy and intuitive control; super smooth and enjoyable gameplay, mixed with rogue-like elements. \n\nFeatures:\n* Unique heroes, with unique abilities.\n* 170+ weapons waiting for you to explore.\n* Randomly generated dungeon world, new experience every time.\n* NPCs that actually matter! They will fight by your side!\n* Auto-aim mechanism for super intuitive control.\n* Many more features that you will find out in the game.",
+  "titleId": "0100A0800B83A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ad33b6c3ea16b9a7e3eb88e2537b6ae73d9db14bdf0535f613a4886bf220b721.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-23T21:19:08.121",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "205e97e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

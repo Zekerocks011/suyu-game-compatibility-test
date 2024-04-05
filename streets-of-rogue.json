@@ -1,0 +1,19 @@
+{
+  "name": "Streets of Rogue",
+  "description": "Streets of Rogue is a rogue-lite about player choice, freedom, and anarchic fun. The game takes inspiration from fast-paced top-down rogue-lites and adds free-form, experimentation-driven, emergent gameplay elements of immersive sims and RPGs.\n\nRather than taking place in a dungeon, the game is set in a functioning, procedurally generated city, where complex AI informs denizens from all walks of life, who are just trying to get by in their daily activities.\n\nIn order to progress, the player will need to accomplish specific mission goals in any way they see fit through the use of their special character traits, items, and the environment.\nWill you play as a soldier who shoots first and asks questions later?\nA stealthy doctor who uses chloroform and tranquilizer darts to take down the opposition?\nOr how about a gorilla, rescuing other caged gorillas to form a small mobilized gorilla army?\n\n\n",
+  "titleId": "01008CD00C222000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4675668b7736269a84635c5b50d0302c8fa172df7d6688c32e5aa1eae48ee372.jpg",
+  "tests": [
+    {
+      "tester": "UTMX",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-03T13:22:44.057",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 560/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

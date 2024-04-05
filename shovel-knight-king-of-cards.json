@@ -1,0 +1,52 @@
+{
+  "name": "Shovel Knight: King of Cards",
+  "description": "Hear Ye, Hear Ye! Make way for Shovel Knight: King of Cards, the grandest adventure in the Shovel Knight: Treasure Trove saga! Step into the gilded boots of King Knight as you leap, Shoulder Bash, and twirl your way to a kingdom of your own in this regal prequel. Gather cards, take on challengers, and build a deck in the all-new card game, Joustus! Travel through strange worlds, gather new subjects, best the Joustus Judges, and become King of Cards! World-class platforming, exquisite visuals, a story with heart, action-packed stages, masterful music, glorious new bosses, and more await you in Shovel Knight: King of Cards.\n\nFeatures:\n• See how the royal saga begins! Encounter some familiar faces, meet some new ones, and learn how King Knight came to sit upon the throne at Pridemoor Keep in the most ridiculous Shovel Knight adventure yet!\n\n• Smash enemies and obstacles head-on with your Shoulder Bash! King Knight’s showy play style is all about crashing, bouncing, and throwing his heft around.\n\n• Take part in Joustus, a brand new collectible card game created specifically for King of Cards! Build a deck, search for over 120 unique cards, defeat challengers, and become the Champion of each House of Joustus.\n\n• Collect tons of treasure, heirlooms, armors, abilities, and followers as you sail the skies in your quest for the Joustus Crown.\n\n• Test your skills with new Feats and Challenge Stages featuring boss rematches, custom-created platforming challenges, and more.\n\n• Enjoy Yacht Club Games’ finest visual presentation ever! The beautiful, 8-bit inspired style bridges the gap between yesterday and today.\n\n• Another masterful soundtrack by Jake “Virt” Kaufman!\n\n• Balanced gameplay is a warm welcome to newcomers and an old embrace for experts.\n\n• Take on a new challenge and multiply your wealth with New Game+!",
+  "titleId": "01008B20022AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a2d8a816016a8507cf273f3dd8e49715505cdf5d52b049a21c710c3125e51f5f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-07T11:31:33.056",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-20T17:57:08.987",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-08T11:51:51.83",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-01T15:20:09.574",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

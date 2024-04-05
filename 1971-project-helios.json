@@ -1,0 +1,19 @@
+{
+  "name": "1971 Project Helios",
+  "description": "1971 Project Helios is a turn-based strategy game which combines modern warfare military tactics and close combat. Firearms and vehicles are scarce, conflicts and hostilities have no end, and the terrible freezing cold annihilates friends and foes in its path.\nThe campaign sets in a frozen world, in which eight people – each one with its own problems and interests – join in a sort of temporary alliance, to find one particular person: Dr Margaret Blythe. Along their way they will have to avoid raider attacks, investigate military headquarters, and infiltrate into the territory of a dangerous anti-technological religious sect. On the trail of her whereabouts, they will travel and fight shoulder to shoulder, and they inevitably get to know the others. Depending on some strategic and personal decisions, you will guide this characters right to one of three possible endings.",
+  "titleId": "0100829010F4A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df38089180ed27dbd44dfd795cba99302776a646ccf7d8af7c7ad52cf768797e.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-25T12:36:41.482",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "889d908",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

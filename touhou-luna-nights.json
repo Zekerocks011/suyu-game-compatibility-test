@@ -1,0 +1,30 @@
+{
+  "name": "Touhou Luna Nights",
+  "description": "Touhou Luna Nights is a Metroidvania title with a heavy emphasis on exploration and action.　\nDeveloped by Team Ladybug, creators of multiple fantastic action games thus far.\n\n~ Story ~\n\n“...Now, let’s begin my world.”\n\nRemilia Scarlet, head vampire of the Scarlet Devil Mansion sends her maid Sakuya Izayoi with no warning to a world much like Gensokyo, but not quite.\n\nA world full of strange places, filled with strange youkai and her time manipulation sealed.\nWhat could Remilia’s end game be...?",
+  "titleId": "0100D850131B0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/935b85980ce8556e1f7d35974dd697e5eec2d517889584eeb46a10ea50630346.jpg",
+  "tests": [
+    {
+      "tester": "Rocktard",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-26T19:54:13.937",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "9d1d208",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-04T18:48:34.802",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

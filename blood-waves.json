@@ -1,0 +1,30 @@
+{
+  "name": "Blood Waves",
+  "description": "using the destroying traps, defensive barricades and also weapon of close and long-range combat.\n\nDestroy zombies, get the cash and prepare yourself for the next wave. During the break you can buy necessary weapon, place the traps and defensive barricades, repair the traps survived in the previous wave. And of course, don't forget to check the stock of bullets and restore your health.\n\nDifferent types of zombie possess the distinctive features. There are enemies with long-distance attack as well as cleverer zombies avoiding certain traps.\n\nChoose the optimal survival strategy. For the most successful game you will need to control expenditure of the earned resources. The time of your survival depends on it.",
+  "titleId": "01007E700D17E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/09ad8bbae86ac21a47ac8a6ffe48022a99b1552d6a6d9c7753e45262789e2f6c.jpg",
+  "tests": [
+    {
+      "tester": "SK_TATU",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-06-30T01:10:11.563",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "48c2597",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-07T14:29:55.203",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "84c928b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

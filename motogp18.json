@@ -1,0 +1,30 @@
+{
+  "name": "MotoGP18",
+  "description": "Become the star of the 2018 MotoGP™ season! Pursue your career as a professional rider making your way from the Red Bull MotoGP™ Rookies Cup up to the Premier class of the MotoGP™.\n\nRace with all the riders of the MotoGP™ on 19 official tracks, including the new Buriram International Circuit in Thailand and enjoy an even more immersive experience thanks to new features.\n\nFeel like a professional rider, decide how to change your bike, learn how to manage tire wear, use the MotoGP™ ID to monitor your progress and challenge your friends with the local multiplayer. ",
+  "titleId": "0100361007268000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0337a9b85e684579e77f4e063e37aa5bcc479025b90b9e70b5b26371dcfbf475.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T22:23:15.386",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-23T15:09:23.132",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Flip Wars",
+  "description": "This tense multiplayer action game will have you stomping to flip over panels—and unwitting opponents! To win, flip the most panels to your color in local battles, online*, or single-player. The more you flip, the faster you’ll move in a mad dash to nab power ups. Increase your flip range, turn invincible, and more across 3 modes and 12 arenas! Compete alone or against up to 3 players to see who’s best at each mode: flip the most panels before time runs up in Panel Battle, knock out the most opponents in Time Battle, or outlast your rivals in Life Battle. All 12 arenas have 4 layouts to choose from, some containing hazards like panel-flipping buttons, beam cannons, and waves so beautiful they truly stun competitors. Learn the art of the flip with tutorials and try your hand at achievements. When you’re ready to compete, jump into an online* battle or a private room with friends via local wireless. No matter how you play, it’s time to think fast and pull off the ultimate color scheme!",
+  "titleId": "010095A004040000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2c48663b89c0c78ca2e563c9ee2732eb760d7849e43db10bb8e4ea1d3b7a062f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-22T21:50:21.382",
+      "cpu": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-01T21:11:45.012",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-23T12:41:46.134",
+      "cpu": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

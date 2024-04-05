@@ -1,0 +1,118 @@
+{
+  "name": "FLASHBACK",
+  "description": "FLASHBACK™, the hit action-adventure game with over 2.2 million units sold, is back on Nintendo Switch™!\n\n2142. After fleeing from a space ship but stripped of all memory, the eminent scientist Conrad B. Hart awakens on Titan, a colonised moon of the planet Saturn. His enemies and kidnappers are snapping at his heels. He must find a way back to Earth, defending himself against the dangers he encounters and unravelling an insidious extra-terrestrial plot that threatens the planet… \n\nOn its 25th anniversary, rediscover this classic, consistently ranked among the best 100 games of all time! It was one of the first games to use motion capture technology for more realistic animations, with backgrounds that were entirely hand-drawn and a gripping science-fiction storyline.\n\nIn addition to the original 1993 game, this version includes a Modern mode, with:\n\n• Post-FX graphic filters, \n• Completely remastered sound and music,\n• A brand new \"Rewind\" function, variable according to the level of difficulty\n• Tutorials for those who need a boost!\n\nSee if you're up to the challenge with all the demanding gameplay of the period!",
+  "titleId": "01000A0004C50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4f1dab0eba64a97a3db831ab2f3a4b9edef398f24b407aaf2b65d154f438438d.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-02T16:55:18.036",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3bef3ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-16T16:00:41.648",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "a4cfd22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-14T20:34:40.588",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ea80bca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-01T20:48:32.476",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-07T14:19:00.757",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5b1e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-02T11:28:19.884",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "97bf301",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-14T09:48:14.568",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-05T22:34:25.232",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "1d6b8b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-18T12:41:34.506",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f9182a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-05T13:58:54.902",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "1d6b8b2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

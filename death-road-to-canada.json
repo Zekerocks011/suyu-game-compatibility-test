@@ -1,0 +1,41 @@
+{
+  "name": "Death Road to Canada",
+  "description": "Death Road is built for replay value. Everything is randomized: locations, events, survivor appearances and personalities. There's a different story every time you play, set in a world that doesn't take itself too seriously.\n\nFeatures:\n• Up to 500 zombies can hunt you down at a time. Fight them, squirm past, or run.\n• Use the character creator to put yourself, friends, and family in the game.\n• Find special and rare events, weapons, and characters with strange abilities.\n• Make tough choices in Interactive Fiction events. Get different options and results based on party member traits.\n• Tell people to \"Cool it.\"\n• Teach a dog how to drive a car.\n• 4 player local co-op and control up to 4 characters!",
+  "titleId": "0100423009358000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ddea1a81ebd206946900822008b93252ef78214f8146df252d1c48348105c1f8.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-28T09:33:34.592",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-09-20T18:13:46.886",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "f72af48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-27T00:50:00.975",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

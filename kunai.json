@@ -1,0 +1,19 @@
+{
+  "name": "KUNAI",
+  "description": "A traumatic event has shaken the balance of the world. Human life has been almost wiped out by the evil A.I. Lemonkus. Robots roam free across the earth. You take control of Tabby, a killer robot infused with the soul of an ancient warrior.\n\nA NINJA METROIDVANIA\n\nStart out with nothing, progress and increase in strength by killing enemy robots to unlock abilities, weapons and ninja tricks. Explore a world filled with secrets, hidden passages and mysterious characters. KUNAI is all about movement and agility. Use your ninja mobility to reach places where no normal robot could ever go.\n\nEXPLORE A UNIQUE WORLD \n\nExplore the different pixel-art environments of KUNAI, each with a minimalistic palette, while Tabby makes cute faces. Use a variety of ninja tricks to move around the world and unleash your deadly arsenal of weapons to fight your way through armies of evil machines, rogue androids, and mindless mechs.\n\nFEATURES OF KUNAI\n\n●        Fast-paced action platforming with a grappling twist.\n●        Silky smooth movement mechanics tuned to the pixel.\n●        Lots of juicy exploding robots crafted with care (note: screenshake can be turned off at your own leisure).\n●        Kunai-driven grappling fun with swinging included to amplify those deadly ninja drops.\n●        A wide variety of places to explore, ranging from a fallen city, floating airships to artificial deserts and more!\n●        Unique art style, with every area having its own color palette taking you back to the early days of gaming.\n●        Combat mechanics and weapons in abundance to slice, dice and fire your robotic foes to pieces.\n●        Friendly and not so friendly robots to meet along the way including Earl, Chief and the evil A.I. Lemonkus.\n●        Rocking soundtrack with lots of 16-bit references blasting into your ears.\n●        Hidden time trial to show off your godlike speedrunning skills.\n●        ALL THE HATS\n●        You are a NINJA TABLET. Enough said.",
+  "titleId": "010035A00DF62000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4e6b62e3d049893f1b4f05890e9f99398dbbe0c546ad97a3c7b6c412042ad6cb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-21T16:31:04.966",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

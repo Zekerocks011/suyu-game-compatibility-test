@@ -1,0 +1,74 @@
+{
+  "name": "Castle Crashers Remastered",
+  "description": "Hack, slash, and smash your way to victory in this Remastered edition of the popular 2D arcade adventure from The Behemoth! At 60FPS, Castle Crashers Remastered delivers hi-res visuals like nothing you've ever seen before. Up to four friends can play locally or online and save your princess, defend your kingdom, and crash some castles!\n\nFeaturing:\n•Unlock more than 25 characters and over 40 weapons!\n•Intuitive combo and magic system: Unlock an arsenal of new attacks as your character progresses through the game.\n•Level up your character and adjust Strength, Magic, Defense, and Agility.\n•Adorable animal orbs are your companions. Each adds different abilities to aid you on your journey.\n•Arena mode: Battle other players in free-for-all or team matches!\n•Back Off Barbarian mini game: Jump and hop across the level to avoid the enemies!\n•Insane Mode: Test your skills in the ultimate campaign challenge",
+  "titleId": "010001300D14A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e661931f41cdb6b79912628c1ba3c57a97a4cbdd8f9dea93273451942c774f58.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-04T14:03:07.319",
+      "cpu": "Intel(R) Pentium(R) CPU 4415U @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 610",
+      "version": "cffc406",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-18T23:01:49.589",
+      "cpu": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 850M/PCIe/SSE2",
+      "version": "0cd9130",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-25T15:27:05.434",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "28516e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-08T17:58:58.22",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-01T03:41:14.449",
+      "cpu": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 850M/PCIe/SSE2",
+      "version": "7b0a8a8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-15T04:58:29.811",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

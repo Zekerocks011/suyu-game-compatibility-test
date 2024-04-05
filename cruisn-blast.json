@@ -1,0 +1,118 @@
+{
+  "name": "Cruis'n Blast",
+  "description": "The arcade hit Cruis’n Blast is speeding onto Nintendo Switch™! \nBlast your way through nearly 30 over-the-top tracks. \nGrab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns!\nUp to four players can race together, so pick your favorite vehicle and hit the road! ",
+  "titleId": "0100B41013C82000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bbd456686ac3ada86bc95cf621fb0bf6af771561e84cc9f9a385fd3a4327880b.jpg",
+  "tests": [
+    {
+      "tester": "RocKit",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-10-08T18:18:20.126",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "INDIANAgaby",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-27T10:10:06.989",
+      "cpu": "AMD Ryzen 5 4600H with Radeon Graphics         ",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "bb21460",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "veloxSZ",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-03T12:48:30.352",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "bd8552e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-18T19:49:12.892",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "1b2e2d4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "K_Pedersen",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-18T23:20:57.626",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB",
+      "version": "653b6ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Bill_Samson",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-30T03:20:25.621",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "712446d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jrazorman",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-04T06:46:31.549",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:03:29.777",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T10:26:04.856",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Guyonthecouch_phd",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-30T04:05:54.905",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "06c2636",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

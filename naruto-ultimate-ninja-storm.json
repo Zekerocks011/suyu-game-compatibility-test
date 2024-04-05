@@ -1,0 +1,19 @@
+{
+  "name": "NARUTO: Ultimate Ninja STORM",
+  "description": "NARUTO: Ultimate Ninja STORM allows players to battle in full 3D across massive environments. Players will unleash powerful jutsu attacks, perform acrobatic evasive maneuvers and even run up walls and over water as they pursue their opponent for ninja supremacy. Players will be able to customize their character's fighting style and recruit up to two support characters to put their own stamp on the action.",
+  "titleId": "0100715007354000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/49f5a625aab77e5bb3f34c80a395acb36b0a97b6dee14c8eb82890bb04c21242.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-08T15:26:24.71",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Ni no Kuni: Wrath of the White Witch",
+  "description": "Journey back to the other world in Ni no Kuni: Wrath of the White Witch. LEVEL-5’s classic tale comes to Nintendo Switch™ for the first time. Join Oliver as he embarks on an adventure through a world inhabited by new friends and ferocious foes alike in the hopes of bringing back his mother after a tragic incident. With a copy of the Wizard’s Companion in his hand and his trusty friend Drippy by his side, he will travel across this rich fantasy world to tame familiars, take on enemies, and overcome the countless challenges that stand between him and his mother’s salvation.\n\nThis charming tale unfolds through the use of animation storyboarded and created by the legendary Studio Ghibli and music composed by the renowned Joe Hisaishi. Ni no Kuni: Wrath of the White Witch combines beautiful animated visuals, masterful storytelling, and a sweeping score to create an epic role-playing adventure like no other.",
+  "titleId": "0100E5600D446000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/78d73682833bab17b26827c7a4c38147a295dc3a178517c0b8a0fe277fe31122.jpg",
+  "tests": [
+    {
+      "tester": "Apaga",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-18T15:06:58.447",
+      "cpu": "       Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 660 Ti/PCIe/SSE2",
+      "version": "f7b887b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "benzapi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-10T16:31:25.734",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "eoin2000",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-09T12:08:26.255",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-23T03:20:20.791",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-24T17:07:38.664",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-03T23:00:13.884",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "177d1d4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-30T17:14:25.171",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ca609ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-10T10:49:04.639",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "d9a36ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "benzapi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-14T06:27:10.31",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "66a4fc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-24T17:04:14.704",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ad50f45",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

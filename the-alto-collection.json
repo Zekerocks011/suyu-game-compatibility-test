@@ -1,0 +1,30 @@
+{
+  "name": "The Alto Collection",
+  "description": "Join Alto and friends as they set out on the adventure of a lifetime.\n\nRace down alpine slopes, over windswept dunes, through ancient woodlands and the long forgotten ruins of both critically acclaimed titles: Alto’s Adventure and Alto’s Odyssey.\n\nAlong the way you’ll pull off daring backflips, grind over rooftops and leap over vast chasms as you journey to discover what mysteries lie beyond the horizon.\n\n- Full access to both Alto's Adventure and Alto's Odyssey, including over 120 levels, 360 goals, 7 unique characters, and a workshop full of upgrades.\n\n- Custom designed soundtracks for Standard and Zen modes for both titles.\n\n- Full controller support.\n\n- Online leaderboards.\n",
+  "titleId": "01006B100E44C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a6719a3d195f9306a87ad8caa4b00a6a5ce19ff8fa2f257e5771072c906d4d02.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-29T15:30:32.855",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "ba73544",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-29T15:28:57.265",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "ba73544",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

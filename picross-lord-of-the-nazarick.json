@@ -1,0 +1,52 @@
+{
+  "name": "PICROSS LORD OF THE NAZARICK",
+  "description": "A collaboration between Picross and Overlord. Experience the series Overlord as you solve Picross puzzles together with characters from the series.\n\nAfter founding the Sorcerer Kingdom, Ainz Ooal Gown and his followers meet within the Great Tomb of Nazarick to look back on their exploits.\nAwaken memories from 10 different characters as you solve Picross puzzles based on characters, monsters, and items from the story.\n\nWith 162 Picross and Mega Picross puzzles, 330 Clip Picross puzzles, and 27 Color Picross puzzles, there are over 500 puzzles to play!\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!\n*Touchscreen controls unavailable",
+  "titleId": "010012100E8DC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5d91741e0c2e2ddfc0d48f620e29c2a25ae88122f8e615ccc2da630ef7a6e61a.jpg",
+  "tests": [
+    {
+      "tester": "Kewlan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-13T08:40:06.325",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 760/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-23T11:42:18.771",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "fefdfd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-15T13:24:13.486",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kewlan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-11T13:53:28.164",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 760/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

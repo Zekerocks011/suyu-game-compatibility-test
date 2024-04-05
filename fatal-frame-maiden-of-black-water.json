@@ -1,0 +1,63 @@
+{
+  "name": "FATAL FRAME: Maiden of Black Water",
+  "description": "“FATAL FRAME: Maiden of Black Water” comes to Nintendo Switch™ for the first time to celebrate the 20th anniversary of the horror-adventure series FATAL FRAME.\n\n[The Story]\nMt. Hikami was once revered as a spiritual place.\nIt housed a unique religion based on beliefs and customs of worshipping water as a deity and is said to have been a site of many gruesome incidents and mysterious phenomena.\nThis mysterious and intertwined story follows three protagonists—Yuri Kozukata, Miu Hinasaki, and Ren Hojo—as each of them explores the ominous Mt. Hikami, a place where many came to die, and the secrets it hides.\n\n[Gameplay]\nPlayers use Camera Obscura, a special camera capable of repelling vengeful ghosts and sealing away their powers, to explore Mt. Hikami and the numerous incidents that took place there in the past.\nThe story is divided into separate missions, and each mission is led by a new protagonist.\nIn addition to sealing the evil spirits that attack you, Camera Obscura can be used to reveal other things that can’t be seen with the human eye and will help in the recovery of lost items.\n\n[New Elements]\n- Improved screen resolution\n- New outfits and accessories\n- New Snap Mode where you can freely place characters and spirits for creative shots\n- Updated Ghost List\n- Updated controls\nand more.\n\n\nNote: “FATAL FRAME: Maiden of Black Water Digital Deluxe Edition” that includes the main game and bonus content is also available for purchase. Please be careful to avoid making a redundant purchase.\n",
+  "titleId": "0100BEB015604000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e2b3f45bf2f7988581d4d254ef901dfeee472a945d1326510eb7b57bfe0a3a5f.jpg",
+  "tests": [
+    {
+      "tester": "VersedMeat",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T19:40:09.909",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "VersedMeat",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-31T07:35:23.655",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alex_Cerzea",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-30T15:31:02.303",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T11:07:05.094",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jinete1805",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-22T20:34:30.662",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "5165298",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Warhammer 40,000: Mechanicus",
+  "description": "Take control of the most technologically advanced army in the Imperium - The Adeptus Mechanicus in this critically acclaimed turn-based tactical game. Your every decision will shape the missions ahead and ultimately decide the fate of the troops under your command in over 50 hand-crafted missions, including the amazing Heretek DLC missions. Choose your path carefully - the Imperium depends on it.",
+  "titleId": "0100C6000EEA8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3d289b1c34e9751560bbf361a223658b15d63bb9d48ca835db95696683d2225b.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-31T20:05:14.72",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "dfab0d9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

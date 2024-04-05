@@ -1,0 +1,19 @@
+{
+  "name": "Cartoon Network: Battle Crashers",
+  "description": "When Uncle Grandpa accidentally drives the UG-RV through multiple dimensions, he picks up some surprise passengers in the form of Gumball, Steven Universe, Finn, Mordecai and Clarence! Now they'll have to band together to defeat the evil shard creatures and set things right. Use each character's unique attacks and special moves to conquer the elements, fight your way through all the levels and beat some brutal boss battles. Replay maps with special modifiers to switch up the fun, and unlock bonus rooms along the way. Take on the single-player challenge or grab up to 3 friends for multiplayer action in this crazy interdimensional adventure. ",
+  "titleId": "010010B003A26000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6bdbb4c7a5d04c77ce13fb59d6b482d36ef693261822388d512d9c230ad7add1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-31T21:55:01.818",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

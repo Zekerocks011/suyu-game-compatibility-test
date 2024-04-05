@@ -1,0 +1,96 @@
+{
+  "name": "Gear.Club Unlimited",
+  "description": "For the first time on Nintendo Switch, drive through an authentic world of cars with Gear.Club Unlimited. Get behind the wheel of the most incredible cars from the most prestigious manufacturers.\n\nRace through over 400 challenging races. Learn to master the controls of the world's fastest supercars and collect them in your garage: you can customize and tune them across the numerous workshops, then take them to the race track for the win! \n\nChallenge your friends, competing among up to 4 players on the same screen, or beat their times online.",
+  "titleId": "010065E003FD8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/472c333d9856a4a9c0b59884a1e33325cb6d01f5472bbccb1361481d14e835dd.jpg",
+  "tests": [
+    {
+      "tester": "EdgeGMR",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-14T00:17:09.728",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "c3ea199",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ZjemCiKolege",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-01T22:48:49.417",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2a2452e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BSoD_Gaming",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-23T23:50:19.329",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "37b70d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ZjemCiKolege",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-09T17:01:27.292",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8f99c5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-31T19:58:49.162",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ZjemCiKolege",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-02T16:53:23.488",
+      "cpu": "AMD Ryzen 5 1600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-06-28T03:40:27.422",
+      "cpu": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "47790e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-06-29T15:09:01.178",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

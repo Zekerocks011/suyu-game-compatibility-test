@@ -1,0 +1,30 @@
+{
+  "name": "Golden Force",
+  "description": "The King of Demons set his sights on Muscle Island, a paradisaical and peaceful place where it’s good to live. This evil person settled his army and persecutes the population with the help of his generals.\nWasting their last coins in the taverns of the island, mercenaries from the feared GOLDEN FORCE enjoy their last moments of vacation when they receive a new contract: beat down this new evil in order to take back the mountain of gold in his possession.\nWhen there is gold and a promise of great battles, you can count on the GOLDEN FORCE to save your skin!\n\nFeatures:\n▪ 4 worlds full of challenge.\n▪ Old school difficulty (but not so frustrating).\n▪ 2 players cooperative mode.\n▪ 4 playable characters.\n▪ Fearful bosses.\n▪ Tons of secrets and hidden challenges for hardcore gamers.",
+  "titleId": "01007DE013A48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7e383ba93b3968cdd5c01a43b1ba64a2e391692b0f0d68386259f682ce3720ec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-03T12:57:30.069",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T05:05:17.683",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

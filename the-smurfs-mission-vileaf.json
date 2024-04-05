@@ -1,0 +1,30 @@
+{
+  "name": "The Smurfs - Mission Vileaf",
+  "description": "In a dusty grimoire, the wizard Gargamel just put his hands on the formula of an evil plant: the VILEAF. \nThis plant produces “VILETRAP” seeds, which can attract and imprison Smurfs… but these VILETRAP plants are also a great danger for the forest, as they are TOXIC, especially for the sarsaparilla fields!\nPAPA SMURF decides to ask some of his fellow Smurfs to help him find the ingredients for a super powerful antidote for all the plants sick from the VILEAF.\nThanks to the SMURFIZER, an invention from HANDY SMURF, go on an adventure to find the ingredients and free your fellow Smurfs… and save the whole village!\n\nGENERAL INFORMATION\n- Embody 4 iconic Smurfs: the Smurfette, Hefty Smurf, Brainy Smurf and Chef Smurf in 5 different worlds\n- Use the Smurfizer to heal the Vileaf contaminated plants on your way to Gargamel’s hovel\n- The Smurfizer will also make you jump, glide, dive, vacuum… keep a good timing to overcome every obstacle and beat your enemies\n- A subtle mix of platforming and exploration gameplays: find your way through vertical levels and explore them to uncover every secrets\n- Give life back to the Smurfs village by making progress and improve the Smurfizer by finding items spread around the levels\n- A game for every Smurfs fan, young or old, but also for every 3D platforming game fan!",
+  "titleId": "010040A01407E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b5543188d1e889cc896adc2f9a1f19a9ec491d9fbb98650b0ef6694122f90d2.jpg",
+  "tests": [
+    {
+      "tester": "3Dpoly",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-27T04:53:10.719",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Martin_Knaak",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-10T15:25:42.66",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "9a47a2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

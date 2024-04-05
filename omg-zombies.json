@@ -1,0 +1,19 @@
+{
+  "name": "OMG Zombies!",
+  "description": "As a lone cop armed only with bare wit, a large-calibre sniper rifle and bullets coated in a zombie-exploding pathogen, you are the last man standing at the epicentre of a zombie outbreak. Your mission? To succeed where the police and army failed by clearing the streets of 8 different strains of bloodthirsty zombies and stop Armageddon in its tracks!\n\nFor cool and unimportant reasons these suckers literally explode when shot, showering their zombie brethren with gore and causing chain reactions of showering zombie gibs with just a single bullet!\n\nUse your sharpshooting skills to vanquish 100 branching levels of zombie hell across 40 unique environments in this hugely addictive chain reaction shooter. Earn 400 shiny medals and cold hard cash to buy 100 different upgrades, all designed to MAKE THOSE ZOMBIES EXPLODE!\n\nOMG Zombies! is an awesome reimagining of a genuine classic: the critically acclaimed OMG-Z! The guys at Push Square gave it 89% and called it: “a must buy” game. Escape Rope claimed it’s: “...one of the best zombie games in recent memory” and Defunct Games gave it an A rating saying it’s “so addictive... I still can't get enough of watching the explosive chain reaction caused from a well-placed bullet.”\n\nThis even newer and 'improved-er' OMG Zombies! features a brand new sniper scope view, improved touch control, a fast-forward feature, instant restart feature and all the zombie-splattering action you could ever want! Get your trigger finger at the ready!",
+  "titleId": "01006DB00D970000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bb6d4c9be82b4a3a099e5376060b3a229bf190a221ca97d59424fe6eadbb8b36.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-27T17:46:35.382",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

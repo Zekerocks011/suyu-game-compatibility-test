@@ -1,0 +1,19 @@
+{
+  "name": "DayD: Through Time",
+  "description": "Brian is a gifted and eccentric scientist who has created a time machine and traveled into the past! But it turns out you can’t expect a careless stroll through the lands of the dinosaurs. His former friend, Doctor Terrible, is already here! He created a time machine before Brian and has already managed to install game machines in the dinosaur era! \nCan you stop Doctor Terrible? This adventure is full of mysteries, adventure, and of course, journeys through time! \n\nDo you know what you’ll encounter in this incredible adventure? 50 unique locations, a huge variety of quests, unique dinosaurs, and an exciting and uplifting plot – you can find all this in our game. Build structures, tame dinosaurs, play slots, organize resource distribution and construct unique buildings. Easy controls and simple game mechanics help you quickly get to grips with how it all works. ",
+  "titleId": "010072600D8EC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1e3a651652fe5af4d021be844ca8db54386ac67a20c769318a3f75dd71c5080c.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-28T08:51:41.453",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

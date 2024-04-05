@@ -1,0 +1,30 @@
+{
+  "name": "Layers of Fear: Legacy",
+  "description": "Layers of Fear: Legacy is a psychological and psychedelic horror game about a madness-engulfed painter striving to create his Magnum Opus. Learn the dark story of his past while gathering carefully crafted personal items that can be found in the game. Traverse the vision-induced, constantly changing house full of supernatural phenomena, where each move of the camera can shift the environment, and discover the true motive of the artist.",
+  "titleId": "0100BF5006A7C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4d2a19f8abfeacbf0caf5653ecbca9b67017dbcc6bb2dfabcd36f86297b69512.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-05T18:11:46.572",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Gamedev1909",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-12-07T23:38:47.49",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "14ba869",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

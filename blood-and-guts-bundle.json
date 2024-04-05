@@ -1,0 +1,19 @@
+{
+  "name": "Blood and Guts Bundle",
+  "description": "Satisfy your lust for carnage with three gloriously gratuitous games! This bundle contains Slain: Back From Hell, Slayaway Camp: Butcher’s Cut, and Super Blood Hockey.\nSlain: Back from Hell. A heavy metal inspired arcade combat game with stunning pixel art visuals, challenging old school gameplay and gore galore. Plus the most metal soundtrack you've ever heard!\nSlayaway Camp: Butcher’s Cut: A killer puzzle game and darkly comic homage to 80s horror movies where you control Skullface, a homicidal slasher hell-bent on revenge.\nSuper Blood Hockey: Arcade sports gaming gets a shot of adrenaline in this violent homage to classic 8- and 16-bit ice hockey games. Use fast-paced skills and bone-crunching brutality to dominate.",
+  "titleId": "0100EE5011DB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0ef508af1e490c216f7e6c4d8e6c55cf01776b28683c6a16264f039f556ab514.jpg",
+  "tests": [
+    {
+      "tester": "cnells2000",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-11T19:10:23.098",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

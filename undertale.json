@@ -1,0 +1,118 @@
+{
+  "name": "Undertale",
+  "description": "The world-famous indie RPG UNDERTALE comes to Nintendo Switch™! Fall into the underworld and explore a hilarious and heartwarming world full of dangerous monsters. Date a skeleton, dance with a robot, cook with a fishwoman...or destroy everyone where they stand. The future is yours to determine!",
+  "titleId": "010080B00AD66000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c0e24decb54ff6e59c1555aedf0cda06bf6e41e5751758984c8e9bfa792fe592.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-18T14:55:33.587",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-15T01:21:03.89",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "8ac568d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-12-20T00:21:34.128",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "21ac8d6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-09T17:13:21.812",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "72a7976",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DAGP498",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-12-23T15:04:32.048",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f863208",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-08T22:46:53.311",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "e0644db",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-10T17:29:36.685",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "43c6645",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-19T17:22:15.134",
+      "cpu": "          Intel(R) Xeon(R) CPU E31245 @ 3.30GHz",
+      "gpu": "GeForce GTS 450/PCIe/SSE2",
+      "version": "f4b461d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gucigucescu",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-05T18:13:03.41",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-09T02:08:50.616",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "1de1890",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

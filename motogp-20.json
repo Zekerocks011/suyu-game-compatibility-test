@@ -1,0 +1,19 @@
+{
+  "name": "MotoGP™20",
+  "description": "Rev up your engines for a new chapter of the MotoGP™ series!\n\nWith MotoGP™20, experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team and race together with the official riders or join a totally brand new team.\n\nDiscover more realistic physics, improved graphics, new 3D models of riders and face scans of official MotoGP™ team managers, plus new animations. Learn to manage gasoline and tyre consumption.\n\nCustomize your bike and your suit! Find the best combination of sponsor and livery, and choose colours and materials. Coordinate everything to win in style!\n\nCompete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP™ history.",
+  "titleId": "01001FA00FBBC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a7a5408e3c649c1f2092f22310337e0d9e793e10e05203f919913b7e8c735bbe.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T22:30:22.312",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

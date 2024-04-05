@@ -1,0 +1,30 @@
+{
+  "name": "Yonder: The Cloud Catcher Chronicles",
+  "description": "Yonder is set in the world of Gemea.  A natural island paradise with eight distinct environments ranging from tropical beaches to snow-capped summits.\n\nBut Gemea is not as perfect as it seems.  The mysterious Murk has taken hold of the land!\n\nAs the hero of Gemea, you can seek out the hidden and whimsical creatures known as Sprites. Use their power to clear the Murk and restore nature’s beauty.\n\nAs you explore Gemea, you can barter with friendly locals, discover unique materials to craft with, befriend the adorable wildlife and even create your own working farm.\n\nYonder offers a world to lose yourself in; a world filled with the wonder of discovery and the spirit of adventure.",
+  "titleId": "0100534009FF2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d3f186edb61443670595bec66dae2a090a26133cb91e6a39b53ea9920e61ae94.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-31T23:38:19.425",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-05T00:56:34.018",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9ced620",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

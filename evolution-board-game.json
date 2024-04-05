@@ -1,0 +1,19 @@
+{
+  "name": "Evolution Board Game",
+  "description": "ADAPT OR GO EXTINCT\nIn Evolution, you adapt your species to survive, and stay one step ahead of opponents. \n\n*Watering hole running dry? Evolve a long neck to reach food in the trees. \n*Staring down a Carnivore? Develop a hard shell to protect you. \n*Opponent has too many species?  Time to go on the attack yourself by adapting into a Carnivore.  \n\nAWARD WINNING ADAPTATION\n\"#1 Digital Board Game of the Year\" -Ars Technica\n\"Best Digital Board Game of the Year\" -Vulture\n\nPACKED WITH FEATURES\n*21 game Single Player Campaign with distinct AI opponents\n*Online Multiplayer with skill based Matchmaking\n*Asynchronous Play, Friend system and Chat\n*Progression ladder and online rankings let you see your improvement \n*Pass and Play\n*Weekly Challenges test your skill\n*Interactive Tutorial\n*Gorgeous Hand drawn Species to Discover\n",
+  "titleId": "01006A800FA22000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f8ccd4e36222e05b5ca99b863d3766db5c47382742f08f5a388b9bc74a90f7ee.jpg",
+  "tests": [
+    {
+      "tester": "jcbyn",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-30T13:18:36.737",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "82e7e3a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

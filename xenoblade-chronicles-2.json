@@ -1,0 +1,118 @@
+{
+  "name": "Xenoblade Chronicles 2",
+  "description": "Lost in a sea of clouds, entire civilizations rest on the backs of Titans. As the giant beasts march toward death, the last hope is a scavenger named Rex—and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends. Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.\n\nDuring these escapades you’ll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.",
+  "titleId": "0100E95004038000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0edb5a2abf375dfb0d29cf9e7c723450a93bf4d66f090dde4f3bdb68c4698ed9.jpg",
+  "tests": [
+    {
+      "tester": "blacktail122",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-15T03:14:20.433",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 745/PCIe/SSE2",
+      "version": "0348e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-26T12:48:33.936",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "6da1884",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AlexDzX",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-06T05:42:17.728",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6561008",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Laqrifvermaille",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-07T11:49:53.812",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "Radeon RX 560 Series",
+      "version": "23d6568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "donenilo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-12T16:26:48.269",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "b7cd227",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-24T05:42:44.059",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T22:56:30.396",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "donenilo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-12T16:28:09.144",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "b7cd227",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-07T23:43:47.012",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-15T17:08:21.228",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "90fe0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

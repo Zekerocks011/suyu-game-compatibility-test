@@ -1,0 +1,85 @@
+{
+  "name": "Bouncy Bob",
+  "description": "Defeat hordes of zombies and seal your fate with the push of one button! \n\nBeat your own score in Single Mode or invite your friends to play together in Multiplayer Mode.\n\nKey features:\n• Local multiplayer for up to 4 players\n• Challenging single mode with high scores\n• Music by Piotr Surmacz\n• 15 arenas to play\n• HD Rumble\n",
+  "titleId": "0100A2700A86E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0aadbacdb4cb4c6e7aaad411cbad8cbbf9164fc5ec0816556597e010dc293b7c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-01-17T14:22:59.431",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "c427e5e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-02-25T10:14:28.767",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "95c37df",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-02T21:48:37.867",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-27T01:28:27.119",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-02-17T14:41:11.054",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "034ee8c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-11T17:20:20.839",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "6cc9945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-01-17T14:13:33.873",
+      "cpu": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+      "gpu": "GeForce 840M/PCIe/SSE2",
+      "version": "c427e5e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

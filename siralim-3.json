@@ -1,0 +1,41 @@
+{
+  "name": "Siralim 3",
+  "description": "Siralim 3 is a deep, monster catching RPG. Collect 700+ creatures to fight for you in randomly generated dungeons. Find treasure and use it to craft items, empower your creatures, learn spells, and more.\n\n* Collect and breed over 700 different creatures to fight for you.\n* Explore randomly generated dungeons with 15 unique tilesets.\n* Craft artifacts and spell gems to equip your creatures for battle.\n* Infinite playability - there's not even a level cap. New features are introduced well-beyond the 100-hour mark. You'll never run out of things to do!\n* Rich end-game content, including Itherian Realms, super-bosses, arena battles, and much more!\n* Take part in holiday events to unlock exclusive creatures, items, and costumes for your character!\n* Asynchronous player-versus-player battles. If you win, you'll earn exclusive items!",
+  "titleId": "010073E00DBDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70a1fafdc5da5ef5845f25f2e058044bce07c9dcb515227e357e428717ba2ff3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:20:32.585",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:20:24.86",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-07T09:14:29.641",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2147945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

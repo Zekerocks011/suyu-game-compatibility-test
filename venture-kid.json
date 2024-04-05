@@ -1,0 +1,41 @@
+{
+  "name": "Venture Kid",
+  "description": "Venture Kid is an action packed platformer that will keep surprising you with inventive level design, highly entertaining action challenges, responsive controls and a great variety of bosses. \n\nYour Mission: \nThe evil Dr. Teklov is about to build a secret weapon, disguised in his huge space fortress. Time is running out but our hero Andy stepped up to defeat him and fight his way through Teklovs minions. Join Andy and prepare yourself for a dangerous journey that demands great skill and determination. Will you succeed ? \n\n- 9 action packed levels and bosses\n- Switch exclusive Survival and Boss Rush modes \n- Chiptune soundtrack by Matt Creamer (Slayin) \n- 8 unique and useful Power-Ups to help you on your quest. \n- Many secret areas to find and explore \n- Pro Controller Support",
+  "titleId": "010095B00DBC8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1738947baa96735f75809a8be0212eb7a3effec6122a238080c05104026c497e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-02T09:57:53.136",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "32639c5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T05:33:02.116",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-20T18:36:56.873",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f96d7d1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

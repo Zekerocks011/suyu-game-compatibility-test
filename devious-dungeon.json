@@ -1,0 +1,30 @@
+{
+  "name": "Devious Dungeon",
+  "description": "Under orders by the King, players assume the control of a Knight instructed to head into the catacombs beneath the Kingdom, to slay the fowl beasts and monstrosities that have invaded the murky depths.\n\nYou must venture deep within the dungeons eliminating the threat!\n\nSlay monsters, collect loot, level up and upgrade your gear.\nOnly a true champion will be victorious!\n\nFeatures:\n• Level randomization\n• 5 worlds\n• 68 levels\n• Slay monsters and collect loot!\n• Lots of weapons and gear\n• RPG styled upgrades\n• Boss Battles\n• Mission system\n• Achievements\n",
+  "titleId": "01009EA00A320000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/581744318e98e0e1165a33eac545cad74bde65918681ec11aaf65427cd4b796a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T12:05:02.553",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-25T04:43:45.441",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "061c4b2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

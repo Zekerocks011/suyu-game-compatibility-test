@@ -1,0 +1,118 @@
+{
+  "name": "Street Fighter 30th Anniversary Collection",
+  "description": "Celebrate Street Fighter’s historic legacy with the Street Fighter 30th Anniversary Collection. In this massive collection of 12 Street Fighter titles, which encompass the Street Fighter I, Street Fighter II, Street Fighter III and Street Fighter Alpha series, perfect arcade balance makes it to consoles for the first time ever. Hop online and relive the arcade experience through the online Arcade Mode or play with friends in the online lobby within four of the most definitive Street Fighter titles in the collection.\n\nThe celebration continues in the Museum, where fans and historians alike can follow the timeline of how Street Fighter has evolved over the past 30 years. Learn more about the Street Fighter cast, view key animation sprites in the character viewer and take a behind-the-scenes look at the design documents that helped solidify the franchise that produced generations of World Warriors!",
+  "titleId": "0100024008310000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/26d8cffc766c881960d471aa552dc86ded785bc4635419a2a383c33d8540b2d8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-14T21:17:53.569",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "20c42dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T17:19:49.428",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-14T17:47:39.449",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "83e4e96",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T17:29:17.091",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-14T21:17:27.984",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "20c42dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shikinouta",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-14T21:28:13.708",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-12T19:10:08.952",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-16T19:40:08.697",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "571698a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-01T18:41:08.225",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "b384c7a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-19T17:06:34.922",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "db8ff90",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

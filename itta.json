@@ -1,0 +1,19 @@
+{
+  "name": "ITTA",
+  "description": "ITTA is a bullet-hell adventure set in a world filled with monstrous bosses. When Itta wakes up and finds herself surrounded by her dead family, her only guide is a strange spirit that takes the form of the family cat who gifts her a glowing revolver for protection.\n\nAs Itta, players must seek out the powerful beings locked away beneath this seemingly peaceful world and go toe-to-toe against them in harrowing battles. From hulking ancient golems to toothy horrors, Itta’s journey will push both you and her past their limits. Luckily, you can change up your combat style by finding weapons with unique attack styles, and if the going gets too tough, toggle on invincibility or player damage multipliers at any time.\n\nITTA is a game inspired by themes of personal struggle. If there is light, there must be darkness. The important thing is to keep going… no matter what you endure along the way.\n\nTopple 18 deadly bosses in tight, twin-stick, bullet-hell combat\nWield an arsenal of power spirit weapons to fight in new ways\nUnlock the mystery of a bizarre, crumbling world and its cryptic inhabitants\nExplore a beautiful, pixel-art world backed by a haunting and eclectic musical score.\nNever hit a wall; freely toggle damage multipliers or invincibility",
+  "titleId": "010068700C70A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dd94de78ae6277d505c2f5f2b5c7d5af4b445a34b1ce4099d3f1c7b0d55966ac.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-06T10:35:37.375",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

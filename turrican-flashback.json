@@ -1,0 +1,52 @@
+{
+  "name": "Turrican Flashback",
+  "description": "The legendary Turrican series is back! Experience 4 classic action games in this trailblazing collection with huge levels, outstanding music and modernized controls. This is the ultimate retro game experience! Discover all the secrets, rise against the machines and take part in the 30th Anniversary for one of video gaming’s finest moments.\nDeveloped by Factor 5, Turrican became one of the greatest action video game series of all time, heralded around the world for its mix of gigantic boss battles, huge explorative level design and of course, the unforgettable music score from Chris Huelsbeck! \nFor the first time ever, the greatest games of the series have been painstakingly remastered for a new generation, bringing the authentic Turrican action adventure back once again for fans to relive their memories and capture the imagination of a new audience. \n- The Collection contains Turrican, Turrican II, Mega Turrican and Super Turrican\n- Huge level design allowing you to freely explore and discover secrets!\n- Brand new control schemes bring out the action more than ever!\n- Play with either razor sharp pixels, smooth widescreen graphics or the awesome CRT shader!\n- New dynamic HUD option for a more modern experience!\n- Music by famed video game industry legend Chris Huelsbeck, including a brand-new title track!\nThis is the moment fans have been waiting for! The legend has returned. The Machine is raging terror in the galaxy. Welcome to the action adventure 30 years in the making. Welcome BACK…to TURRICAN!",
+  "titleId": "010004B0130C8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dff1d81f597a1fa98015a3cef3e4f890b3e0f56c068648b5784ce9173cd2765d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T15:24:39.042",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-29T17:42:48.064",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-31T10:04:46.153",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-04T16:47:16.56",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "33321a5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "GUNBARICH for Nintendo Switch",
+  "description": "Gunbarich launched in arcade version in 2001. It is a new game with elements of puzzle and shooting in the late works of Japanese brand \"Psikyo\". In Japan's amusement arcade, there is always one popular game.",
+  "titleId": "01002B2004F76000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5a62dfea5b8897f61d51f5ca7392ff1d91712bb461391fe19f5efc80cd69bfea.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-09T09:09:31.156",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4f5ef0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

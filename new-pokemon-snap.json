@@ -1,0 +1,118 @@
+{
+  "name": "New Pokémon Snap™",
+  "description": "Seek out and take in-game photographs of Pokémon in their native environments in the New Pokémon Snap™ game, only for the Nintendo Switch™ system! Snap photos from the NEO-ONE as you you encounter and research lively wild Pokémon. You might see unexpected expressions or behaviors—Pokémon patrolling their territory, playing, or lurking in out-of-the-way spots. \n\nInvestigate the mysterious Illumina phenomenon\n\nTravel to the islands that make up the Lental region. In this region, some of the Pokémon and vegetation will appear to have a special glow. Research these Pokémon alongside Professor Mirror as you explore dense jungles, vast deserts, and more! Your observations of Pokémon thriving in the wild may help unravel the truth behind the Illumina phenomenon. The Pokémon pictures you take will be used to build your very own Pokémon Photodex!\n\nSave, edit, and share your favorite Pokémon photos\n\nSave photos to your personal in-game album to edit and adjust them. When you complete a course, you can adjust the brightness, blur, zoom and other aspects of your photo in Re-Snap mode. Then, add stickers, frames, and filters to add a personal touch. Share your favorite photos with family and friends in-game*. You can also see what kinds of photos everyone else is taking. See something you like? Award a Sweet! medal.\n\nThis new game brings the gameplay of the 1999 Pokémon Snap game for the Nintendo 64™ system to life on the Nintendo Switch system with unknown islands to discover and different Pokémon to see! \n\nPhotograph lively wild Pokémon in their natural habitats as you research and explore unknown islands. Hop in your trusty travel pod, the NEO-ONE, and journey through a variety of environments such as beaches, jungles, and deserts to capture previously-unseen Pokémon behaviors. You can even play a melody or toss Pokémon a delicious fluffruit to catch their attention. Photos you take can also be used to fill out your very own Pokémon Photodex! \n\nYour photos are scored based on the Pokémon’s poses, how large they appear, how directly they’re facing you, and other factors. You may even snap a four star-worthy photo if you catch rare Pokémon behaviors. These scores can be shared via in-game rankings* so you can compare your shots with other Pokémon photographers around the world.\n\nIn the Lental region, Pokémon and vegetation have sometimes been seen to glow. Meet Professor Mirror and work with him to uncover the mystery of the Illumina phenomenon. Your photos and observations may be key to learning about this strange occurrence.\n\nA free update includes 3 new areas to explore, each with Day and Night versions, and 20 more Pokémon to photograph! Keep your eyes—and camera lens—peeled as you explore the rocky cliffs in the Barren Badlands, ride the rapids of the Mightywide River, or shrink down to a tiny size to explore the Secret Side Path.",
+  "titleId": "0100F4300BF2C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/961f7e70e919bb9300c64d90e9e0ff3beb2d9128ce0d5137968e776fd8c2ec38.jpg",
+  "tests": [
+    {
+      "tester": "eka989",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-27T01:40:23.165",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "version": "47a0b1b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "eka989",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-27T01:38:00.074",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "version": "47a0b1b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PAtricio_Wenkulleo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-18T00:34:02.803",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zeus_Monroe",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-06T12:45:19.345",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "03a59dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CengizKaan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-16T14:16:37.985",
+      "cpu": "AMD FX-8320E Eight-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Jellybit",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-06T02:25:22.849",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OkaHachiko",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T03:45:01.176",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mar7210",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-25T19:34:47.663",
+      "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "6ab5720",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Michael_Huett",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-26T18:17:50.929",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 970/PCIe/SSE2",
+      "version": "2b4ead1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-07T07:03:52.945",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

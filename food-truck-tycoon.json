@@ -1,0 +1,19 @@
+{
+  "name": "Food Truck Tycoon",
+  "description": "Test your skills and talent as owner of a busy food truck!\n\nYour only job is to take orders, prepare food and serve to as many customers as possible.\n\nBe careful not to burn the food!\n\nFulfill your dream of becoming the tycoon of the best food trucks in the city!\n\nIN FOOD TRUCK TYCOON YOU WILL FIND:\n\n• 60 levels to explore, 50 dishes to serve.\n• Great cartoonish graphics, music and sound effects.\n• Countless upgrades you can apply to ingredients and bar decorations.\n• 25 Achievements to complete.\n• Easy to play and hard to master.\n\nGo ahead, try it out!",
+  "titleId": "0100F3900D0F0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/73a6b158c3f0fed211f40b777d202c3452c3076ce773efe01855408b9773873f.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T18:22:31.015",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

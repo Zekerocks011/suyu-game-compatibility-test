@@ -1,0 +1,96 @@
+{
+  "name": "LEGO Worlds",
+  "description": "EXPLORE. DISCOVER. CREATE. TOGETHER. LEGO® Worlds is an open environment of procedurally-generated Worlds made entirely of LEGO bricks which you can freely manipulate and dynamically populate with LEGO models. Create anything you can imagine one brick at a time, or use large-scale landscaping tools to create vast mountain ranges and dot your world with tropical islands. Drop in prefabricated structures to build and customize any world to your liking. Explore using helicopters, dragons, motorbikes or even gorillas and unlock treasures that enhance your gameplay. Watch your creations come to life through characters and creatures that interact with you and each other in unexpected ways. In LEGO Worlds, anything is possible!  ",
+  "titleId": "0100838002AEA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3e847584cfa56ac2ca760450de754cd42573a43699255c479f1782d039fd7d41.jpg",
+  "tests": [
+    {
+      "tester": "faboocay",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-28T00:16:01.761",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 650/PCIe/SSE2",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-16T12:44:57.499",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "606d63f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheKirbyfighterYT",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-07-10T23:52:14.36",
+      "cpu": "Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "80d7c45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-09-03T13:07:35.699",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "e6f5628",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-13T06:08:03.123",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RocKit",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-10T09:40:34.834",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-01-13T06:09:21.106",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cenimm",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-29T21:27:44.457",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "32acb9f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

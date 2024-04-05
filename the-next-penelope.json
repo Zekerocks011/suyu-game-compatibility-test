@@ -1,0 +1,19 @@
+{
+  "name": "The Next Penelope",
+  "description": "Set in a futuristic Odyssey, \"The Next Penelope\" is a fast-paced, action racing game with loud colors, an original story and a challenging risk-reward system.\n\nAs Penelope is looking for Ulysses through the galaxy, the player is free to explore the planets in any order. Each world features unique situations, races, even bosses, and new permanent abilities to enhance Penelope's spaceship.\n\nWeapons can be mixed and used at any time, but all these abilities cost vital energy, so the player is very powerful and close to death at the same time!\n\nIf you've played a MicroMachines game, you'll feel right at home with the controls! (An alternative control scheme is available for newcomers as well.)\n\nSpecial bonus missions to extend your journey after beating the main game are available, then battle with your friends as Penelope's suitors, who are battling each other for glory in a local 4 player mode!\n\nAlso, HD rumble support! ",
+  "titleId": "01000CF0084BC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a9ada6d7c1995237744292383d2757744b2be89d119e328e47a3091ec27695ee.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-28T20:39:10.392",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "8a8bd4a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

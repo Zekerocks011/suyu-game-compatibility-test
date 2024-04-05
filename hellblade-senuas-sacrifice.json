@@ -1,0 +1,30 @@
+{
+  "name": "Hellblade: Senua's Sacrifice",
+  "description": "From the makers of Heavenly Sword, Enslaved: Odyssey to the West, and DmC: Devil May Cry, comes a warrior’s brutal journey into myth and madness.\nSet in the Viking age, a broken Celtic warrior embarks on a haunting vision quest into Viking Hell to fight for the soul of her dead lover. \nCreated in collaboration with neuroscientists and people who experience psychosis, Hellblade: Senua’s Sacrifice will pull you deep into Senua’s mind.",
+  "titleId": "010044500CF8E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bfeb5333a4473854d4cba8332d64152d595879c3714e687b45c47ad33b234a08.jpg",
+  "tests": [
+    {
+      "tester": "Bill_Samson",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-23T00:38:57.185",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9940d66",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "6flagssouth",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-23T07:04:28.585",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "7c5b867",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Spartan",
+  "description": "Sparta, 500 BC. The city-state's weapons, armor and gold have mysteriously vanished. Magical portals begin to appear throughout ancient Greece.\n\nAs a king and the world's most fearsome warrior, Leonidas sets out to discover who is behind the threat, and recover everything that was stolen.\n\nYou, are King Leo. And your aim is to make whoever is responsible and whatever stands in your way, rue the day they crossed your path.\n\nBlock, stomp, run, jump, fall, climb, cling, push, spring & slice your way to victory.\n\nOutsmart intelligent enemies, tread carefully through obstacles and use your wits to defeat bosses in epic battles.\n\nTHIS.. IS.. Spartan!\n\nFEATURES\n•\tImmerse yourself\n\nPowered by UE4.\nMemorable atmospheric soundtrack with ethnic overtones.\nCrisp and detailed handcrafted art.\nHyper-smooth 2D physics based mesh animations.\nFun, intelligent and reactive enemies.\nA huge variety of traps and obstacles.\n\n•\tNon-linear Levels\n\nNo matter which path you choose, you can always return to any point. Feeling greedy and want to go back and collect all of the coins? No problem! There is no area you cannot return to. But remember to plot your routes and keep track of where you've been, because without retrieving all of the artifacts or chests you won't be able to activate the magical escape portal. Not happy with your score? You can replay any level, any time, once it’s been unlocked.\n\n•\tPixel-perfect controls\n\nWhen the margin for error is small, responsive controls are a sheer delight. You command, and King Leo executes with lightning speed. You say \"Jump!\", and he says \"How high?\" If your reflexes are fast enough, his reflexes will be fast enough. Every step counts and every move is in your hands.\n\nClocking in at a stable 60fps, \"Spartan\" leaves gamers no excuse to not succeed.\n\n•\t20+ Hours of Gameplay\n\nMore, if you want to unlock the entire gallery and learn some ancient Greek words!\n\nWith 4 distinct worlds and 24 challenging levels, you'll find yourself proclaiming: \"Tough, but fair!\"\n\n100% Indie. Created by two brothers.",
+  "titleId": "0100E6A009A26000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7eb145993903ff7459e97147cd30edba48a22b19e802e874f70c536f7d9c8333.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-07-17T18:01:57.658",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "22290a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-07-25T09:33:38.319",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "0450434",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

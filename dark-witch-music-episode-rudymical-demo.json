@@ -1,0 +1,19 @@
+{
+  "name": "Dark Witch Music Episode: Rudymical Demo",
+  "description": "null",
+  "titleId": "010047A008760000",
+  "img": "null",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-11-14T18:27:06.598",
+      "cpu": "AMD FX(tm)-9590 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "04739ec",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

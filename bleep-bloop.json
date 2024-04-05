@@ -1,0 +1,19 @@
+{
+  "name": "Bleep Bloop",
+  "description": "Meet Bleep and Bloop as they help each other overcome all the challenges that stand in their way. A light-hearted and playful puzzle game about working together.\n\nPlay alone controlling both characters or share the experience with a friend. Bleep Bloop is extremely easy to learn, but that doesn't mean the puzzles will be a piece of cake.\n\n- Enough levels to keep you entertained during a lazy Sunday, but not enough to make you wish the game had ended already.\n\n- Beautiful soundtrack that makes getting stuck on a level a bit less painful.\n\n- Perfect for single-player or two-player coop. Yelling at each other doesn't improve your puzzle-solving skills, but it's always fun.\n\n- Features a small secret hidden somewhere. Go look for it.\n",
+  "titleId": "0100AEA00CCAE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c63cdd66a2877413bba4c5e62f65052b3fcf474ed5e72d91a907be6c7828453c.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-22T04:05:22.321",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

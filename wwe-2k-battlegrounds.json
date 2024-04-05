@@ -1,0 +1,63 @@
+{
+  "name": "WWE 2K Battlegrounds",
+  "description": "The world of WWE is your battleground with over the top, arcade action as your favorite WWE Superstars and Legends battle in interactive environments around the world. Compete using special abilities and power-ups in match types like Steel Cage, Royal Rumble, and more!  \n\nBattle Across the Globe! \nPlay through a new story mode told through original comic strips, alongside Paul Heyman and Stone Cold Steve Austin to find the next WWE Superstars while unlocking unique characters and Battlegrounds.\n \nIt’s Your Battleground!\nMake WWE 2K Battlegrounds your own with tons of customizable parts as you create and edit your own characters and Battlegrounds!\n  \nBattle with Friends - Online or on the Couch!\nCompete in Online Tournaments or stake your claim as King of the Battleground against players from around the world! Plus, battle it out in local multiplayer and dominate your friends.",
+  "titleId": "010081700EDF4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f565cbb98fb215411ff467794c2affabd4f16e2a1bb17e4df9351a868f37544e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-08T05:39:21.819",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-10-07T02:37:44.383",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-20T04:50:48.748",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "2ec2d80",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-19T12:59:56.469",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "7595ee9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-20T19:01:41.022",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

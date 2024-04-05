@@ -1,0 +1,30 @@
+{
+  "name": "Destiny Connect: Tick-Tock Travelers",
+  "description": "Join Sherry and her friends in this heartfelt adventure through time as they unveil the mystery behind why time has stopped in their beloved town of Clocknee.",
+  "titleId": "010069500DD86000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/11526af85f18d253ce577f4500338533f9d929c6da5c46d65e09d835ff22730e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-02-24T17:47:36.1",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0159182",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Evil_Paul",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-14T08:22:10.417",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "2743b9f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

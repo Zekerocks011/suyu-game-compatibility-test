@@ -1,0 +1,30 @@
+{
+  "name": "Hungry Shark World",
+  "description": "Experience life as a shark and eat everything that gets in your way in this action-packed aquatic adventure. Control more than 20 sharks in full HD and take on fearsome bosses as you venture into the depths to find trapped sharks, hidden treasures, and more. Sink your teeth into the award-winning Hungry Shark series, now on console in full HD with optimized gamepad controls. Spread terror in the ocean by controlling over 20 different sharks. Take on challenging boss battles, from gruesome goblin sharks to prehistoric monsters and giant submarines. Explore the ocean depths, unlocking treasures and missions across four unique locations.  Unleash your inner shark in this jawsome arcade adventure! Take on fearsome bosses as you venture into the depths to find trapped sharks, hidden treasures, and more.",
+  "titleId": "0100E1A00AF40000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c7abb7d1bf493f8da708bb5c59b1d0fa0652f87408f4a3b3c8338f1081bfa7eb.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-28T15:02:39.919",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b7cd556",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-08T10:22:06.746",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

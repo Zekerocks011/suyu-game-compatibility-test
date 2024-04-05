@@ -1,0 +1,30 @@
+{
+  "name": "Arcade Archives ICE CLIMBER",
+  "description": "“ICE CLIMBER” is an action game released by Nintendo in 1985.\nPlay as POPO and NANA to break apart blocks of ice with your hammer and defeat enemies that get in your way as you aim for the top of the mountain.\nHowever, only one person can catch the condor waiting at the summit. Will you work together, or try to go for it alone? It's up to you!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01007D200D3FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/38d64c5db336acfb049973ec79d5ef643fd899df983920a564e0af5cdab8be16.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T22:31:03.177",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T15:18:52.768",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2f2be78",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

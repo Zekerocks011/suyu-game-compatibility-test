@@ -1,0 +1,30 @@
+{
+  "name": "DreamWorks Dragons Dawn of New Riders",
+  "description": "A new heroic dragon and rider are taking to the skies and only you can help them defeat the evil villains who destroyed a dragon sanctuary created by Hiccup, Toothless, and his dragon riders. \n\nWhen the island of Havenholme is found in ruins, mysterious survivors emerge as unlikely future heroes.  Scribbler is a scholar who cannot remember his past while Patch is a unique breed of dragon, a “chimeragon,” with new, unexpected powers they discover along the way. Together they must explore new islands, battle fierce enemies and recover the memories that reveal Patch’s true origin in this fun and fiery new action adventure.\n\nA NEW ADVENTURE - Recover Scribbler’s lost memories as you forge a friendship with Patch, his ultimate hybrid dragon\n\nBATTLE - Unlock powerful abilities and take on fearsome foes\n\nEXPLORE - Fly to new and familiar locations including Havenholme, Valka’s Mountain and Blood Briar Island\n\nSOLVE PUZZLES - Swap between Scribbler and his dragon Patch to conquer obstacles",
+  "titleId": "0100ED200B6FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dea9b5eeedf9b3a1041ef40c452a9bec5cd425f46e9d484ef8ca09f49c55a626.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-15T13:42:52.185",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-26T18:26:36.589",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6cab0f1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Mighty Switch Force! Collection",
+  "description": "Switch up the fun with four games in one! As cybernetic peacekeeper Officer Patricia Wagon, you'll use your platforming skills, puzzle-solving abilities, and special level-altering Siren Helmet to protect the people of Planet Land and smash enemies into the screen! In Mighty Switch Force! and its HD remake, Mighty Switch Force! Hyper Drive Edition, you'll zap foes while “switching” blocks from the foreground to the background (and vice versa) as you track down the delinquent Hooligan Sisters in each stage. Then, in Mighty Switch Force! 2, Officer Wagon trades in her Pellet Gun for a fire hose as she extinguishes a dangerous blaze and rescues would-be victims. Finally, in Mighty Switch Force! Academy, you'll put the trainees through their paces in expansive HD stages with co-op and versus modes for up to four players. The future of lighthearted law enforcement is here!\n",
+  "titleId": "010060D00AE36000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f3d76203fe77620ba61af52b6778bb1328f821aae018e9b8ed810ae728e27f57.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-24T11:47:17.36",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-29T00:08:07.157",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-16T03:18:00.475",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7487f5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-27T17:50:08.632",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "0450434",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-12T22:12:25.233",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-15T12:29:29.067",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T11:36:33.957",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

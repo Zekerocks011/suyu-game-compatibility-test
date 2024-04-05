@@ -1,0 +1,41 @@
+{
+  "name": "Clockwork Aquario",
+  "description": "The long thought lost arcade treasure by the legendary Westone team is finally being brought to light after 30 years! In cooperation with Strictly Limited games, the unfinished ROM has been dug up and finished with the input of the original developers. The beautiful pixel art was at the top of its class at the time and has lost nothing of its charm over the years.\n\nJump and run through a colorful fantasy world, pick up and throw your enemies, hit multiple at the same time to get a multiplier and rack up your high score! You can also play with up to two friends, will you collaborate to take down Dr. Hangyo or try to sabotage each other to get the high score?\n\n• The arcade classic revived officially and complete for the first time!\n• Imaginative levels with beautiful pixel graphics!\n• Easy to pick up, addictive side-scroller action!\n• Gorgeous soundtrack by Westone legend Shinichi Sakamoto!\n• Includes a gallery with concept art and other goodies!\n\n",
+  "titleId": "01003AC0140DC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/99a2362b434193c74e32640dc21fde0d3552f488782ac826d447f5cfa2666085.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-06T02:36:31.588",
+      "cpu": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "6561008",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kokonoe_Rool",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-05T09:33:13.692",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "ebbe47a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-06T02:36:48.282",
+      "cpu": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "6561008",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

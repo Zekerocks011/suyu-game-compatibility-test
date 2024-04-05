@@ -1,0 +1,19 @@
+{
+  "name": "Kona",
+  "description": "Northern Canada, 1970. A strange blizzard ravages Atamipek Lake. Step into the shoes of a detective to explore the eerie village, investigate surreal events, and battle the elements to survive. The first installment in a series of four games, Kona is a chilly interactive tale you won't soon forget.\n\nOctober 1970. W. Hamilton, a rich industrialist who owns a hunting manor in Northern Canada, reports several cases of vandalism perpetrated against his property. Unable to find out who dared to commit these acts, Hamilton calls Carl Faubert, a renowned private detective to handle the affair.\n\nIn Kona, Carl becomes trapped up in the deep north, engulfed in an unexpected snowstorm. The player incarnates detective Faubert, who must shed light on the mysterious events befalling the area.\n",
+  "titleId": "0100464009294000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a549dede89c2857424020da2e1528fee1ec80838f5b68cf6cfc89a165745c773.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-26T05:22:24.626",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "76b65f7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

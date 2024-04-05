@@ -1,0 +1,30 @@
+{
+  "name": "Japanese Rail Sim: Journey to Kyoto",
+  "description": "Experience a full-fledged train driving experience with real images in Kyoto with all the beautiful autumn colors!\n\nThe stage is Kyoto's popular local line Eizan Railway which is dyed in autumn colors. Enjoy the beautiful autumn leaves with the latest live-action video. \n\nFull line recording, and new vehicles are included! \n\nThere are two lines -the Kurama Line and the Eizan Line.  You can drive all routes in both directions – up and down. In addition, the latest sightseeing train Hiei also appears in this game! The observation train Kirara is also included.  You can experience driving while enjoying the difference in driving sensation between train types.\n\nFull of elements to enjoy driving and travel! \n\nThe Guidebook introduces sightseeing spots along the line in an easy-to-understand manner.There are plenty of new elements such as achievements to test your driving skills!  Who is the best driver? A new driving guide has been added, so even beginners can enjoy driving with ease. Powerful live-action video, complete with the full line recordings add new elements to further enjoy the driving and travel experience!\n\n",
+  "titleId": "01005F4010AF0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/291111426024e4b53c45970d3f710942c00b4914fcc1c771f162e4355e24ee69.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T11:27:24.912",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "b79fc85",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-11T20:24:36.316",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "d9a36ff",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "DOOM® Eternal",
+  "description": "DOOM® Eternal, the award-winning game and “one of the best first-person shooters ever” according to GameRevolution, is coming to Nintendo Switch. Developed by id Software and Panic Button, DOOM Eternal is the direct sequel to DOOM®, winner of The Game Awards’ Best Action Game of 2016. \n\nHell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear…is you. ",
+  "titleId": "0100B1A00D8CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b9ac599f7915b7c1bace5e22fae109d1c657b8b1848d984db2f6c3a818918cfd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-09T23:04:47.476",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c5777ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Frink",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-26T23:56:42.344",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "dd444f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-19T19:30:51.704",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "95711f5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-02T20:43:04.056",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3bef3ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-04T16:46:55.164",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "259f709",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-26T19:06:05.853",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "4d2f6ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-02T20:54:26.887",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3bef3ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-04T16:35:14.913",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "259f709",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

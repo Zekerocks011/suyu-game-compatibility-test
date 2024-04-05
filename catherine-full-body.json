@@ -1,0 +1,118 @@
+{
+  "name": "Catherine: Full Body",
+  "description": "Our indecisive protagonist, Vincent, has been with his long-time girlfriend, Katherine, for five years. But instead of taking the next step into marriage, Vincent finds himself in an affair with the provocative blonde bombshell, Catherine! Thrown into discord by his own infidelity, he finds solace in the innocent Rin – further complicating matters. Adding to Vincent’s dilemma, he begins having nightmares that force him to climb for his life... Will he survive the trials and tribulations of love, or fall to temptations? \n\nKey Features:  \n\nThis mature action-adventure puzzler will thrill players with a story that delves into relationships and the difficult choices we make \n\nChoices that will determine your fate in multiple story branches and 13 available endings \n\nOvercome challenging and addictive puzzles to survive the nightmare \n\t\t\nPlay on the go: whether it’s Versus or Co-op mode, it’s never a baaaa-d time to play with your friends \n\t\t\nOriginal Catherine: Full Body add-on content now included in game (Catherine ‘Ideal Voice’ Set, Playable Character Set, Persona 5 Joker Character & Commentary Set, Bonus Content: Horn-Rimmed Glasses) ",
+  "titleId": "0100BF00112C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/60b836f8d6a10fee9c5636a0e74ba0db00f80cee7a6e378b656a3fc13c3d6435.jpg",
+  "tests": [
+    {
+      "tester": "Marc_Lemieux",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-08T21:45:52.581",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "cac3f48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kou1",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-06T07:31:56.783",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-25T03:01:30.839",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "b4dc6d9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marc_Lemieux",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-11T23:45:02.726",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "f089f18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-26T15:42:39.076",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marc_Lemieux",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-31T05:19:43.855",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "Radeon RX Vega",
+      "version": "bf9a4eb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-26T15:40:01.664",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-18T14:42:45.253",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-28T12:10:12.986",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "23019a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BaikenGG",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-13T20:00:33.632",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "172ef73",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Hyrule Warriors: Age of Calamity",
+  "description": "Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only way to see firsthand what happened 100 years ago.\n\n- Battle hordes of Hyrule’s most formidable foes -\n\nFrom barbaric Bokoblins to towering Lynels, menacing monsters have emerged in droves. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa. Use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.\n\n\nIf you have save data for the Legend of Zelda: Breath of the Wild game, you can get the in-game Training Sword bonus item. Equip this weapon and you’ll automatically hold a Pot Lid as a shield. This combo may also trigger the occasional Perfect Guard!\n",
+  "titleId": "01002B00111A2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9eb5a62527c0783cf7cf72b7144f6abe53c2c25264a5a62258e21650830d8b40.jpg",
+  "tests": [
+    {
+      "tester": "NixDG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-28T18:40:37.912",
+      "cpu": "AMD Ryzen 9 5950X 16-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3080",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-15T11:35:54.582",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "83e4e96",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BigZhuang",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-01T07:12:45.795",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti with Max-Q Design",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:06:46.443",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Invocacao_Game",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-24T00:33:43.635",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "AMD Radeon(TM) RX Vega 11 Graphics",
+      "version": "25acca1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-26T05:35:38.756",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "5e30aeb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ImperatorCaesar",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-19T21:25:43.553",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "f30f0d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-19T03:56:59.934",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "5235cb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Unownisgod",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-05T20:12:03.866",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Seshpenguin",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T19:00:23.17",
+      "cpu": "Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz",
+      "gpu": "AMD RADV POLARIS10",
+      "version": "c5fcdf0",
+      "os": "Linux",
+      "from_yuzu": true
+    }
+  ]
+}

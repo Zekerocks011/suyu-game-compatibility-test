@@ -1,0 +1,118 @@
+{
+  "name": "Sonic Mania",
+  "description": "Experience the ultimate celebration of past and future in Sonic Mania, an all-new 2D Sonic adventure running at a crisp 60FPS with stunning HD retro-style graphics. Multiple playable characters give you the ability to go explosively fast as Sonic, soar as Tails, or power through tough obstacles with Knuckles’ brute strength. You can re-live the Sonic of the past with an exciting new twist on classic zones while fighting against new bosses and Dr. Eggman’s evil robot army. Go head to-head with players in Competition Mode or play in Co-Op Mode with a friend. Sonic Mania was developed by Christian Whitehead, Headcannon, and PagodaWest Games in collaboration with Sonic Team. Welcome to Sonic Mania!",
+  "titleId": "01009AA000FAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/687ff984dcffc714fdef6b8684028c3039a3ea8e1630bb8898aa9583d8161771.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-26T22:46:22.514",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650",
+      "version": "76b65f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "enzomhunter",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-08T12:21:56.802",
+      "cpu": "AMD Phenom(tm) II X6 1100T Processor",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "075b2b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-02T06:47:00.873",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "c7506f6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T21:14:03.209",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-02T09:00:26.027",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "23f1d72",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-04T12:22:12.745",
+      "cpu": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-18T05:02:46.001",
+      "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 980 Ti",
+      "version": "d8dbe42",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-06T08:33:15.518",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "1d8f85c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-28T19:00:48.779",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "b7cd556",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Slash",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-08T06:27:19.471",
+      "cpu": "AMD Ryzen 9 3950X 16-Core Processor            ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "e0644db",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

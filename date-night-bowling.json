@@ -1,0 +1,19 @@
+{
+  "name": "Date Night Bowling",
+  "description": "You're out at your local bowling alley for a dating event, so strike up a conversation, hop over to the bowling lanes, and try your best to make a good first impression. Play things right and you might just find your soulmate! To win over your date, you’ll rely not only on your bowling skills, but also on your ability to tell well-timed jokes, throw popcorn into their mouth, give the perfect shoulder rub, and more!\n\nAn Arcadey Bowling Game—With a New Spin!\n\nGrab a drink, slip on the shoes, and let the romance begin! Choose your perfect date-night bowling experience from a variety of customizable options:\n\n• Pick your player and your date from a rich cast of characters with their own special chemistries (or lack thereof…)\n• Choose to bowl solo, pair up with an AI partner, or even face off against your friends with a local 2-player match\n• Make your own challenge by choosing your ball weight, lane oil, and overall difficulty levels\n• Two bowling alleys, each with their own late-night vibe and groovy original music\n\nImpress Your Date with All Manner of Skills\n\nEveryone loves an ace bowler (or so we’re told), but nothing melts hearts quite like winning the cutest toy from the claw machine. You’ll need to bring your A-game not just for bowling, but for the date night, as well. Keep your partner happy and entertained, and they might just see fit to join you for a second date!",
+  "titleId": "0100713011E92000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5c85b2771a85592f11f1fb04b3d5b8ce2d289b095bbd25fd04bcbc65ce9a0852.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-26T22:35:21.743",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

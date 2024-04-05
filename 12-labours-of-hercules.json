@@ -1,0 +1,30 @@
+{
+  "name": "12 Labours of Hercules",
+  "description": "You assist a hero from Ancient Greece, Hercules. Evil Hades had kidnapped his wife while Hercules was asleep. This wasn't the only problem. The villain has destroyed the roads, so it takes a lot of effort to follow. \nThe Player will have to fix the paths, find & use artefacts, activate switches, and fight beasts. \nAs you move forward, you get a chance to build 4 Wonders on the Map Screen.\nThe game runs in Full HD mode, if available. The Player will enjoy colourful comics, as well as Hercules' surprising tricks.\nEach of 4 stages has an Action game in the end. \n\n● Each level has something new\n● Really challenging achievements\n● Action mini-games",
+  "titleId": "010058900D4AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/21f1053e71551ac07a3103769bb146e25f7ec09c4b40b8141ad101c292d6ffcd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T13:51:14.163",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-05T22:42:16.231",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "f51786c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

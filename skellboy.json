@@ -1,0 +1,19 @@
+{
+  "name": "Skellboy",
+  "description": "Life was peaceful in the Cubold Kingdom until the king's evil court magician got dumped by the princess. With his heart broken and his rage fueled, he called upon the evil spirits to resurrect the dead and the kingdom's long forgotten monstrosities.\n\nWhat he doesn't realize in his fury is that he accidentally summoned an ancient hero as well... Skippy! Travel across the beautifully rendered kingdom of Cubold and take full advantage of your resurrected, skeletal body! Swap out body parts to acquire new abilities during your adventure or pick up a new weapon to vanquish the evil magician's lackeys. \n\nOnwards, Skippy, it's time to be a hero once more!\n\n• A true action-rpg experience that will test your skill and reward exploration!\n• An expansive singleplayer experience across the interconnected world of Cubold!\n• The unique ability to swap out body parts to acquire special abilities!\n• Several weapon types to clobber any foes you face!\n• Special enemies and bosses that will truly test your mettle!\n• A beautifully vibrant world alongside some rocking chiptune tracks!",
+  "titleId": "01008CA00CF34000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3a71b1b5e3d44764e791607a72c1f609264169fe38e040746ad3789b343e4b7a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-06T11:04:03.043",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

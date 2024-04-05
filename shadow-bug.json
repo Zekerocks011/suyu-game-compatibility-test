@@ -1,0 +1,30 @@
+{
+  "name": "Shadow Bug",
+  "description": "You are the overpowered ninja hero Shadow Bug! Save your home forest from the evil factory by slicing monsters to pieces. Adventure through beautiful and twisted landscapes full of action and adventure as the ultimate ninja.\n\n• A completely new take on platformer games.\n• 36 hand crafted levels filled with action, exploration and puzzles.\n• Unique core mechanic: move by attacking enemies.\n• Breathtaking soundscape with an epic soundtrack and immersive sound effects.\n• Leaderboards for speedrunning levels.\n• Mesmerizing art with picturesque parallax backgrounds and mystical silhouettes.\n• 6 memorable boss fights.",
+  "titleId": "01007D9007792000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/64a047a63b82a8ae124ed22feae8d7b72d8725fa1ebd65a8d74838714e7c3f04.jpg",
+  "tests": [
+    {
+      "tester": "juan_lopes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-29T08:03:11.508",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "juan_lopes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-29T08:03:30.627",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

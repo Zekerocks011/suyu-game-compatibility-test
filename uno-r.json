@@ -1,0 +1,30 @@
+{
+  "name": "UNO®",
+  "description": "UNO®, the beloved card game, is coming to the Nintendo Switch system with exciting new features. \nPlayers can now race against friends to see who can empty their hand first in Classic Play, or you can customize your experience with a variety of unique and exciting House Rules. For even more fun, the new Emote system allows players to share the joy of victory – or the agony of defeat.\n\nThe addition of Today’s Rulesets brings a new collection of game attributes, challenges, and live leaderboards.\n\nThe classic rules you love are back! Stacking, swapping 7s, passing 0s, and, for the first time on consoles, Jump-In.\n\nFlick the controller to play, draw, or pass cards for the physical feel of real-life UNO.\n\nPlay online or locally using up to four Switch consoles, and communicate using the new Emote system!",
+  "titleId": "0100B6E012EBE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bc4ea9be5f2f8d277b97ba2d0189e454aa3177822c2158b7f02549df42d78fff.jpg",
+  "tests": [
+    {
+      "tester": "8BitF0x",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-12T15:02:23.039",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TRRAXT",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-21T08:33:58.629",
+      "cpu": "AMD Ryzen 7 5800H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+      "version": "bd40aee",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

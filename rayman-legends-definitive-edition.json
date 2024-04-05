@@ -1,0 +1,118 @@
+{
+  "name": "Rayman Legends Definitive Edition",
+  "description": "Rayman, winner of multiple artistic and musical achievements, is coming to Nintendo Switch™ with Rayman Legends Definitive Edition. \n\nRayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.\n\nJoin the team with up to 4 players in local co-op!\nCompete with your friends in tournaments with the Kung Foot experience (local wireless multiplayer)\nRun, jump & smack your way through 100+ maps\nJump to the rhythm and rock the party to beat the crazy musical levels",
+  "titleId": "01005FF002E2A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4a0e952351a24d045b4137de43182b8cbd3e2db45d142cb1fda45c488ab3af71.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-24T02:09:11.347",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-15T19:11:06.832",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5600 XT",
+      "version": "f0d7a3d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "magnuzera",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-14T16:37:35.249",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "NVIDIA GeForce MX150/PCIe/SSE2",
+      "version": "b0ffa8a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-12T02:57:52.244",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CAT_xott",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-04T18:07:02.061",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "3844a49",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "eoin2000",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-09T12:06:33.794",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-09T06:39:16.254",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "1cb7617",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-12-20T11:33:52.015",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "9104a39",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "magnuzera",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-23T22:04:11.391",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "NVIDIA GeForce MX150/PCIe/SSE2",
+      "version": "b0ffa8a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-01T11:18:17.261",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "79f080d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

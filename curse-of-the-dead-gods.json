@@ -1,0 +1,19 @@
+{
+  "name": "Curse of the Dead Gods",
+  "description": "You seek untold riches, eternal life, divine powers - it leads to this accursed temple, a seemingly-infinite labyrinth of bottomless pits, deadly traps, and monsters. \n\nYour greed will lead you to death, but that is not an escape. Rise to fight again. Delve deeper again. Defy the malignant deities that linger in this place. Battle through hordes of enemies in dark, cavernous passages filled with traps and secrets of all sorts - fire-spewing statues, explosives, hidden spikes, and worse.\n\nCollect mystical Relics and an arsenal of weapons to make yourself unstoppable. Corruption builds in you with every step - encourage or ignore it, but each powerful curse can be a double-edged sword.\n\n- A skill-based roguelike exploring a cruel, dark temple made of endless rooms and corridors\n- Swords, spears, bows, guns - wield these and many more\n- Unique curses influence each attempt, putting a twist on every action\n- Dozens of enemies, with powerful champions and deadly bosses to face off against",
+  "titleId": "0100D4A0118EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d7af9c8842f8d418b8d3afd5c158bc06d46d7c9de1f64d9be0702e81c4324843.jpg",
+  "tests": [
+    {
+      "tester": "crazyandy316945",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-07T13:41:24.301",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

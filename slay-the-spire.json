@@ -1,0 +1,30 @@
+{
+  "name": "Slay the Spire",
+  "description": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!\n\nFeatures:\n\n- Dynamic Deck Building: Choose your cards wisely! Discover hundreds of cards to add to your deck with each attempt at climbing the Spire. Select cards that work together to efficiently dispatch foes and reach the top\n- An Ever-changing Spire: Whenever you embark on a journey up the Spire, the layout differs each time. Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!\n- Powerful Relics to Discover: Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold…",
+  "titleId": "010026300BA4A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1a85dceca45405dc2797da0dd2a58b9098abee1439f8063de1bc5f29636522f9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-09-10T02:06:37.22",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alex_Brown",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-26T12:07:25.88",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

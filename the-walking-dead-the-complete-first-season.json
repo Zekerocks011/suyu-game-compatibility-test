@@ -1,0 +1,19 @@
+{
+  "name": "The Walking Dead: The Complete First Season",
+  "description": "Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.\n\n• All five award-winning episodes plus special episode ‘400 Days’\n• Based on Robert Kirkman’s award-winning comic book series\n• Choice matters: your decisions change the story around you",
+  "titleId": "010029200B6AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/06b9d20a9a3776192236af7a87c13b68f168bb458f66385b08ed67d04b3c2993.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-11T15:57:51.444",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

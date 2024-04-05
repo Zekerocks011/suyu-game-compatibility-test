@@ -1,0 +1,30 @@
+{
+  "name": "Turok 2: Seeds of Evil",
+  "description": "Having defeated the Campaigner, Turok throws the Chronocepter into a waiting volcano to destroy it. Unfortunately the blast awakens an even deadlier force - The Primagen. Once again a Turok is tasked with restoring peace to the land and stopping the Primagen from merging Earth with the nether world.\n\nThe Dinosaur Hunter Returns\nFight your way through 35 different types of enemies with bouncing bellies, blinking eyes, stretching tentacles and snapping jaws. From Prehistoric Raptors, to evolved Flesh Eaters, to your final battle with the Mother of all beasts— you’ll want to defeat all of them!\nEnemies are intelligent! They’re smart enough to attack in groups, to flee when they are outgunned, and to take cover during a firefight.\nEnemies flinch and spasm differently depending on which body part you hit.\n\nRemastered Locations\nConquer 6 engrossing Quest Levels including the Port of Adia, the Death Marshes and the Lair of the Blind Ones.\n\nOver 20 Weapons\nUnload multiple ricocheting shotgun shells with the Shredder.\nSend brains flying with the skull-drilling Cerebral Bore, a fan favorite.\nStomp enemies flat while riding an artillery-mounted Triceratops!",
+  "titleId": "0100CDC00D8D6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d7e6b0bce4e3aa7120e9878dfe060dca8c2655441726fc044df4d3d360272607.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-11T04:12:21.193",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2b4661d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-30T22:09:46.94",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "52e6b55",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

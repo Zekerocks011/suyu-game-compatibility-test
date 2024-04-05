@@ -1,0 +1,30 @@
+{
+  "name": "Blair Witch",
+  "description": "Inspired by the cinematic lore of Blair Witch, experience a new story-driven psychological horror game that studies your reactions to fear and stress.\n\nYour darkest fears will awaken in these woods.\n\nIt’s 1996. A young boy disappears in the Black Hills Forest near Burkittsville, Maryland. As Ellis, a former police officer with a troubled past, you join the search. What starts as an ordinary investigation soon turns into an endless nightmare as you confront your fears and the Blair Witch, a mysterious force that haunts the woods…\n \nA STORY OF THE HUMAN DESCENT INTO DARKNESS\nFrom the creative minds behind the critically acclaimed Layers of Fear, experience first-hand the toll that fear can take on the mind in an original story inspired by the cinematic lore of Blair Witch.\n \nFIND THE WAY THROUGH THE HAUNTED WOODS\nWith just your loyal dog Bullet by your side, navigate your way through a cursed forest that warps and distorts both time and space.\n \nYOUR SANITY AGAINST HER CURSE\nStand against the horrors of the Blair Witch and the decaying sanity of a man burdened by his past.\n \nHOW WILL YOU FACE YOUR FEARS?\nAs you delve deeper into the woods, how you react to danger and behave under pressure will ultimately teach you more about yourself.",
+  "titleId": "01006CC01182C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1c55bb8c0254be9f42dd6afc01e0c5f7ca08db43ba10caee952efc5e6f1ac192.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-16T08:17:20.57",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "a94b49c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-30T13:20:06.854",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "82e7e3a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

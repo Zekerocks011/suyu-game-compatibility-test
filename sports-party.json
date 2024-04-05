@@ -1,0 +1,19 @@
+{
+  "name": "Sports Party",
+  "description": "Sports Party brings the sun, sea, and sports right to your fingertips! Whether at home or on the go, challenge your family and friends to Frisbee, Jet Ski, Basketball, Golf, Skateboarding, and Beach Tennis to claim victory! \n\nEnjoy Frisbee, Jet Ski, Basketball, Golf, Skateboarding, and Beach Tennis! Play each sport your way with various modes and controls for endless fun. Fully customize your avatar! New items will be unlocked as you progress! Easy-to-pick-up controls make this game fun for everyone, from kids to grandparents. \n\nHave fun wherever you go! Whether battling with four players using Nintendo Switch™ motion controls, taking on a friend, or just playing on your own.",
+  "titleId": "0100DE9005170000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf1b4266a5ba7b74cb769885bb7737d7923f660ce0b358f02337711c06626814.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-21T12:44:20.612",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "09e0dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

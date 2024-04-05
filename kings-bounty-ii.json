@@ -1,0 +1,118 @@
+{
+  "name": "King's Bounty II",
+  "description": "Darkness descends over the world of Nostria. Conspiracies, sabotage, and necromancy are overshadowing the country. But maybe a saviour – the kingdom's last hope – is already here, to fight back and finally restore peace and order in Nostria! \n\nKing’s Bounty II is the long-awaited sequel to the legendary King’s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre. Expanding on this legacy with an entirely new epic story, fractions, enemies, and new features to forge an open and breaking fantasy world Antara. With the kingdoms in disarray, counties demanding independence, bandits prowl the roads, all the overseas nations have denied the King’s authority over them, and blighted creatures lie in wait for the unwary, new accidental heroes emerge as last hope. \n\nThey determined to bring order to the chaos. Plays as one of them, recruiting, developing, and commanding your personal army on a non-linear adventure of betrayal, sacrifice, and survival. Fighting for your own future, outsmarting enemy in uniquely turn-based combat, making difficult decisions, and experience the intensity of one of the classic sagas in an exciting new way.\n\n• IMMERSIVE AND CHARACTER-DRIVEN EPIC STORY:\nPlay as one of three main heroes, rescuing and building your personal army in a journey of leadership, survival, and sacrifice. Every decision you make has profound and lasting consequences.\n\n• UNIQUE MASSIVE WORLD TO DISCOVER:\nThe world of Antara is wide open and ripe for exploration. Unearth hidden places and dangerous enemies — Antara is a vast home to a thousand wonders and secrets for players to discover.\n\n• CUSTOMIZABLE SQUAD AND EQUIPMENT:\nEach army squad has its own set of skills and visual appearance. Build armies of different creatures who will fight with you throughout the majority of your adventure. \n\n• TACTICAL DEPTH ON THE BATTLEFIELD:\nThe environment and landscape matters in King’s Bounty II Players will encounter diverse terrain types, directly impacting battlefield tactics. Every battle unique in its own way.\n\n",
+  "titleId": "010026F013B3A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ce4150febe50ee91d0c082ce90b7d4d77a6400f0bd295e4122a46858b1e89684.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T23:00:47.677",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "1c9a660",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T00:58:09.6",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T23:00:54.127",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "1c9a660",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KZavi",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-30T15:34:58.909",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T00:58:15.958",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-01T00:57:53.096",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-26T16:01:13.873",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T01:00:09.727",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T01:00:03.597",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-01T01:14:49.737",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

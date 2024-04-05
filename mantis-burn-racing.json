@@ -1,0 +1,30 @@
+{
+  "name": "Mantis Burn Racing",
+  "description": "Mantis Burn Racing® is a modern top-down style racing game that combines physics-based gameplay with intuitive arcade racing in highly competitive, fast and addictive races. Prove your skills in 5 unique classes of vehicles over an epic 11-season single-player career with more than 150 events and 13 event types in frenetic, bumper-to-bumper races where winning is everything! Fine tune your vehicles with a RPG-style upgrade system and compete in split-screen races for up to 4-players or play online against opponents on other platforms. \n\nRace Your Way\n\nPlay Mantis Burn Racing® your way, with all new features exclusive to Nintendo Switch™. Now you can race anytime, anywhere in the definitive version of the game, featuring ‘Elite’ class DLC, ‘Battle Cars’ DLC and ‘Snowbound’ tracks.\n\nImmersive Top-Down Racing\n\nDrift, draft, and race your way across 12 stunning tracks in 3 uniquely challenging environments with glorious photo-realistic visuals that truly immerse players in the race.\n\nRPG-Style Upgrades\n\nFine tune your vehicle’s handling and performance via a RPG-style upgrade slot system that presents players with deep tactical choices and excellent replay-value.\n\nSplit-Screen Multiplayer\n\nCompete on one console in classic couch-style split-screen races for up to 4-players.\n\nGo Head-to-Head\n\nTake on friends in 2-player local split-screen races using individual Joy-Cons with players sitting ‘cross-table’ at opposite sides of the Nintendo Switch™.\n\nLocal Wi-Fi Multiplayer\n\nAllowing up to 8-players to connect multiple Nintendo Switch™ consoles together and race each other without the need for a connection to the internet. \n\nCross-Network Play\n\nTake the race online with up to 8-players and play against opponents on other platforms with Cross-Network play.\n",
+  "titleId": "0100E98002F6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc1ead1599848ec0789d12841db359cb86e88f201efb36658670c5ff5d597563.jpg",
+  "tests": [
+    {
+      "tester": "Noobextremo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-29T15:14:58.783",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-26T19:22:39.611",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

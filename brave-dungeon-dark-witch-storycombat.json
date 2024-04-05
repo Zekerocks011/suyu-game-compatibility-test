@@ -1,0 +1,41 @@
+{
+  "name": "Brave Dungeon + Dark Witch Story:COMBAT",
+  "description": "[Brave Dungeon]\nSyega are powerful crystals that grant humans the ability to use magic. Some crystals are so powerful they have to be contained in specially prepared vessels; these are known as Magic Items. Join intrepid adventurer Al as she explores the dangerous labyrinths of Belfer Island in search of powerful Magic Items. Along the way Al will join forces with strong allies and face even stronger enemies. Can Al conquer the imposing dungeon known as Godshill and find the ultimate Magic Item?\n\nBrave Dungeon is a dungeon crawling RPG adventure by indie games company INSIDE SYSTEM, creators of the Legend of Dark Witch series. Brave Dungeon features an easy to pick up combat system for new players. However, it also has many customization options, unique playable characters, and deep challenges for the completionist. A crafting system featuring materials dropped from enemies and treasure chests in dungeons allows you to customize your characters further. Class Changes allow the player to build their party the way they want, playing to one's own personal preferences and their characters' unique strengths.\n\n[Dark Witch's Story:COMBAT]\nDark Witch's Story: COMBAT is a battle game where you use cards featuring characters and creatures from the Dark Witch series. The players pick 3 cards to use against each other in a best out of 3 battle. The players also gets to use Magic Items to give to their cards, which can drastically turn the tides of the battle. There are 2 different modes available, Quest mode for single-player and Battle mode for multi-player. When you play Quest mode you will win new, and stronger cards for you to use, while aiming for the title of \"Game Master\".",
+  "titleId": "01000F5003068000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/37699d5fa7ca91f184d4f71e78eb395b7f6df2114e381728f1d20ff6c32faebd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-27T01:32:54.591",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-25T05:47:20.578",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "ad6caff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-24T22:48:19.703",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "061c4b2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

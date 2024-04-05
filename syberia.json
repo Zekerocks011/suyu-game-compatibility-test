@@ -1,0 +1,52 @@
+{
+  "name": "Syberia",
+  "description": "Kate Walker, a young New York attorney, is sent by her law firm to the small French village of Valadilène. Her mission: complete negotiations for the purchase of an automaton factory on behalf of a large multinational. She has no idea what the future holds in store for her…\n\nJoin Kate Walker on an extraordinary journey that takes her all the way from Western Europe to the far reaches of Eastern Russia. You will come across a host of endearing characters and incredible locations as you search for traces of Hans Voralberg, the genius inventor of the automatons. It is a search that will take you to the legendary island of Syberia, in the far North of the continent, where the last living mammoths reside, hidden from modern eyes...\n\nEXPERIENCE a moving adventure and roam through an enchanting world.\nJOURNEY everywhere with Kate Walker with the Nintendo Switch's handheld mode.\nRELAX while playing in TV mode or tabletop mode.\n\n",
+  "titleId": "0100421003FD4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d5029da7d7fb6514d3eae11c66f00cc9a893f0092d51bc92cbf047ca34cb5391.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-17T16:44:19.282",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-30T20:08:38.456",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "28cf846",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "R_av",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-12T07:55:41.468",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0a0abcc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-01T01:30:35.298",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

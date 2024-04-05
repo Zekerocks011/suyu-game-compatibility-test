@@ -1,0 +1,30 @@
+{
+  "name": "12 orbits",
+  "description": "12 orbits doesn’t require any prior knowledge, preparation time or additional controllers. Your left and right Joy-Con, or even the touch screen alone, are all you need for any number of players. The only limit is how close you’d like to be together.\n\n12 orbits is colorful, friendly, fun, and sometimes a little chaotic. You will score goals, color spheres, defend your territory and try to grow as long as possible in 4 varied game modes. It’s you against all comers, or grouped as teams.\n\nWith simple rules and only one button per player, 12 orbits can be taught to anyone in no time. You can set up a new game in a matter of seconds, even for 12 players. And since each round only lasts about 5 minutes, there’s always time for another quick match!\n\nFeatures:\n• Local multiplayer for everybody at once. Anywhere. Anytime.\n• Play versus or in teams in 4 varied game modes\n• Choose from 20 maps and 5 modifiers\n• Setup is done in seconds, even for 12 players\n• The basic mechanics are simple and can be picked up very quickly\n• …yet strategy and teamwork become more important the longer you play\n• Includes colorblind mode, so that everybody can join in",
+  "titleId": "0100A840047C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/80be10debf54b0b30675a5e9f8642bc4e1b0fb9c8803a16affc1398fd6eabfd1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-18T13:50:28.057",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-14T20:08:18.483",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

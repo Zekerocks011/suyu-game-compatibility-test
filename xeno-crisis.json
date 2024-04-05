@@ -1,0 +1,41 @@
+{
+  "name": "Xeno Crisis",
+  "description": "Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise.\n\nOutpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage.\n\n* A faithful port of the hit 16 bit game with added extras.\n\n* Incredible pixel art from the legendary pixel artist, Henk Nieborg.\n\n* Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612!\n\n* Two difficulty levels and three modes of play.\n\n* An arsenal of 10 weapons to master.\n\n* Play solo or local co-op with a friend!\n",
+  "titleId": "010013F009B88000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4dceedb5e7a9aa2920ecf3b7e69366f40c7155660f3c596c8a9a8f8530860bfa.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-03T13:05:13.72",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-13T19:09:30.005",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "ea80bca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-12T21:38:43.085",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9a5a85e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

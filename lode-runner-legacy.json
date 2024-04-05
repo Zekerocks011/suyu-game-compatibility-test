@@ -1,0 +1,30 @@
+{
+  "name": "Lode Runner Legacy",
+  "description": "Collect all gold in the level and escape! But watch out for the multitudes of enemies and traps in the labyrinthine levels! The Runner can blast floors, so strategically use this technique to capture the gold imbedded in blocks, or entrap your enemies in the blocks! Use your wisdom and strategic techniques to complete all the levels!\n\nHave fun in Local Multiplayer Mode with up to 2 players!\nUsing two Joy-Con, you can play together with your buddy! Cooperation is the key to winning! By working together, you can capture the gold that is impossible to get alone!\n\nCreate levels and characters and share those with players around the world! You can create your original levels and characters in the Craft Mode! Share your levels and characters via online with players around the world! Show your specialty levels to the world, or play levels created by other world creators! Show your appreciation to others by “Liking” their well-made levels!\n\nAnd much, much more!\nThere are more than 100 levels throughout the various game modes! Regain the stolen gold from the Evil Empire in the Adventure Mode! Play Puzzle Levels without enemies in the Puzzle Mode! Plus, don’t forget the 150 nostalgic levels in the Classic Mode! And how about some hidden levels and enemies???  ",
+  "titleId": "010016C009374000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5d81737904722869161157db208cc5cd581206f0c0739dffdcd966d9c39d0a1d.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-14T16:04:59.839",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "ad8c809",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:08:15.897",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

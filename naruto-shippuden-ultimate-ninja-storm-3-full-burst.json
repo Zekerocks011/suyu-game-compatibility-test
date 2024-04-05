@@ -1,0 +1,41 @@
+{
+  "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+  "description": "The 4th Great Ninja War continues.\n\nNARUTO SHIPPUDEN Ultimate Ninja STORM 3 has been given a thorough overhaul for its FULL BURST comeback! Not least among the wealth of enhancements is the addition of the feverishly anticipated chapter in which Sasuke and Itachi take on Kabuto in a nail-biting confrontation.",
+  "titleId": "01006BB00800A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2bc2c34eaf26fccbb779c7e8abe4f0d7e40529a35c63a5fcb5a5f1920be2ff95.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-27T21:42:11.16",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c8aad70",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-27T21:42:54.627",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c8aad70",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-19T23:24:51.822",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "5609727",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

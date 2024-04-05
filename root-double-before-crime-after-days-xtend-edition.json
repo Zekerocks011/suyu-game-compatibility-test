@@ -1,0 +1,19 @@
+{
+  "name": "Root Double -Before Crime * After Days- Xtend Edition",
+  "description": "The year is 2030. Business is as usual in the isolated research city of Rokumei–that is until several explosions suddenly go off in the nuclear research facility known as “LABO.” The city sends in “Sirius,” an elite rescue squad, to deal with the situation. But the situation only gets worse when LABO’s nuclear reactor melts down, –with members of Sirius and survivors still trapped inside. With radiation leaking everywhere and not enough anti-radiation medication to last until lockdown lifts, the survivors make more and more grim discoveries. In their struggle for survival, they learn that doubt is their greatest enemy, and trust their greatest asset.\n\nThe key to survival lies in the player’s hands with the Senses Sympathy System (SSS). Your emotions projected upon the characters, particularly your trust in them, shape the progression of the story. Only with effective use of this system and completion of both protagonists’ stories can the player piece together the truth.",
+  "titleId": "0100936011556000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a50975caabff6d852387cbb754899bc3064ea62237eaa6eb7f58e2c39f739c26.jpg",
+  "tests": [
+    {
+      "tester": "Ghost666",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-12-06T06:50:15.921",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "7687a54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

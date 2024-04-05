@@ -1,0 +1,41 @@
+{
+  "name": "Arcade Archives X MULTIPLY",
+  "description": "\"X MULTIPLY\" is a shooting game released by IREM in 1989. Scientists discovered that the mysterious deaths of the Stun Star system colonists was due to shock from an invasion of parasitic microscopic aliens. They shrink down and deploy Microscopic Fighter X-002 into the victims' bodies. Skillfully use the 3 tentacles you're armored with for offense and defense and destroy the microscopic aliens!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010063600D3FA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf31a3ff412e2bec53bc99bfe13d1c62602bdabc72a1a510ccbb1e8e5cf4429b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-16T16:51:40.126",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-10T18:17:48.003",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "d9a36ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-16T16:51:50.668",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

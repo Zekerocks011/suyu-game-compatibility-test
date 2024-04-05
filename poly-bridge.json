@@ -1,0 +1,30 @@
+{
+  "name": "Poly Bridge",
+  "description": "Poly Bridge, the hit indie bridge-building physics title with dozens of hours of gameplay.\n\n\"A must play for anyone interested in puzzle games.\" \n– TheGamingReview\n\n105 Campaign Levels\nSandbox\n22 Achievements\nHydraulic Pistons\nMoving Drawbridges\nSwings, Jumps, and Classic Bridges\n\nUnleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles! Play the fully featured campaign with 100+ levels of challenging physics puzzles or make your own puzzles and bridge designs in the Sandbox.\n\nSuccess begins by getting cars to their destinations by any means; build suspensions, ramps and jumps, double-deckers, moving drawbridges, and much more. Complete every level under budget and with a sturdy, unbreaking bridge, to become a Poly Bridge Master Engineer... and unlock the secret world.",
+  "titleId": "0100EAB00605C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fc3dcbd713063dbe887f576f270df7a625bf78c17cf6d53abd13b2fbf62ca974.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-11T03:38:13.845",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "931c521",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-30T01:02:30.289",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d465a84",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

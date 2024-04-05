@@ -1,0 +1,52 @@
+{
+  "name": "Woodle Tree Adventures",
+  "description": "Woodle Tree Adventures is an old school platform game with a catchy and unique art style! You will find all the classical elements from the 90's games and new interesting ideas.\nExplore a total of 8 worlds and save the lands with the magical water drops you'll find during your journey, bringing back peace and balance and finally becoming the New Hero!\n\n• 8 immersive different worlds to explore\n• New items and clothing to unlock for Woodle\n• Jump, Run and special Attacks are your abilities during the adventure\n• Vast 3D environments presented in smooth 60 fps\n\nThis is a \"Deluxe\" version of the original game with a lot of new contents and improvements which include:\n• A new original extra level\n• Improvements to the camera movements\n• Jumping mechanics enhanced for Woodle\n\nThe feeling of travelling around the world is refreshing and peaceful. If you want to relax, this is the experience for you since both soundtrack and art style give a serene tone to the game. Even if you’re not a fan of the genre, Woodle Tree Adventure is still worth considering just to witness the beautiful game world.",
+  "titleId": "0100956007854000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/55d911f3b42118cf00b5476a7e25105ccc7011dbfb8d8811b50f79f4643e79e7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-17T16:24:07.425",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-17T16:23:30.919",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "18326d5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-26T20:05:14.225",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f8ec872",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-23T09:48:54.539",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "386e2e0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

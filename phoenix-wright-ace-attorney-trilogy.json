@@ -1,0 +1,74 @@
+{
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "description": "The classic courtroom adventure series that has sold over 6.7 million copies worldwide is finally here. Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection. Solve the intriguing mysteries behind each case and witness the final truth for yourself!",
+  "titleId": "0100CB000A142000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0add5a50603d9fdf3792e1aac7e1d0866e7e32e3c1c7a0fc3981afe850c29bde.jpg",
+  "tests": [
+    {
+      "tester": "redjersey",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-27T00:22:36.573",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DionG",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-12-05T21:31:19.651",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LimitedLime",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-07-12T12:47:28.193",
+      "cpu": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "e3c1576",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MajesticFalcon35",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-15T14:45:11.556",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "e3c9964",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alex_Jacobs",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-26T20:37:09.921",
+      "cpu": "Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz",
+      "gpu": "Intel(R) Iris(R) Plus Graphics",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Zrego",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-22T20:11:21.698",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX/PCIe/SSE2",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

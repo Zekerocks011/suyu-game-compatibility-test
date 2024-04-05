@@ -1,0 +1,41 @@
+{
+  "name": "FIGHTING EX LAYER ANOTHER DASH",
+  "description": "This latest edition re-examines the theory and systems of fighting games! \n Unbound by traditional techniques and systems.\n The latest title in the FEXL series!\n\n What fate lies ahead for these fighters and their new powers?\n The EX System is a new approach, take it for a spin! \n\n Tear it up!",
+  "titleId": "0100D02014048000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1fcecc5b595f40b9f8a4bc66a8346d7483ff046341eadb0ff2ecd64cac5b57ed.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-01T11:15:58.287",
+      "cpu": "AMD Ryzen 5 3600XT 6-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-10T14:09:48.035",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6700 XT",
+      "version": "58be7cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "OkaHachiko",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T03:41:12.714",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

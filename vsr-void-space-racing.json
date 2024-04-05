@@ -1,0 +1,30 @@
+{
+  "name": "VSR: Void Space Racing",
+  "description": "\"VSR: Void Space Racing is a one-of-kind racing game that finds itself very welcome in the Switch library. There is simply nothing quite like it; you're wrestling with raw physics as much as your rival racers, and the overall experience is brutal yet incredibly rewarding. Be prepared to swallow your pride in the first few sessions - during which you will be nothing short of a space pinball - and then aim for the stars.\"\n~ Nintendo Life, 8/10\n\nCompete for the highscore online. Unlock new colourful stages by completing single mode races. Challenge a friend in local multiplayer. Drift in space like there's no tomorrow!\n\nMain features:\n- No friction\n- Online highscores\n- Split-screen local multiplayer\n- Unlockable spaceships and exciting stages \n- Challenging gameplay for racing connoisseurs\n- Thrilling electronic soundtrack",
+  "titleId": "0100C7C00AE6C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4bc078e73d8c33ff7321c159d000addd77f5c6cb38b9755ecfa4ce0d7ddc91f3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-09T06:38:10.285",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "1cb7617",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-22T07:57:57.924",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "82e35b1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

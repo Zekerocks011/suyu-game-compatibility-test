@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives GUNNAIL",
+  "description": "\"GUNNAIL\" is a shooting game released by NMK in 1993.\nThis game has a feature called the MULTIPLE SHIELD SYSTEM where you'll get a higher score the fewer shields you have.\nExperience hardcore gameplay mechanics typical of NMK, and an intense scoring system!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+  "titleId": "01001F4016AC8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5914ea0d3629f696db2b1e6ee08593973bee2dc9a13ffb038a8eba5a61615541.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-24T23:38:03.877",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "0883175",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "A-Train: All Aboard! Tourism",
+  "description": "A-Train, the classic urban development simulation game that allows you to create the city of your dreams, is now available on the Nintendo Switch!\n\nBecome the president of your very own railroad company, laying tracks and running your trains as you see fit. However, you will be responsible for more than the railroad. You'll also be tasked with managing subsidiaries, playing the stock market, and participating in urban planning, in order to develop and expand your town.\n\nThis latest installment in the A-Train series introduces the element of tourism to the urban planning formula, and focuses on building up towns into bustling tourism capitals. Providing realistic business management simulations of financing, investing, and more, as well as a wide variety of customizable options for all your vehicles, A-Train: All Aboard! Tourism is packed full of features for you to explore. But don't be overwhelmed—players old and new alike will be able to jump right into the series thanks to the fun and practical tutorials provided in the early stages.\n\nSo why not hop aboard the A-Train with your trusted team of advisors, and start crafting a bright future for your town?",
+  "titleId": "0100A3E010E56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e71a1f553dbf2f6a052f13fb6489dfa4bbe71fffe6db2b167006972316fef90b.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-27T22:47:58.621",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "9ab6a24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "stuken",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-26T12:44:32.49",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "82e4732",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "stuken",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-17T15:18:57.798",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3090",
+      "version": "3b74065",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

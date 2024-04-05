@@ -1,0 +1,118 @@
+{
+  "name": "Captain Toad: Treasure Tracker",
+  "description": "Captain Toad stars in his own puzzling quest on the Nintendo Switch™ system! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey™ game! Luckily, a second player can join in by tossing turnips at enemies. \n\nPlay anytime, anywhere, and anyway you want—even in two-player mode using a pair of Joy-Con™ controllers on one Nintendo Switch system—in TV mode or Tabletop mode. You could also play alone in handheld mode! No matter what, explore each puzzling course for treasure, like hidden Super Gems and Power Stars. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you’ll eventually be able to play as Toadette! These tiny heroes must waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks—all bursting with secrets. Aim your head-mounted flashlight at adventure!\n\nWith a free software update for the Captain Toad game and the Toy-Con VR Goggles from Nintendo Labo™: VR Kit, join Captain Toad for a bite-sized bonus experience in simple, family friendly VR*. Discover these experiences by revisiting the following courses as Captain Toad in four new mini-missions:\n•\tThe Treasure at Mushroom Ruins\n•\tWalleye Tumble Temple\n•\tBriny Bowl Swimming Hole\n•\tMine Cart Tunnel Throwdown\n",
+  "titleId": "01009BF0072D4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/63ca1c160b69fcf2b9dd8dd993bb6ef86218ff68f8afa5167b48d35d38c33478.jpg",
+  "tests": [
+    {
+      "tester": "AlonCV",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-22T05:39:13.198",
+      "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "e0a6ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "slaprap",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-20T14:32:59.891",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "bd40aee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djgasper93",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-04T22:30:48.341",
+      "cpu": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Edu_POES",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-03T08:49:25.61",
+      "cpu": "Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 Super/PCIe/SSE2",
+      "version": "39c5e84",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AlonCV",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T19:51:25.457",
+      "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "2bdb0aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Michelle_Pineda",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-14T22:56:12.401",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "NVIDIA GeForce GTX 1050/PCIe/SSE2",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-05T05:57:13.028",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "93a2d4f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FireD4sher",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-11T13:49:38.865",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-14T13:09:56.887",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "1c5eac8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "SpideyPlayz",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-10T10:38:31.836",
+      "cpu": "AMD Ryzen 9 5900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "ec1b5f1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

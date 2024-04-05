@@ -1,0 +1,19 @@
+{
+  "name": "Tennis World Tour 2",
+  "description": "Play as the world's top players or create your own player to try and dominate the world rankings. Faster paced, with more animations and more realism: experience the true sensations of tennis, in singles or doubles games, and challenge your friends locally or online.\n\nTHE REAL LIFE OF A TENNIS PRO\nYour player, your decisions. In Career mode, you manage your season, your staff, your equipment and your sponsors. And if you are up to the challenge, you can become the new star of world tennis.\n\nDESIGNED FOR TENNIS FANS\nMaster the timing of your strokes, the new serve mechanics and all the moves to dominate your opponent, just for fun or to win in Ranked mode.\n\nTHE THRILL OF THE COURT\nMore animations, more strokes, a faster pace… Experience dynamic, realistic and precise gameplay that puts you in the heart of legendary rallies.",
+  "titleId": "01002AF011D14000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/689ee5698dc717f2b270997bed604ceadc804b2f6112ea329a05aa73b5082e0e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-23T03:30:39.891",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "45c051a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

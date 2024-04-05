@@ -1,0 +1,19 @@
+{
+  "name": "Bard's Gold - Nintendo Switch Edition",
+  "description": "Bard's Gold is a challenging platformer that let's you explore eerie worlds in a quest for a Goblin that stole your gold. \n\nKey Features:\n\n- Old school platforming experience - No tutorials or explanations how things should be done. Everything including the basic game mechanics must be figured out by yourself as you go. \n\n- Rogue-lite - Different layouts for each level is randomly chosen every playthrough. While getting the chance to memorize levels and get better at them, the 'random level' system will keep your interest. With the gems you collect you will be able to upgrade your character on the Game Over screen.\n\n- 100+ Randomly picked levels to play\n\n- Extremely challenging, yet rewarding gameplay \n\n- Beautifully designed retro-inspired graphics \n\n- Gain powerful new abilities by finding skill books ",
+  "titleId": "0100DEB00D76E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/954391f0f8f7f3f4ea10d8548aeca5acecb51013d310f959c75beab64beabe7a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T17:46:10.522",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

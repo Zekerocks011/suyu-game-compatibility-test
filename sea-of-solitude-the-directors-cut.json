@@ -1,0 +1,19 @@
+{
+  "name": "Sea of Solitude: The Director's Cut",
+  "description": "Kay knows monsters. Monsters that you know, too. Loneliness, depression, and abandonment take on the form of frightening beasts and fantastical creatures in the award-winning Sea of Solitude, an action/adventure game revisited for Nintendo Switch™, now as The Director’s Cut.\n\nAdventure through a beautiful and troubling world where nothing is as it seems, to confront and conquer your fears. Featuring a deeply moving script by Cornelia Geppert, Sea of Solitude: The Director’s Cut takes you through a drowned city where light has been submerged in darkness, and metaphorical creatures evoke painful emotions that Kay must face and overcome.\n\nJourney with Kay by boat and on foot, navigate harsh landscapes, solve puzzles and confront the monsters to help her find her inner peace and her sea of solitude. Experience an ever-evolving world rendered in lush visuals and supported by a mesmerizing score, and bring to the surface the inner strength that lies within us all.\n\nNominee, “Games for Impact” at The Game Awards 2019\nWinner, “Most Significant Impact” at the Games for Change Awards 2020\n\nKey features\n-An emotional adventure — Sea of Solitude: The Director’s Cut takes you on a beautiful and heart-pounding action-adventure with Kay, a girl so hopeless that she has turned into a monster. Guide her through the tempest towards tranquility as she faces off against relentless beasts of her own making who want to see her capsize and drown, unless she can summon the inner strength to face them.\n\n-A beautiful and troubling universe – Set in a fantastical drowned world, explore the unique and ever-changing environments by swimming, running and navigating, encountering monsters and overcoming challenging obstacles along the way.\n\n-Only for Nintendo Switch™ — With features exclusive for Nintendo Switch™, immerse yourself in the world of Sea of Solitude: The Director’s Cut with a customizable photo mode, gyroscope integration, and more that brings the director’s vision to life like never before.\n\n-Updated from 2019 version – The Director’s Cut features a rewritten script, a new cast of voice actors, and augmented cut scenes and animations that convey the narrative and gameplay experience in the most complete way.",
+  "titleId": "0100AFE012BA2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/182afb1c99bfeedca85a5458c4bff7cb90a52295c6f4275f8e5aea7dbc4ea7e0.jpg",
+  "tests": [
+    {
+      "tester": "6flagssouth",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-09T12:18:29.067",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070/PCIe/SSE2",
+      "version": "1e4b71e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

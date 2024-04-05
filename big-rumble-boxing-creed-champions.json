@@ -1,0 +1,30 @@
+{
+  "name": "Big Rumble Boxing: Creed Champions",
+  "description": "Are you ready to become a boxing champion? Step into the ring and show off your boxing skills in a knockout arcade experience. Fight as one of 20 iconic characters from the Creed and Rocky movies. Take on world-class opponents across a variety of thrilling locations, or challenge your friends and family in intense, head-to-head matches.\n \n Pound-for-Pound Boxing for All\n - Intuitive, pick-up-and-play controls \n - Robust boxing mechanics\n - Dynamic boxing styles and combos\n - Fighter-specific super finishers for cinematic knockouts\n \n Ultimate Creed & Rocky Boxing Universe\n - Legendary tales of 20 iconic and unique characters\n - Unlockable characters and outfits \n - Classic Creed and Rocky training moments in thematic mini games\n - 13 New and original boxing arenas\n \n Iconic Champs from Creed & Rocky\n - Adonis Creed\n - Rocky Balboa\n - Apollo Creed\n - Clubber Lang\n - Ivan Drago\n - Viktor Drago\n and more...\n \n Pulse-rousing Fun with Friends and Family \n - Choose your champion and venues \n - Face off in local player-versus-player mode \n \nBig Rumble Boxing: Creed Champions is the second collaboration between Survios and MGM Studios Inc., that brings the gripping intensity of Creed boxing to consoles for the first time.",
+  "titleId": "0100CCC0153F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d7d0da0c068f7abc81c22c461f74ca40689e3c2733478893c3539b9e7edeeef0.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-04T14:47:07.591",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "5f03552",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cnells2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-11T19:08:39.235",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

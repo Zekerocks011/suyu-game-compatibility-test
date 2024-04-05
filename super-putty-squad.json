@@ -1,0 +1,30 @@
+{
+  "name": "Super Putty Squad",
+  "description": "Putty is back! A timeless classic makes the Nintendo Switch™.\n\nJump, bounce, squidge and stretch your way to victory as you help Putty save his kidnapped friends from certain death in this classic gaming platformer with over 100 levels.\n\nSuper Putty Squad is a no-holds-barred retro gaming experience brought to life for the modern gamer combined with an all new tutorial mode for supreme playability. Tutorial mode guides you through the opening stages, offering hints and tips on how and when to utilize Putty’s arsenal of moves and equipment.\n\nOur hero, Putty, can inflate, morph, stretch, punch, jump and absorb, taking on ferocious enemies on his mission to rescue the imprisoned putties. Super Putty Squad features lovingly created levels that will test your timing, skill and imagination in an incredibly addictive platform adventure.\n\nCollect and unlock extra trophies as you power up and explore cunningly hidden new levels plus a unique Sticker Book feature that allows the player to track progress.\n\nThe unlikeliest of heroes, Putty has unique powers that make gameplay incredibly addictive, yet accessible for the casual gamer, with special objects to find and use, Super Putty Squad will keep you hooked for hours and hours of game play fun.",
+  "titleId": "0100331005E8E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a18091d22d343b141af3204cfb0db828be72973f2daa78f63fc1da0a834e851b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-01T21:21:52.3",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-31T19:36:54.812",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "93682c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

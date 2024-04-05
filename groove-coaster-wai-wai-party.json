@@ -1,0 +1,118 @@
+{
+  "name": "GROOVE COASTER WAI WAI PARTY!!!!",
+  "description": "■Rhythm Game x Roller Coaster!!!!\nRide a roller coaster of sound with simple controls, and get grooving in this exhilarating rhythm game!\n\n■Exhilarating active controls!!!!\nWith Active Controls, you can play by shaking the Joy-Con™ controllers. Experience the groove in a variety of songs, only possible on Nintendo Switch™!\nYou can also play with Standard Controls, using the buttons and control sticks!\n\n■Groove together!!!!\nPlay together with up to 4 friends and family members in \"Play With Others\"!\n\nIn addition, \"Online multiplayer\" has also been added! Choose between \"Ranked Match\", to play against a player of similar ability, or \"Private Match\" where you can choose your own opponents and rules!\n\nYou can choose from two types of battle rules: \"Casual\", which you can enjoy even if there is a difference in ability, and \"Hardcore\", where you can compete for your true ability!\n\n■A huge line-up of popular music!!!!\nA massive line-up of music, featuring J-pop hits like \"Lemon\" and \"U.S.A.,\" anime songs, Vocaloid and Touhou Project arrangements, VTuber Songs, as well as popular original songs from the Groove Coaster series!\n◆Contents\nTotal 107 Songs.\nNew Songs \"Shiny Smily Story (2022 ver.)\", \"Our Bright Parade\".\n\n\"Lemon\", \"U. S. A.\", \"POP TEAM EPIC\", \"Sugar Song and Bitter Step\", \"A Cruel Angel's Thesis\", \"Welcome to Japari Park\", \"Cloudless\", \"Charles\", \"Dramaturgy\", \"Humanoid\", \"Mirai to Mirai\", \"Hitogata\", \"AIAIAI(feat. Yasutaka Nakata)\", \"Kirameki Rider☆\", \"REFLECT\", \"Prism Melody\", \"Journey Like a Thousand Years\", \"Thousand Cherry Blossoms\", \"Brain Fluid Explosion Girl\", \"*Hello, Planet\", \"DUNE\", \"ROKI\", \"BRING IT ON\", \"Bad Apple!! feat.nomico\", \"Marisa Stole the Precious Thing\".\n\nAnd more.\n\n■Choose from a fabulous cast of characters!!!!\nFeaturing characters from VTubers and Vocaloid, to the Touhou series and more! These characters will feature in songs, as avatars and game navigators, and appear throughout various scenes!\n◆Contents\nNew Characters \"Shirogane Noel\", \"Sakamata Chloe\".\n\n\"Hatsune Miku\", \"IA\", \"GUMI\", \"Kotonoha Akane\", \"Kotonoha Aoi\", \"Yuzuki Yukari\", \"Mirai Akari\", \"Siro\", \"Tsukino Mito\", \"Tanaka Hime\", \"Suzuki Hina\", \"Kizuna Ai\", \"Tokino Sora\", \"Gawr Gura\", \"Usada Pekora\", \"Mori Calliope\".\n\nAnd more.\n\nYou can even switch to the vocals of guest VTubers in certain songs!",
+  "titleId": "0100EB500D92E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e1be678a6ba9ac832970879c3065be79cf4f49f6a377c8aee0e843acb4a7410b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-16T00:07:06.282",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "f0d7a3d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cypherusuh",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T15:54:21.954",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "Radeon (TM) RX 470 Graphics",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-01T06:50:06.624",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "4298061",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-19T22:49:54.153",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GT 710/PCIe/SSE2",
+      "version": "bdd20d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-30T06:30:53.369",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "f2e865e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-07-12T14:04:05.431",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "c3ebbbe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cypherusuh",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-16T13:52:38.013",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "Radeon (TM) RX 470 Graphics",
+      "version": "6e09e59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LunaLena",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-16T15:53:07.365",
+      "cpu": "Intel(R) Core(TM) i3-8350K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "1335ddb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-26T21:00:09.541",
+      "cpu": "Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 660/PCIe/SSE2",
+      "version": "f1a295f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ChristianSM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-06T21:49:03.305",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Reaper: Tale of a Pale Swordsman",
+  "description": "Become the Black Swordsman and slay thousands of enemies in an epic action RPG! \n\nWar broke between the industrious Imperium and the savage tribes of Wilderness. Demons and carrions have returned to the land. \n\nPlay all sides and make your own decisions. Take countless quests and uncover the secrets of Wilderness!\n\nLevel up your character with skills of your choice. Select from more than 30 unique & tiered skills to improve your character. \n\nLoot gold from slain enemies, find treasures and negotiate quest rewards. Choose from hundreds of exquisite armors, swords and accessories.\n\n★ Take countless quests and uncover the secrets of Wilderness\n★ Level up your character with skills of your choice\n★ Hundreds of swords, armor and accessories to equip\n★ Play all sides and make your own decisions\n",
+  "titleId": "01000F300F082000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/beedf50ed405d76e7559b129c3d23ad68c4d505cd021eace1802a37ebc1937cb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-01T15:52:42.179",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

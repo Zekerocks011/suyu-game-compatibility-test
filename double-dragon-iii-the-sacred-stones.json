@@ -1,0 +1,19 @@
+{
+  "name": "DOUBLE DRAGON Ⅲ: The Sacred Stones",
+  "description": "■Introduction\nThe third episode and the most famous of the series.\nTravel round the world searching for the Marian and the Rosetta Stone, \nas both went missing! This time not only Billy and Jimmy are playable, \nas the strong opponents you defeat can rally your cause and become playable! \nA content-rich adventure for this third Double Dragon game.\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering",
+  "titleId": "01001AD00E49A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f16152160a43bfbb1885c4c21928af4b22573d3ecc4ea239297bfe8c866dd3db.jpg",
+  "tests": [
+    {
+      "tester": "Rei",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-16T12:36:36.699",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ef0c991",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

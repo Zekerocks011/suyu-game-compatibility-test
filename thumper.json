@@ -1,0 +1,19 @@
+{
+  "name": "Thumper",
+  "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.\n\nScream down the endless track and crash through punishing obstacles with simple, airtight controls. Hurtle forward, master new moves, reach overwhelming velocities, and survive epic boss battles. Every crushing impact is interwoven with a pounding original soundtrack. To reach synesthetic bliss, you must survive rhythm hell.",
+  "titleId": "01006F6002840000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/01ec128300432d315c08496170f7a6e37de86c1a088476f4aa09e13e3e5cd683.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-02T21:16:04.061",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

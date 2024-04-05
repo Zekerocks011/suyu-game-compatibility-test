@@ -1,0 +1,63 @@
+{
+  "name": "Axiom Verge 2",
+  "description": "The long awaited sequel to Axiom Verge, Axiom Verge 2 expands on the universe with completely new characters, abilities, and gameplay.",
+  "titleId": "01002FC010240000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b4d4e542c297b9ed53ea5f21de67e73fa599fe6cc2f4c83985b74f8e9e7b1628.jpg",
+  "tests": [
+    {
+      "tester": "tank120",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-13T15:33:36.121",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "b8e2c74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-12T15:17:20.102",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "075cc68",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-12T15:19:05.395",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "075cc68",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-09T08:25:17.344",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "000cd3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-19T07:59:26.143",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b178f0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

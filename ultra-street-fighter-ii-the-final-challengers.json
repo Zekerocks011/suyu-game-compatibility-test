@@ -1,0 +1,118 @@
+{
+  "name": "Ultra Street Fighter II: The Final Challengers",
+  "description": "Street Fighter II, the most iconic fighting game of all time, is back on the Nintendo Switch™!\n\nUltra Street Fighter II features all of the classic characters, a host of new single player and multiplayer features, as well as two new fighters: Evil Ryu and Violent Ken!\n\nChoose between classic pixel-art graphics for a retro nostalgia trip, or enjoy a refined new modern look.\n\nUtilize the motion controls of the Joy-Con™ in \"Way of the Hado\" mode, a new first-person single player experience where players attempt to defeat the Shadaloo army using signature Hadoken and Shoryuken special moves.\n\nTeam up with a friend to take on the CPU opponent in a new co-op mode. Create new two-character combos and attack the CPU on both sides! Battle it out with a friend in local multiplayer or take the fight online in Ranked and Casual matches.\n\nBrowse through a beautiful 250+ page digital art book featuring over 1,500 illustrations throughout Street Fighter's 30-year history.",
+  "titleId": "01007330027EE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eed645c2d9fc81f162c3c0ae7ba73416ce73160a416ccf3c83a73b81915f2388.jpg",
+  "tests": [
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-21T14:39:34.243",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "AMD Radeon RX 580 2048SP",
+      "version": "6614fb6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JoaoPaulo_Almeida",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-04-12T20:24:53.6",
+      "cpu": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "72267b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-06T17:32:40.666",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-23T14:18:49.51",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "177bb24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-03-16T03:22:52.371",
+      "cpu": "       Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz",
+      "gpu": "Radeon (TM) RX 570 Graphics",
+      "version": "ea88289",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-01T03:11:34.038",
+      "cpu": "Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-21T22:49:52.361",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "moulin_louis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-16T23:54:20.828",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "499be67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cero_J",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-12-09T23:54:01.298",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fd62490",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-24T01:04:23.036",
+      "cpu": "Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "3bb3b24",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

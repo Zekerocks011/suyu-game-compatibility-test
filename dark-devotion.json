@@ -1,0 +1,41 @@
+{
+  "name": "Dark Devotion",
+  "description": "Explore the secrets of a mysterious fallen temple and put your Templar faith to the test in Dark Devotion, where no sacrifice is too great in praise of your God. Measure your devotion and your bravery by journeying into deepest darkness for answers to questions that will challenge your very existence.\n\nDark Devotion features a richly detailed, immersive narrative that unfolds a sombre tale of your Templar religion’s irresistible calling. Every encounter challenges your fortitude, piety, and conviction as you move deeper into your cursed pilgrimage. Spanning four unique worlds, each with their own incredibly detailed environments, you’ll wield dozens of weapons in your quest to discover the Temple’s secret: all the while assailed by dark enemies and devious bosses whose core mission is to destroy your soul and damn you forever.\n\nFeatures: \n\n● Dynamic and heavy combat\n● Dozens of weapons, armor, and items for various fighting styles\n● Intricate system of blessings, curses, and illnesses\n● White-knuckle boss battles\n● Rich and complex storyline\n● Dark levels and brooding environments",
+  "titleId": "010083A00BF6C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5b89087212b992c7103607d3fd1a162888cd33d0a93b5671ae15377f70761383.jpg",
+  "tests": [
+    {
+      "tester": "Cyucyu",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-09T03:19:47.369",
+      "cpu": "AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "2ca5963",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-31T23:48:45.178",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-31T23:50:20.7",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "773ddb7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

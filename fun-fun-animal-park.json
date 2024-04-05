@@ -1,0 +1,30 @@
+{
+  "name": "FUN! FUN! Animal Park",
+  "description": "Fun for the whole Family! 30 unique mini games feature the intuitive Joy-Con™ motion controls and the rules are so easy that players of all ages and experience levels will have so much FUN! FUN!\n\nFUN! Animal Park has 3 different gameplay modes: \n\nTour Mode - players are guided through Animal Land and compete to find the champion.\n\nOne Match Mode - compete in your favorite game.\n\nSolo Mode - work to break your own record and achieve the highest score!\n\nEven if you aren’t playing, the game is as much fun to watch as it is to play. ",
+  "titleId": "010002F00CC20000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8bbb1428b2256e3d929599f68688eb29dc5dd285ac8e51176e59f9e848d65b81.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-10T23:22:46.491",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "yfextn",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-25T11:05:08.837",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "Radeon(TM) RX 460 Graphics",
+      "version": "aaf42de",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

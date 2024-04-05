@@ -1,0 +1,74 @@
+{
+  "name": "Battle Chef Brigade Deluxe",
+  "description": "Welcome to Victusia, where the members of the elite Battle Chef Brigade are revered for their ability to skillfully take down monsters and transform their kills into delicious cuisine! But getting in isn't easy; chefs from across Victusia must vie for their spot in a high stakes competition. Follow two contestants, Mina and Thrash, as their journeys through the tournament unfold. In order to become a Brigadier you'll need to hunt monsters with combo-based attacks and prepare your freshly-caught ingredients in puzzle-based cooking challenges to serve up winning dishes to the judges – all while the round clock ticks down.\n\nAn “Extra Helping” of Features\n•\tPlay as two chefs, brought to life with colorful illustrations and VO, in a charming campaign that’s equal parts old school brawler and combo puzzling, with a light sprinkling of RPG progression on top. \n•\tWelcome Ziggy, the Undead Necromancer Chef, now playable in Local Multiplayer, Break the Dishes, Survival, and Free Play. \n•\tIf that’s not enough for you, test your might against fellow Brigadiers with the addition of Local Multiplayer! Play as Mina, Thrash, and even Ziggy in an epic battle where YOU make all the rules. Who will come out on top?\n•\tExtra Modes that test your cooking prowess including: Daily Cook-Off, Restaurant Rush, Break the Dishes, and the BRAND NEW Survival Mode leaderboards where you can show off your culinary creations.\n•\tHone your skills in a BRAND NEW Free Play Mode and find the ultimate cooking combination.\n•\tCollect and enjoy the brilliant illustrations of Battle Chef Brigade in the BRAND NEW Art Gallery.",
+  "titleId": "0100CC2001C6C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/849a65b2c5bfde97c59cb138e2e3562a2e8271eea0c4aa99ff65ce01282a9bce.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-22T13:00:28.817",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "3f24503",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-19T17:31:39.053",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5660769",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-19T17:31:24.171",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5660769",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-25T23:07:02.528",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "7be598e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T21:00:01.581",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-10T03:53:33.383",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "ffb2c54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

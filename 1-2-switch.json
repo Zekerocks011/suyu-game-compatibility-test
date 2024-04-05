@@ -1,0 +1,118 @@
+{
+  "name": "1-2-Switch",
+  "description": "Throw an impromptu party anywhere with anyone thanks to a new play style in which players look at each other—not the screen! Bring the action and fun into the real world as you face off in wild-west duels, cow-milking competitions, a copycat dance-off, and more. Each game takes advantage of the Joy-Con controller features of the Nintendo Switch system in different ways. While the action unfolds off-screen, the audience watches the players themselves instead of the screen. That makes it as hilarious to watch as it is to play—an instant party amplifier!",
+  "titleId": "01000320000CC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/309dd91466467f356370fb24f858bc15886af38cb344c2beffc928d5ddbd3b8a.jpg",
+  "tests": [
+    {
+      "tester": "thebenjibenji",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-01T04:41:05.284",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-14T20:03:31.902",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-13T23:49:20.812",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "9b29ce4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-08T21:25:29.407",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f561dd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Janoria",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-06T11:50:11.953",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "ccd49b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-24T14:15:47.642",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "1855900",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-08T08:19:03.471",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LerainL",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-02T21:00:54.096",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-21T15:42:06.389",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "7cddf9a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-08T08:18:05.071",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

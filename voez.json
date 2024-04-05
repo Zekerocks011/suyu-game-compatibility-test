@@ -1,0 +1,107 @@
+{
+  "name": "VOEZ",
+  "description": "\"VOEZ\" is played by touching falling notes in time with the music.\n\nSet in a fictional town named \"Lan Kong Town\", which is modeled after Yilan in Taiwan, the story is centered around 6 high school students who form a band that eventually achieves international fame.\n\nGameplay is simple, requiring players to touch vertically falling notes that have hit a bar on the bottom of the screen.\n\nDepending on the song, the number of lanes for the notes increase and shift side to side, making the screen look as if it is dancing to the music.\n\nThere are over 100 songs in the library.\n\nThree difficulty levels, \"Easy\", \"Hard\" and \"Special\" are available. \n\nPlayers are able to choose difficulty levels according to their skill so they may enjoy all pieces.\n",
+  "titleId": "0100A7F002830000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/86ce3e4643353fe391a4e4742f4c34ade7626a8a70ade80f0b0cc41b0d419e27.jpg",
+  "tests": [
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-07T07:46:28.674",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-12-11T09:05:14.66",
+      "cpu": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "211a6c9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Winston_Lycan",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-07T07:07:50.788",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "hyarsan",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-12-24T11:21:47.946",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "09e0dbf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-03T23:16:34.571",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "8f3ffbe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T12:55:57.939",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "bb8903e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ong_ong",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-05T05:37:00.276",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-16T09:35:15.8",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "GeForce MX150/PCIe/SSE2",
+      "version": "95a65b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-28T09:22:11.287",
+      "cpu": "       Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "d899f42",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

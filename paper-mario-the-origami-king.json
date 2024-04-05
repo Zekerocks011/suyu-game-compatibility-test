@@ -1,0 +1,118 @@
+{
+  "name": "Paper Mario™: The Origami King",
+  "description": "The kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they battle evil Folded Soldiers, repair the damaged landscape, and try to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adventure, only on the Nintendo Switch™ system.\n\nMaster strategic, ring-based battles\n\nLine up scattered enemies and plan your attack to maximize damage with the new, ring-based battle system that requires both puzzle-solving skills and a quick wit.\n\nMario and Luigi receive an invitation from Princess Peach to attend an origami festival and excitedly hurry to Toad Town…but something’s amiss. After investigating the eerily empty town, the duo finds a fearsome (and folded) Princess Peach—she’s been turned into origami by King Olly, ruler of the Origami Kingdom! With five giant streamers under his control, King Olly binds Princess Peach’s Castle and transports it to a distant mountain as part of his plan to re-fold the world.\n\nOn his journey to liberate Peach’s Castle and repair the ravaged paper landscape, Mario meets Olivia, King Olly’s sister, and the two join forces to put a stop to Olly’s origami onslaught. Even Bowser falls victim to Olly’s plot when his minions are turned into origami Folded Soldiers and betray their Koopa king, forcing him to ally with Mario and Olivia!\n\nBattle the Folded Soldiers in ring-based battles that challenge you to strategically line up enemies to maximize damage! Out of battle, Mario can use the arm-extending 1,000-Fold Arms ability in specific spots to interact with the landscape to pull, peel, hit, and more! Join Mario, Olivia, and their companions on a journey of laughter and emotion, thrills, and a whole lot of folding.\n",
+  "titleId": "0100A3900C3E2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0f9b01186ac3e3663853f9be978fa2e9a40d71f15bfa88e3a4512e5f410120f8.jpg",
+  "tests": [
+    {
+      "tester": "ong_ong",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-14T13:09:07.953",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thethiny",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-02T03:34:21.698",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti",
+      "version": "a643c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kon1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-13T11:39:58.386",
+      "cpu": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+      "gpu": "Intel(R) UHD Graphics 630",
+      "version": "ca6a48a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rlux",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-26T14:32:34.608",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk20bot_v2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-20T07:40:01.945",
+      "cpu": "        Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ThiagoAraujo",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-15T21:37:16.051",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f0dbaf1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Soheil",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-29T17:35:47.344",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "c628df8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:10:44.919",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-26T19:53:46.379",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "56521a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BahaBulle",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-06T11:50:03.283",
+      "cpu": "Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 870M/PCIe/SSE2",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

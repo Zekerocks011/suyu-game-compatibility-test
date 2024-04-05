@@ -1,0 +1,41 @@
+{
+  "name": "Aces of the Luftwaffe - Squadron",
+  "description": "Every end is a new beginning! When Europe seemed to be freed, a secret German commando called The Aces of the Luftwaffe took their chance to strike back and invade the USA! It’s your duty to restore peace and liberty by climbing aboard deadly wings of steel and fight against their fearsome war machines in bombastic air battles! Experience an epic storyline and survive the bullet hail above US coasts and cities! Command your wingmen, fight as a team, fight as a squadron!\n\nACES OF THE LUFTWAFFE – SQUADRON is an action-packed, vertically scrolling shoot ‘em up with a captivating and fully voiced narrative. Dodge bullets, collect massive power ups and wisely use special abilities as you defeat waves of enemies. Upgrade each member of your squadron with their personal skill tree as you level up. But don’t go to war alone! You can take on the Aces with up to 3 friends in an epic 4 player local co-op battle. Are you up to the task?\n\nAction packed Shoot ’em up with explosive special effects\nCaptivating storyline with fully voiced characters\nEpic co-op multiplayer for up to 4 players\nSpectacular boss fights and dogfights\nSkill trees with individual abilities for each wingman\nChallenging achievement system\nCreative haptics for gameplay and cut scenes\nEpic movie-like orchestral soundtrack\nSupports all Nintendo Switch control variants\n",
+  "titleId": "0100B28003440000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4605f4de4beb716981a7cf3139a8739de2455c8be12eb6b0fd5847ec22358e1e.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-17T09:32:39.603",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-26T18:07:27.294",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-26T20:42:57.58",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "67fb480",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

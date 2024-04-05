@@ -1,0 +1,41 @@
+{
+  "name": "Foregone",
+  "description": "Years after a devastating war, the city of Calagan is once again besieged by an all-corrupting force known as the Harrow. As the city’s strongest super-soldier, it’s up to you to investigate the Harrow’s origins and prevent its reanimated minions from destroying your home. But the Harrow isn’t just reviving the dead – it’s dredging up memories better left forgotten.\n\nForegone is a fast and fluid 2D action-platformer packed with legendary loot and stunning pixel art. Collect an arsenal of powerful weapons and upgradeable skills, then use them to shoot and slash your way through hand-crafted pixel environments hiding a treasure trove of secrets.\n\nUnravel a compelling story of regret and conspiracy as you slice your way through hordes of enemies and carry out your mission to save Calagan from total annihilation.",
+  "titleId": "010044B00E70A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/031575862a4a07f1af0aa1203479d8f9d7096f8351a39d099257c9bf9fdac007.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-07T01:03:45.985",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "3df1e50",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-26T09:34:15.45",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER",
+      "version": "2bb78e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-09T17:33:21.501",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "216a3f5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

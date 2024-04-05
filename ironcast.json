@@ -1,0 +1,19 @@
+{
+  "name": "IRONCAST",
+  "description": "Commanders! Take to the battlefield in Ironcast and prepare for turn-based strategy like you’ve never seen before. Every decision you make plays a crucial part in deciding your fate, from collecting resources to choosing your next mission. Control a mechanised war machine and lead your troops to victory through a series of challenging battles, trade assignments and survival missions.\n\nThe roguelite style of Ironcast enforces that death is permanent, but rewards are persistent and no two campaigns are the same. With randomly generated missions, over 50 unlockable items and the potential for rare enemy loot drops, commanders will face a new crusade with every play through. With added HD rumble support, taking down the enemy has never felt so good!\n\nFeature Overview:\n Four ways to play, including full touchscreen functionality \n Customise your Ironcast with a variety of unique combinations\n Collect rare loot drops from fallen enemies to boost your systems",
+  "titleId": "01004DB003E6A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/29252d61db8ece1b4a27608f1262559232490bc23da41998ff02a4b1f47c0611.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-12T04:06:46.168",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9de52ba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

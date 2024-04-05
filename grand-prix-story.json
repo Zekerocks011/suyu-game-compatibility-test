@@ -1,0 +1,41 @@
+{
+  "name": "Grand Prix Story",
+  "description": "Try your hand at managing an auto racing team!\n\nBecome the boss of your own team, training drivers and acquiring sponsors before conquering the Grand Prix!\n\nDevelop new vehicles and parts, and customize them any way you like! Do you have what it takes to make it to the winner's circle?\n\nNo knowledge of motorsports is required to play!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+  "titleId": "0100BE600D07A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7a17f61981e12b3bfa9223f351066a229029d3048744d54e0c530492b9593aa9.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T01:59:16.952",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-04T09:57:02.344",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "4c3320c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T06:09:22.233",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

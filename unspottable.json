@@ -1,0 +1,19 @@
+{
+  "name": "Unspottable",
+  "description": "Unspottable is a competitive couch party game where you need to punch your friends before they punch you.\nBlend in the crowd of AI characters, hunt down the other players and use the many different environment specific rules to win the game.",
+  "titleId": "0100B410138C0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fb75e1c2aa62f7f83a6f99e6e45eedd81c4f693666dac64d5ff3200bbfdc9916.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-01T15:49:06.877",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8ba64bb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

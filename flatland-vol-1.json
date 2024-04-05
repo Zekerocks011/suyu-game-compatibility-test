@@ -1,0 +1,19 @@
+{
+  "name": "FLATLAND Vol.1",
+  "description": "FLATLAND - Vol. 1 is a fast-paced hardcore platformer featuring hand-crafted levels and Lightning-fast respawns. Help Square survive his journey to the depths of Flatland, a minimalist neon-style 2D world.\n\nKey features:\n\n- Controls are simple and accessible but with several layers of depth to master\n- Ramping up in difficulty from not-so-easy to soul crushing, FLATLAND - Vol 1 features hand-crafted levels with increasing challenges and secrets to uncover.\n- Lightning-fast respawns keep you in the flow even in more difficult levels\n- Challenging, fast and fun gameplay.",
+  "titleId": "0100DBF011922000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f49adce625a96dd9445d78918cbd030648fa8e061c3b3390f4a406ba220e18f8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-27T01:37:26.174",
+      "cpu": "Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "4e9aeed",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

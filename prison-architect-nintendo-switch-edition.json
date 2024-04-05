@@ -1,0 +1,52 @@
+{
+  "name": "Prison Architect: Nintendo Switch Edition",
+  "description": "In Prison Architect you will see the impact of your grand design on the lives of your inmates be it a utopic centre for rehabilitation, a brutal Super Max Prison or anything in between.\n\nActing as both architect and governor, you control every detail of your Prison - from building new cells and facilities to hiring staff and creating reform programs - all while dealing with informants, contraband smuggling, gang warfare, full scale riots and more!\nExpose your prison to a whole host of outrageous characters who will impact your prisons in unique ways, take charge of new prisons and build your penitentiary on exciting new plots!\n\nAll Day and a Night contains 8 new wardens, 8 new prison maps and 8 new plots to expand your prison experience and bend the rules!\n\n• Show-off and share your prisons in World of Wardens.\n• Equip your prison with new padded cells and a Criminally Insane wing\n",
+  "titleId": "010029200AB1C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70b5cb62ef07711aaeb5e1944eeaa419726bce999de353195623014e2f01c952.jpg",
+  "tests": [
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-28T15:05:26.247",
+      "cpu": "AMD FX(tm)-8350 Eight-Core Processor           ",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "bee073e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-11T17:20:53.603",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-07T19:41:41.166",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8a767e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-18T21:20:40.417",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "60308c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Koi DX",
+  "description": "KOI reflects a tranquil and mesmerizing experience as you embark on an introspective journey through the lens of a lone koi fish separated from its owner and is the last hope for purifying waters polluted by mankind. It’s up to you to turn the tide and guide the koi through eight artfully rendered stages that will take you into the murky as well as enchanting waters, deep below the surface.Search and activate the hiding small fish, bring the small fish to open the flowers with the same color.The wandering black fish should be avoided once encountered.Once all flowers are opened, the black fish will be purified.\n\nOther features:\n-Memory jigsaws\nThe memory jigsaws are spread in each of the levels. When picked up, the story of the corresponding level will unlock and can be viewed here.\n\n-Skins\nThe little fish is not alone but with other companions there. Unlock the alternative characters to enjoy a different experience.",
+  "titleId": "01001E500401C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8ff16d2d58f91fe125e2849964fb70dcf5267197901d09135003a6390c8a6711.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-29T01:29:51.763",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "30825b7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

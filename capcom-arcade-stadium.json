@@ -1,0 +1,52 @@
+{
+  "name": "Capcom Arcade Stadium",
+  "description": "Shooters, fighting, action—all your favorite genres in this exciting collection! Capcom Arcade Stadium brings back all the nostalgia of the arcade, while adding in new and exciting features you'll wish you had back then!\n\nJust Like the Good Old Days\nFrom 3D-rendered arcade cabinets to scanline filters, there's everything you need to recreate that arcade atmosphere. Fully customizable display settings let you craft your own personal experience and truly relive the glory days of arcade gaming.\n\nBrand New Ways to Play\nWith gameplay rewind, speed adjustment, and the ability to save and load your game at any time, your old favorites will feel new all over again!\nEvery game has online leaderboard rankings, so you can see where you stack up against players all over the world!\nCapcom Arcade Stadium, where retro appeal meets cutting-edge features for a fresh take on Capcom's classics!\n\nIncluded Title\n1943 - The Battle of Midway -\nPlayers: 1-2 Co-Op\nGenre: Shooting\nVersions: Japanese & English",
+  "titleId": "01001E0013208000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9780ee6600a6aeb999232d91294dd9b7837e831862c8a6290936d69a1c45a845.jpg",
+  "tests": [
+    {
+      "tester": "mastercho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-22T14:07:46.734",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-26T09:21:16.174",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bbd83b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-21T21:19:55.833",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-07-26T09:24:33.391",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "67fb480",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

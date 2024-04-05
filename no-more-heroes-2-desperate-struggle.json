@@ -1,0 +1,74 @@
+{
+  "name": "No More Heroes 2: Desperate Struggle",
+  "description": "Three years after Travis Touchdown was ranked #1 by the United Assassins Association, he finds himself falling down the ranks to #51. To make things worse, another assassin—Skelter Helter—swears revenge against Travis for the death of his brother.\n\nFueled by his own desires and a thirst for vengeance, the ultimate otaku assassin unsheathes his beam katana once again and plunges headfirst into an all-new battle!\n\n• Dual-wield beam katanas as Travis Touchdown to dial the hack-and-slash insanity up to 11!\n\n• Jump through combat as the agile Shinobu or leave foes in the dust as Travis' brother, Henry.\n\n• Experience a blast from the past by playing 8-bit minigames to earn money and power up!",
+  "titleId": "010071400F204000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a4d88957537964663b3682a07dd896261a48a1d07ea5b89ecc92c41d22620be0.jpg",
+  "tests": [
+    {
+      "tester": "femboy46uwu",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-28T05:03:33.399",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "femboy46uwu",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-29T02:15:03.265",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "09f9788",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-08T11:17:38.039",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e3af49a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BCSpikeFM",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-16T14:25:29.316",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c19c0cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-27T01:57:32.376",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "519a1c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Salteador_Nema",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-15T12:30:22.56",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "8af62c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

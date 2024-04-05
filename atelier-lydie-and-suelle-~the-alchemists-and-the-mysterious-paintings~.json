@@ -1,0 +1,74 @@
+{
+  "name": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~",
+  "description": "Lydie and Suelle are twin sisters, who are also alchemists, living in Merveille, the capital of Kingdom of Adalet, and they aim to make their atelier the best atelier in the kingdom.\n\nOne day, they find a Mysterious Painting with a strange and wonderful world inside of it, full of rare materials for their alchemy. This discovery is sure to become the very key to realizing their dream.\n\nA new Mysterious story to mark the 20th anniversary of the Atelier series! \n\nDelve into the fantastic worlds of Mysterious Paintings together with Lydie and Suelle!",
+  "titleId": "010009900947A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cfec060bb78c2f12029607570e1123956634e3e8cd0423ede3e6a2c03f99441c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-19T14:19:33.965",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "d37fe18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Janoria",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-08T00:04:09.921",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "6663021",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-10T06:12:52.609",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "b101090",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-06-29T14:24:51.63",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-31T19:51:14.782",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "2cc9bdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-16T09:46:00.402",
+      "cpu": "Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "425f17a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

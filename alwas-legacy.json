@@ -1,0 +1,19 @@
+{
+  "name": "Alwa's Legacy",
+  "description": "Alwa’s Legacy is a modern retro game full of dangerous dungeons, mystic items and ancient secrets. Upgrade your magic and choose your own path in this non-linear adventure game brimming with exploration.\n\nCustomized playing\n- Choose how you want to play with our clever upgrade system – More explorative, fearless or strategic. You decide!\n\nExploration is rewarded\n- Leave no stone unturned! The world of Alwa is filled with secrets and finding them requires for you to delve into an abundance of puzzles\n\nA non-linear experience\n- Combining your exploration with different item upgrades allows for finding your own way throughout the adventure\n\nLooks and sounds amazing\n- Enjoy crisp pixel-art paired with modern effects and a spellbinding soundtrack by chiptune extraordinaire RushJet1\n\nA challenge awaits\n- Quick reflexes are needed to navigate through the many challenging rooms and with easy-to-change settings anyone can enjoy Alwa’s Legacy!",
+  "titleId": "01001B7012214000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ebb9e6c95097c2fca7e3933b73f4e8e8573595de0a7ad8bb619cc7b06f7b46be.jpg",
+  "tests": [
+    {
+      "tester": "scrodinguer",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-30T21:39:20.373",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "5019df4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

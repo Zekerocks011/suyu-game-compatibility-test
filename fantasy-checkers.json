@@ -1,0 +1,19 @@
+{
+  "name": "Fantasy Checkers",
+  "description": "Checkers – a traditional and inspiring board game known almost all over the world. The rules differs from one country to another, but the main goal is always the same- to capture all your opponent’s pieces.\n\nRules:\n\n★ American/English\n★ Russian\n★ Brazilian\n★ Spanish\n\nFeatures:\n\n★ Different rules of checkers\n★ 1-2 players modes\n★ Six Fantasy environment themes\n★ Different board views\n★ Sound effects\n★ Chilling classic music\n★ Rules guide\n★ Statistics\n★ Undo function",
+  "titleId": "0100C3E014F40000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/761edf9f97f6465d8b9ed7d70bd37845ecd7ebd4a34d6f86557d3732b36e634f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-26T23:36:05.378",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "43df9f5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Splasher",
+  "description": "Splasher is a 2D platformer with unique arcade-style action gameplay, set in a crazy cartoon universe. \n\nStand up to Le Docteur – the paint factory's evil boss – and save the Splashers. Your prodigious paint cannon grants you colorful superpowers. Put your skills to the test and face whatever the factory throws your way.\n\nFISTFUL OF INK\nUse different colored paints to stick to walls and roofs, bounce high, and trick your foes.\n\nMASTER CHALLENGING LEVELS\nBrave the traps and beat the gigantic factory's security devices. Find the best path and get the best time in order to perfect the level. \n\nTIME ATTACK & SPEEDRUN\nChallenge gamers worldwide with your best times, and share your scores on the leaderboards.",
+  "titleId": "0100FF9003F10000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/34a83da5008bf0c62c43a700c9f906f9b06f60c1e58a399823de48904c33a9e7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-28T15:54:33.717",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "68a1b14",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

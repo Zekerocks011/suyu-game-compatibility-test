@@ -1,0 +1,118 @@
+{
+  "name": "Starlink: Battle for Atlas Digital Edition",
+  "description": "Lead a group of interstellar pilots dedicated to free the Atlas Star System from Grax and the Forgotten Legion. Featuring guest pilot Fox McCloud and his Arwing. Plus bonus Star Fox missions!\n\nStart your adventure with 5 Starships, 7 pilots, and 12 weapons – all included. \n\nStarships:\nArwing\nZenith\nNeptune\nPulse\nLance \n\nPilots:\nFox McCloud\nMason Rana \nLevi McCray\nJudge\nChase da Silva\nHunter Hakka\nRazor Lemay \n\nWeapons:\nFlamethrower \nFrost Barrage \nShredder\nIron Fist\nCrusher\nShockwave\nLevitator\nVolcano\nImploder\nFreeze Ray Mk.2\nShredder Mk.2\nGauss Gun Mk.2 \n\nMix and match parts to customize your starship, and build your own playstyle with unique pilot abilities and weapons. Nintendo Switch™ System exclusive:  Fox McCloud pilot, Arwing ship, and exclusive missions!",
+  "titleId": "01002CC003FE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fa39e175cae3fe974d58cdcb2adc05cb1240fa1f20efb069e9e3a0cb57f89088.jpg",
+  "tests": [
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-15T18:51:54.881",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-24T13:55:03.286",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-07T16:27:00.806",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "09de8e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-20T11:41:18.323",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-07T23:19:45.892",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "044e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-18T22:03:10.246",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "c55fddf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-13T17:24:16.728",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "2589e58",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfarooq_Almenghawi",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-20T11:40:41.997",
+      "cpu": "AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-26T00:10:13.327",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ed980be",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ghost666",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-15T04:17:50.077",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

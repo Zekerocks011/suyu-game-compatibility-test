@@ -1,0 +1,19 @@
+{
+  "name": "Q.U.B.E. 2",
+  "description": "Q.U.B.E. 2 is the sequel to the hit first-person puzzle game Q.U.B.E. You are Amelia Cross, a stranded archaeologist who has awoken among the ruins of an ancient alien landscape. With the distant help of another survivor you must solve the puzzles of this mysterious world and find a way back home.\n\nFeatures\n- Master eleven puzzle areas and solve over 80 individual puzzles\n- Explore diverse environments that expand the Q.U.B.E. world\n- Experience an all new adventure and brand new characters\n- Interact with new and improved game mechanics\n- Original musical score composed by BAFTA nominated composer, David Housden\n- Full colourblind support, using symbols as a colour aid",
+  "titleId": "010023600AA34000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/19f39acfdb65c3281a0ee01a7f428daa33e4e06cacd65c91287bd4f0b49c64eb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-21T16:56:26.399",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

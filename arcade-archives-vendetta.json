@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives VENDETTA",
+  "description": "\"VENDETTA\" is a beat-em-up released by KONAMI in 1991.\nPlayers fight to save a friend's younger sister, who was kidnapped by the Dead End Gang.\nSelect one of four colorful characters to play.\nThis title also supports simultaneous play with up to four players.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+  "titleId": "010087D0150BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9d48d0633272b96ee41f40cf74ea3133dbee35f961593c8b717893334ecea514.jpg",
+  "tests": [
+    {
+      "tester": "mastercho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-20T09:29:02.585",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

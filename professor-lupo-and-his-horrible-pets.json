@@ -1,0 +1,30 @@
+{
+  "name": "Professor Lupo and his Horrible Pets",
+  "description": "Professor Lupo is a space scientist who’s been traveling around the galaxy on the Aurora Space Station, gathering the most impressive collection of aliens: his Horrible Pets. Adorable and harmless at first sight, these aliens turn into nasty, lethal creatures once they sense a human being close by. The Professor is on his way back to the Earth to sell them to the highest bidder for weaponization. But something has gone terribly wrong, the Aurora Space Station is under attack by unknown forces, and now the aliens are roaming free!\nYour job as the Professor’s Intern has always been to act as bait for these creepy critters. Now, you will have to add a new task to your to-do list: find a way to escape, or become the aliens’ dinner! On your way, you’ll unravel the secrets hidden deep inside the Aurora Space Station, and if you’re lucky, maybe even learn something about your own past as well.\n\n- Puzzle-adventure game strongly focused on the narrative!\n- Learn the aliens’ behavior: use them in your favor!\n- More than 100 levels and replayability: 12+ hours of gameplay!\n- Distinctive english voice-over for each character!\n- A new hit from the creators of multi-award winning game Nihilumbra!",
+  "titleId": "010018300C83A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/405127869def7965c93f5f6721bc3926907c2a4dc9f122f4330fab470668b398.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-02T09:19:25.065",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "1d0728c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "maksfrai",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-07-16T02:24:52.228",
+      "cpu": "Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 950M/PCIe/SSE2",
+      "version": "aabcb3f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

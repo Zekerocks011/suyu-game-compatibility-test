@@ -1,0 +1,118 @@
+{
+  "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+  "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years—with a new action RPG—exclusively on the Nintendo Switch™ system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nIn this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations. Get closer to the action by shifting the view to an over-the-shoulder “Heroic Camera” perspective—a series first that offers a more immersive way to play single-player or multiplayer on up to four systems. Play online*, offline via local wireless, or simply pass a Joy-Con™ controller to a friend, so they can join your team. With another pair of Joy-Con controllers (sold separately), four players can team up on one system**! The drop-in/drop-out co-op possibilities let players create their own “Ultimate Alliance” at will.\n",
+  "titleId": "010060700AC50000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16ff40826a3e7bbb6dd7283be1dcc7ef4f2b7cf05c6b0df33b7dc8e981d6b666.jpg",
+  "tests": [
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-30T14:20:26.239",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "7eff057",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cnells2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-11T19:14:24.899",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Chernobylau",
+      "rating": 3,
+      "details": null,
+      "test_date": "2022-01-14T20:13:04.345",
+      "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+      "gpu": "AMD Radeon RX 6600 XT",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cnells2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-11T19:13:09.672",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Cris_Rodrigues",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-21T16:49:42.519",
+      "cpu": "AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 8 Graphics ",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Morder",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-18T06:16:37.642",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-09-26T20:35:04.568",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "bb21460",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-08T20:10:01.315",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "630c550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-19T17:41:38.615",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "6f75a05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cnells2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-11T19:11:28.267",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "f3dd365",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

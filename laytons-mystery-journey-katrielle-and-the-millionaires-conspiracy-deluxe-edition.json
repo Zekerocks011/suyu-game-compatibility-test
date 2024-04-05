@@ -1,0 +1,30 @@
+{
+  "name": "LAYTON’S MYSTERY JOURNEY: Katrielle and the Millionaires’ Conspiracy - Deluxe Edition",
+  "description": "\"LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy\" revamped as \"Deluxe Edition\" with multiple improved features!\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\nEnhanced puzzle-solving adventure experience with the Deluxe Edition!\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n■NEW PUZZLES: This Deluxe Edition includes more than 40 brand-new puzzles and additionally, some refined puzzles from the Nintendo 3DS version.\n\n■Unlocked DLC: Content that was previously released as paid DLC, including the “Daddy’s Girl” and “Luke Lookalike” outfits, are unlocked. \n\n■New Outfits: More than 50 new outfits have been added, all of which can be obtained through gameplay.\n\n■Improved Layout and Enhanced Graphics: Key clues and essential information for each puzzle is now viewable on one screen, and all graphics have been remastered in HD.\n\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\nWhat is \"LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy\"?\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n■Intuitive and easy to play \"Mystery Solving Action Adventure\": Progress through the story while walking around town, chatting with local residents looking for clues, and solving puzzles and mysteries with the heroine, Katrielle Layton!\n\n■Comical puzzle-solving story composed of adventure and rich animation: Players can experience distinctive Layton aesthetics with in-game high quality animation.\n\n■Original puzzles: \"LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy\" includes new, original puzzles that have been created exclusively for this game.\n\n■Largest Puzzle Collection: \"LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy\" includes the largest assortment of puzzles of any LAYTON series title to date.\n\n■Character Customization: Fashion-conscious players can dress Katrielle in various outfits to suit the case at hand as well as redecorate the agency.",
+  "titleId": "0100FB700D224000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a0bae4811768bcbda3b98e6ab191f1b83d1c1e8a42c0c1e8c30e3466e64712ec.jpg",
+  "tests": [
+    {
+      "tester": "8BitF0x",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-21T00:07:58.257",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-02-10T03:21:02.598",
+      "cpu": "       Intel(R) Core(TM) i7-3960X CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1070 Ti",
+      "version": "ffb2c54",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

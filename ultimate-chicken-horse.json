@@ -1,0 +1,41 @@
+{
+  "name": "Ultimate Chicken Horse",
+  "description": "Ever wish you were a wall-jumping, arrow-dodging, trap-setting horse, besting your animal pals in a race through a peril-laden obstacle course that you all built together? \n \nWish Granted! \n \nUltimate Chicken Horse is a party platformer where you and your friends build the level as you play, placing deadly traps before trying to reach the end of the level. If you can make it but your friends can't, you score points! Play online or locally with your animal buddies and experiment with a wide variety of platforms to find new ways to mess with your friends.\n \n- Online and local play for up to 4 players\n- PC & Switch cross-play\n- Unique game flow, from strategic block placement to twitch control platforming\n- 18 levels with unique gameplay features \n- Build and share custom levels\n- Compete for global best times on Challenge levels across all platforms\n- Huge library of blocks to create an infinite variety of levels\n- Customizable rule sets and game modes\n- Shared controller mode to play multiplayer with one controller\n- Sweet funky soundtrack",
+  "titleId": "0100FCF002A58000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d4fdb1d05ac87a067bb6086f7dc89569f7d1a684e2935fac2a0dafdeb602647b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-16T00:17:12.013",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6e09e59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-19T20:05:37.199",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JasonMaskell",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-24T05:26:26.159",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "229324b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

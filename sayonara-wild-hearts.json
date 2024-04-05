@@ -1,0 +1,19 @@
+{
+  "name": "Sayonara Wild Hearts",
+  "description": "Sayonara Wild Hearts is a dreamy arcade game about riding motorcycles, skateboarding, dance battling, shooting lasers, wielding swords, and breaking hearts at 200 mph.\n\nAs the heart of a young woman breaks, the balance of the universe is disturbed. A diamond butterfly appears in her dreams and leads her through a highway in the sky, where she finds her other self: the masked biker called The Fool.\n\nJourney through a custom-written pop soundtrack, chase scores, and set out to find the harmony of the universe, hidden away in the hearts of Little Death and her star-crossed allies: Dancing Devils, Howling Moons, Stereo Lovers and Hermit 64.\n\nLet’s Pop!",
+  "titleId": "010010A00A95E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9b3dd852d3d723f4a8271b26e238884c0ad7274e7b08375e38414650ec0093f4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-03T10:54:16.615",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "f7d88bc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

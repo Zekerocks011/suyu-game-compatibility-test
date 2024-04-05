@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO 2020 SUPER BASEBALL",
+  "description": "“2020 SUPER BASEBALL” is a baseball game released by SNK in 1991.\n\nIn the near future, there are two leagues with 6 teams each. Players pick their team, and compete for the championship. As the game progresses, landmines will be set up on the field, and armor can be purchased during games to reinforce players. These unique aspects make for a very different baseball experience!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.　",
+  "titleId": "01003C400871E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c36d8242a4e7d8fa00018f9eb4e8e9fa8caef888cf07fcc2f18635f9d911971f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T01:57:38.872",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

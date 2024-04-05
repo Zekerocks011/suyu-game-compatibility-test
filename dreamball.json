@@ -1,0 +1,19 @@
+{
+  "name": "DreamBall",
+  "description": "Welcome to DreamBall, the first sports video game with ragdoll physics, set in dreams with which you will enjoy of the craziest matches ever. Play up in the space, under de sea, in a pirate island… Let your imagination fly or let be carried by ours.\nReady to dream? Immerse yourself in this world of dreams.",
+  "titleId": "010034D00F330000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/52050a2216440ae01b9d6bbbbf35f7b51988967fa195bfe4b4bfcaca98ca3f90.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-25T10:04:25.837",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "92ff0d0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

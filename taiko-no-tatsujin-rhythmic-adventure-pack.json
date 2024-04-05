@@ -1,0 +1,52 @@
+{
+  "name": "Taiko no Tatsujin: Rhythmic Adventure Pack",
+  "description": "Taiko no Tatsujin RPG?! Join Don-chan in two exciting RPG adventures!\nFrom the past to the future, Don-chan sets out on a great adventure that will transcend time and space and save the world from mysterious occurrences around the world in \"Taiko no Tatsujin: Rhythmic Adventure Pack\".\n\n■Enjoy a relaxing adventure through the world where you control Don freely in Story Mode!\nTake care of foes you encounter in Taiko Battles!\nDrum on the Taiko well to attack! Mess it up and you'll be attacked!\nCompose a team of your favorite characters to take on even stronger enemies!\n\n■In \"Rhythmic Adventure 1\" you'll serendipitously meet Tocky who has the important job of protecting all of history.\nHe tells you his friend Ticky has been abducted by someone named Professor Timedyne.\nThis wily professor is trying to use Ticky to dismantle history!\nTravel to all sorts of ages throughout history and do away with the bad guys!\n\n■In \"Rhythmic Adventure 2\" the treasures that protect the very being of the world, the Ooparts, have been stolen by the shady organization The Hexagria Magical Society!\nIn order to retrieve them, Don and Katsu embark on a grand adventure!\nWill Don and his friends be able to retrieve the Ooparts successfully and save the world?!\n\n■And of course, you can play the Taiko Game Mode!\nThe library consists of over 130 songs, including 6 newly added titles such as “Pretender” by Official Hige Dandism and “Gurenge” from Demon Slayer: Kimetsu no Yaiba!",
+  "titleId": "0100DD6012644000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/041d4992cea490b8a3f622016a222b67d98fca0dd504749d289f91d70fcf2ca6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-25T20:50:51.235",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "0b08127",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "leanderx64",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-24T13:12:52.086",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "b43f9bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-11T14:45:45.783",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-20T03:34:58.327",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "aeb4164",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

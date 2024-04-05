@@ -1,0 +1,19 @@
+{
+  "name": "Classic Games Collection Vol.1",
+  "description": "Welcome to the \"Classic Games Collection Vol.1\"!\n\nWe have chosen the five most beloved logical games and bundled them together!\n\nYou can play them either against the AI or against a friend (on the same console).\n\nFill your coffee breaks with some brain stimulation!\n\nIn this bundle you will find:\n\nTIC-TAC-TOE (also known as Noughts and Crosses, or Xs and Os)\nTwo players alternate placing Xs and Os onto the grid.\nThe first player to create a straight line of three of his or her symbols... wins!\n\nCHECKERS (also known as Draughts)\nPlayers move their pieces diagonally from one square to another square. \nWhen a player jumps over their opponent's piece, you take that piece from the board. \nThe first player to lose all of his or her pieces loses the game.\n\nMEMORY GAME\nThe objective of the game is to clear a rectangular board covered with cards faced down with minimum number of moves. Each separate move is to turn over any two cards. If they match you take them from board, if not you turn them back over.\n\nMINES\nThe objective of the game is to clear a rectangular board containing hidden \"mines\" without detonating any of them. Numbers on revealed squares show how many mines are adjacent to that square.\n\nGOMOKU\nTwo players alternate placing white and black tokens onto the grid.\nThe first player to create a straight line of five of his or her stones... wins!\n",
+  "titleId": "010031D00EA96000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/456ca25c0501810bb050bda4c0b1c47d2304bfc699d6985bc056b76f66a2bc01.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-04T15:21:33.738",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "5760559",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

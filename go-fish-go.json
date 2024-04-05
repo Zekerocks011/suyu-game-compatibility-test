@@ -1,0 +1,19 @@
+{
+  "name": "Go! Fish Go!",
+  "description": "Even fish lose their patience and try to escape from the aquarium. \n\nA team of five amazing fish embark on a daring adventure to escape from their young oppressors.\n\nHelp them to trick and lose the pursuers. Every second counts. \n\nSpeed, reflexes and wit are what count. Avoid getting caught in a net and escape your way to freedom!\n\nDon't hesitate - start the game and save the five cute fish from being put back into the aquarium. \n\nThey're counting on you!",
+  "titleId": "0100E6300F854000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7dc36c0905970999f2e6f7d8675bdbf75542c31bf8fd3f80e1bf37f8ae1c625b.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T04:13:49.372",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "The Last Campfire",
+  "description": "ON A JOURNEY\nTravel deeper into the lands beyond the dark forest and overcome the adversities before you.\n\nUNCOVER A WORLD\nDiscover beautiful wilderness filled with lost folk, strange creatures and mysterious ruins.\n\nLIGHT THE LAST CAMPFIRE\nFind hope and carry it with you on your Journey to light The Last Campfire.\n\nFROM A SMALL STUDIO\nA unique tale from Hello Games and the creative minds behind LostWinds.",
+  "titleId": "0100449011506000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ae203f40913edd3b3fbfda110cead451234feab96475eea05f19cf0a625c31d0.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-31T20:09:15.715",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "7bb88c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-30T19:44:46.697",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-11-08T14:23:07.162",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "bc88d05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-28T20:20:56.267",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ee5a29a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

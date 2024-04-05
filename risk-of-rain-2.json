@@ -1,0 +1,41 @@
+{
+  "name": "Risk of Rain 2",
+  "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. \nCombine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing. \n\nSURVIVE AN ALIEN PLANET\nOver a dozen handcrafted locales await, each packed with challenging monsters and enormous bosses that oppose your continued existence. Fight your way to the final boss and escape or continue your run indefinitely to see just how long you can survive. A unique scaling system means both you and your foes limitlessly increase in power over the course of a game.\n\nDISCOVER POWERFUL NEW ITEMS\nMore than 110 items keep each run fresh and full of new challenge. The more items you collect, the more their effects combine, the more surprising some of those combinations might be. The more items you encounter, the more lore (and strategy) you’ll discover through the logs.\n\nUNLOCK NEW WAYS TO PLAY \nUnlock a crew of ten playable survivors, each with their own unique combat style and alternate skills to master. Learn the secrets of the Artifacts to toggle gameplay modifiers like friendly fire, random survivor spawns, item selection and more. With randomized stages, enemies, and items, no run will ever be the same.\n\nPLAY SOLO OR CO-OP\nTackle the adventure solo or with up to three friends in online co-op, or compete in the rotating challenge of the Prismatic Trials. Brand new survivors like the Captain and MUL-T join classic survivors such as the Engineer, Huntress, and--of course--the Commando.\n",
+  "titleId": "010076D00E4BA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f552bd1b46e33fd50e56ed473e6fddf627514320616d01b888d91e26a3f264c5.jpg",
+  "tests": [
+    {
+      "tester": "DeathFreak0990",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-08T14:12:04.549",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "GeForce 940MX",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-17T01:39:37.613",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "1c8eef8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-16T17:52:16.651",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "571698a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

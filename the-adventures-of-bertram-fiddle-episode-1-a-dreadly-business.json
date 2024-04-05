@@ -1,0 +1,19 @@
+{
+  "name": "The Adventures of Bertram Fiddle: Episode 1: A Dreadly Business",
+  "description": "The Adventures of Bertram Fiddle is a hilarious tongue-in-cheek point and click adventure game that mixes the classic formula up with riveting action elements all weaved together lovingly by Rumpus Animation.\n\nIn a quirky take on a Victorian London inhabited by strange characters, with even stranger noses, self proclaimed leading explorator, Bertram Fiddle, finds himself in a bit of pickle. Help him follow the clues and track down the elusive serial killer known only as Geoff the Murderer before he strikes again.\n\n\"It is quite possibly one of the finest point-and-click comedy murder mystery adventure games set in Victorian London you will play today\" - Bertram Fiddle\n\nFeaturing\n• Intrigue, murder, mystery and terrible PUNS!\n• Beautifully animated interactions\n• Over 30 locations to explore\n• An original soundtrack composed by Cam Reynolds inspired by 1970s B movies\n• Unique Voice Acting\n• Riveting action sequences\n• HD art",
+  "titleId": "01003B400A00A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7f8f39ed6b99487f78862679024b7bce348fcb44177fe9b4a4616be8e3306681.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-21T04:57:52.944",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "d920d7a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

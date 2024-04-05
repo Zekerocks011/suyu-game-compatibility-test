@@ -1,0 +1,30 @@
+{
+  "name": "Amnesia: Collection",
+  "description": "The collection contains three Amnesia titles: The Dark Descent, A Machine For Pigs, and Justine. Experience the horror that kickstarted the Let's Play revolution; be immersed in three living nightmares that will chill you to the core.",
+  "titleId": "01003CC00D0BE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/51424e8761a06ea446b68fe01258e965399683033694bd30b94e20e953775f2d.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-23T14:24:33.389",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "41925bc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Bill_Samson",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-13T22:02:56.376",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "21bb900",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

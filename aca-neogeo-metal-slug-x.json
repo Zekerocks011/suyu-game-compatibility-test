@@ -1,0 +1,74 @@
+{
+  "name": "ACA NEOGEO METAL SLUG X",
+  "description": "\"METAL SLUG X\" is an action shooting game released by SNK in 1999. \nIt is a rearranged version of METAL SLUG 2.\nUsing METAL SLUG 2 as a base, a variety of new weapons and enemies have been added. \nFurthermore, with position changes of bosses and more, the game's difficulty has been completely readjusted.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01008FD004DB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ea5960469238b35a9730792cdb80c740f2f31c916f3347f2f030aa4f9d002ba3.jpg",
+  "tests": [
+    {
+      "tester": "mjd180",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-15T12:13:56.332",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T20:10:00.834",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mjd180",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-15T12:10:13.941",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-11T08:40:25.927",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "80d7c45",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mjd180",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-05-15T12:08:37.27",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-17T23:08:57.475",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

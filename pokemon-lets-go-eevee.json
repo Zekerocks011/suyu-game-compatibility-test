@@ -1,0 +1,118 @@
+{
+  "name": "Pokémon: Let’s Go, Eevee!",
+  "description": "Partner up with Eevee to catch and collect Pokémon on a rich and vibrant adventure in the Pokémon™: Let’s Go, Eevee! game – available now on the Nintendo Switch™ system! Become the best Pokémon Trainer you can be as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con™ controller or a Poké Ball™ Plus accessory (sold separately), which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus. You can even connect to the Pokémon™ GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!\n\nExplore the vibrant region of Kanto—home to beloved characters like Brock, Misty, and the nefarious trio Jessie, James, and Meowth! Throughout the story, your bond with your partner Pokémon grows stronger as you care for it and travel together. See the world in style by customizing Eevee and your Trainer with a selection of outfits. True-to-size wild Pokémon roam around in the game—catch them like a real Pokémon Trainer by using timing and a well-placed Poké Ball™. Battle and trade with other players who own the game via local wireless or online**. Go on a stroll with your favorite Pokémon in your Poké Ball Plus to level them up, and to receive in-game rewards after returning them to the game. Connect to Pokémon GO* to transfer caught Kanto-region Pokémon, including Alolan and Shiny forms, as well as the newly discovered Pokémon, Meltan, from that game to this one!",
+  "titleId": "0100187003A36000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf0dbdcad11b124c3a3090f7cf331fd484e1260efd91cf7208edfc9b621b3bdf.jpg",
+  "tests": [
+    {
+      "tester": "romoney5",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-03T13:20:00.308",
+      "cpu": "AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1660 Ti with Max-Q Design",
+      "version": "b25c685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kappacite",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-22T21:05:47.526",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-07T12:38:50.753",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "35a3d9d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-29T08:12:40.815",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "72b7a97",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-15T06:35:25.698",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "42bedc8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-04T09:23:02.277",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "a7a5be1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "hide1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-21T14:07:58.717",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce 940MX",
+      "version": "c5cdd65",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ImperatorCaesar",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-18T19:12:37.069",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "f30f0d7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Raelarial_Skystriker",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-24T06:49:04.381",
+      "cpu": "AMD Ryzen 5 3500 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "229324b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-11T22:40:57.296",
+      "cpu": "AMD Ryzen 7 2700 Eight-Core Processor          ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "255d3b2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Island Flight Simulator",
+  "description": "Enjoy fantastic open-ended gameplay, touch down in the tropics and transport freight between twelve exotic islands in more than a hundred exciting missions. Only the most daring pilots will take the risk of accepting both highly lucrative and illegal missions from shifty clients.\n\n• Over a hundred different transport missions, some of them very lucrative, but also quite risky.\n• Exotic setting on an archipelago with twelve islands.\n• 3 different planes, which can be improved using upgrades for speed, sturdiness and fuel capacity.\n• Personal hangars and three basic airfields.\n• Personal map and survey map ",
+  "titleId": "010077900440A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ba2ffe4020403d60e7d401a84736fd1a5d6e1e6c6f419faa201d228bff83b47a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-08T00:47:05.215",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "a18d960",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-27T21:55:14.933",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Driving School Sim",
+  "description": "Do you love driving cars? Driving School Simulator, the latest driving simulator will allow you to feel what driving a real car is! Driving School Simulator allows you to get behind the wheel of the newest cars on the market!\n\nDrive sport cars, SUVs, Sedans, Supercars, Hypercars and Hatchbacks!\n\nImprove your road rules knowledge with this amazing driving simulator!\n\nHuge maps are waiting to be explored: famous cities, mountain roads, desert landscapes and icy and snowy streets, etc...\n\nPlay with your friends in new free ride Online Multiplayer mode or Race against them in the new multiplayer system!\n\nCareer levels, Learning Modes, Events, Races and much more!\n\nShow off your driving skills, get your driving license now! Play Driving School Simulator!\n\nFeatures\n• More than 150 vehicles to drive - updated regularly!\n• Lots of huge detailed realistic maps\n• Smooth and real feeling car handling\n• Different exams on each city map!\n• More than 80 challenging levels\n• Free Ride mode\n• Race Mode\n• Learn Mode\n• Online Multiplayer Modes: Racing and Free Ride\n• Detailed vehicle interiors with ambient lighting\n• Improved damage system\n• Manual Transmission\n• New Real engine sounds\n• Next-Gen weather conditions",
+  "titleId": "0100DDB014698000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5eafca1aa3f2bac8df1d9d38f8b0b829db1d79cf85a413aa37397e2a38c8f877.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-26T01:17:10.996",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

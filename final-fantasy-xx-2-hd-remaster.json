@@ -1,0 +1,118 @@
+{
+  "name": "FINAL FANTASY X/X-2 HD Remaster",
+  "description": "FINAL FANTASY X/X-2 HD Remaster brings the timeless classics forward to the current generation of fans, old and new alike.\n \nFINAL FANTASY X tells the story of a star blitzball player, Tidus, who journeys with a young and beautiful summoner named Yuna on her quest to save the world of Spira from an endless cycle of destruction wrought by the colossal menace Sin.\n\nFINAL FANTASY X-2 returns to the world of Spira two years after the beginning of the Eternal Calm. Having been shown a mysterious but familiar image in a sphere, Yuna becomes a Sphere Hunter and along with her companions Rikku and Paine, embarks on a quest around the world to find the answers to the mystery within.\n \nFully immerse yourself in the World of Spira as you enjoy over 100 combined hours of gameplay across the two classic titles.\n\nFeatures:\n\nEnhanced HD Graphics\n-Heroes, villains, monsters, environments, and cutscenes have been given an HD facelift so you can enjoy these classic games with stunning updated graphics.\n \nClassic or New Audio – Take your pick\n-Tailor your gameplay and switch freely between the newly reworked music, or the classic audio from the originals.\n \nOver 100 Hours of Gameplay\n-Relive all of the battles and heartfelt moments with over 100 hours of combined gameplay.\n\nFull game installation size: 26.9gb",
+  "titleId": "0100BC300CB48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f3965d8ce348061d2de718722d5414515f82f674f19f75fc6e8ff52ab5fc6ccf.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-06T14:43:22.747",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "fd60653",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-28T02:34:50.394",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "2674a3b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-04T01:53:09.914",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b241a35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-15T18:02:59.993",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "ac974d2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-12-12T01:13:48.594",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "733d67a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-16T02:56:40.948",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "9530112",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T17:47:23.196",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Rozebau",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-13T18:22:02.264",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "85749e2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-06T20:31:51.995",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "499be67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-23T01:27:23.453",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

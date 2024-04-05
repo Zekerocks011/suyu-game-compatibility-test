@@ -1,0 +1,74 @@
+{
+  "name": "PICROSS S4",
+  "description": "This is the 4th Picross S Series on the Nintendo Switch™!\nThere are brand new puzzles for you to enjoy in all four familiar game modes: Picross, Mega Picross, Color Picross, and Clip Picross.\nWe've also added bonus Extra puzzles which are dedicated for Picross S series veterans! There are two 30x30 large Picross puzzles for you to solve. Link the play data from Picross S, Picross S2, and Picross S3 to unlock an even larger 40x30 Picross puzzle for each series played, up to a maximum of three. There are a total of 300 Picross and Mega Picross puzzles, 150 Clip Picross piece puzzles, 30 Color Picross puzzles, and 5 Extra puzzles, a grand total of 485 puzzles!\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+  "titleId": "0100C250115DC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d6cdf7cd0d7039f07d9829bb5475e8ad679b0fbf70af7e188892a81508c62748.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-12T18:38:57.881",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 650 Ti/PCIe/SSE2",
+      "version": "528d5b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-08T00:27:15.69",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-27T09:23:49.908",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "618a4c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-13T02:08:04.731",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "7272251",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-19T01:40:53.337",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "bf8b76a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Kables",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-22T02:45:44.843",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "a598f97",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

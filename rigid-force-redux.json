@@ -1,0 +1,96 @@
+{
+  "name": "Rigid Force Redux",
+  "description": "CLASSIC SHOOT’EM UP ACTION IS BACK!\nRigid Force Redux breathes new life into the classic side-scrolling shooter genre with its lovingly hand-crafted 3D models, stunning environments, detailed effects and an electrifying Synthwave soundtrack.\n\nDEVASTATING FIREPOWER!\nArm your fighter with numerous upgradeable weapon systems and supplemental Force Shards! Collect Energy Orbs to fill up your energy supply and eventually unleash an extremely powerful blast against your foes!\n\nCONFRONT AN OVERPOWERING ARMADA!\nBattle it out against huge swarms of enemies, heavy gunships, laser wielding mechs and giant alien creatures. Every enemy has its own unique and challenging strategy, from the tiniest creature up to the largest boss.\n\nLOTS OF EXTRAS!\nJust in case the extensive, action-packed Main Mission is not enough for you, try the challenging Arcade and Boss Rush Modes, defend your ranking in the global leaderboards and grab all 40 achievements. Everything is prepared for countless hours of shooting fun!",
+  "titleId": "0100763010D5A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e8844cfc08461fa933d07f1566fcd2e61d8a5453bfd28ad135255f1cb3b6bd5c.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-16T20:02:17.645",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T05:58:18.609",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-25T15:40:40.687",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "2848a44",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-19T21:56:39.135",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b12df54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-25T08:58:33.426",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d22784c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-19T09:51:51.856",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-06T19:39:04.557",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "51882c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-12T06:05:56.717",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

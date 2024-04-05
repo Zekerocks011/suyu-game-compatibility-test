@@ -1,0 +1,41 @@
+{
+  "name": "Double Dragon 4",
+  "description": "The next entry in the side-scrolling action game series Double Dragon is finally here!\n\nThe story picks up after the elimination of the Black Warriors in Double Dragon II!\n\nExperience all-new exhilarating action with the original old-school graphics!\n\nUse the art of Sou-Setsu-Ken to rescue the kidnapped Marian!\n\nPlus, new enemy characters including ninjas, karate masters, and sumo wrestlers, none of which have been seen in Double Dragon before!\n\nThere are lots of extra modes, too! Cool new features fans have been waiting for!\n\nPlayable enemy characters, VS Mode, Tower Mode, and even more!",
+  "titleId": "010001B005E5C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ac6ae826272eed7f7ccb279614bc5284ad03fe1b03a5ccd2e08d4fc4e2801d47.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-22T18:52:49.749",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-02T11:16:15.079",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-27T01:20:37.036",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "1348c2c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Neon City Riders",
+  "description": "Looking for a 2D action-adventure mixed with super-powered urban gangs in a post-cyberpunk neon scenario? Well, if you do, Neon City Riders is right for you!\n\nAssume the role of Rick, a rad masked vigilante in search of superpowers and companions to defeat hordes of vicious enemies, solve defiant puzzles, unlock new paths, complete engaging side-quests, and finally, free the decaying futurist Neon City that has been seized by a group of superpowered gangs!\n\nFeatures\n\n• Fight in a deep and fast-paced combat based on unlockable super-abilities.\n\n• Explore the open-ended progression and the lots of optional side-quests to complete the game through one of the four different endings.\n\n• Immerse in the retro-futuristic graphics and sounds inspired in the 80's pop-culture and video game consoles.\n",
+  "titleId": "0100A7B00FFC2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ae02603da4bee6e82da2330601ab70d2d100bee85c063a6775f2c339935c04ce.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-27T11:27:51.779",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Demolish & Build 2018",
+  "description": "Your company is going global. Use big machines to demolish huge buildings or go close and personal and use your hammer.\nBuy land properties, upgrade your machines and hire workers in different parts of the world.\n\n- Various construction and demolition machines\n- 4 different world locations with freely navigable world\n- Hire and manage workers\n- 2 players cooperative multiplayer\n- Specialized hand tools\n- Demolition site dust control\n- Finish contracts or use your machines to gather resources and earn cash\n- Invest in your own properties\n- Demolition site preparation\n- Manage your company and make sure it's rating goes up\n\n",
+  "titleId": "010099D00D1A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a40091abbf4a1ae1857480e9c16a77455132f280aa6763557c4a7df58524e37a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-25T03:52:10.155",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "40ae956",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

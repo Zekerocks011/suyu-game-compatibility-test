@@ -1,0 +1,63 @@
+{
+  "name": "7 Billion Humans",
+  "description": "Automate swarms of office workers to solve puzzles inside your very own parallel computer made of people. A thrilling followup to the award winning Human Resource Machine. Now with more humans!\n\nTHRILLING FEATURES!\n- More puzzles, more humans, more rippling brain muscles - over 60+ levels of programming puzzles! 77.777778% more levels than Human Resource Machine.\n\n- A whole new programming language to enjoy! Where Human Resource Machine was based on Assembly and executed by a single worker, 7 Billion Humans has an all new language that lots of workers can all execute at the same time.\n\n- You'll be taught everything you need to know. Even useless skills can be put to work!\n\n- Feeling stressed out? There are now friendly hint and \"skip\" systems to facilitate your career's ascent.\n\n- Available in English, French, Italian, German, Spanish, Dutch, Korean, Polish, Brazilian Portuguese, Traditional Chinese, and Russian. With more languages on the way!\n\n- Incomprehensible cutscenes! You will be delighted and bewildered.\n\n- New soundtrack by Kyle Gabler included in Switch-exclusive soundtrack mode.\n\n- From the creators of Human Resource Machine, Little Inferno, and World of Goo.",
+  "titleId": "0100DA900B67A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3ffebbef2e38f9dd3d7ccef3c912a88059e55753624d29805315c04e9dcdd075.jpg",
+  "tests": [
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-07-10T23:48:39.795",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "ae2f772",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-31T07:26:19.18",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "5ab619a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-03T00:43:17.125",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ed9ddde",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:33:20.534",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-17T00:36:40.21",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "943304c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

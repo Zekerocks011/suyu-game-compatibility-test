@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES Lightening Force: Quest for the Darkstar",
+  "description": "From the legendary game developers at Technosoft! \n\nBattle against the Vios forces and fly as RYNEX in this side-scrolling shmup that enthralled the world with its innovative ideas, beautiful pixel graphics, and a rocking soundtrack.\n\nAfter beating the game, unlock \"STYX\" Mode and jump in the cockpit of the distinguished FIRE LEO-03 \"STYX\" from Thunder Force III. Take the STYX’s full arsenal from the previous game in this mode, but will this older model be able to survive?",
+  "titleId": "01006AB00BEE4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/65ca7519b57d0436145e1d32858826cb4b6ee01dc43fc8ab9150b6a5cbb3a73e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T14:28:39.641",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "bb8903e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-12T11:57:05.185",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "ed4b9b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

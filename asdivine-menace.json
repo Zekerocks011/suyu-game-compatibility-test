@@ -1,0 +1,19 @@
+{
+  "name": "Asdivine Menace",
+  "description": "A century after the events of Asdivine Dios, peace has finally settled in. That is, until a visitor from another world suddenly shows up proclaiming the entire universe is about to be destroyed. Hearing this, Izayoi sets off in an attempt to reverse this seemingly pronounced fate with a trio of very idiosyncratic spirits as they criss-cross four worlds in search of an answer. But what is the answer they find...?\n\nExperience immersive turn-based battles with cooperative attacks and new limit break skills! With all quests, collecting and crafting, the battle arena, and even post-game content, Asdivine Menace comes packed with enough elements to satisfy JRPG-hungry gamers. As Izayoi deepens his bonds of trust with his spirit companions, their fates together move in new and meaningful directions!",
+  "titleId": "0100FE000EC24000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d1b6d4e823ea23a2973e7a58e73a5addaa92c19c2a993b8220ef58427d77adef.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-03T15:49:50.228",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

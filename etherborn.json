@@ -1,0 +1,19 @@
+{
+  "name": "Etherborn",
+  "description": "Etherborn is an elegant leap in the gravity-puzzle genre; an environmental puzzle platformer built on exploring and understanding gravity-shifting structures.\n\nYou are a voiceless being that has just been born into a world where a bodiless voice awaits your arrival. As your first thoughts emerge, you realise your journey has just begun. You must reach this ethereal voice to fully understand your own existence.\n\nIn this world, the laws of physics behave in a way that will bend your imagination. You experience gravity perpendicular to the surface you are standing on, allowing for creative exploration possibilities in environments carefully crafted as navigation-based puzzles.\n\nTravel through beautiful and exotic sceneries where each level is an organic puzzle that you need to explore, manipulate and shift your gravity on in order to decipher the way forward.\n\nFeature List\n• Gravity-shifting platforming and exploration\n• Navigation based puzzles based on your unique sense of gravity\n• Surreal levels in an atmosphere inspired by artists of the 20th-21st centuries\n• Dynamic and captivating original soundtrack tailored to each level\n\nEtherborn is available in these languages: English (audio and text), Spanish (audio and text), Catalan (audio and text), German (text), French (text), Italian (text), Russian (text), Japanese (text), Simplified Chinese (text), Korean (text).",
+  "titleId": "01000E200BE10000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/125e77f2aab2d42719d2de0e4be8eb3b07d6a65d74cbdbc513cd43ac9f29edbd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-19T20:57:50.619",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "a3b3272",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

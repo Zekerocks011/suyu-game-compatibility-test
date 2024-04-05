@@ -1,0 +1,41 @@
+{
+  "name": "ACA NEOGEO BLUE'S JOURNEY",
+  "description": "\"BLUE'S JOURNEY\" is a side-scrolling action game released by SNK in 1991.\n\nIn order to save the planet Raguy from the invasion of the Daruma tribe, the hero Blue must fight using leaves, boomerangs, and a variety of other weapons along with his special ability to change his body size. \n\nThe branching stages allow you to enjoy the game again and again.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100379003900000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/752c5c4d5c6c9959107aba3455da6a3838413ecbb9ab6bf5b61bde00a0f4b801.jpg",
+  "tests": [
+    {
+      "tester": "Mikelo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-15T10:24:11.162",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "f7e76ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-15T15:31:24.602",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-15T15:31:10.714",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

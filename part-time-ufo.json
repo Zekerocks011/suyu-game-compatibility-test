@@ -1,0 +1,107 @@
+{
+  "name": "Part Time UFO™",
+  "description": "Move objects to the designated platform and balance, arrange, and build to help earthlings complete jobs! Tasks range from farming, fishing, and stacking cheerleaders. Wait…what? Each puzzling job has multiple objectives hinted at through pictures. Solve them to earn in-game medals and unlock even more jobs—just keep an eye on the timer.\n\nPass a Joy-Con™ controller to a friend for some duo UFO puzzle solving\n\nRecruit a friend and complete any job in cooperative mode. Each job also has a more difficult variation that’s perfect for two players. Jobs may have more objects to move or other challenges to keep the action fresh for your UFO buddy. Two claws are better than one!\n\nReach for the stars (and a high score) in the Tower of Infinity\n\nThe sky’s the limit in the Tower of Infinity mode! Stack objects that are flown in on helicopters to build the tallest tower you can. Be careful not to let anything fall of the platform or the round will end. A second player can join you on your journey to build the tallest tower possible.\n\nTake on jobs like helping a farmer load a truck, arranging circus animals, and rebuilding a temple. In addition to the medals you’ll earn to unlock other stages, you’ll receive some in-game currency for each job you complete. Redeem your hard-earned currency for adorably useful costumes. Dress like a ninja for a sneaky look and a speed boost, or don the safety helmet to stop quickly when zooming around the screen.\n\nCheck out the Feats of Glory for extra challenges to complete as you play. For example, try to transport a total of 160 objects across all jobs or get a total of 54 medals. Complete four of these feats to unlock an animated illustration.\n\nOnce you master your claw-swinging, object-stacking skills, you can go for a treasure hunt! In this mode you must solve puzzles and collect treasure as you explore treacherous ruins. Whether you want to help out earthlings, build your Tower of Infinity, or explore for treasure, the Part Time UFO game is full time fun.",
+  "titleId": "01006B5012B32000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/268563c083ddb5f636521b56c2d52d274f41d692f8af10a95467e360862911f0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-06T23:41:34.777",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "soltinator",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-31T16:54:47.405",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8608d37",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "soltinator",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-31T16:20:23.862",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "7bc0947",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-05T21:01:44.077",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "fb2e527",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-06T02:58:04.921",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-04T14:30:15.738",
+      "cpu": "AMD Ryzen 5 3400G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ac346ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-17T01:03:52.317",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-27T18:30:09.291",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "698fd2f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyo753",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-24T11:15:22.905",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "ea9e816",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES Out Run",
+  "description": "The 3D driving game that launched a legacy returns on Nintendo Switch™! Featuring new motion controls, newly added music tracks, and a new ranking system.\n\nSpeed through the streets of SEGA AGES Out Run, the award-winning title that paved the road for the racing genre. Your favorite stages and soundtrack are back. Do you have what it takes to beat the clock?",
+  "titleId": "0100D4D00AC62000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1110ea20c19c0af72f449d9ba56ed4e160023ed1915313dfc3a32cc626faad32.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-03-18T01:03:54.645",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "6d200b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-07T21:10:59.023",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "7d7e587",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Spiritfarer",
+  "description": "**The Spiritfarer® Farewell Edition** is the definitive edition of the award-winning cozy management game about dying. It brings together the base game beloved by over 1 million players, and all the additional content released to date. See why critics called Spiritfarer one of the Best Games of 2020.\n\nYou play Stella, ferrymaster to the deceased, a Spiritfarer. Build a boat to explore the world, then befriend and care for spirits before finally releasing them into the afterlife. Farm, mine, fish, harvest, cook, and craft your way across mystical seas. Join the adventure as Daffodil the cat, in two-player cooperative play. Spend relaxing quality time with your spirit passengers, create lasting memories, and, ultimately, learn how to say goodbye to your cherished friends. Includes the heartwarming base game and three major content updates: explore an expanded world and befriend four new spirit friends!",
+  "titleId": "0100BD400DC52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ccd7ba47ba976a0ccdd23087f939ad6d8d15db74c26be3133307efd122efd2db.jpg",
+  "tests": [
+    {
+      "tester": "Thememev1.1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-19T19:11:16.37",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "38d6bd5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Thememev1.1",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-08-19T19:10:57.974",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "38d6bd5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

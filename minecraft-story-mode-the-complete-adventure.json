@@ -1,0 +1,74 @@
+{
+  "name": "Minecraft: Story Mode - The Complete Adventure",
+  "description": "Embark on a perilous quest across the Overworld, to the End, and beyond. With a team of friends at your side, and a troubled land in need of heroes, your decisions – what you say and do – drive the story around you, so choose wisely!\n\nFeatures fan favorites Stampycat, DanTDM, CaptainSparklez, StacyPlays and LDShadowLady.\n\nDeveloped in partnership with Mojang, the creators of Minecraft.\n\nIncludes all five episodes of Season One and all three episodes of the Adventure Pass.",
+  "titleId": "010059C002AC2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ccaaa41467403b3ecf133ce129eed62520142a352a9e23f16d52817eecb0effe.jpg",
+  "tests": [
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-31T02:44:40.375",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "452ea3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-14T03:09:12.125",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "43ed299",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-05T11:44:48.756",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5f7959a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "1byte",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-29T01:31:18.063",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "86a61ee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-21T06:37:02.501",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "d547695",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GDhex12",
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-11T19:30:17.813",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7382025",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

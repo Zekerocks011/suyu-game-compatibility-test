@@ -1,0 +1,41 @@
+{
+  "name": "Crysis 3 Remastered",
+  "description": "In Crysis 3 Remastered, the fate of the world is once again in your hands. Returning to the fight as super-soldier Prophet, wielding a powerful auto-loading Predator Bow that fires electric, explosive, and carbon arrows, take on new and old enemies that threaten the peace you worked so hard to achieve. The search for the alien Alpha Ceph continues, but now you must also expose the truth behind the C.E.L.L. corporation, which has turned New York City into a sprawling urban rainforest sheltered by a giant nanodome. Equipped with your legendary Nanosuit, you must assess, adapt, and attack as you choose your path and fight through seven distinct districts. Decimate your opponents in a blaze of brute force using the Nanosuit's superior technology, or use stealth to achieve your goals and become humanity's silent savior. There's no wrong way to save the world.",
+  "titleId": "0100CD3010AE2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9743b1bb18f8b7e40947a037557131be402985046b4e57f7c2c4796abe024b30.jpg",
+  "tests": [
+    {
+      "tester": "SneakyRabid",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-22T15:53:38.084",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "2d6aad8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "usrunknwn",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-01T15:08:31.73",
+      "cpu": "Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1660/PCIe/SSE2",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "BLUETONICS",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-24T17:17:52.221",
+      "cpu": "Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "d1a5ef3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

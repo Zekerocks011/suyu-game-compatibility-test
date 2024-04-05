@@ -1,0 +1,107 @@
+{
+  "name": "River City Girls",
+  "description": "There's trouble once again on the mean streets of River City, but this time the boys are in over their heads! In this all-new entry in the legendary beat-'em-up series, hot-blooded heroes Kunio and Riki have been captured, leaving it to their hard-hitting girlfriends, Kyoko and Misako, to serve up some payback. As you punch and kick your way across town - either solo or with a friend in local co-op - you'll gain new skills, chow down on power-ups, wield an assortment of weapons, and unleash an arsenal of combos, throws, and special attacks that will leave the bad guys crying for mama - all in outrageous 16-bit style! The awesome action is punctuated by manga story panels, anime cutscenes, and an epic synth-pop soundtrack. It’s an old-school rumble for a new generation!\n\nKey Features:\n• Wild beat-'em-up action for one or two players!\n• Glorious pixel-art graphics plus anime and manga cutscenes! \n• Fantastic soundtrack featuring Megan McDuffee, Chipzel, Cristina Vee, Dale North, and NateWantsToBattle!\n• Six large city regions to fight through, complete with shops and side quests!\n• Loads of weapons, items, and abilities to power-up your heroines!\n• Guest appearances by classic River City characters!",
+  "titleId": "01004E700DFE6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c2437761f3151a5dfcb315772b6ee7ee4385c0c77fb620018ff5191dc453dfdb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-01T22:51:50.448",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "846462e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-10T06:48:35.311",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "0f1bdd4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-07-18T14:57:54.173",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "3128172",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-06T14:42:43.8",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "dc22e6b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-15T15:21:17.886",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "24a24e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-13T01:12:25.273",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-20T03:16:24.824",
+      "cpu": "AMD FX(tm)-9590 Eight-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "fc4729a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T21:19:10.293",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-20T21:34:53.303",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bbd83b6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Animal Crossing: New Horizons",
+  "description": "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature comforts. You can hunt down insects at the crack of dawn, decorate your paradise throughout the day, or enjoy sunset on the beach while fishing in the ocean. The time of day and season match real life, so each day on your island is a chance to check in and find new surprises all year round. \n\nShow off your island utopia to family and friends—or pack your bags and visit theirs. Whether playing online* or with others beside you**, island living is even better when you can share it. Even without hopping on a flight, you’ll meet a cast of charming animal residents bursting with personality. Friendly faces like Tom Nook and Isabelle will lend their services and happily help you grow your budding community. Escape to your island getaway—however, whenever, and wherever you want.\n\n•\tBuild your community from scratch on a deserted island brimming with possibility\n•\tCreate your personal getaway and customize your character, home, decorations, and even the landscape itself\n•\tCollect materials to construct everything from furniture to tools! Then, use what you create to give your island a personal touch\n•\tWatch as the time of day and seasons match real life—even your hemisphere! Each day holds potential for surprises and discoveries\n•\tGet to know the island residents, garden, fish, decorate, hunt for fossils, and more!\n•\tShow off your paradise – play on the same system with a total of 4 people**, or play together online* or over local wireless** for fun with up to 8 players\n",
+  "titleId": "01006F8002326000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg",
+  "tests": [
+    {
+      "tester": "bai0012",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-06T04:43:01.531",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "6561008",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "sony_rich",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-31T02:27:54.602",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "3b357ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "giesebot",
+      "rating": 1,
+      "details": null,
+      "test_date": "2022-01-12T17:56:47.16",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bai0012",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-05T06:13:39.505",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "5fb0739",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:07:36.623",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MONGCHAW",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T13:14:54.313",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Malerie_Hicks",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-18T01:35:45.685",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Yasakikondo74",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-20T07:04:16.475",
+      "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "gpu": "NVIDIA GeForce MX130",
+      "version": "c25e33d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "redjersey",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-21T01:59:32.609",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Killian_Scholl",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-12-06T16:53:44.206",
+      "cpu": "AMD Ryzen 3 PRO 3300U w/ Radeon Vega Mobile Gfx",
+      "gpu": "AMD Radeon(TM) Vega 6 Graphics",
+      "version": "88a3c0b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

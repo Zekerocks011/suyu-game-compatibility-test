@@ -1,0 +1,30 @@
+{
+  "name": "PixelJunk Monsters 2",
+  "description": "In the acclaimed tower defense series' first ever official sequel, play as Tikiman and build towers to defend your Tiki Hut from the monster hordes. The sequel brings with it FOUR PLAYER online co-op, new and sometimes quite explosive fruit bombs and on top of that the game has been fully re-imagined in beautifully detailed 3D. Get ready to defend your Chibis again in this fun and addictive game for all the family.\n\nKey Features\n• Local & Online Play - Maximize the fun by playing with your friends on the couch or with up to 4 players online!\n• Close Encounters - Multiply the suspense by toggling your POV from top-down to an in-your-face view!\n• Fluid and Detailed Graphics - Immerse yourself in an all new world like never before as the HD animation breathes life into Tikiman and the unique maps!\n• The Mask Makes the Tikiman– A mask for any occasion! Customize Tikiman with different masks and shells.",
+  "titleId": "0100E4D00A690000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3131f87d10c77691a8bebab4e18f4bd8d79c371ea8aea2d1d5434e31e7ce1756.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-31T16:32:40.733",
+      "cpu": "AMD Ryzen 7 1800X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1070",
+      "version": "8608d37",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-28T17:43:39.689",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

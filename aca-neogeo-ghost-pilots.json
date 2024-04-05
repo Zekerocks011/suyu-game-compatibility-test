@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO GHOST PILOTS",
+  "description": "\"GHOST PILOTS\" is a shooting game released by SNK in 1991. The hero flies an old-fashioned seaplane in order to fight the two powerful nations invading their own country. Alongside giant military weapons, a mysterious combat unit arrives and makes for an intense battle.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01005D700A2F8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6201a5097cdf6ce4838c316c4051fa62d414300783e2c3808e9dc7127691118e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T18:51:52.133",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-08T10:24:23.446",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "b2c07a8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

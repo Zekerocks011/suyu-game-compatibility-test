@@ -1,0 +1,118 @@
+{
+  "name": "Puyo Puyo™ Tetris® 2",
+  "description": "Japan’s beloved puzzle game series Puyo Puyo and the world-renowned Tetris® game franchise have teamed up again to deliver even more Puyo-popping and Tetrimino-clearing fun in Puyo Puyo Tetris 2. Playing is easy: match 4 or more same-colored Puyos or complete a line of blocks to clear them from your board and dump Garbage into your opponent’s game. But keep an eye on what’s coming your way too.\n\nPlay traditional Puyo Puyo and Tetris…or mix them together to level up your game. Offline or online, you’ll have loads of modes that let you play the way you want from single-player Adventure to couch-competition Versus to ranked Online matches, and more.\n\n• Brand-new Skill Battle introduces character-based skills that can quickly turn the tables on a match, plus item cards to power up your team\n• Vibrant characters and an all-new story adventure add dimension to addictive arcade puzzle play\n• Improved Online mode offers competition in game-specific leagues and Free Play for up to 4\n• Challenge modes including endless Tetris and Puyo Puyo add still more variety to solo and online play",
+  "titleId": "010038E011940000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/03337cb7e5eacd98b794dd8a15c66e7d66c0a34185290d9f0eb173bb989e9f26.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-30T02:16:46.172",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Juan_Benites",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-05T20:26:28.139",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "0f58978",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "HauruI",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-22T20:14:35.45",
+      "cpu": "Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "9nOOm",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-03T19:08:35.26",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1650 with Max-Q Design",
+      "version": "6ee10f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-17T01:04:13.473",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-30T02:16:12.127",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T14:24:50.056",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-29T21:11:43.429",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "758433f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-11T01:23:29.296",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "e8c06f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NayToon",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-21T05:08:03.1",
+      "cpu": "AMD Ryzen 5 2400G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1660/PCIe/SSE2",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

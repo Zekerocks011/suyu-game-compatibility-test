@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO REAL BOUT FATAL FURY",
+  "description": "“REAL BOUT FATAL FURY” is a fighting game released by SNK in 1995.\n\nUsing the previous system as a base, isolating the Sweep Button, the inclusion of Combination Attacks, and other elements such as ring outs make for an even speedier and tempo-based play style. Sixteen fighters battle it out to see who is the strongest.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010030F008730000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9a983b7fea623eaab3ebc1ebabc2d039945e180f766249ad6da33e35cdecc860.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T22:56:00.994",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

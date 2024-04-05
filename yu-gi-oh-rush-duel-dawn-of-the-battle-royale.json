@@ -1,0 +1,19 @@
+{
+  "name": "Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!!",
+  "description": "Summon powerful monsters left and right. Turn the tide with countless draws. Rush Duels aren’t over until the very last card is played!\n\n• A dynamic new way to play Yu-Gi-Oh! featuring new cards, mechanics and monsters\n• Collect cards, build up your deck and become a RUSH DUEL champion!\n• Take on a single-player campaign featuring an original Yu-Gi-Oh! story\n• Battle against friends and challengers in thrilling two-player Duels\n• Face off against Duelists in local play or online play – it’s time to RUSH DUEL!",
+  "titleId": "0100261015BE2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9472cac349f5ead3aca928e8b914c3466eff4c896f9b2b14d436926eaa16d7b2.jpg",
+  "tests": [
+    {
+      "tester": "AeroRaiser",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-15T01:39:54.066",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "bc7083d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

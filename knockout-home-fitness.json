@@ -1,0 +1,19 @@
+{
+  "name": "Knockout Home Fitness",
+  "description": "Grab a Joy-Con™ in each hand and get ready to achieve great results with martial arts workouts developed specifically for the Nintendo Switch™. Knock out inactivity with short and intense calorie-burning exercises using punches, elbows, knees, kicks, and more to get a full body workout in half the time!\n\n- Real Full Body Fitness At Home with Martial Arts!\nGet fit at home with intense, calorie-burning exercises based on boxing, karate, kung-fu, and Muay Thai.\n\n- Complete Intense Daily Workouts in about 15 Minutes\nFrom Personal Training Mode, where a routine is pre-programed for you, to 3-Minute Fitness Mode, where you can select specific high-intensity workouts, there are modes to match any lifestyle or schedule.\n\n- Check Your Progress With “My Report”\nFocus on results with the sleek My Report function to review your calendar, see how often and how long you exercised, and learn your total number of burned calories and completed actions all in one place.\n\n- Four Personal Trainers Are Here For You!\nA colorful cast of 4 personal trainers, ranging from friendly to strict, will guide you through personalized workout programs designed to help you meet your individual goals and offer something new each day.\n",
+  "titleId": "0100A1B0149E4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/05961eea64ee3c78c16a2979018e6d73eabdcd59d89a52c766e1021cab609a99.jpg",
+  "tests": [
+    {
+      "tester": "Perseonn_Balthasaar",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-21T10:54:59.277",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 970",
+      "version": "70bdaca",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

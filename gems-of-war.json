@@ -1,0 +1,19 @@
+{
+  "name": "Gems of War",
+  "description": "From the creators of Puzzle Quest comes the ultimate evolution of the Puzzle-RPG-Strategy mashup, Gems of War! Match gems and skulls to turn the tide of battle, build your team of heroes and conquer mighty kingdoms!\n\nImmerse yourself in a world of adventure as you collect heroes from across the realm and battle foes with the power of the puzzle board. Match gems and skulls to build up mana and crush your enemies! \n\nFeatures:\n\nPuzzle-RPG - Dive into a world filled with hundreds of puzzles, deep RPG gameplay and tactical puzzle strategy\n\nLevel Up Your Troops - Collect and level-up over 300 different troops and unlock spells to attack your enemies\n\nGain Extra Loot in Mini Games - Earn bounties and treasures for your hero in various side activities, each with their own unique rewards\n\nConquer New Realms - Unlock the Krystara & Underworld maps with over 30 Kingdoms and 350 Quests to complete\n\nComplete Weekly Events - Engage in dynamic live events for never ending puzzle action\n\nCollect Daily Bonuses - Login daily to collect free bonus rewards\n\nDominate the Competition - Battle in asynchronous PvP and rise up the global ranks\n\n===================\n\nPrepare to conquer the all-new Underspire dungeons with new “Shiny” troops as you explore the latest update in Gems of War! \n\nWhat’s New\n\nIntroducing: Shiny Troops\nWe’re excited to present an all-new Troop upgrade system! Collect “Lore Tokens” to upgrade your favorite Troops into “Shiny” versions which will boost their spells and give them a brand new look!\n\nExplore the Underspire\nUncover the hidden mysteries in the giant dungeon under all of Krystara!. Players will spawn in a random room and will explore while completing difficult encounters and defeating dangerous enemies to collect “Keystones” to unlock the Boss room. Vanquish the featured adversary to take home extravagant rewards! \n\nBrand-New Deep Shrine\nThe “Deep Shrine” is a multi-tiered version of the current Shrines. Adventurers can earn collectibles across all activities to power up the shrine. Dive into the Underspire to help earn the max payout! \n\nFor more info or support, please visit the forums at community.gemsofwar.com",
+  "titleId": "0100BD800986E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0c632eb80b975e28d25c289e8dfcccd1d0d487b34dcbbaea21f25dff4c4dcc28.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-23T05:52:18.849",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

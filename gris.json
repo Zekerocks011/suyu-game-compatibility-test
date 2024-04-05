@@ -1,0 +1,74 @@
+{
+  "name": "GRIS",
+  "description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality. As the story unfolds, Gris will grow emotionally and see her world in a different way, revealing new paths to explore using her new abilities.\n\nGRIS is a serene and evocative experience, free of danger, frustration or death. Players will explore a meticulous designed world brought to life with delicate art, detailed animation, and an elegant original score. Through the game light puzzles, platforming sequences, and optional skill-based challenges will reveal themselves as more of Gris’s world becomes accessible.",
+  "titleId": "0100E1700C31C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e0a00d9b48ea1bb0d169e8ca07807488c7cd189bce19e00508fa78614bf4ecd6.jpg",
+  "tests": [
+    {
+      "tester": "szambek123",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-26T16:17:18.889",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GT 1030/PCIe/SSE2",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-01-18T16:08:06.721",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "d856337",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-29T15:36:59.803",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "3c891d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-12T10:05:07.202",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "52b781f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-24T18:49:27.952",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "73e8379",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Tulio_Santos1",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-29T15:37:10.277",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "3c891d8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

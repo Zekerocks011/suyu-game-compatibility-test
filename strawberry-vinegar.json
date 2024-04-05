@@ -1,0 +1,19 @@
+{
+  "name": "Strawberry Vinegar",
+  "description": "Sakuraba Rie, aged nine, is a cynical and grumpy girl who cares little for her fellow classmates, and does not have a single friend.\n\nThat is, until a self-proclaimed demon from the deepest, darkest pits of Hell suddenly appears in Rie's kitchen and steals a tray of cookies.\n\nWhat will happen between these two young girls? Will friendship blossom between them, or perhaps something more?\n\nFeatures:\n * Succulent, mouth-watering art of food\n * 80,000 words long with 6 different endings\n * A unique tale of friendship between a young girl and a demon\n * Updated blinking sprites and UI",
+  "titleId": "0100D7E011C64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/52ab66c1ddda4d64aba7334dad841d77e3b97dd422dd841f56b76e0f36b33669.jpg",
+  "tests": [
+    {
+      "tester": "Guyonthecouch_phd",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-30T04:06:45.586",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700",
+      "version": "06c2636",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

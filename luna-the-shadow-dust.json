@@ -1,0 +1,30 @@
+{
+  "name": "LUNA The Shadow Dust",
+  "description": "Inspired by the old adventure games, LUNA The Shadow Dust is a moving tale of two playable companions drawn together in a hand-animated puzzle adventure, featuring a breathtaking original soundtrack and beautiful 2D cinematics.\nTo light a candle is to cast a shadow.\nBehind the shadow of reality, an enchanted world awaits illumination. Experience the magical journey of a young boy and his companion as they solve puzzles and trace back the memories of old, brought to life with visually stunning, wordless cinematics. Enter the ancient tower that stands at the edge of the world and discover the hand-drawn cinematics, intricate puzzles and haunting music of this indie gem.",
+  "titleId": "0100B950129DC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/10eddefd0946403b27f683a104464fa83c126e4d9e5fa93fa606681248aae0fd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-12T12:05:53.043",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "ede9c47",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-26T20:37:10.842",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

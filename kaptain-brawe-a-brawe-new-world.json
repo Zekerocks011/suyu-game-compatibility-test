@@ -1,0 +1,19 @@
+{
+  "name": "Kaptain Brawe: A Brawe New World",
+  "description": "Step into the world of interstellar travel, where Space Pirates lurk at every corner. Kaptain Brawe, a Space Police officer will embark on a journey filled with quests, conspiracies and general chaos, as he and his friends follow the lead of two kidnapped alien scientists.\n\n- reveal the greatest conspiracy in the Space Age\n- travel and explore 4 planets\n- play with 3 different characters: Brawe, Luna and Danny\n- be a part of an intriguing and hilarious storyline\n- meet the space pirates, Interstellar government, secret agents and more\n- two game-play modes: Hard-Core and Casual",
+  "titleId": "0100B53013236000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/da3010b327abcd3bcb2ec278bd828a7d5b6b81e714557eec505ac4aa9489080e.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-26T17:27:06.758",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

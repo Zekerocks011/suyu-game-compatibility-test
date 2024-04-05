@@ -1,0 +1,19 @@
+{
+  "name": "Disaster Report 4: Summer Memories",
+  "description": "In the shadow of a massive earthquake, you must brave a destroyed city where your choices will determine who survives.\n",
+  "titleId": "010020700E2A2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/053a39ac864513f0000469b898a86925bf8adba28dbb7bf07e40ad6ee12d6d8d.jpg",
+  "tests": [
+    {
+      "tester": "MarcoEstevez",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-10T13:29:46.714",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

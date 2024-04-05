@@ -1,0 +1,19 @@
+{
+  "name": "Frederic 2: Evil Strikes Back",
+  "description": "Defeat famous opponents in musical duels. Immense yourself in fantastic story of Frederic's endeavors. Catch all the Easter Eggs and subtle parodies hidden in the background. Practice your skills until perfection and become the Master of the Piano.\n\nThe world of music is once again threatened. The art of soulful music, the kind that touches your heart, is in grave danger of disappearance. The evil forces that you fought so bravely are back! And they are even more powerful and desperate. Once again you'll need to step into Frederic Chopin's shoes and face opponents that have only one agenda - to enslave the musical world, mass produce soulless artists with their same-sounding radio hits, and reap enormous profits, hindering any creativity in the process. \n\n10 challenging musical duels with some of the most renown pop stars\n10 fantastic, catchy tracks, inspired by Frederic Chopin's composition and different music genres.\nQuirky story with tons of parody and twists\nExtremely easy to get to, but hard to master gameplay\nHand-painted animated comic",
+  "titleId": "01000490067AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/47d3434aeabc489131b19d077f4015618aa6cc5e78962916f7b64727245800f1.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-01T21:34:13.773",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Aokana - Four Rhythms Across the Blue",
+  "description": "Welcome to a world where people fly freely through the power of anti-gravity shoes. Become a coach for players who race in the sky and make the acquaintance of four charismatic girls. Follow their adventures as you all grow closer in this emotional story of hope, love and sportsmanship.\n\n- Engage in an enticing story about sportsmanship and team spirit amongst a group of friends!\n\n- Develop a romantic relationship with Asuka, Mashiro, Rika and Misaki; four spirited girls who may very well fall in love with you \n\n- Delve into a visual novel with gorgeous visuals, polished animations and fully voiced heroines\n\n- Explore four different routes and endings reflected by your choices made during the story\n\n- Create your own illustrations thanks to a sprite viewer that will let you place characters in various outfits in front of different backgrounds\n\n- Listen to the soundtrack on the go with an integrated music player as you browse a gallery with over 170 illustrations",
+  "titleId": "0100990011866000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fe835f1581a960687089d16733c19d4a79b4705fed2ca46cbf2f536c77bf9853.jpg",
+  "tests": [
+    {
+      "tester": "TomWolk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-14T06:04:40.111",
+      "cpu": "AMD Athlon(tm) X4 845 Quad Core Processor      ",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7ea3550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T13:28:39.677",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-21T20:01:04.391",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

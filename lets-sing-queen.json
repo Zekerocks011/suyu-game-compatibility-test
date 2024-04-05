@@ -1,0 +1,19 @@
+{
+  "name": "Let's Sing Queen",
+  "description": "Sing alone or share the stage with your friends in compelling game modes while you follow in the footsteps of Queen, the biggest rock band ever, with the legendary lead singer Freddie Mercury.\n\nLet their music take you on a trip through different decades. Master “Bohemian Rhapsody”, challenge your friends to a “Bicycle Race” or rock out to hits like “We Will Rock You”, “Another One Bites The Dust”, “I Want To Break Free” and “We Are The Champions”.\n\n- Strong playlist with 30 of Queen’s greatest hits and original music videos\n- Sing solo or with up to eight players\n- Six exciting game modes: 'Classic', 'Mixtape 2.0','feat.’, ‘Jukebox’, ‘World Contest’ and ‘Let’s Party’\n- Climb the online leaderboard and battle it out against people around the world!\n- No Microphone No Problem! Use your phone as microphone with the Let's Sing app!",
+  "titleId": "01003CE011A86000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf52ce64441d48305d96637557de123fb1c6bd73d2b0eff9c0f435fe6ac817db.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-23T12:16:15.472",
+      "cpu": "AMD Ryzen 9 5950X 16-Core Processor            ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "66981d7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

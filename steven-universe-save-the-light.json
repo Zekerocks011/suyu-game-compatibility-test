@@ -1,0 +1,41 @@
+{
+  "name": "Steven Universe: Save the Light",
+  "description": "Join the Crystal Gems on the ultimate quest! A mysterious new Gem has stolen a powerful weapon. Only Steven and his friends have what it takes to stop her. “Save the Light” is a unique RPG hybrid that combines real-time and turn-based combat.\n\n7 PLAYABLE CHARACTERS\nCompletely customize your party. Fight an army of light as Steven, Garnet, Pearl, Amethyst, Connie, Greg, and Peridot! Bust out unique abilities to solve puzzles and battle the bad guys.\n\nA NEW GEM\nFace off against an all-new Homeworld Gem created by Rebecca Sugar. Who is this powerful warrior and what’s she doing back on Earth?\n\nFUSIONS\nTeam up for incredible combo moves and Gem Fusions! Fuse to play as Stevonnie, Smoky Quartz, Opal, Sardonyx, and Sugilite!\n\nBEACH CITY AND BEYOND\nExplore and interact with expansive 3D environments. Travel to ancient Gem locations all over the world, including Strawberry Battlefield, The Great North, and Bismuth's Forge. \n\nORIGINAL VO\n“Save the Light” features an original story co-written by Rebecca Sugar, and voices from the Steven Universe cast and special guest star Christine Baranski.",
+  "titleId": "010008C00B2F2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/50c4613febb3dc9b1ab7b41d7b7aa5a918785e38c515fc6c4339407e6d26a361.jpg",
+  "tests": [
+    {
+      "tester": "Rivalus",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-31T03:02:01.158",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "452ea3a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-22T04:10:17.651",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "5f43714",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-21T05:49:31.833",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "49248d7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Team Sonic Racing",
+  "description": "Team Sonic Racing combines the best elements of arcade and fast-paced competitive style racing. Face-off with friends in intense multiplayer racing, race together across stunning worlds and work together as a team by sharing power-ups and speed boosts. Take control of your racing style - Choose from 3 distinct character types and unlock game changing vehicle customization options to suit your racing style. \nGear Up. Speed Up. – Team Racing at Sonic Speed!\n",
+  "titleId": "010092B0091D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/66d607c006f265a18492c9959284b6acb69b9cdb19d209b0b42e0e976abbc5b5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-15T16:10:07.111",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-15T16:09:59.078",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "68aaf6f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-27T18:16:47.087",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "GeForce MX110/PCIe/SSE2",
+      "version": "d6f4f7d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-18T23:01:18.596",
+      "cpu": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 850M/PCIe/SSE2",
+      "version": "0cd9130",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Moonlacer386",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-11T01:18:36.341",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "b21ab6a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-10-31T07:23:41.722",
+      "cpu": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+      "gpu": "Intel(R) UHD Graphics 620",
+      "version": "66f249d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-22T17:58:18.826",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-10-01T03:39:15.777",
+      "cpu": "Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz",
+      "gpu": "GeForce GTX 850M/PCIe/SSE2",
+      "version": "7b0a8a8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

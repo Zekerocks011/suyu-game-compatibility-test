@@ -1,0 +1,118 @@
+{
+  "name": "KINGDOM HEARTS Melody of Memory",
+  "description": "Play as famililar faces from the KINGDOM HEARTS series, including Disney guest characters who will appear to lend you a hand. \n\nEnjoy a massive variety of music from both the KINGDOM HEARTS series and Disney, with a collection of over 140 songs. Dive into rhythm-action gameplay with memorable tunes in this can't-miss musical journey!",
+  "titleId": "01005D2011EA8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d06db81cf5588721d79fe8d094e6963df587555e9858f0c8c7d448d3049ad280.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-28T20:57:25.827",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "41b7dcf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-20T23:31:38.117",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "99a8634",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-01T05:45:40.884",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "bb06235",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "IronPasta",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-22T19:07:10.941",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "38d5741",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MOHAMMAD_MAHDI_MOHAM",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-16T05:29:16.488",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "Intel(R) HD Graphics 530",
+      "version": "4ca283e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-22T05:25:30.463",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-21T22:46:23.341",
+      "cpu": "       Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "f992b04",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-25T18:18:42.878",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "7b6ef79",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Endergamer45_E",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-10T12:43:26.757",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "c5777ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-03T21:22:43.681",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "8e70bf1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

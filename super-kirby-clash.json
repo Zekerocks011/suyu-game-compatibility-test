@@ -1,0 +1,118 @@
+{
+  "name": "Super Kirby Clash",
+  "description": "To defeat bosses this wicked, it’ll take a whole team of Kirbys! In this free-to-start multiplayer* action game, you can choose from four unique Roles and join up to three other players to take down tough bosses. Puff up your power by crafting weapons and spending materials at the shop to receive even MORE weapons, not to mention armor and items. Pass a Joy-Con™ controller to a friend to play locally, and if you have a Nintendo Switch Online membership, you can even play online**!\nAre you a Sword Hero? Hammer Lord? Beam Mage? Or Doctor Healmore?! No matter what, each mighty role offers up a unique way to play. Story Quest lets players team-up locally* by sharing Joy-Con controllers, while Party Quest enables users to play together on one system, via local wireless, or online**. Plus, tapping compatible amiibo™ figures/accessories  *** will earn you extra fragments to help craft new   gear! Are you ready? For Kirby, the answer is always fight and flight.",
+  "titleId": "01003FB00C5A8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a543364f5878003e7b3057a3c697ab6eb4af2e7e498f442064cfefe45a4f1e0e.jpg",
+  "tests": [
+    {
+      "tester": "Luqmaan_Ismail",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-09T11:06:29.328",
+      "cpu": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "175fe9c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticExile",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-05T16:03:11.476",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jcbyn",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-12T09:20:05.962",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "f764d1e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "latrell_llana",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-08T17:09:44.384",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "42a5c1a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-15T15:25:33.481",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "2a2e03c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-05T14:28:37.835",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-06T18:15:59.214",
+      "cpu": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "bd4bc83",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-06-02T17:29:48.768",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ItsMeMeliodas",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-03T16:40:34.83",
+      "cpu": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1050/PCIe/SSE2",
+      "version": "1804b72",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-05T14:28:31.108",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "da2f084",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

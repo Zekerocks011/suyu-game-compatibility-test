@@ -1,0 +1,52 @@
+{
+  "name": "I Am Setsuna",
+  "description": "I AM SETSUNA introduces the authentic JRPG style of yesteryear to Nintendo Switch™! Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.\n\nAn emotionally impactful story which immerses players in the narrative of Setsuna, whose story portrays heartrending sorrow\nA new battle system inspired by the timeless JRPG classic, Chrono Trigger\nA great homage to JRPG masterpieces of yesteryear, beautiful character designs and varied in-game locales evoke nostalgia for classic RPGs",
+  "titleId": "0100849000BDA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9a40f3674fd0e36445ee4958093c6ed9b972e6428049152decde822af9b0cf05.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-11-14T14:27:09.467",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "bf6ebec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T19:21:54.194",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "8cd5dc3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-24T19:38:39.013",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-12-08T17:43:49.32",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1070 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

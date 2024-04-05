@@ -1,0 +1,52 @@
+{
+  "name": "Guacamelee! 2",
+  "description": "Luchador Juan Aguacate is out of retirement for a stunning new Metroidvania-style adventure. Explore a huge, hand-crafted world inspired by Mexican culture and folklore, filled with sassy new villains and weirdos (and a few old friends!). Learn bone-crunching wrestling moves to fend off skeletal hordes and overcome skillful platforming challenges... and who said anything about a Chicken Illuminati? Certainly not us!\n\nCheck out these features:\n\n- Drop-in 4-player local co-op for you and your best amigos!\n- New upgrade system: discover “trainers” around the world to learn new skill sets for movement, combat, and more!\n- All new areas. Explore from the Mangrove Swamp to Hell itself! \n- Double the enemy types of the original, and a roster of eccentric new bosses!\n- Electro-Mexican soundtrack, and more gorgeous visuals thanks to a fancy new rendering engine!\n- Definitely no secret society of chickens that teaches you ancient chicken abilities!",
+  "titleId": "01007E100456C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7d816cd5cd4b7492dabd41eaed5a24e95dcb0d0447861c7fe9221aa6879f3b36.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-30T16:43:15.575",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "ae1bd98",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-30T03:08:26.603",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "081b0b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-31T06:32:10.227",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+      "version": "563632e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T10:26:28.22",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO",
+  "description": "The latest game in the Ultimate Ninja Storm series is finally here for Nintendo Switch™! It features all DLC, including the latest \"NEXT GENERATIONS\" DLC Update Pack. Relive the Fourth Great Ninja War that unfolded in Naruto Shippuden, and experience the story of Boruto: Naruto the Movie featuring Naruto's son, Boruto Uzumaki. Plus, choose from 124 ninja—the most in the series! Join in action-packed battles, whenever and wherever you want!",
+  "titleId": "010084D00CF5E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ee80284287bad2aad8bd8693a585bd3bbdbfc6e1c059ba5d390d9d668e1d250c.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:21:16.795",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

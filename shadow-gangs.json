@@ -1,0 +1,52 @@
+{
+  "name": "Shadow Gangs",
+  "description": "Shadow Gangs is an arcade style ninja action game.\n\nThe graphics are HD hand drawn and traditional style animated.\n\nThe soundtrack was made by a lead guitarist over a 5 years period.\n\nYou play the role of Dan the current ninja order master.\n\nYour mission is to rescue your family from the Shadow Force crime organisation, whose members are known as the Shadow Gangs.\n\nUse your ninja transformation ability and your special powers.\n\nVenture over 10 levels, defeat the 6 bosses, save your family and defeat the Shadow Gangs.\n\nLive The Legend Of Dan The Crimson Ninja!",
+  "titleId": "0100BE501382A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4a5c0e36f824d8facf862ad1437cad9bdde33c9f207151220d70f1e7ff5c3508.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-22T05:13:05.249",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-06-22T00:14:14.774",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "45d9504",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-16T15:09:44.12",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "386d0b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-22T05:12:13.193",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

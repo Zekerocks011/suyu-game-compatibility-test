@@ -1,0 +1,52 @@
+{
+  "name": "Yomawari: The Long Night Collection",
+  "description": "Traverse the haunting world of Yomawari: Night Alone as a young girl searches for her sister, or share in the terror facing schoolgirls Yui and Haru in Yomawari: Midnight Shadows. Uncover the mysteries plaguing a rural Japanese town, hide from the things lurking in the night, and maybe get home alive...",
+  "titleId": "010012F00B6F2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/41f204a6b27ad34c4c61f0c949e0032b38a154c95068b7d357161437699825be.jpg",
+  "tests": [
+    {
+      "tester": "matamocos",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-18T02:04:10.155",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-16T05:30:38.234",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1e0c683",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "matamocos",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-01-05T03:00:53.678",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "76be0ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Salteador_Nema",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-04T13:19:06.758",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "e4d13c0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

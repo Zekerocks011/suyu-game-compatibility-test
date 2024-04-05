@@ -1,0 +1,19 @@
+{
+  "name": "Mulaka",
+  "description": "Dive into northern Mexico's breathtaking landscapes with Mulaka, a 3D action-adventure game based on the rich indigenous culture of the Tarahumara. Renowned for their impressive running abilities, embark on the journey of a Sukurúame - a Tarahumara shaman - as you fight back the foulness corrupting the land, while drawing upon the powers of demigods. From solving puzzles in environments inspired by real Sierra Tarahumara locations, to heated hand-to-hand combat with creatures pulled from the region’s mythology, find out why the Tarahumara have earned a reputation for being superhumans.",
+  "titleId": "0100211005E94000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/aa6177c5744cc6d46c16fac930b95e379f9842f22dcc5f01ad1a8504a4c3b276.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-25T01:22:07.712",
+      "cpu": "Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz",
+      "gpu": "GeForce GTX 750/PCIe/SSE2",
+      "version": "37b70d0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "DRAGON QUEST III: The Seeds of Salvation",
+  "description": "The ground-breaking RPG from 1988 comes to Nintendo Switch with updated controls. Can you succeed where your father failed and vanquish the barbaric Baramos?\n\nNow all three installments of the Erdrick Trilogy can be played on Nintendo Switch!\nEvery wondrous weapon, spectacular spell and awesome adversary in this rich fantasy world is yours to discover.\n\n■ Story\n\nOn the morning of your sixteenth birthday, you are charged with a seemingly impossible task by the King himself: to assume the mantle of your father Ortega, hero of the land of Aliahan, and slay the Archfiend Baramos, master of darkness! What trials await you, intrepid hero, as you set out on a quest not even your legendary father was strong enough to complete?\n\n■ Game Features\n\n- Customisable Party System.\nSet out on an adventure with a party of up to four characters who can be customised to your specifications at Patty’s Party Planning Place: choose names, genders and jobs.\n\n- Changeable Vocations\nAssign your party member any of up to 9 vocations, a choice which will dictate their stats, equipment, spells and abilities.\nThough the hero’s role has been decided by fate, the jobs of all the other characters are yours to change as you see fit.\n\n- Embark on an epic RPG adventure with over 30 hours of gameplay with added features to the original release!\nTravel across multiple continents and dungeons as you level up your characters and unlock new spells and abilities. \nObserve how the personality system changes how your character grows, making your party always unique. \nHave fun with mini-games like medal collecting to unlock powerful new items that were not available in the original release. \nDiscover and explore bonus dungeons and location after completing the main plot.\n\nExperience the multi-million selling series, beloved both in Japan and beyond, and see how the masterful talents of series creator Yuji Horii, combined with the revolutionary synthesizer sounds of Koichi Sugiyama and the wildly popular manga illustrations of Akira Toriyama to create a gaming sensation.",
+  "titleId": "010015600EFB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9e20e9e5da8fbbd9eccba8596975c12bc1bcee044c98d869da376c93c4f7fe54.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-04T20:34:37.392",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "259f709",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Timmy_P",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-23T15:47:59.63",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "0b72653",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-29T18:33:19.983",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "4c88f32",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-24T06:21:43.524",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "lori19981",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-25T09:21:09.684",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "GeForce GT 740/PCIe/SSE2",
+      "version": "39bc457",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-09-27T11:58:01.129",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bf1adf6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-12T08:04:34.654",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "52b781f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

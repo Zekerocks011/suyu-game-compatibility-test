@@ -1,0 +1,30 @@
+{
+  "name": "SNK GALS' FIGHTERS",
+  "description": "SNK's wonderous heroines duke it out for a shot to be crowned the QUEEN OF FIGHTERS! This lighthearted story with comical interactions will keep you\ncoming back for more!\n\n●The roster boasts a total of 11 fighters, including three hidden characters!\nOne of them looks awfully familiar…\n\n●Includes Training Mode, which is essential if you wish to reach the top!\n\n●Take on a buddy in Tabletop or Handheld Mode! Find out who has what it takes to become the QUEEN OF FIGHTERS!",
+  "titleId": "01007EE011116000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/74fde279faee5311f8700a0a6f2c7e0be83921e8cf886cf912bac64e9701f196.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-02T16:41:31.907",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "ecda6c7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "crazyandy316945",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-08T06:39:17.836",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "GeForce GTX 970",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

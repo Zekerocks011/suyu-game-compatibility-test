@@ -1,0 +1,19 @@
+{
+  "name": "Legend of the Skyfish",
+  "description": "Legend of the Skyfish is a beautiful level-based adventure puzzler with a unique weapon and tool - a fishing pole!\n\nFollow the intrepid Little Red Hook on her journey with the Moonwhale to defeat the monstrous Skyfish.\n\nUse your fishing pole as a weapon or a grappling hook, and upgrade it as you go.\n\nLegend of the Skyfish features beautiful hand-painted art, intricate action puzzles and unique enemies. Explore a huge world of 45 handcrafted levels and defeat giant bosses.\n\nFeatures:\n\n- Unique fishing/grappling hook mechanics\n- Gorgeous hand-painted environments and creatures\n- Original music score by Sean Beeson\n- 45 handcrafted levels\n- Epic boss fights\n- Various puzzles to solve",
+  "titleId": "0100ECC00EF3C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e2ffde1e170d5bfb836ffd6718b51e43a661c875f3688d0cc8d4c85e6d3082d6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-21T16:32:13.919",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

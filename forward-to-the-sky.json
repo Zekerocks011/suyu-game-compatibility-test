@@ -1,0 +1,19 @@
+{
+  "name": "Forward To The Sky",
+  "description": "This fun action adventure adventure game is full of puzzles.\n\nTo defeat the legendary witch and become a hero, the princess must ride a hot air balloon into the sky tower. The tower's lore states that collecting the crystals will uncover the tower's history and reveal the witch's lair. The princess, a tomboy despised as a nuisance, fights through the tower and the monsters that fill it with her huge sword to get back at those around her.\n\n・Includes Japanese and English audio\n・Has three difficulty levels: normal, easy, and hard\n・In addition to the game itself, it includes a monster wave game and a tower run game, where you run through the tower to collect crystals",
+  "titleId": "0100DBA011136000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cf0b8a1fd7dd154e158e81c981ff6069b27bc38d3cacdfd61a688459aa85fe38.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-28T01:42:02.084",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "1681c71",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Blazing Chrome",
+  "description": "In Blazing Chrome, machines rule the world and the few humans left are on the edge of total extermination, lacking power, prestige or status among their metal and circuits overlords. Bring your best pal and kick some metal butts to free the humankind while enjoying a classic run’n’gun, fully loaded with action and exciting fights! \n\nDash through 5 apocalyptic environments with hundred of robots-enemies to blow to pieces. Blast your way through the enemy lines and and try to defeat a bunch of mechanical bosses with using hoverbikes, huge armors and a whole arsenal of kick-ass weapons. \n\nBlazing Chrome offers a lot of features in the legacy of classic run’n’gun \n- Co-op gameplay\n- Classic fast-paced run-and-gun experience\n- Genuine arcade feel\n- Epic boss battles and crazy lot minibosses fights",
+  "titleId": "0100C2700C252000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7c04ccd34888a491ee4752025be15d14dcd541e5965243256f4dd2a1cd310931.jpg",
+  "tests": [
+    {
+      "tester": "ReiKatari",
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-22T19:33:06.127",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ReiKatari",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-06-10T17:26:12.368",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1080 Ti",
+      "version": "43c6645",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T06:55:15.576",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-07-12T02:57:23.771",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "e3c1576",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:35:52.292",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-06T10:49:33.741",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-22T19:35:41.298",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "4e67443",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-09T00:35:06.962",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "dde4d0b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-18T18:05:40.425",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "38fe0a1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

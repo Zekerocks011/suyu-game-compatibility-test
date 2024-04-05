@@ -1,0 +1,19 @@
+{
+  "name": "GUNBIRD for Nintendo Switch",
+  "description": "Who called “GUNBIRD (Adventurer of the sky)”.\n\nIn the 19th century Europe, five GUNBIRDs are challenging. They keep each wish to themselves and collect “A magic mirror of Atra”. Finally, whose wish will be granted with the power of mirror? It depends on your playing skill…\n\nAll players can enjoy 1st round and senior player will be satisfied with 2nd round too.\n\nTHIS IS THE “Psikyo’s GUNBIRD”!\nLet’s say “GUNBIRD”!",
+  "titleId": "01003C6008940000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a4147d5d17590876d00bd3c32b0a43c50ecd0c803fbf72b660a6ed586b64d0eb.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-01T16:51:04.038",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6770ef3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

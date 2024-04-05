@@ -1,0 +1,30 @@
+{
+  "name": "Morphies Law",
+  "description": "Morphies Law is a 3rd person 3D shooter where you can steal mass from other players making them shrink while you grow, which balances the game. Size affects everything! what you can do, how you can navigate the different maps, how to play each gamemode and more. Customize your Morphie, choose your weapons and go steal some mass!",
+  "titleId": "01005DA003E6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/95819db75ad0355cd2dffeca08641bf431477a13f0667ff0b1c854852e937f10.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T17:57:04.478",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mimimax",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-08-12T22:23:57.924",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

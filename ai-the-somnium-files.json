@@ -1,0 +1,19 @@
+{
+  "name": "AI: THE SOMNIUM FILES",
+  "description": "In a near-future Tokyo, Special Agent Kaname Date is on the case of a mysterious serial killer. Date must investigate crime scenes as well as dreams on the hunt for clues.",
+  "titleId": "010089B00D09C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/21e9196d1fd5e5d25b5eb9b348cdcd4c555315715b4dbf0b86f69f3305459797.jpg",
+  "tests": [
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-24T02:29:31.479",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

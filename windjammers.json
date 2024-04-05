@@ -1,0 +1,41 @@
+{
+  "name": "Windjammers",
+  "description": "Windjammers is a fast-paced head-to-head arcade game where two players face off on a court, and throw discs at the opponent's goal zone to score points. Incredibly fun and intensely addictive, Windjammers is the adrenaline rush you’re looking for!\n\n● 5 game modes: ARCADE, INFINITE, LOCAL VERSUS, ONLINE QUICK MATCH, & RANKED MATCH\n● Online Versus: for the first time ever, face other players worldwide in ranked matches and compete in the top leagues!\n● 6 unique characters \n● 6 playable environments\n● 2 unlockable mini-games: Dog Distance & Bowling\n● New HD menus\n\nOriginally released on the NEOGEO system, Windjammers perfectly blends sports and fighting games. Sharpen your throwing and sliding skills, use the best techniques to defeat your opponents, and become the world’s best player!",
+  "titleId": "010048800B638000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/11fac0955b7ee0b39ce96dec02ba1d9a3cb5657136b6b3854d884f1438d880d5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-13T12:15:11.41",
+      "cpu": "Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "17a7442",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-23T14:10:57.69",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "fefdfd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-05T02:19:02.087",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "1bf7482",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

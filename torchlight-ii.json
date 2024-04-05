@@ -1,0 +1,41 @@
+{
+  "name": "Torchlight II",
+  "description": "Play Torchlight II and receive an exclusive pet Unicorn.\n\nTorchlight II takes you back into the quirky, fast-paced world of bloodthirsty monsters, bountiful treasures, and sinister secrets - and, once again, the fate of the world is in your hands.\n\nTorchlight II is fast, fun, and filled to the brim with action and loot. Adventure solo or form a party online with your friends.\n\nAction-Packed Multiplayer\nPlay co-op with up to 4 players online. Experiment with hero synergies and take on the fiercest opponents together, for the world’s most awesome loot.\n\nCustomizable Characters\nCreate and customize characters from one of four distinct classes. Each class can be played as male or female, and robust skillsets and equipment variety give tons of opportunity for unique builds.\n\nOpen, Dynamic World\nExplore vast overland areas and multiple hub towns. Fight through rain and snow, day and night. Level randomization ensures fresh new layouts, paths, loot, and monsters every time you play.\n\nPets and Fishing\nChoose how to empower your pet with special transforming consumables. Your pet can fight by your side or make a run to town to sell loot so you don’t have to.\n\nNew Game Plus\nOnce you've beaten Torchlight II's primary campaign, you can start again with the same character for a significantly greater challenge. You'll keep all of the skills, gold, and gear you worked so hard for.",
+  "titleId": "010090400D366000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/648c4df96c92e2e10cb3e096c78ed42f12f1e991d0c74c2dbcce0402ca470741.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-08-23T07:23:20.387",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "512f7d9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MarcoEstevez",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-21T18:33:13.91",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-05-25T00:20:30.007",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "7be598e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

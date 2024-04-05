@@ -1,0 +1,118 @@
+{
+  "name": "Super Smash Bros. Ultimate",
+  "description": "Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!\n\nHaving trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling—a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers—legendary couch competitions await—or play together anytime, anywhere!",
+  "titleId": "01006A800016E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/08af58551a19df2a73ccb36f720388434a1965776b34675c6f69af3f93280330.jpg",
+  "tests": [
+    {
+      "tester": "Miguel2003",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-14T17:50:24.916",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce 940MX",
+      "version": "83e4e96",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MyNameKevin",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-12T13:41:00.974",
+      "cpu": "        Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c5fcdf0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-05T22:25:11.001",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "Intel(R) UHD Graphics",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Marcobros_1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-15T10:47:10.183",
+      "cpu": "AMD Ryzen 9 5900HX with Radeon Graphics        ",
+      "gpu": "AMD Radeon RX 6800M",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Shane_Thompson",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-10T06:02:38.911",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Maciek_K",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-19T21:32:24.005",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "2759f89",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-09T08:49:19.385",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kappacite",
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-22T21:40:33.44",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Dogmod",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-25T20:33:59.817",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rodrigocofe",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-12T21:33:36.464",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

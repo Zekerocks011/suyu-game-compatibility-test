@@ -1,0 +1,74 @@
+{
+  "name": "Wonder Boy Asha in Monster World",
+  "description": "The adventures of Asha and Pepeloglu begin!\nAsha, the warrior protagonist of the game, is involved in a serious incident that will affect the survival of her world. Our green-haired heroine doesn’t have to save the world all alone, and sets off on an adventure with her cute flying friend, the blue Pepelogoo. Asha and the Pepelogoo have to work together to become the heroes the world needs them to be. The road ahead is long - will they be able to save their world?\n\n■A side-scrolling action game that is light and easy to play.\nThe action is fast and challenging, but the game is tuned for easy retrying, making it easy to try again.\n\n■Call it, grab it, throw it, move it, her blue buddy Pepeloglu.\nJoin forces with your partner to overcome gimmicks and powerful enemies.\n\n■Various action levels\nHigh mountains, volcanoes, ice worlds, the sky...\nLet's run through the various areas with Peperoglu.\n\n■Explore the vastness of the world!\nThe vast world is full of unknown encounters, events, and discoveries. Even if you've cleared a stage once, you might discover something if you visit it again.\n\n■Power up Asha and you'll be ready for the difficulties!\nBy acquiring items and equipment, you can strengthen your attack and defense capabilities.\nGet ready to face the powerful enemies.\nA full remake of \"Monster World IV,\" the action RPG masterpiece released in the 90's, by the staff of the time!\nWe hope you will enjoy the reborn \"Wonder Boy: Asha in Monster World\" with new visuals and sound adjustments.\n\n■Staying true to the series legacy\nFor Wonder Boy - Asha in Monster World, the original staff from the former Westone Bit Entertainment gathered together to create a game that stays true to the spirit of the original games. The team is led, and directed, by the creator of the Wonder Boy series, Ryuichi Nishizawa and supported by Shinichi Sakamoto (sound), Maki Ōzora (character design) and Takanori Kurihara (creative management). You can't get more Wonder Boy than that",
+  "titleId": "0100EB2012E36000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b792207c61d2c91087cee097b457027a97b2eb22189789cea1ae4c73f3e3fd4.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T18:28:35.546",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Abee263",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-22T17:10:03.492",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2",
+      "version": "74e96d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T18:02:17.014",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5c0b784",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Abee263",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-22T17:08:23.856",
+      "cpu": "AMD Ryzen 5 5600H with Radeon Graphics         ",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2",
+      "version": "74e96d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-27T17:04:37.647",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "3cad87b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T16:43:18.912",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "ed980be",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

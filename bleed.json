@@ -1,0 +1,30 @@
+{
+  "name": "Bleed",
+  "description": "Wryn is a girl with a big arsenal and big dreams -- she wants to be the ultimate videogame hero! Help her take down the Greatest Heroes of All Time in an action-packed bid to claim the title for herself and show the world what a true hero looks like!\n\nBleed is an action-platformer focused on stylish, acrobatic dodging and fluid, challenging gameplay. There's no filler -- just you and your skills against seven levels of enemies, obstacles, breakneck set-pieces and inventive bosses!\n\nKey Features:\n• Unique control scheme enabling crazy fast action\n• 7 levels packed with multiple set-pieces and bosses\n• 4 difficulty levels that remix enemy placement and boss patterns\n• 2-player local co-op for all modes (requires at least two Joy-Cons)\n• 3 unlockable characters with their own gameplay twists\n• Survive the entire game on one life in Arcade Mode\n• Select and battle up to three bosses at once in Challenge Mode.\n",
+  "titleId": "010042C006490000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fd750d601a6df20b911f1023c63829c18d611a6415f95f8e61e0213e1e7ff195.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-04-16T15:32:06.342",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-26T22:50:49.593",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

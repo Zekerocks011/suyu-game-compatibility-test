@@ -1,0 +1,19 @@
+{
+  "name": "Grim Fandango Remastered",
+  "description": "Something's rotten in the land of the dead, and you're being played for a sucker. Meet Manny Calavera, travel agent at the Department of Death. He sells luxury packages to souls on their four-year journey to eternal rest. But there's trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his very salvation.\n\nGrim Fandango's epic story of four years in the life (or death) of Manny Calavera, travel agent to the dead, has been remastered to look, sound, and control even better than when it won GameSpot's Game of the Year award upon its original launch.\n\nRemastered version includes:\n\n• Repainted, hi-res character textures\n• New, dynamic lighting\n• Classic score re-recorded with a full live orchestra\n• Over 2 hours of exclusive developer commentary\n• Concept art browser",
+  "titleId": "0100B7900B024000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/542cfcfeb47efd3e094d47fbd370fb3c44a96e4fa49df9c3418ed74e33370b4e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-25T04:21:03.895",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "4a629cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

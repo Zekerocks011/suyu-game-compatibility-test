@@ -1,0 +1,41 @@
+{
+  "name": "Lethal League Blaze",
+  "description": "Lethal League Blaze is an intense, high speed ball game, with unique characters, outta sight sounds and none of that weak shit. In Shine City, the anti-gravity ball game has long been illegal. The group who kept playing was dubbed the Lethal League. Even now, with their sport pushed underground, players and crews compete in the League for challenge and respect.\n\nIn the game, the goal is to beat your opponents with the ball. You can manipulate the ball to get the perfect angle and use your character's special moves to surprise them. But every strike speeds up the ball or even doubles its speed, up to shatteringly extreme velocities. You can tag the ball to your color, but on those high speeds the tables are quickly turned. You can play locally with friends and foes, by yourself in the singleplayer modes or battle it out online!",
+  "titleId": "01003AB00983C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a39eecac21e8471ec6ec9bbd27d6eb36d13fda6b6093dfd8d2e23dacdd9be478.jpg",
+  "tests": [
+    {
+      "tester": "Thomas_S",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-26T11:18:43.398",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "177d1da",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-11T09:32:06.222",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "d294afe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Thomas_S",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-27T10:16:51.331",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "177d1da",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

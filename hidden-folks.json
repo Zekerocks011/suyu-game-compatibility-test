@@ -1,0 +1,19 @@
+{
+  "name": "Hidden Folks",
+  "description": "A strip of targets shows you what to look for. Tap a target for a hint, and find enough to unlock the next area.\n\n- 32 hand-drawn areas\n- 300+ targets to find\n- 2000+ mouth-originated sound effects\n- 500+ unique interactions\n- 3 supported play modes: TV mode, Tabletop mode, and Handheld mode\n- 3 color modes: normal, sepia, and night mode\n- 22 languages (translated by the community)",
+  "titleId": "01003BB00B08E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9cf1c539729061fc115c33024fe6b04ba7f61cd0f2c787d519ad4b3f94328f57.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-24T20:25:26.935",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "1538ae9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

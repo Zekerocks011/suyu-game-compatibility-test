@@ -1,0 +1,19 @@
+{
+  "name": "ACA NEOGEO THE KING OF FIGHTERS 2002",
+  "description": "“THE KING OF FIGHTERS 2002” is a fighting game released by SNK in 2002.\nThe 9th entry in the KOF series. In this tame, the “Striker System” is replaced by creating teams for the comeback of the “3-on-3 Battle Mode”.\nThe easier to use MAX Activation System adds a more in-depth experience to your gameplay!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "0100CFD00AFDE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df215441ec3b1da823cb177c3d05d5b0ffa156a0b0defee57b43089691323e27.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T20:19:14.992",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Liberated: Enhanced Edition",
+  "description": "8/10 - “Fantastic take on a dystopian platformer” - Nintendo Life\n9/10 - \"Genuinely gorgeous\" - Pure Nintendo\n9/10 - \"The best cyberpunk game on Nintendo Switch\" - GamesHedge\n9/10 - “A standout title for Nintendo Switch” - Nintendo Enthusiast\n8/10 - “More than just a game” - Nintendo Soup\n\nDive into a playable, hand-drawn comic book. Unravel a dystopian story paying homage to George Orwell, Black Mirror, Mr. Robot and Matrix. Jump, sneak, solve puzzles and shoot. Every “BLAM!” you take, and every “AARGH!” you make, fuel the fires of a cyberpunk revolution. Just watch out not to papercut your fingers!\n\nLiberated: Enhanced Edition includes:\n- The acclaimed full game with enhancements in gameplay and content,\n- Full English voice-overs with immersive voice acting,\n- 2 epilogue chapters “For the Homeland\" & \"Glory to the Heroes”.\n\nSupported Languages: English, French, German, Spanish, Portuguese - Brazil, Russian, Chinese, Polish.",
+  "titleId": "01003A90133A6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b14a4355c3aa4146d0deca284c50af43c831496bc40996789dc178f873022307.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-03T22:54:14.739",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "1ddda12",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SnowRunner",
+  "description": "SnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.\n\nOvercome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.\n\nRide solo or with other players in 4-player co-operative!\n• Face extreme environments in a highly advanced physics engine\n• 40 unique vehicles to unlock, upgrade, and customize\n• Complete dozens of challenging missions across an interconnected world\n• Go solo or play with other players in 4-player co-op",
+  "titleId": "0100FBD013AB6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/911db1918e74da41182873ad50a86a1e020583d11396768281aa3e71cf013a26.jpg",
+  "tests": [
+    {
+      "tester": "MarcoEstevez",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-20T17:01:55.394",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-18T16:49:09.049",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "ce90ae8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CLANNAD",
+  "description": "Step inside a heart-warming tale of love, family, and the ties that bind us all together. With gorgeous visuals and a haunting soundtrack, the classic romantic adventure game comes to Nintendo Switch™!\n\nImmerse yourself in the story and enjoy stunning visuals in full 1080 HD.\nAll music and selected vocals available in Linear PCM 5.1ch surround sound-compatible AV amplifier system. Connect Nintendo Switch™ to a Linear PCM-compatible speaker system via an HDMI cable for a truly immersive audio experience. (Also compatible with 2-channel sound setups.) \n\nPlay using only the touch screen! Play with one hand!\nPlay in handheld mode with the Nintendo Switch Joy-Con™ controllers attached, or detach them and play with just the touch controls! While in tabletop mode or TV mode, everything can be controlled by one Joy-Con, allowing you to play with only one hand!\n\nText available in Japanese or English!\nText can be set to either Japanese or English (audio is Japanese only). This includes in-game text, options, and the digital manual. Language settings can be changed at any time.\nWhen set to English, explanations of different aspects of Japanese culture will appear in the \"Dangopedia.\"\nSkip forward or rewind the text to experience the story at your own pace.\n",
+  "titleId": "0100A3A00CC7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/911124315adf32c52e169ea72a21e2be513cd69b78348cafa8ef15914026a78c.jpg",
+  "tests": [
+    {
+      "tester": "Zarc",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-23T02:14:15.582",
+      "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+      "gpu": "AMD Radeon R9 200 Series",
+      "version": "a13d163",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-25T13:59:53.929",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

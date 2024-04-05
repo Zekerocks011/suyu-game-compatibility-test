@@ -1,0 +1,19 @@
+{
+  "name": "Trollhunters: Defenders of Arcadia",
+  "description": "Jump into the world of Trollhunters as Jim Lake Jr. to stop Porgon the Trickster Troll and his sneaky plans! Team up with Claire in couch co-op and also get a helping hand from lots more loved characters to face unknown evil forces and help stop the Time-pocalypse! \nUpgrade your armour and boost your abilities to become more powerful than ever. The fate of the universe is in your hands!",
+  "titleId": "0100145011008000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1e59333020463064d9d666ad8ba337a7fc9b416b5f05cde91cc31efbe1e8626b.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-27T06:55:37.438",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "fd69e9b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

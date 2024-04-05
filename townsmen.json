@@ -1,0 +1,30 @@
+{
+  "name": "Townsmen",
+  "description": "Develop your tiny village to a grand medieval empire with a thriving economy and happy villagers! Find spots for mining ore, harvest the crops of your farms and collect coins as taxes from your folk. Build jousting fields, taverns, marketplaces and beautify your city with impressive statues, magnificent monuments and lush gardens. But there are also dangers lurking close by. Bandits are in the area, looking to plunder and pillage your peaceful town. Build barracks, guard towers and recruit brave soldiers to protect your citizens from harm. You rule the whole empire from your castle and make sure your inhabitants have fun and stay happy!\n\nFEATURES\n✔ City-building gameplay set in medieval times\n✔ Cute inhabitants with their own daily routines\n✔ New townie language for livelier interactions\n✔ Complex economy sim and deep production chains\n✔ Dozens of different town and production buildings\n✔ Optional military feature with soldiers and bandits\n✔ Meaningful seasons and weather effects\n✔ Devastating disasters like fire, disease, drought and many more\n✔ 26 diverse scenarios and challenging tasks\n✔ Unrestricted sandbox gameplay on 24 maps\n",
+  "titleId": "010049E00BA34000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0d86d0d9db1696f3583c86060cd60f2ee734960cc5dead0f73b651f3341029ec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-24T01:23:12.46",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "5332f76",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-08T17:11:30.023",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "6ef5c8e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

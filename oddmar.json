@@ -1,0 +1,30 @@
+{
+  "name": "Oddmar",
+  "description": "Oddmar struggles with life in his village and is not worthy of a place in Valhalla. He is shunned by his fellow Vikings and must redeem himself of his squandered potential. One day he is offered an opportunity to prove himself, but at a price...\n\n- IMMERSE yourself in an epic Viking story animated as a motion comic.\n\n- JOURNEY through 24 beautifully hand-crafted levels of physics-based puzzles and platforming challenges.\n\n- DISCOVER your true power with magically imbued weapons and shields.\n\n- ENCOUNTER new friends and foes on your journey through magical forests, snowy mountains and treacherous mines.",
+  "titleId": "01001F100FA04000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/073c8ece9d8893b545e129fb3eb9c072279b24a1286802a2142abb32378fb2f5.jpg",
+  "tests": [
+    {
+      "tester": "solrac",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-13T00:42:54.522",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "140a19f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "b89d2d7qfckl",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-27T08:57:22.53",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1080/PCIe/SSE2",
+      "version": "fe699b3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

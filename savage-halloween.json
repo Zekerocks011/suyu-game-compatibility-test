@@ -1,0 +1,30 @@
+{
+  "name": "Savage Halloween",
+  "description": "Every year the monsters are invited to the big 24hr Halloween rave, but this time no one came home, as an evil vampire used a spell to block the passage back to the afterlife because, according to him, the party could not stop.\nAmong the guests, James, a farmer who had his eternal rest interrupted, took his shotgun, and decided to end the riot.\nJoin the resistance and send everyone home. No one can handle so much noise, goo, and werewolf hair on clothes anymore.\n\nCharacters\nJames: in life, a grumpy farmer; in the afterlife, he remains in a bad mood and now also armed;\nLulu: Werewolf who is not sure if he is a man who dreamed he was a dog, or a dog who dreamed he was a man;\nDominika: Daughter of the partying Dark Lord, Dominika is a geek from the depths who urgently wants to come home to see her favorite series.\n\nGameplay\nShoot through 7 scenarios with varied gameplay and mechanics, from flying on a witch's broom to hitchhiking on a penguin's back.\n\nFeatures\n2D platform with classic mechanics;\nShoot in 8 directions;\nLocal multiplayer;\n3 playable characters with individual characteristics;\nEpic and varied boss fights;\nVaried and bizarre shots.\n\nChoose your monster and put a bullet in the enemy!",
+  "titleId": "01007130135E2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6908b87b815bb9cf5898663e5e08f36c18ca69a00d787c5d173873ac8b795982.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-02T17:19:17.122",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "e2e4b8c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-03T03:42:23.563",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

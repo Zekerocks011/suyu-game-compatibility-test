@@ -1,0 +1,74 @@
+{
+  "name": "Mad Rat Dead",
+  "description": "A rat's dream has been left unfulfilled before his death...that is, until he gets a second chance at life! Granted the opportunity to redo his last day on Earth, you must utilize the rat's newfound power to pump his heart in time with the music, lest his own time runs out.\n\nYou’ve got one day to live and a huge score to settle.\nTime to put the \"beat\" in beatdown! Jump, dash, and smash to the rhythm in this music-based action platformer!",
+  "titleId": "0100E6701231C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fbca70653b275773cd225cde3ee27af1a4f72ed4da6d3f8e18384e45e29d6000.jpg",
+  "tests": [
+    {
+      "tester": "meyo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-12-28T06:12:25.794",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "3ea3717",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NiceStickman",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-20T20:35:47.894",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "171dd9c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "meyo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-26T05:30:35.453",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER",
+      "version": "fbe479d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-27T06:05:52.515",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+      "version": "fb9b589",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "meyo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-20T02:59:50.098",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER",
+      "version": "21ac8d6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "NiceStickman",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-20T18:39:27.113",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070",
+      "version": "171dd9c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

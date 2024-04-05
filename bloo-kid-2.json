@@ -1,0 +1,19 @@
+{
+  "name": "Bloo Kid 2",
+  "description": "After rescuing his girlfriend from the hands of the evil wizard, Bloo Kid and Pink Girl enjoy life with their newborn \"Pink Kid\". But then, a whole new adventure starts just out of the bloo...\n\nRun, jump and swim your way through FIVE huge worlds with twelve levels each.\nMaster brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\n\nBloo Kid 2 features:\n- five worlds with twelve levels each\n- handcrafted, colorful pixel-graphics\n- a full chiptune soundtrack\n- epic boss battles\n- tons of secrets\n- ultra-precise controls",
+  "titleId": "010055900FADA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1bffe56ebe1318f1fc45b87d484942f30b7f0d6c7baab8e95ecd50cff6c2dbb.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-22T04:08:19.86",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

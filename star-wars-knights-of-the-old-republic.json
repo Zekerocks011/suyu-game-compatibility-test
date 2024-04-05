@@ -1,0 +1,74 @@
+{
+  "name": "STAR WARS™: Knights of the Old Republic™",
+  "description": "Four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith and you are the last hope of the Jedi Order. Can you master the awesome power of the Force and save the Republic? Or will you fall to the lure of the dark side? \n\n-- A Star Wars epic set in the untouched era before the rise of the Empire, filled with unique characters, creatures, vehicles and planets.\n\n-- A deep RPG experience with customizable characters and meaningful choices that impact the story, your squad, and even yourself.\n\n-- Harness the power of the Force with over 40 different abilities and wield your own lightsaber.\n\n-- Adventure through eight enormous and iconic Star Wars worlds, including Tatooine and Kashyyyk, in your own starship, the Ebon Hawk.\n\n-- Choose your party from and build everlasting bonds with nine unique crewmates, including Twi’leks, droids and Wookies.\n\nHero or villain, savior or conqueror... you alone will determine the fate of the entire galaxy!",
+  "titleId": "0100854015868000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2d45579b8ceed8a0bb4ea22c54a702da2d2d8bd4666a152cece31c90f4243238.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-16T10:59:08.78",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "dd43a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-18T01:21:41.18",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-16T10:59:14.872",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "dd43a7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:24:28.754",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:24:23.09",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-18T01:21:47.189",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

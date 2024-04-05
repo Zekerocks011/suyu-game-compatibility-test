@@ -1,0 +1,41 @@
+{
+  "name": "Fight of Animals",
+  "description": "Meme Animals such as Power Hook Dog, Mighty Fox, Magic Squirrel, and more have now become Fighters!! \nSimple Controls & Funny Animals & Exciting Battles!!! \nChoose your favorite animal and join the fight!! \nPlayers can fight through arcade mode to become the King of Animals!",
+  "titleId": "010047E010B3E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4a13971b69a067b4e0c0c30de3c37d9f5ef30c7c47eae64cf9ad9ee2f16c57ff.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-29T16:35:09.834",
+      "cpu": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "0c998f4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-21T15:50:43.534",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "39433a2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-23T07:33:49.457",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "adf14a7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

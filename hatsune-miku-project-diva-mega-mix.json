@@ -1,0 +1,118 @@
+{
+  "name": "Hatsune Miku: Project DIVA Mega Mix",
+  "description": "Take the stage! The hit rhythm game series returns with exciting new features:\n\n- Mix it up and choose from two playable modes: traditional button control-based Arcade Mode or the new motion control-based Mix Mode. Featuring fan-favorite classics and new hits, choose from over 100 songs for endless rhythm fun!\n- Take advantage of new customization features! Choose from over 300 costumes, and design custom T-shirts in the new T-shirt editor.\n- Create playlists for your favorite music videos!\n\nNo matter where or when, her music will be sure to reach your heart!",
+  "titleId": "01001CC00FA1A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5196b162a02d50a25bef0d3c3a305f0f2e22bb16cfe861ecc8c80f887d099334.jpg",
+  "tests": [
+    {
+      "tester": "vaporduck",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-20T04:27:23.02",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-26T14:10:27.461",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "amekawa",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-04T02:35:41.357",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1660 Ti/PCIe/SSE2",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:15:52.103",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-15T05:13:22.813",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:43:49.587",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "acimoru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-22T03:58:38.911",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "7488bc2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ryuhouji",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-11T04:06:29.941",
+      "cpu": "AMD Ryzen 3 1300X Quad-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "ddd78c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-24T18:57:41.959",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6cd927a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:08:00.467",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

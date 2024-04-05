@@ -1,0 +1,52 @@
+{
+  "name": "Has-Been Heroes",
+  "description": "Embark on an epic journey with the Has-Been Heroes, a group of legendary champions once celebrated throughout the kingdom — almost forgotten until the King has one more quest, the most epic of them all:\n\nTO TAKE THE TWIN PRINCESSES TO SCHOOL!\n\nKey features:\n\nMeet the epic band of heroes as the young and eager Rogue, joining the company of the wise monk Metacles, the giant-wrestling warrior Crux... wait until you meet the others, incl. the Anthropologist turned Mexican Wrestler, the ever-vigilant and paranoid Sheikh, and many more!\n\nUnlock and collect hundreds of game-changing items and spells, boosting the heroes' powers and making each run unique!\n\nCombine spells for devastating effects, learning the power of magic as you gain more elements.\n\nFace countless monsters, each bigger and more menacing than the next. Can you wipe out the army of evil led by the Great Ghoul?\n\nIn roguelike fashion, die and try again — choose your heroes wisely and prepare for battle!\n",
+  "titleId": "0100E29001298000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cd9967e437dee1ee98a8d29b9b72c61c67b8397e8c517a5d767ccfd7ea1d1fcf.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-11-14T23:45:30.619",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "bf6ebec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Patman111196",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-24T21:25:23.96",
+      "cpu": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T07:03:47.651",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "GDhex12",
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-11T19:28:40.469",
+      "cpu": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7382025",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

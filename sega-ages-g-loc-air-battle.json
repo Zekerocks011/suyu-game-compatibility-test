@@ -1,0 +1,30 @@
+{
+  "name": "SEGA AGES G-LOC AIR BATTLE",
+  "description": "Experience this retro title with the SEGA AGES spin, in AGES mode, everything is ramped up, get more enemies, more missiles and a more powerful lock-on system! Take a trip back to the past with a moving cabinet display that recreates the arcade experience, including atmospheric arcade sounds, in the comfort of your own home. \n\n\nAs a fun added feature, you can also activate the Sortie Count, allowing you to change the number of credits per coin when you start up the game. It can help you with the challenging missions ahead!",
+  "titleId": "010096D00E310000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/154ae05ef8eb63ba2bf9de853bd13303c3cc5d6020c83adbe6f35adcb941f930.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-11-13T23:10:49.46",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "acfe7ca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-09T15:35:16.083",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

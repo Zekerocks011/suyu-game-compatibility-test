@@ -1,0 +1,19 @@
+{
+  "name": "BOOST BEAST",
+  "description": "\"BOOST BEAST\" is a defense puzzle game where players defeat the invading horde of zombies by clearing blocks and summoning animals.\n\nA sudden virus outbreak has infected the entire human race and turned everyone into zombies...\nOnly a small group of animals survived the outbreak.\nIn order to restore peace in the world, Alec, the king of the dogs, sets out on a journey with his animal army to exterminate the zombies.\n\nSimple controls!\nMatch 3 of the same animal blocks to call upon your animal friends and defeat the wave of incoming zombies!\n\nThere are many gimmicks that stand in your way during your quest to save the world.\nThere are cages that traps your animal friends, rocks that block your path, and the grim reaper who will turn your allies into zombies.\nMake use of bombs and chain combos to pave a path to victory!\n\nJoin forces with your cute animal army and clear up to 204 stages!\n\nLets go animal army! Until the day where peace is restored!",
+  "titleId": "0100766003E5C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cfba5c82dc1873ac8f2d30e36140837b957ebbe8ce9d0645e45c4618ff772d9b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-27T01:18:19.181",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

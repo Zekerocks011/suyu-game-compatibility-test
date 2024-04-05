@@ -1,0 +1,19 @@
+{
+  "name": "Sydney Hunter and the Curse of the Mayan",
+  "description": "Sydney Hunter and the Curse of the Mayan is a love-letter to 8-bit action adventure games with challenging platformer gameplay and a huge number of Maya-inspired bosses.\n\nYou play as Sydney Hunter, adventurer supreme, who by sheer luck manages to get trapped inside a massive Maya pyramid. He soon discovers that the “Feathered Serpent” Kukulkan has broken up the sacred Haab calendar into seven individual pieces and has hidden them inside the very same pyramid!\n\nWidespread chaos and a time freeze will certainly follow if the Haab calendar isn't located and put back together. With the support of the local Mayan population, Sydney Hunter must now find all seven pieces of the Haab calendar, defeat Kukulkan, and return peace and balance to the Mayan civilization.\n\nAre you ready to beat the Curse of the Mayan?\n",
+  "titleId": "010007300C482000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8fc6baf65541f74774ce4d9855b56f4b3dc5c20c31987657134ca3cf97ad7465.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-09-27T11:56:57.198",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bf1adf6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

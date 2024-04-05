@@ -1,0 +1,19 @@
+{
+  "name": "TT Isle of Man Ride on the Edge 2",
+  "description": "...that is the challenge that awaits in TT2! Lots of new features lie ahead: open world, reworked physics, classic motorbikes, and more.\nWithout a shadow of a doubt it is one of the most dangerous motorbike races in the world. In TT Isle of Man – Ride On the Edge 2, you prove your worth in different championships before setting out to conquer the Snaefell Mountain Course, a 60 km-long track with both winding and straight sections that will push your riding skills to the limit. TT 2 features 17 additional tracks, 18 different motorbikes including classic models, and the official riders. And now it’s more realistic than ever, thanks to entirely revamped physics and faithfully reproduced rider movements. Fine-tune your motorbike, upgrade its performance and monitor its data in real time so you can stay competitive. TT2 also offers a brand-new open world, a biker's paradise where you can test your bike settings and gain the experience you'll need to win the TT Isle of Man title!",
+  "titleId": "010000400F582000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e10a90b617898acd949c38bfaf8af5b9378366206b447a8eb8a48cfbb5884037.jpg",
+  "tests": [
+    {
+      "tester": "DionG",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-12-18T09:08:45.824",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "f5eb144",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

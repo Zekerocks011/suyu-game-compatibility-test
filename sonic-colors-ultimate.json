@@ -1,0 +1,118 @@
+{
+  "name": "Sonic Colors: Ultimate",
+  "description": "Join Sonic in the high-speed adventure of a lifetime! The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions – but he’s powering it with a captured alien race called “Wisps.” Use Sonic’s lightning speed to free the Wisps and learn the secrets of their amazing powers as you explore six unique colorful worlds, each filled with dangerous enemies and hurdles to overcome. Now with stunning upscaled visuals, additional features, a new game mode, and enhanced gameplay- it's the Ultimate Sonic Colors experience. Sonic will be tested on this exciting journey to free the Wisps - but with their help, and yours, it's a test he'll pass with flying Colors!",
+  "titleId": "010040E0116B8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1a5fa7a185f52060e57f62cb861862175148c1f243966125d61f45d3509ca1aa.jpg",
+  "tests": [
+    {
+      "tester": "jijo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-14T15:33:26.788",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "28f4c33",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-20T15:15:53.91",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "NVIDIA GeForce MX330/PCIe/SSE2",
+      "version": "14e4cb0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:11:35.286",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheUltimateFoxGamer",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-27T15:03:37.941",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GT 710/PCIe/SSE2",
+      "version": "e4f21ad",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk20bot_v2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-20T07:44:32.114",
+      "cpu": "        Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "098c00e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-01T16:30:53.765",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "56521a0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk20bot_v2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-01T18:44:37.065",
+      "cpu": "        Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-22T15:08:02.786",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "9ee753f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "joshslone7",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-10-09T15:01:44.722",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "70bdaca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-28T20:20:37.681",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

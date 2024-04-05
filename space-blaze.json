@@ -1,0 +1,19 @@
+{
+  "name": "Space Blaze",
+  "description": "Space Blaze taps into that old-school sideways scrolling shoot’em up, by leading you through 7 challenging levels filled with action. There are three different weapon systems with a single mega-weapon for each and don’t forget that classic 80s games feature - a giant boss to shoot it out with at the end of each level. \n\nToday it’s all about cool retro without the frustrating loading times, so get started and get a friend to join you in a two-player battle against hordes of enemies in Space Blaze. \n\n• Exciting retro-style gameplay is waiting for you in 7 challenging levels\n• Detailed levels and enemies in a lovely crafted space world ensure pure game fun. \n• Choose the right weapons from 3 different weapon systems to pass the levels.\n• A single mega-weapon for each weapon system provides additional action.\n• In the two player co-op mode you fight your way through the dangerous battles together with your friend",
+  "titleId": "0100B9F00C162000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc1710608443ea416be0054bc31696f89a12c418c97d075edf330576ddca2c26.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-01-27T04:41:11.346",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "6eb01a4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Megadimension Neptunia VII",
+  "description": "A new group has replaced Gamindustri’s Goddesses seemingly overnight, and Neptune’s nowhere in sight! Warped into a decimated new dimension, the Nep sisters join a mysterious Goddess to fight against a massive new threat to save the Zero Dimension.\n\nCan they save multiple dimensions and restore order to Gamindustri?\n\nKey Features\n1. Characters can link up for stronger attacks, “Parts Break” allows you to split enemies into pieces to lower their stats and disable special attacks, and “Giant Battles” impose limits that will challenge the strategist in you.\n\n2. Transform your Goddesses to the NEXT level! Break those big baddies into bits with NEXT mode, which features special skills and a special costume for the Goddesses.\n\n3. Traverse through three dimensions to save Gamindustri with your favorite Goddesses and familiar characters at your side!",
+  "titleId": "010006F011220000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4e2fa369ba48b51656d2a49b6f4ceb73ba899ad6224e4b59e6b79c835e67aaf1.jpg",
+  "tests": [
+    {
+      "tester": "Shikinouta",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-21T02:53:42.776",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Bee Simulator",
+  "description": "See the world through the eyes of a bee! Explore a world inspired by Central Park where you can take part in bee races, collect pollen from rare flowers and defy dangerous wasps.\nPlay with friends or family in three game modes, including co-op and PvP on split screen.\n\nThe hive awakens as the sun's first rays warm the horizon. It's time to test your wings, receive orders from the Queen and begin your first mission. And that's just the start of your adventures. Humans want to cut down the tree that holds your hive, so your fate – and that of the whole swarm – rests on your tiny shoulders!\n\n",
+  "titleId": "01009E700DB2E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/cc9f26203322914eda90c6ce32e70d49f5c90ef5f8021b95f13c0e1cf97a8cf7.jpg",
+  "tests": [
+    {
+      "tester": "FireControl",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-22T00:26:03.716",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "c42b691",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-02-06T10:51:26.996",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

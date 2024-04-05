@@ -1,0 +1,19 @@
+{
+  "name": "Habroxia 2",
+  "description": "In the aftermath of a brutal attack on Free Space, humanity sends scout ships to the star system that was at the source of the assault. But when one of the pilots doesn’t return home, it’s up to his daughter -- the talented starpilot Sabrina -- to find him. Habroxia 2 is a non-linear, old-school space shooter with upgrades, boss fights, and even New Game+, all wrapped in a retro package combining pixel graphics, chiptunes, and stellar gameplay.\n\nFeatures:\n\n• Engage 20 unique bosses!\n• Customize special weapon loadouts.\n• Earn 64 persistent ship upgrades.\n• Choose your path in branching levels.\n• Enjoy high-quality retro pixel art and chiptune music!\n• Unlock New Game+ featuring harder enemies and bosses.\n• Experience a touching story.\n• Challenge both versions of all 22 enemies in Boss Rush Mode.\n• Test your reflexes in Boost Rush Mode!",
+  "titleId": "0100E3D013B28000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/51154cad0cc47837bc59866e07c1faec63d5faa4f490992021ea8e77edf654b9.jpg",
+  "tests": [
+    {
+      "tester": "JosephSMASH",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-18T17:49:23.812",
+      "cpu": "AMD Ryzen 3 3250U with Radeon Graphics         ",
+      "gpu": "AMD Radeon(TM) Graphics",
+      "version": "38fe0a1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

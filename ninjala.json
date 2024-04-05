@@ -1,0 +1,30 @@
+{
+  "name": "Ninjala",
+  "description": "■ Ninja-Gum\nUse Ninja-Gum to blow bubbles that can be tossed at your foes, craft all sorts of weapons, and dash across stages.\nThe appearance and variety of your weapon will vary depending on the type of Ninja-Gum you use.\n■ Competitive Player\nTake part in Battle Royale-style matches of up to 8 players and vie for supremacy with ninja around the world. The player who earns the most points over the course of the match will be declared the winner. Score points by defeating your opponents, obtaining items, destroying drones positioned across the stage, and more. Earn extra points by taking down your opponents with an IPPON—impressive finishing techniques.\n■ Cooperative Play\nJoin up with friends and take part in a 4-on-4 team battle. Cooperate with your teammates and earn more points than the opposing team to be declared the winner.\n■ Avatar\nA colorful variety of costumes and accessories from an array of unique fashion brands are available. Choose from a wide variety of avatar items which can be combined as you see fit. You can stick to one brand for a consistent look, or mix and match to create a style all your own!",
+  "titleId": "0100CCD0073EA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e236b5cc51d6f23ef2bc9dacfa70fb23e0d9a5c989c847d8fbc2a50bd226bf1c.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-15T21:33:30.171",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "2151069",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Leanonone",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-22T15:45:26.833",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "AMD Radeon (TM) R7 370 Series",
+      "version": "c788cba",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

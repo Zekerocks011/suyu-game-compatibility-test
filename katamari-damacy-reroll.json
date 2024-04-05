@@ -1,0 +1,96 @@
+{
+  "name": "Katamari Damacy REROLL",
+  "description": "Nintendo Switch™ is ready to roll... Are you?\n\nThe stop-at-nothing pushing prince is back and ready to reroll! When the King of All Cosmos accidentally destroys all the stars in the sky, he orders you, his pint-sized princely son, to put the twinkle back in the heavens above. Join the King and Prince of Cosmos on their wacky adventure to restore the stars at home or on the go – now in full HD! \n\nThe beloved roll-em-up game returns with fully updated graphics, completely recreated cutscenes and in full HD! \n\nPlayers can use the Joy-Cons­­™ to control the katamari using the gyro controls to turn and shake the Joy-Cons to perform the Prince Dash when in Tabletop mode. Players can also play on multiplayer mode with a friend by using the two Joy-Cons on the Nintendo Switch™.",
+  "titleId": "0100D7000C2C6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/00023eed8b51aa7255b7e81b585625335e03586c87f1fcc8f33256f0bd7b56b0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-09T08:16:01.946",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "8f99c5b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-05-16T15:50:00.879",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "e0e0030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AMHAMH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-17T09:04:15.35",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "b801653",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-04T06:30:47.339",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "a0950a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-08T14:39:07.628",
+      "cpu": "       Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "324f1a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "coggy9",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-17T23:10:11.38",
+      "cpu": "      Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 660M/PCIe/SSE2",
+      "version": "b8bdf4b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-07T17:09:43.708",
+      "cpu": "       Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "f4165bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-09T18:22:54.327",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "e72f303",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

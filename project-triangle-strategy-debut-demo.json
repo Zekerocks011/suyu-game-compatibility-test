@@ -1,0 +1,118 @@
+{
+  "name": "Project TRIANGLE STRATEGY™ Debut Demo",
+  "description": "Command a group of warriors as Serenoa, heir of House Wolffort, in a tangled plot where your decisions make all the difference. Key choices you make will bolster one of three convictions—Utility, Morality, Liberty—which together make up Serenoa’s world view and influence how the story will unfold. When faced with truly momentous decisions, multiple characters will weigh in by casting their votes on the Scales of Conviction. In these moments, the allies and decisions you make can determine the fate of whole nations and the continent of Norzelia itself.\n\nControl multi-tiered battlefields to strategically secure victory\n\nFinding the best location in turn-based battles can tip the tide of combat in your favor. Position units on higher ground to take control of the battlefield and gain the advantage with increased range. You can also flank enemies on both sides, then strike from behind for a powerful follow-up attack. Elemental chain reactions are also an important part of combat. For example, use fire to melt icy terrain, then use lightning to electrocute it. Push the enemy into the electrified water to see sparks fly in stunning HD-2D visuals!",
+  "titleId": "01002980140F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/79e65a32f3e966c8848d69e609cdce423b1f2c08f3b0d0d8e4f35ccec49d2051.jpg",
+  "tests": [
+    {
+      "tester": "ELiTE1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-19T20:46:18.45",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "f4b461d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MutantAura",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-22T00:47:32.999",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "a13d163",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-12T05:30:48.625",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ELiTE1",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-31T11:56:35.234",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "a80f235",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-04-12T05:28:13.373",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "9c1e7b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KillerK",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-19T18:23:30.485",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "levlight",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-09-25T12:28:26.006",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "db6f01d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FlagAreFun",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-26T11:44:42.702",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 3070/PCIe/SSE2",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-20T16:05:25.353",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "f19f40d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "matamocos",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-18T17:10:43.277",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

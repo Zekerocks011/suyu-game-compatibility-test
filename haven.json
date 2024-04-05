@@ -1,0 +1,118 @@
+{
+  "name": "Haven",
+  "description": "Yu and Kay have escaped to a forgotten planet, leaving everything they knew behind. Play the two lovers as they settle into an unknown world. \n\nGlide over the fragmented planet looking for parts and material to fix your ship and make it a cosy home. Enjoy moments of everyday life as a relatable couple while cooking meals, crafting and collecting precious resources to make it to the next day.\nFight against those trying to tear you apart by synchronizing actions in combat, finding the perfect timing and rhythm, while controlling both characters and battling to keep them and their relationship alive. \n\nKey features:\n• Play two characters at the same time while exploring a fragmented planet, fending off enemies or building your relationship\n• Make the choice about what's worth sacrificing to stay together, and if you're willing to give up everything else for love\n• Glide over the grass, gather flow and clean the rust as you explore this dreamy planet and uncover secret areas\n• Choose which Yu and Kay you want to play as: a woman and a man, two women or two men\nFight as the two characters in real time and relying on tactical sense and timing\n• Immerse yourself in a romantic space adventure, the saga of two lovers trying to stay together against all odds\n• Play a relatable couple in an intimate relationship, treated with maturity and humor\nImmediate to play, accessible, a pause in a busy day, a game that will make you smile\n• A solo game that you can also play with a friend or romantic partner: a second player can join or drop out anytime in local co-op to share the adventure\n• The original soundtrack by renowned electro musician DANGER heightens the game’s emotional experience.",
+  "titleId": "0100E2600DBAA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d19e85bded18777844df9b117055c0dacd6cd6ffa6b2f3883993d3e3a5fefd82.jpg",
+  "tests": [
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-23T15:32:25.145",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-16T17:06:21.371",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3e54a05",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-01T13:10:47.575",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "394a7ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-07T19:55:25.128",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "436a215",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-02T23:30:09.197",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "29c2075",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-28T18:20:50.362",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "eecd84d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-17T11:53:20.121",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "f83047e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-25T13:51:55.181",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "3595ee4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-06T12:33:40.957",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "ab5c515",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Alfredo_Dore",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-02T11:16:31.805",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 580 Series",
+      "version": "97bf301",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

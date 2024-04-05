@@ -1,0 +1,41 @@
+{
+  "name": "NBA 2K Playgrounds 2",
+  "description": "NBA arcade action is back with NBA 2K Playgrounds 2! The sequel to the original smash hit takes street balling to the next level with a massive roster of current and retired NBA players, improved online matchmaking with dedicated servers, four-player online matches, three-point contests, new playgrounds, custom matches, and more! Pick your team, get ready to jam, and Ball Without Limits!",
+  "titleId": "01001AE00C1B2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b15ca37343ecced72546d5e03e00f0d0e438e1f86d0e23b021f0c1aa5bb11311.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T16:25:16.266",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T18:18:56.469",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T16:17:27.198",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

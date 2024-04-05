@@ -1,0 +1,63 @@
+{
+  "name": "Fallout Shelter",
+  "description": "Fallout Shelter puts you in control of a state-of-the-art underground Vault from Vault-Tec. Build the perfect Vault, keep your Dwellers happy, and protect them from the dangers of the Wasteland.\n\nBUILD THE PERFECT VAULT\nCreate a brighter future…underground! Select from a variety of modern-day rooms to turn an excavation beneath 2,000 feet of bedrock into the very picture of Vault Life.\n\nOVERSEE A THRIVING COMMUNITY \nGet to know your Dwellers and lead them to happiness. Find their ideal jobs and watch them flourish. Provide them with outfits, weapons, and training to improve their abilities.\n\nCUSTOMIZE\nTurn worthless junk into useful items with Crafting! Customize the look of any dweller in the Barbershop.\n\nPROSPER\nA well-run Vault requires a variety of Dwellers with a mix of skills. Build a Radio Room to attract new Dwellers. Or, take an active role in their personal lives; play matchmaker and watch the sparks fly! \n\nEXPLORE THE WASTELAND \nSend Dwellers above ground to explore the blasted surface left behind and seek adventure, handy survival loot, or unspeakable death. Find new armor and weapons, gain experience, and earn Caps. But don’t let them die!\n\nPROTECT YOUR VAULT\nFrom time to time, idyllic Vault life may be disrupted by the dangers of post-nuclear life. Prepare your Dwellers to protect against threats from the outside…and within.\n\nVault-Tec has provided the tools, but the rest is up to you. What are you waiting for? Get started building your Vault today for FREE.",
+  "titleId": "010043500A17A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3558d709c3a63bf6894e6e9b0c0fd1c5b7fe81e5188931242e80a0d08dd71efa.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-09-01T19:36:29.26",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-25T19:14:52.593",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "7132f3e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-13T10:48:54.098",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "3780d39",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-02T11:12:14.181",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-09T13:30:03.209",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "8f99c5b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

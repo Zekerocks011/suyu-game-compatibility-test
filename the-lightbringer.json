@@ -1,0 +1,19 @@
+{
+  "name": "The Lightbringer",
+  "description": "Dear brother, \nwhen this letter reaches your hands, I will no longer be protecting our lands. \nWith great sorrow I pass this duty onto you. \nDo not be afraid, as I will guide you through.\n\nYou will travel these lands across the shores, across the skies.\nI’ll be there for you, with all of my heart, kind words and eyes.\n\nAncient puzzles will challenge the mind.\nSolve them all and see what you’ll find.\n\nOn your journey, you’ll face the corruption.\nFight it my brother, there’s no other option.\n\nLightbringer, your story is about to begin. \nDo you have enough courage and light within?",
+  "titleId": "0100491014980000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1fd259bcaeedf45f76907366ce09f75c8db171822182ca0a363c7eebcdec3cbe.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-08T20:37:34.071",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "cac3f48",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

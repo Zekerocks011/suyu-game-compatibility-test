@@ -1,0 +1,41 @@
+{
+  "name": "Zero Strain",
+  "description": "Zero Strain is a fast-paced shooter set in a series of top-down arenas, where strategic use of offense and defense are critical to surviving each challenge. MOBA elements are mixed with frenetic shoot’em up action for a unique and rewarding experience in neon wireframe presentation.\n\nEach of the “constructs” you pilot offers a different array of armaments that are charged by the damage you deal, allowing you to deploy more powerful abilities against the strongest foes! Strategize on the fly to take down enemy waves and reach uncharted dimensions!\n\n• Balance offense and defense in MOBA-inspired combat!\n• Pilot a variety of ships, each with 3 unique weapons and a passive ability.\n• Charge weapons faster by dealing damage efficiently.\n• Evade enemy bullets as they fill the screen in shoot’em up style.\n• Observe and react strategically against challenging bosses!",
+  "titleId": "01004B001058C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7b44a5a5d84beb89f1f8ceb4de0e617690f3b0a40479e322d0a6f30d98b5a8a7.jpg",
+  "tests": [
+    {
+      "tester": "TheMOchES",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-05T20:50:18.706",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "483bb64",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheMOchES",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-13T14:22:21.19",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TheMOchES",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-05T20:57:39.453",
+      "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "483bb64",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

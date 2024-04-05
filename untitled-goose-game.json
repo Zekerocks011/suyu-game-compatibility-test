@@ -1,0 +1,74 @@
+{
+  "name": "Untitled Goose Game",
+  "description": "Untitled Goose Game is a slapstick-stealth-sandbox, where you are a goose let loose on an unsuspecting village. Make your way around town, from peoples' back gardens to the high street shops to the village green, setting up pranks, stealing hats, honking a lot, and generally ruining everyone’s day.\n\nFeaturing:\n\n• A horrible goose (that's you)\n• A town full of people just trying to get on with their day\n(you hate them)\n• A dedicated honk button (!!!)\n\nAND ALSO: Oh dear! Two horrible geese!\n\nYou can now enjoy Untitled Goose Game with a friend, in a new two-player cooperative mode. Play through the whole game as two horrible geese, honking twice as much, teaming up to plan pranks, and generally ruining everyone's day, together.\n\t\n• A free update for all owners of Untitled Goose Game\n• Play through the entire game with two players\n• New goose, new honk, still horrible\n• Single Joy-Con™ support for each player",
+  "titleId": "010082400BCC6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4e8b857cf14007f2a38799a6fa1e78a2381cab3cd24bc3fccfdded10cdff8f67.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-01T17:47:01.266",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "22bf8ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Miaowz",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-28T13:46:19.053",
+      "cpu": "        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz",
+      "gpu": "AMD Radeon(TM) RX 560 Series",
+      "version": "9120a71",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-04-24T03:25:06.176",
+      "cpu": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "3bb3b24",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-26T21:46:02.678",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "f7292ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-09-12T21:52:04.368",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "01f58b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Night_Rider",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-05T22:08:48.522",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8b52250",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

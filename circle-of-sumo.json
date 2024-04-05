@@ -1,0 +1,30 @@
+{
+  "name": "Circle of Sumo",
+  "description": "Have fun with your friends with the great award-winning Circle of Sumo!\nCOS is simple and compelling at the same time, with a lot of different challenges. It's pure fun!\n\nTake control of 8 different sumo wrestlers and challenge your friends on daring fights and sport based extra-games!\n\n- Up to 4 local players\n- 8 different characters\n- 24 sumo arenas\n- 4 crazy extra-games  \n- 2 single player mini-games\n\nCircle of Sumo is a must for the game nights with your friends!",
+  "titleId": "010039700BA7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b8c69c5ecc8b33abd5eacddedfd547b7316dbf45a0446baada08cc5933800c3f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2018-11-17T01:55:40.478",
+      "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bc8e3b6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-03T23:09:38.503",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8edc929",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

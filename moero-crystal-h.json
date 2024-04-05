@@ -1,0 +1,19 @@
+{
+  "name": "Moero Crystal H",
+  "description": "Take the role of “Lucky Pervert” Zenox as he embarks on a mission to retrieve the Bra of Darkness from a mysterious thief who’s corrupting monster girls throughout the land.\n\nIn this enhanced “Hyper” version of first-person dungeon RPG Moero Crystal, encounter and recruit more than 80 monster girls, including all previous DLC characters, in remastered HD presentation and subtitled in English for the first time!\n\nFree the monster girls from the darkness afflicting them and win their affection through “Loving Scratch” mode. This time, “Double Scratch” can even be performed with two monster girls simultaneously!\n\nFeatures:\n\n• Traverse massive grid-based dungeons in a modern twist on traditional RPG exploration.\n• Experience challenging yet approachable battle mechanics, with difficulty that can be adjusted mid-game.\n• Store, release or insert as Zenox commands the party with his just desires!\n• Climb aboard the “Funyaton-Go” in shoot’em up stages to reveal special dungeons hidden within the monster girls.\n• Mix and match bras and panties to customize each monster girl’s skills and appearance.\n• Feel the effects of Loving Scratches and more with HD rumble support!\n• Upgrade living spaces and pair up monster girls as roommates.\n• Discover intimacy events and special endings for each of the 80+ monster girls!",
+  "titleId": "01004EB0119AC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5779dde0a3d7912917e2c10cf0a1349f1e2db0fe49355c5463e6b29899c35bb9.jpg",
+  "tests": [
+    {
+      "tester": "RinMaru",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-06-29T05:17:35.862",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "8a8bd4a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

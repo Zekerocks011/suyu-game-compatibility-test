@@ -1,0 +1,19 @@
+{
+  "name": "Brunswick Pro Billiards",
+  "description": "Brunswick Pro Billiards is the most realistic and immersive billiards game available for any platform. This is an officially licensed Brunswick product featuring real pool tables, pool cues, and billiard ball sets. Compete against friends or other players online for Brunswick Bucks!  Use those winnings to upgrade equipment and tables.  Players can also hone their skills against A.I. opponents, battle friends in local multiplayer matches, and play single player Challenge Modes offering a variety of gameplay options.",
+  "titleId": "01002E700F958000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c3f7aaa49937421f464ed53eee3b3d4e29450d0d4158a7e7050924a9bbde3382.jpg",
+  "tests": [
+    {
+      "tester": "OkaHachiko",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-01T03:34:19.198",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060",
+      "version": "d969cc2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Baba Is You",
+  "description": "Baba Is You is a puzzle game where you can change the rules by which you play. In every level, the rules are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.",
+  "titleId": "01002CD00A51C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e34c65e833d45a749850de8927f92bd701ab4e8c4262590cc1dfdb345aa59c2a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-09T21:30:37.382",
+      "cpu": "       Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "09b772e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-13T19:37:03.212",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "d211bb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-18T03:01:30.171",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "d8dbe42",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-29T16:50:19.547",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "6be8ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-02T07:39:43.64",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "dfbd763",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nathandiepeveen",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-18T11:02:09.918",
+      "cpu": "        Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 960",
+      "version": "62fbd74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-29T02:55:57.07",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "fdecfac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-01T02:05:15.857",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e2f72ac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-12-14T00:42:28.079",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX TITAN X/PCIe/SSE2",
+      "version": "9ae9355",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

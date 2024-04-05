@@ -1,0 +1,19 @@
+{
+  "name": "Wasteland 2: Director's Cut",
+  "description": "From the Producer of the original Fallout comes Wasteland 2, the sequel to the first-ever post-apocalyptic computer RPG.\n\nThe Wasteland's hellish landscape is waiting for you to make your mark... or die trying. With over 80 hours of gameplay, you will deck out your Desert Ranger squad with the most devastating weaponry this side of the fallout zone, test the limits of your strategy skills, and bring justice to the wasteland. ",
+  "titleId": "010039A00BC64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/80d13fa9000615de2e69606d6496da6fe0ad885610d8f88acb7eb1d63028ed3b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-04T15:17:32.281",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "3844a49",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

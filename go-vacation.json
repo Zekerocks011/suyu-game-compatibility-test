@@ -1,0 +1,52 @@
+{
+  "name": "Go Vacation",
+  "description": "Welcome to Kawawii Island, a paradise resort where friends and family can enjoy 50+ co-op and competitive activities. There are all sorts of exciting ways to explore the island, from horseback to buggies, snow mobiles to inline skates. And to add to the fun, up to 4 players can enjoy visiting and discovering every corner of the island together! If you’re playing multiplayer, each player can use just one Joy-Con™ controller. Experience hours of fun and something new every day. Customize your character, costumes, vehicles and even pets! Daily presents and challenges mean that you will want to keep coming back to the island of Kawawii to explore more terrain and play through activities all over again. Mii or in-game characters of friends and family may show up, and if they do, you can compete against them anytime. Or customize your very own villa by earning over 450 pieces of furniture. ",
+  "titleId": "0100C1800A9B6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0832bb0cc7b14ece3123f520c6475ce103d20e51b3758f700c75aaec2e58d82e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-19T13:19:18.862",
+      "cpu": "AMD FX(tm)-6300 Six-Core Processor             ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d8fc1e6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Molive",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-05-10T01:22:55.239",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "e0e0030",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-04T12:18:45.233",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1650",
+      "version": "32e334b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-25T18:53:03.652",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4d9f888",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

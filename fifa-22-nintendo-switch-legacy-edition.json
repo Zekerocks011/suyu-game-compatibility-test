@@ -1,0 +1,30 @@
+{
+  "name": "FIFA 22 Nintendo Switch™ Legacy Edition",
+  "description": "Powered by Football™, EA SPORTS™ FIFA 22 Legacy Edition on Nintendo Switch™ featuring the latest kits, clubs, and squads from some of top leagues around the world. It will also feature some of the world’s most famous stadiums, including some brand new to FIFA 22. Gameplay features and modes will have parity with FIFA 21 on Nintendo Switch.\n\nGAMEPLAY\nFIFA 22 Legacy Edition will feature the same gameplay innovation from FIFA 21 without any new development or significant enhancements.\n\nPRESENTATION\nFIFA 22 Legacy Edition will feature an updated visual identity with a newly design in-game front end and menu screens. Broadcast overlay packages will be refreshed across all modes.\n\nLEGACY MODES\nThe following Game Modes will be included in FIFA 22 with the same features from FIFA 21.\n•\tKick Off\n•\tCareer Mode\n•\tTournaments – Licensed and Custom, including the UEFA Champions League\n•\tWomen’s International Cup\n•\tSkill Games\n•\tOnline Seasons\n•\tOnline Friendlies\n•\tLocal Seasons\n\nFIFA ULTIMATE TEAM™\nFIFA Ultimate Team will include:\n•\tManager Tasks\n•\tSingle Player & Online Seasons\n•\tSingle Player & Online Tournaments\n•\tSingle Player & Online Draft\n•\tOnline Single Match\n•\tSquad Building Challenges\n\nThis game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\n\nGame requires a download of at least 14 GB via an Internet connection. You may also be required to create or link a Nintendo Account. microSD card may be required depending on your storage. ",
+  "titleId": "0100216014472000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2f6a0b15646cfb038f93dd4056803d90bcb4a7f3e529bd73f60f3aa1d60734b1.jpg",
+  "tests": [
+    {
+      "tester": "Peppe_Ventre",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-27T11:49:07.36",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "Radeon RX 570 Series",
+      "version": "e56915b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "KINGLIFER",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-08T20:06:49.22",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz",
+      "gpu": "NVIDIA GeForce RTX 3060/PCIe/SSE2",
+      "version": "42bedc8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

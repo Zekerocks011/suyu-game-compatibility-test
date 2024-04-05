@@ -1,0 +1,118 @@
+{
+  "name": "Metroid™ Dread",
+  "description": "Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus’ most intense side-scrolling adventure yet.\n\nSamus is more agile and capable than ever\n\nGuide Samus Aran, an intergalactic bounty hunter raised by an ancient tribe, and traverse the many environments of a dangerous world. Parkour over obstacles, slide through tight spaces, counter enemies, and battle your way through the planet. Through her countless missions, Samus has never experienced a threat like the dread of ZDR.\n\nPower up and find more ways to explore and secrets to uncover\n\nGain abilities and return to previous areas to find new areas and hidden upgrades in classic Metroid™ gameplay. Planet ZDR’s sprawling map is home to many secrets to discover and powers to find. You’ll need to be prepared to evade and destroy E.M.M.I. robots and overcome the dread plaguing ZDR.\n\nNew modes let you ease into ZDR, experience true dread, or take on a boss gauntlet\n\nIf this is your first time sprinting and shooting as Samus, the new Rookie Mode increases health gained from items and decreases damage from bosses. Bounty Hunters looking for a true challenge can face the new Dread Mode, which can be unlocked if the Hard Mode is finished. Complete the game to unlock Boss Rush* and fight Samus’ most formidable foes one-after-another to try to get the best time possible!\n\nA new Samus amiibo™ figure featuring her suit from Metroid Dread and an E.M.M.I. amiibo figure are available in a 2-pack set. Scan the Samus amiibo for an extra energy tank to increase your health by 100; additionally, the Samus amiibo can be tapped again to receive health once per day. The E.M.M.I. amiibo grants Samus a Missile Plus tank, increasing her missile capacity by 10; additionally, the E.M.M.I. amiibo can be tapped again to replenish some missiles once per day.",
+  "titleId": "010093801237C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/924b1b82bc75719dba325773795096359df9e6b4be0de77efa90b0e3039c6fff.jpg",
+  "tests": [
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-21T00:13:52.211",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "bd40aee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "geckronome",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-19T03:54:48.309",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c5647b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-20T15:50:57.455",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "bd40aee",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-14T02:39:21.69",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "PAtricio_Wenkulleo",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-15T17:25:47.462",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "antidemon42",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-01T13:44:46.717",
+      "cpu": "Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz",
+      "gpu": "GeForce GTX 560 Ti/PCIe/SSE2",
+      "version": "013625b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk10bit_2v",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T12:09:29.994",
+      "cpu": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "bdmariobd",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-10T09:57:04.63",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "AMD Radeon RX 6600 XT",
+      "version": "d9a36ff",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-02T22:22:39.6",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "svidchenkov",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-24T22:30:43.943",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "8b05e2d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

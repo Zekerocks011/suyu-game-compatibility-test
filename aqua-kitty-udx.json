@@ -1,0 +1,52 @@
+{
+  "name": "AQUA KITTY UDX",
+  "description": "AQUA KITTY UDX blasts onto Nintendo Switch™ in this enhanced Ultra Edition including an all new epic Dreadnought mode!\n\nYou and your team of milk mining kittens have overcome a fear of water to drill down under the ocean seabed and begin extracting vast reserves of what seems to be naturally forming full-fat milk.\n\nGet ready for fast paced submarine action, defending the kittens from disruptive mechanical sea creatures.\n\nThe additional Dreadnought mode takes you deep down into the Meowiana trench. There you must fly through and destroy huge multi-screen enemy craft, whilst rescuing imprisoned kittens. ",
+  "titleId": "0100AC10085CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/339de8e6f0cde8db876266f9ee6fc4c72dd928d85b3a0c569f69ffce2fa15df7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-07-14T07:37:36.808",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "48bf837",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-13T18:04:00.383",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "8145783",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-17T13:42:59.479",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4facd76",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-28T23:00:09.272",
+      "cpu": "Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce 940MX/PCIe/SSE2",
+      "version": "2e0e691",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

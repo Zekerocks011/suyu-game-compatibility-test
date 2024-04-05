@@ -1,0 +1,63 @@
+{
+  "name": "SEGA AGES Wonder Boy: Monster Land",
+  "description": "The arcade platform action RPG stars a now-teenage Tom-Tom, also known as Wonder Boy. Having previously saved Wonder Land from clutches of the evil king, the hero is called upon again when the evil MEKA dragon invades. It's up to Wonder Boy to defeat all the monsters in the now-called \"Monster Land.\" Fight monsters, purchase magical weapons, and traverse the realm today! \n\nTake advantage of these new features:\n-\tChallenge Mode: Two time attack challenges and one score attack challenge\n-\tRankings: Record your high scores from Arcade and Challenge Modes\n-\tReplays: Capture and re-watch gameplay in Arcade or Challenge Modes\n-\tPower Up New Game: Enables you to restart a New Game with the gear you accumulated in your previous run",
+  "titleId": "01001E700AC60000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d39a19c3980b3878d5d0bb6a4ddfa0910e56f54abd752272a348fd77763bca37.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-14T00:36:52.137",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "a192278",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-03T14:37:36.087",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "17decdc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-03T14:37:42.851",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "17decdc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-24T11:51:31.811",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-06-03T14:37:13.257",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "17decdc",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

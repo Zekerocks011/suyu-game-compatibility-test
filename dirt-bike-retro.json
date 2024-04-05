@@ -1,0 +1,52 @@
+{
+  "name": "Dirt Bike Retro",
+  "description": "Do you have what it takes to enter a Dirt Bike rally and win? Dirt Bike Retro is a game where you race on a dirt bike track and you need to defeat your enemies in order to win. As you play, you can unlock new levels and a variety of different styles. You need to do whatever you can in order to become the best and surpass your competitors.\nDirt Bike Retro seamlessly combines the retro style with something more modern in order to bring in a fresh, engaging and fun experience for everyone. If you love great racing games, try out Dirt Bike Retro today!\nFeatures:\n30+ levels to play through\nDefeat the others to unlock new levels\nAmazing graphics\nVery intense gameplay",
+  "titleId": "01006D60147E0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/bf2c39df34425195111f39b8063969f14ac7404fe702bf601f99686cf5adfe72.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-14T15:18:37.443",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "8061b27",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-06T16:48:09.886",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-21T21:08:44.431",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T15:02:57.148",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

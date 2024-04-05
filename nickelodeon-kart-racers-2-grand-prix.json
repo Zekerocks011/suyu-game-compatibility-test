@@ -1,0 +1,52 @@
+{
+  "name": "Nickelodeon Kart Racers 2: Grand Prix",
+  "description": "Nickelodeon Kart Racers is back and we’re kicking it into overdrive!  In Nickelodeon Kart Racers 2: Grand Prix, you can select from 30 playable racers and 70 team members to assemble your ultimate pit crew. Choose your favorites from Nickelodeon’s hall of fame, including JoJo Siwa, SpongeBob SquarePants, the Teenage Mutant Ninja Turtles, the babies from Rugrats, the cool kids from Hey Arnold!, Ren and Stimpy, Lincoln Loud and his sisters, and more! \n\nMore Characters + More Karts + More Tracks = MORE FUN!  First, speed your way across a variety of Slime-filled tracks in a fun series of races where you can win highly-coveted cups and over 80 upgrades for your Kart!  Then, shift into the next gear and challenge your friends in online multiplayer or in local arena multiplayer to see who can cross the finish line first or handle the wild arena challenges!  There’s no slowing down - on your marks, get set, Slime!\n\n-Largest collection of Nickelodeon characters ever in a Kart game!\n\n-100 beloved Nick characters to choose from\n\n-30 playable racers and 70 crew members that each have unique powers designed to help you win\n\n-Strategize your ultimate pit crew to increase your level of \n attack, defense, or fun!\n\n-Tens of thousands different all-star character combinations\n\n-Local multiplayer up to 4, and online multiplayer up to 8\n\n-New and improved racing engine for best in class racing fun!\n\n-Zoom through 28 Slime-filled tracks and 2 arena environments!",
+  "titleId": "0100EBC00FE14000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5c3bc45704dad4aedc737c8c6303ac5cc7e8a21814ab18c5a76a88bc368f9a9e.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-31T17:44:36.974",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "6a523d8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-06T22:16:24.638",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "2ea086e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "fuhuan416",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-22T08:56:52.944",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1650",
+      "version": "38d5741",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-08T14:58:43.423",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "c5e7ef0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

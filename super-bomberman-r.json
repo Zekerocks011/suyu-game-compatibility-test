@@ -1,0 +1,118 @@
+{
+  "name": "Super Bomberman R",
+  "description": "Bomberman is back as Super Bomberman R! Place bombs and collect power-ups to blast your way through classic ‘Battle’ or ‘Story’ mode. \n\nPlay ‘Battle’ mode where up to eight players are dropped within a maze until the ‘last man standing’ is declared the winner. \n\nVenture through ‘Story’ mode where one to two players work cooperatively to clear a series of 50 stages in order to save the galaxy. \n\nKey features in Super Bomberman R include:\n3D stages with dynamic environments \nBomberman siblings and well-known enemies are back with rich personality\nBattle mode for up to 8 players via local connection and online gameplay\n",
+  "titleId": "01007AD00013E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d46262fb58c6d83f5363acc6efbf08998459e51649f69fdbab16bba2828996f5.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-04-28T00:56:06.326",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "cebacd9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-05-11T07:51:42.637",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "7dd8284",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-14T04:23:40.607",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7ea3550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-29T07:34:31.576",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "84aa25b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-14T04:16:41.939",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "7ea3550",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-09-08T06:04:43.063",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "2770320",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-29T21:37:51.929",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-20T08:08:59.811",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "f4b461d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-03T13:59:37.714",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "49f8b7b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-18T01:17:48.769",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

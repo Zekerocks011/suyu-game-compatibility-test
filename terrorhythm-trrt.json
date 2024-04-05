@@ -1,0 +1,19 @@
+{
+  "name": "TERRORHYTHM (TRRT)",
+  "description": "In the middle of 25th century the world has plunged into the totalitarian system of sound isolation that made the world absolute muted. In the world where the silence is the only anthem, you should break the law to bring back the sound and the music to humanity. But while there are those who still remember the melody of the former life, hope remains. We are here to defy terror. Follow the rhythm to defeat the security systems that keep any sound from the society. Fight to the music, fight for the music!\n\nFEATURES\n - Hardcore rhythm beat 'em up game in the cyberpunk style with colorful animation of characters, spectacular FX\n - Get ready for intense combat action as you battle with numerous guardians of the total silence\n - Feel the rhythm, collect combo's to hit massive range attacks\n - The direct connection between the music beat and your character’s moving will give a new gaming experience\n - The game provides several levels of difficulty including a hard mode for high score gainers and the achievers",
+  "titleId": "010043700EB68000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/038fa29650b1fe12c564a73d0cae3daa29d53a3541208728804cae697ad8de48.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-08-15T13:25:42.296",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

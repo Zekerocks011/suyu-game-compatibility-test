@@ -1,0 +1,30 @@
+{
+  "name": "Lovers in a Dangerous Spacetime",
+  "description": "LOVERS IN A DANGEROUS SPACETIME is a frantic 1- to 4-player couch co-op action space shooter. Explore a colorful galaxy in a massive neon battleship that you control together by manning turrets, lasers, shields and thrusters. Only through teamwork can you triumph over the evil forces of Anti-Love, rescue kidnapped space-bunnies, and avoid a vacuumy demise. Deep space is a dangerous place, but you don’t have to face it alone!\n\nLOCAL CO-OP GAMEPLAY\n2 to 4 players (or 1 player plus a loyal AI space-pet) need to work together to man the different battle stations, dashing back and forth between weapons, shields and engines. All players fill important roles at all times, and nobody gets left behind.\n\nUPGRADEABLE SHIPS\nFind and combine powerful space-gems to customize your ship's load-out. Each gem provides different abilities, letting you learn the right tools for every situation.\n\nA NEW EXPERIENCE EVERY TIME\nRandomized level layouts mean that all players will be exploring fresh areas every time you play.\n\nSIMPLE CONTROLS, DEEP CHALLENGE\nControlling your spacenaut is so simple that anyone can jump in quickly, but getting all players to work together like a well-oiled machine, battling a galaxy of evil robots and constellations — that’s the tricky part.",
+  "titleId": "0100230005A52000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f93a2cae0fa7b88bfc50bdeb671d977d2cabc6ec51c499ae7d068850dd2759c7.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-04T09:14:59.381",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "75a3c93",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-12-22T12:56:35.038",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

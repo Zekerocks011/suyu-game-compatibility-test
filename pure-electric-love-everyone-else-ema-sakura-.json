@@ -1,0 +1,30 @@
+{
+  "name": "Pure / Electric Love \"Everyone else!\" - Ema Sakura -",
+  "description": "Electric Love\nA love-likeness pseudo-talk game \"Electric Love\" that is a topic in the smartphone.\nA little embarrassing, in a conversation that pounding, romance skill UP! !\n\nEma Sakura\n· Cosplayers\n· Birthday November 9\n· Blood type B type\n· Hobby illustrations, Karaoke\n· Costume you like favorite cute\n\nWhat is \"Pure / Electric Love\"?\n• Reply to questions from her!\nPlease please her, sometimes a little annoying. Kakehike is important for love affair!\n\n• Mail arrives according to the contents of the conversation!\nYou also have movies attached ....\n\n• The end of the conversation will change depending on the choice.\n Over 150 stories still images + 8 movies! Let's aim at perfection!\n\nHow to play\n1. Launch the application and select \"TELL\" or touch.\n2. Select or touch the content you want to talk to.\n3. Choose a call or touch to start love.\n4. Select the option displayed on the screen or touch to advance the conversation.",
+  "titleId": "010050300AC28000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/16d9b223cf8e0ee0a6c757ee7853d440670786c590f16713a72e4290d735338f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-13T10:01:29.402",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "dbf907d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-21T00:55:00.231",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "aaf42de",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

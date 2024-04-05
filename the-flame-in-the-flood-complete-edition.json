@@ -1,0 +1,52 @@
+{
+  "name": "The Flame In The Flood: Complete Edition",
+  "description": "The Flame in the Flood: Complete Edition is a wilderness survival game in which a girl and her dog travel on foot and by raft down a procedurally-generated river.\n\nScrounge for resources, craft tools, remedy afflictions, evade the vicious wildlife and, most importantly, stay healthy in a dangerous wilderness. This Complete Edition includes various gameplay enhancements and a Director’s Commentary mode.\n\nThe Flame in the Flood also features an original soundtrack by acclaimed Alt-Country rocker Chuck Ragan featuring The Camaraderie, The Fearless Kin and other special guests.",
+  "titleId": "0100C38004DCC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b4229cf007227f57d2f4077a07e86536d6a4d77c9b7a1593416db4ad6cc25cd.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-02-23T10:38:50.934",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "1fe5612",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-13T23:26:39.936",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "43ed299",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-02-27T15:52:43.203",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "27396dd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-05T11:43:30.706",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "69ba2d7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

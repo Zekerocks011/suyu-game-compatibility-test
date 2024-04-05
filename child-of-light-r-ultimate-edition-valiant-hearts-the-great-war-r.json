@@ -1,0 +1,19 @@
+{
+  "name": "Child of Light® Ultimate Edition + Valiant Hearts: The Great War®",
+  "description": "Play the Child of Light Ultimate Edition and Valiant Hearts: The Great War bundle at home or on the go. Enjoy both games' intricately crafted worlds that tell deep and personal stories.\nEnjoy two great games in one bundle, providing hours of immersive entertainment.\n \nIn Child of Light, join Aurora on her journey to save her ailing father and a lost kingdom in the magical world of Lemuria.\nFight alongside your allies to upgrade your stats, unlock unique abilities, and use unique gems to improve your skills.\n \nIn Valiant Hearts: The Great War, the lives of all the characters are inextricably drawn together over the course of the game.\nChoose your favorite control mode and experience the game with either a Joy-Con™ or the touch screen.",
+  "titleId": "01006C70146A2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d12d1b0a891389c736accf9217771d066148c7793175c175c79907f020b81141.jpg",
+  "tests": [
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-25T16:15:22.652",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

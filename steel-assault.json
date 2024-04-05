@@ -1,0 +1,41 @@
+{
+  "name": "Steel Assault",
+  "description": "Play as Taro Takahashi, a resistance soldier on a revenge mission against the dictator who lords over the ashes.  \n\n- Fast-paced 2D platforming: Dynamic, fluid sidescrolling combat with a stylish moveset and tons of enemies / bosses to fight  \n\n- 16-bit post-apoc style: A beautifully fleshed-out sci-fi world, rendered in detailed pixel art and backed by fiery FM-synthesized tunes\n\n- Unique zipline action: A new twist on classic grappling-hook mechanics, opening up fun movement possibilities\n\n- Classic gaming experience: Beautifully hand-crafted stage-based action with optimal screen resolution for CRT gaming",
+  "titleId": "01001C6014772000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1f7a917e66af0a917242dc32643b3689582db52184d96be8fcdc101cb59f40f6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2022-01-07T17:37:49.839",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "4e9911a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "mastercho",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-11-20T09:26:42.938",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz",
+      "gpu": "Intel(R) Iris(R) Xe Graphics",
+      "version": "b367333",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rodrigocofe",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-12T20:09:16.005",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 960",
+      "version": "4377128",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

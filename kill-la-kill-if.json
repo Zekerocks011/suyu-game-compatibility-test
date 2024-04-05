@@ -1,0 +1,19 @@
+{
+  "name": "KILL la KILL -IF",
+  "description": "All looks and feels of the original anime series remodelled with 3D Cell-look technology! Perform devastating combos, destroy your opponents, and relive the anime with your favourite scenes from the original series, revived with stunning visuals and cinematics! Discover a brand new story through the eyes of Satsuki as she becomes the protagonist for the very first time!",
+  "titleId": "0100FB400D832000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/014c911ebaedda049ef307da2c4ced2025440fe96b6d9731b69edb2d030ecdca.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-12-10T08:56:10.77",
+      "cpu": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
+      "gpu": "GeForce 940MX/PCIe/SSE2",
+      "version": "fd62490",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

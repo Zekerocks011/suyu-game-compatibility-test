@@ -1,0 +1,96 @@
+{
+  "name": "Little Dragons Café",
+  "description": "Little Dragons Café opens with a twin brother and\nsister learning to cook and manage a small café\nwith their mother. All was routine until one\nmorning when the twins discover that their mother\nwon’t wake up. Suddenly, a strange old man appears\nand tells them that they must raise a dragon to\nsave her. Working with three quirky café\nemployees, the twins must wrangle a dragon and run\nthe family business while finding a way to save\ntheir mother. ",
+  "titleId": "0100A3F009142000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/b871cdf3b0b2576f53147533a9e4ede21e2d8dcfb642604f90dea9afb50c435e.jpg",
+  "tests": [
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-28T17:00:49.492",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "3f28b77",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-21T13:48:21.045",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "77a73fc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-16T15:31:00.366",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "7bfad18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-12-03T14:30:51.255",
+      "cpu": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 950M/PCIe/SSE2",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-09T04:50:47.489",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "499be67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-16T20:08:23.485",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "11d0938",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "sergio2dland",
+      "rating": 3,
+      "details": null,
+      "test_date": "2018-11-23T00:05:07.07",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 with Max-Q Design/PCIe/SSE2",
+      "version": "be55880",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MysticSong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-11-18T09:57:26.248",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1060/PCIe/SSE2",
+      "version": "93d2ee3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

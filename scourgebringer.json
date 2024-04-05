@@ -1,0 +1,41 @@
+{
+  "name": "ScourgeBringer",
+  "description": "Set in a post-apocalyptic world where a mysterious entity wreaked havoc on all humanity, ScourgeBringer puts you in the shoes of the deadliest warrior of her clan: Kyhra. Help her to explore the unknown and slash her way through ancient machines guarding the seal of her past, and maybe the redemption of humanity.\n\n- Dive into fast-paced rogue-platforming gameplay described by Eurogamer as \"Dead Cells meets Celeste\"\n- Slash and shoot your way smoothly with super fluid platforming controls\n- Sharpen your skills with a frantic combat system focused on attacks only\n- Dash forward to the otherworldly adaptive sounds of Joonas Turner (Nuclear Throne, Downwell, Broforce...)\n- Defy hordes of unspeakable enemies and giant bosses holding the secrets of the Scourge\n- Explore the infinite depths of an ever-changing dungeon\n- Uncover mysteries and find mementos of previous explorers to unlock reality defining secrets",
+  "titleId": "01005F7011950000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/71566877c78a9f1fc0337e5c2e64443b95463066c7c8295b7921c61684c3f4e1.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-29T17:37:56.823",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ong_ong",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-09-11T06:56:48.966",
+      "cpu": "Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 750 Ti",
+      "version": "d48b2b7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-05T09:53:41.654",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

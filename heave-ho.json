@@ -1,0 +1,19 @@
+{
+  "name": "Heave Ho",
+  "description": "Players will use their own two hands and the outstretched grip of their friends to grapple across each level on their way to victory. Grab one another’s hands, climb across dangling bodies, and swing your pals to safety in a wobbly, dangly mass of limbs. Customize your character with all manner of stylish accessories and zany accouterment in a vain attempt to remember who you are and which of your hands is the only thing between you and the plummet of doom.",
+  "titleId": "0100ADD00E17E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ea549e74eea2edcf89575013a4879a508017f6e55acafd3e29423a03e3044e55.jpg",
+  "tests": [
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T07:20:40.919",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

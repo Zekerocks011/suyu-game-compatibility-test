@@ -1,0 +1,63 @@
+{
+  "name": "Bud Spencer & Terence Hill - Slaps And Beans",
+  "description": "The first OFFICIAL Bud Spencer and Terence Hill videogame!\nBud Spencer and Terence Hill in their first virtual adventure. A brand new story! Whether in the Western Saloon, Miami Downtown, at the fairground etc... you'll get the full load of funny conversation, slaps and of course lots of mass brawls.\n\nSlaps And Beans is a co-operative or single player scrolling beat’em up game with the addition of platform elements and mini-games in which you'll interpret the characters of Bud Spencer and Terence Hill.\n\nThe key ingredients of Slaps and Beans are:\n-Retro pixel art graphics\n-Bud Spencer & Terence Hill style fighting system \n-Co-op multiplayer\n-Mini-games\n-A red Dune Buggy with a yellow tarp\n-A lot of slaps and a lot of beans (obviously)",
+  "titleId": "01000D200AC0C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8d6b5a832cf50600b9de0712d2a2c89c3e4743bbcad4e29f9154ee5b2062d251.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-05T20:03:47.52",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f329081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-22T10:13:24.973",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "dc78b22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-23T03:37:15.42",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "2256f5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-26T20:04:03.504",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f8ec872",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-27T04:29:59.301",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

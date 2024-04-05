@@ -1,0 +1,30 @@
+{
+  "name": "One Step From Eden",
+  "description": "One Step from Eden combines strategic deck-building and real-time action with rogue-like elements, allowing your character the chance to carve a path of mercy or destruction. Fight alone or with a friend in co-op as you cast powerful spells on the fly, battle evolving enemies, and collect game-changing artifacts. Can you make it to Eden or will your destruction be imminent?\n\nKEY FEATURES \n- Genre-Bending. Experience a blend of strategy and real-time action. Build your deck and fight through bullet hell as you make your way to Eden.\n- Comprehensive Deckbuilding. Customize your deck and play style with 200+ spells and 100+ game-changing items.\n- Varied Gameplay. A cast of 9 playable characters across procedurally generated levels with alternate runs ensures you’ll never experience the same situation or outcome twice. \n- Play with Friends. Fight your way to Eden in local co-op or in PvP.",
+  "titleId": "010048800F41C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6891e0d55f6ec0997b38803135d4a786f8ad3adfae2e06bdbb3440ac6c16cb6f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-12-26T07:59:34.496",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "b9f600f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-04-07T18:47:16.324",
+      "cpu": "Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

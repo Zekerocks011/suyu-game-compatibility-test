@@ -1,0 +1,52 @@
+{
+  "name": "ATV Drift & Tricks",
+  "description": "Tired of 2-wheeled vehicles? ATV Drift & Tricks is the ATV game for you! A quads-only racing game:\n\nDo a series of races in game modes with extraordinary challenges on varied tracks you can do over and over again: \nDeserts, Forests, Mountains, Lakes, Rivers, Oases … Settings that that will fill your eyes! No doubt, you'll really see it all!\n\nCrazy stunts & drifts to the max: \nJump high into the air each time you do a stunt that will drive your opponents crazy! Come back down to the ground and rack up the drifts. Your tires will pay the price, and so will your opponents!",
+  "titleId": "01000F600B01E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/752d4610da78386570bf8d8b1f875eb377853645025495f2b3e08f51d0f74855.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-14T01:33:49.989",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-26T19:59:14.402",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-27T20:27:27.606",
+      "cpu": "AMD Ryzen 7 3800X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "155d841",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2018-12-30T04:38:30.305",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "08c8d88",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

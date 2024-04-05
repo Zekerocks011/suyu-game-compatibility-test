@@ -1,0 +1,30 @@
+{
+  "name": "Sheltered",
+  "description": "On Nintendo Switch™, Sheltered includes the base game plus the Surrounded and Stasis additional content.\n\nAfter a global apocalypse, you take on the role of protecting four family members living in a deserted underground shelter. Their well-being and survival are your responsibility. One bad decision and a loved one is gone, forever.\n\nCombat claustrophobia, radiation and mental exhaustion as you try to turn the cold and cramped Shelter into a home. And as they cling desperately to life, you must defend your shelter from attack and send family members out into the dangerous, desolate wasteland to scavenge for vital supplies. You’ll come across abandoned towns, roaming factions and feral beasts as you fight for survival.\n\nHow you handle the many moral choices could be the difference between the family living or dying. With all hope lost, how will you survive in this bleak new world?",
+  "titleId": "010036D00C362000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d2c415ddc398e96492c13a5a4a504573ef1c0fa83216543b1d65c5d87a038ebc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-30T15:36:56.168",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "6ef6910",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-05-30T15:43:57.37",
+      "cpu": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+      "gpu": "GeForce RTX 2060",
+      "version": "b5773a2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

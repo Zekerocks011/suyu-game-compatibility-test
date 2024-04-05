@@ -1,0 +1,19 @@
+{
+  "name": "Syberia 1 & 2",
+  "description": "In Syberia, join Kate Walker on an extraordinary journey that takes her all the way from Western Europe to the far reaches of Eastern Russia. You will come across a host of endearing characters and incredible locations as you search for traces of Hans Voralberg, the genius inventor of the automatons. It is a search that will take you to the legendary island of Syberia, in the far North of the continent, where the last living mammoths reside, hidden from modern eyes...\n\nContinue the adventure in Syberia 2! After roaming Europe from West to East in search of Hans, Kate Walker sets out on another long journey, this time across the Great North. She will soon be faced with the dangers of the wild, religious fanaticism, and poachers seeking to lay their hands on the precious ivory of the Mammoths… \n\nWhat will become of Kate Walker and her friends? Find out wherever you happen to be!\n\nThis version includes two complete games: Syberia and Syberia 2.",
+  "titleId": "01004BB00421E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e3faa540ad3b5fca6e4323db07c06c1a8f6b1fb5d3efd0d7b811d91088bff680.jpg",
+  "tests": [
+    {
+      "tester": "Courtroom",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-12T11:58:17.561",
+      "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6d1ddaf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

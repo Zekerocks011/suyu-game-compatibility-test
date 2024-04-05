@@ -1,0 +1,19 @@
+{
+  "name": "Stray Cat Doors2",
+  "description": "The time that I spent with you at the house, the journey at dusk, the lost city\nand the way back home through the white breathing snow...\n\n\"Stray Cat Doors\"'s continuation is finally here!\n\nIt's a escape adventure game where you solve the mystery and clear each stage with a cute character.\nFor those who have not played the previous game do not worry because you can enjoy it without problems.\nIn this new work, you can now operate the character and explore the stage together.\nIf you find difficult to solve any mystery, the hint function will help you so even beginners can enjoy it.\nIn addition, you can change the character's costume, redecorate the room, change the background music,\nA variety of new features have been added.\nThe kitties from the previous work will also appear. Please be healed by the warm heart of those kitties.\nIn addition, many other characters will appear making the game colorfully.",
+  "titleId": "010035D014B96000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/90afaa58051f33335f8d2da644912df853f460fb0c80985b11051067ade6f7dd.jpg",
+  "tests": [
+    {
+      "tester": "parkingplace94",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-30T04:28:35.813",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "bd1833f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

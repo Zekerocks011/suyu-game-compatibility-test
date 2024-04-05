@@ -1,0 +1,30 @@
+{
+  "name": "ANIMUS",
+  "description": "ANIMUS places the gamer into the role of a solitary warrior who must fight his way through a dark and desolate world full of horrific monsters. The mythology-based hardcore action style transports the gamer into the realm of the game, and its namesake. Animus is very tactical in that it requires the learning and application of tactical skills to defeat enemies who would otherwise brutally punish any gamer expecting casual battles.\n\nLeveling, skill point placement, farming equipment and materials, as well as attack and defensive mechanics are crucial. Types and attributes of weapons, armor, and accessories are important. The Proficiency tree within the character status area should be utilized to advance further into the game. The amount of HP, amount of HP recovery, dodge time and distance, stamina control are some of the important stats to cover in that area.\n\nPlayers are rewarded for how they balance their equipment before a battle, and how they place skill points in their Proficiency tree. Preparedness will carry you far.\n\nThe type and grade of drops get better upon progression and following playthroughs or at higher difficulty levels. Players will farm material and equipment. Much needed equipment drops (weapons, armor, accessories) occur in the sub-quests, which are indicated by blue flags. This is similar with the Rift (yellow flag) areas as well. However, Rift areas award players with Rift weapons, which are in most cases stronger weapons with dual attributes, comparable to other weapons of identical grades.",
+  "titleId": "010097600C322000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/47bf609c6435e085ec4338a409e80a63a6acca1456dc5fa240b03aa9e009cbae.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-05T15:36:46.176",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-01T20:06:02.422",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

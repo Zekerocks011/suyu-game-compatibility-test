@@ -1,0 +1,74 @@
+{
+  "name": "Cat Quest",
+  "description": "Cat Quest is an open world RPG set in the pawsome world of cats!\n\nLeap into a grand adventure in purrsuit of the evil Drakoth and your catnapped sister! Explore Felingard's huge overworld map, risk life and limb delving into dungeons for epic loot, and lend a paw to a furry cast of characters in a flurry of side quests.\n\nCombat in Cat Quest takes place entirely in real time, allowing you to get close to enemies with a slash of your blade, dodge roll to avoid a counter-attack, and then finish them off with powerful magic! Wield the ancient spells of Lightnyan, Flamepurr, and Healpaw to vanquish your foes! (Fur real!)\n\nOutfit your catventurer with a whole basket of equipment! Prefurr casting spells? Don an arcane hood, robes, and a staff to bolster your mana reserves! Want to protect yourself from attack? Deck out your catventurer with chainmail armor to increase your health and provide an extra level of protection. Weapons, armor, and spells can be mixed and matched to create the purrfect combinations for your playstyle!\n\nThe world of Felingard is littered with interesting places and people! Discover a possessed town whose residents lust for obscene amounts of meat, assist the mages Mewlin and Meowgan in their search to break a magic seal, and locate someone's missing delivery of \"House of Parchments\" and \"The Pouncing Dead\". Exploration is one of the main scratching posts of Cat Quest, and with locations such as Bermewda's Triangle, the Furbidden Fields, and Pawt City to explore, it's time to get pawing!",
+  "titleId": "0100A2F006FBE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f6bc608cae28e2e7be1c99107c66d45a0970b09ab7f3c6511cc6c6517d5b31aa.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-02-17T19:02:24.026",
+      "cpu": "        Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1aab2d0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-02T08:39:10.246",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "b172ff9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-09-02T09:14:23.309",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "8167b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-07-05T20:27:45.848",
+      "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "28e7542",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-11-17T11:49:42.675",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1070 with Max-Q Design/PCIe/SSE2",
+      "version": "748ee4d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-01-14T01:48:56.573",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "c5baa21",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

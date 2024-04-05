@@ -1,0 +1,41 @@
+{
+  "name": "Totally Reliable Delivery Service",
+  "description": "Delivery attempted, that's a Totally Reliable Delivery Service guarantee!\n\nFEATURES:\n\nLocal and Online Multiplayer: Go it alone to ensure the safety of your deliveries, or join your friends and put your teamwork to the test.\n\nControlled Noodly Chaos: Unpredictable ragdoll physics meets snappy platforming. Sprint, leap, dive, and grapple with ease, but collide with something and you'll be knocked out cold!\n\nA World of Distractions: Take a break from deliveries and play around! The world is chock full of toys, vehicles, and machines that can be used for work or play.\n\nRagtag Crew: Customize your blue-collar workers and get your rear into gear, it's time to deliver!",
+  "titleId": "0100512010728000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/affe436891752d8fdf3ee01cf1c64d5cde3f6de05072c9bebc3c764a583f7f90.jpg",
+  "tests": [
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-19T14:36:12.296",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "d35fabb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-14T09:01:56.416",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "8ac568d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rockhwd",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-19T14:34:18.703",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "d35fabb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

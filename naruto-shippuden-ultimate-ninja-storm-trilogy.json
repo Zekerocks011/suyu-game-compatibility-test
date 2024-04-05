@@ -1,0 +1,63 @@
+{
+  "name": "NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy",
+  "description": "All three entries in the NARUTO: Ultimate Ninja Storm series are coming to the Nintendo Switch in a single package!\n\nStart with Naruto’s origins in Ultimate Ninja Storm, relive Shippuden and his ferocious battles with Akatsuki in Ultimate Ninja Storm 2, and experience the beginning of the Great Ninja War in Ultimate Ninja Storm 3, all in one game!\n\nIn addition, each game comes packed with past DLC, including missions, outfits, episodes, and more!",
+  "titleId": "0100EC800800C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/78cefeacaee97bdf7aa1e2d4aba8295aa0bc10aaf396b879681d84ece0bcace4.jpg",
+  "tests": [
+    {
+      "tester": "Noisy",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-25T03:25:03.636",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "0d6aaa0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noisy",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-12-22T05:40:43.044",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "2af5c75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noisy",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-23T03:50:40.274",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "b44d885",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noisy",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-08-22T06:17:13.649",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "578f0ae",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gofirst2220",
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-11-20T23:11:53.881",
+      "cpu": "Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "e6779a1",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

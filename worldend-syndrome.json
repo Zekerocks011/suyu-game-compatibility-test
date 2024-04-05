@@ -1,0 +1,41 @@
+{
+  "name": "Worldend Syndrome",
+  "description": "I wish this world would end...\n\nWhen you move from a big city to your uncle's mansion in a seaside town called “Mihate”, you hope to start a new life. But then you meet five mysterious girls and start to notice strange incidents occurring. Depending on how you spend the summer with your new friends, the world will significantly change...",
+  "titleId": "010048900CF64000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0e3fee07ed56970d1c88884f00d64834fffa07494771dc68f6f4664d633ad585.jpg",
+  "tests": [
+    {
+      "tester": "MONGCHAW",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-12-04T17:48:13.475",
+      "cpu": "Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "aa92ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "MONGCHAW",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-04T15:01:22.924",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "1855af2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "WillNeot",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-10T13:21:06.298",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 with Max-Q Design",
+      "version": "6a35dc0",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

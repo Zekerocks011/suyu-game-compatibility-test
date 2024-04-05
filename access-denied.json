@@ -1,0 +1,19 @@
+{
+  "name": "Access Denied",
+  "description": "Calling all safe-crackers and lovers of puzzle games! The time for testing your brain, whilst listening to rain and thunder has arrived, as try your hand at a series of puzzles that are playable across 36 levels.\n\nFrom rotating dials, imputing numbers and other commands, your work will be cut out for you, but in the event your mental puzzle-solving prowess comes through for you, you will get the chance to have your cake and eat it too!\n\nWill access continue to be denied to you, or will you defy all odds and overcome all hurdles? There is only one way to find out. \n\nFeatures: \n * 36 levels\n * 3D graphics\n * No hand-holding tutorials\n * Realistic sounding rain and thunder\n * Increasing puzzle difficulty throughout",
+  "titleId": "0100A9900CB5C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/82f1a6670de28a4a935303da8a229fb4e8b5c223b6267df7372bd128ae60a338.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-17T22:05:12.047",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

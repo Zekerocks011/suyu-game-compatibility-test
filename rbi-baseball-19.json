@@ -1,0 +1,19 @@
+{
+  "name": "R.B.I. Baseball 19",
+  "description": "R.B.I. Baseball 19 takes the field delivering heightened authenticity for a genuine MLB experience. We’ve added hundreds of new animations, updated player models, every official 2019 uniform, more player gear, improved ball physics and environments, and more!\n\n*Your Franchise: Manage your dream team across multiple seasons! Add pieces at the trade deadline, win over free agents, call up rookies and bring on new two-way players.\n\n*MLB Legends: Play as 165+ all-time greats like Jackie Robinson, Ted Williams, or Reggie Jackson! \n\n*Legends Teams: New Legends Teams on Exhibition Mode\n\n*Home Run Derby, Your Way: Pick any MLB player or Legend, any MLB ballpark and customize your bracket. \n\n*Weekly Roster Updates: Weekly, season-long roster updates with performance-based statistical tuning.\n\n*Bumpin’ Soundtrack: Music from artists including Evaride, Banzai, OneRepublic, and more!",
+  "titleId": "0100FCB00BF40000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/311ae190917e854fd6303035f2ec7c139b7d85b7bd800636c9ddda83486b14bc.jpg",
+  "tests": [
+    {
+      "tester": "8BitF0x",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-20T04:49:29.732",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2",
+      "version": "f43ce79",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

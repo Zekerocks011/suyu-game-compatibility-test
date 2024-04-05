@@ -1,0 +1,30 @@
+{
+  "name": "Steam Prison",
+  "description": "\"Steam Prison\" is coming to Nintendo Switch with upgraded content!!\n \n[Synopsis]\nThere are two kinds of people.\nThe rulers and the ruled.\n \nA catastrophic flood split the world into two.\nThe Heights, a gorgeous utopia. The Depths, a filthy industrial wasteland.\nThe people of the Heights, who were privileged to escape the disaster look at the survivors they have abandoned in the Depths with disdain.\nOur heroine, Cyrus Tistella, born and raised in the Heights, has nothing but contempt for those from the Depths.\nTo the people of the Heights, the Depths is a prison where sinners are banished. A land where the lowly dwell.\nWithout ever involving with the Depths, Cyrus lives her life as a police officer in the Heights, protecting the people with faith in her sense of justice.\nOne day, on an observation mission, Cyrus travelled with her partner, Fin, to the area of the Depths where criminals from the Heights were kept.\nAs Cyrus descend to that unknown world, the gears of her fate has begun to turn…\n\n <Specifications on Nintendo Switch>\n•Newly added Opening Theme \"Brilliance\", with new video sequence, performed by the 6 dateable characters!\n•New Character Songs for Best Ends, with newly added closing credits.\n•Short story \"Wedding Eve\" added in Novel Mode for immersive experience!\n•Switchable display languages between Japanese, English and Chinese (Traditional & Simplified)!! \n\n※ This game is a romance visual novel adventure game.",
+  "titleId": "01008010118CC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/531097226a9afaa112a5df136488063621952fd754a9deb00bccdc50b76a35b5.jpg",
+  "tests": [
+    {
+      "tester": "Batlu",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-08T23:06:33.59",
+      "cpu": "Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 with Max-Q Design",
+      "version": "0903f3c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "vane233",
+      "rating": 4,
+      "details": null,
+      "test_date": "2022-01-22T00:20:10.318",
+      "cpu": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "gpu": "Intel(R) UHD Graphics",
+      "version": "8f3b894",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

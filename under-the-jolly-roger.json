@@ -1,0 +1,19 @@
+{
+  "name": "Under the Jolly Roger",
+  "description": "Under the Jolly Roger is offering an ultimate ability to free roam three vast worlds filled with dozens of colonies and forts, hundreds of quests, and countless ships to plunder.\n\nYou can trade, fight, explore on your own, or call friends to do the same together!\nSet your foot on the land to plunder it!\n\nGame features:\n- Limitless sailing in real-time - use Global Map only if you want to!\n- A system of leveling your pirates, let them grow from sailor boys to skilled old salts!\n- Hundreds of quests\n",
+  "titleId": "010031E00EA24000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7851742f7f467718e2bcd5c55d456b7bb68d008c938f660a3fa983e2c6c930b1.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T19:41:50.393",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

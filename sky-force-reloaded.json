@@ -1,0 +1,118 @@
+{
+  "name": "Sky Force Reloaded",
+  "description": "The shoot ‘em up you were looking for! \n\nSky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. \n\nSky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects. It will keep you with its superb gameplay mechanics, progression system and in-game collectibles. It will leave you wishing for more, once it’s over. Fortunately, there’s a lot to do before that happens. \n\nWelcome to your new favorite shoot ‘em up. Welcome to Sky Force Reloaded! \n",
+  "titleId": "01006FE005B6E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4ff639bc128e8357c7f54cd9eb65fbd5f80f39d67477a4a3d584084da379237f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-04-01T03:08:27.256",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "97722b8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "themattman2751",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-02-21T16:17:37.255",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-02T11:37:51.073",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-25T09:54:04.26",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "themattman2751",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-02-21T16:20:11.249",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-09-14T17:44:29.505",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "702e7ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-03-25T21:19:43.178",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "772a541",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "themattman2751",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-21T16:15:35.6",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "692c072",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "pascal1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T09:02:32.487",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "bbb7485",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "theboy181",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-01-13T04:48:35.167",
+      "cpu": "Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "7852770",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

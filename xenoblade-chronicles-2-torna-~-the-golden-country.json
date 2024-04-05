@@ -1,0 +1,118 @@
+{
+  "name": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+  "description": "Guide a group of legendary warriors on a journey through the tragic history that doomed a kingdom and drove a hero down a dark path 500 years before the events of the Xenoblade Chronicles™ 2 game. Defend yourself from Malos and his forces using all the fury of this refined battle system, allowing you to fight as both the artificial lifeforms known as Blades and their masters, the Drivers.\n\nDrivers and their Blades can change from the frontlines of combat to the back in order to unleash powerful context-sensitive abilities. Together, you’ll fight for the survival of mankind, under threat by Malos, who wields the legendary sword, The Monado. To stand a chance, you must master every character’s powerful skills including Talent Arts, a strategic element returning from the original Xenoblade Chronicles™ game. By equipping Drivers with new weapons, you can alter their attacks and elemental powers to perform devastating combos. On the long road ahead, you’ll rest at camps, cook food, craft items, and share a heart-to-heart with many a traveling companion. Who knows where this twisted journey will lead.\n",
+  "titleId": "0100C9F009F7A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c2ec1378b38c485b86f650eb835efb724871f53cffca17b9ed5149657f9426d7.jpg",
+  "tests": [
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-02T15:13:41.364",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:09:32.407",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-26T17:15:23.199",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-02T15:13:47.189",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-26T17:15:29.206",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "c648152",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-02T15:14:59.998",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "516c5cf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:10:32.226",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-18T01:09:25.14",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "79c79e1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-30T23:11:45.565",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "5016568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-06T10:16:04.208",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1080",
+      "version": "fb2e527",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

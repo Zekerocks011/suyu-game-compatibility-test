@@ -1,0 +1,30 @@
+{
+  "name": "ACA NEOGEO REAL BOUT FATAL FURY SPECIAL",
+  "description": "\"REAL BOUT FATAL FURY SPECIAL\" is a fighting game released by SNK in 1997. Introducing a brand-new 2-line battle system, a refinement of the Power Gauge system, and the abolishment of the ring-out system, the battle tactics of this system have been further improved. Along with Wolfgang Krauser, a total of 19 combatants appear.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "010088500878C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4bea91db1d723fafe3eb6e3feb69f731468645c484cf3d24f69d33d3274ff2ce.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-17T22:54:45.605",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T18:50:04.162",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

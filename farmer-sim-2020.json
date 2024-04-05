@@ -1,0 +1,19 @@
+{
+  "name": "Farmer Sim 2020",
+  "description": "Farmer Simulator will let you become a real farmer! Take yourself in an awesome open world and start enjoying this great farming simulator. Harvest different types of crops, manage your livestock - cows, sheeps, turkeys, pigs. Experience the farming life, transport woods, hays, etc...\nThis Farmer Simulator will allow you to play with many machines, tractors, combines, trucks, trailers, plows, seeders, etc...\nThe next-gen graphics will completely immerse you in the real farming world.\n\nFeatures:\n- Realistic Vehicles and Machineries (tractors, combines, plows, harvesters, seeders, trailers, trucks,)\n- Easy Tutorial\n- Many Type of plants to harvest\n- Visually manage your livestock (pigs, sheeps, cows, turkeys...)\n- Next Generation Graphics\n- Open-World Career\n- Incredible Weather System\n- Day-Night Cycle",
+  "titleId": "01001BB00F20E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a9d11783ce6bb757e1e4e9bdee9a9af3795b62d6b479f400d50a9a23b1f60fb6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-06T11:15:25.525",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "92a3069",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

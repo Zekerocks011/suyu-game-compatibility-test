@@ -1,0 +1,19 @@
+{
+  "name": "PUSS!",
+  "description": "“This game is BANANAS!” — IGN\n“This game makes me want to keep trying over and over and over again.” — Jacksepticeye\n“This might be the weirdest game I've ever played but I'M GLAD I DID!!” — Markiplier\n\nIn this game, you play as a cat that is trapped in another dimension.\nFind the way out or stay there forever!\n\nFeatures:\n• Bossfights! The real Bullet Hell!\n• Free your future partners and they'll help you fight evil!\n• Compare the results of your run with the results of other players on the leaderboard\n• The levels are tougher than they look at first sight. They also appear in a random sequence!\n• Various skins for your cat :3",
+  "titleId": "010069401270E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3b428a9ebce4156d0b5074203d382a5eee5103cee91fba82900a1a4ab16c3329.jpg",
+  "tests": [
+    {
+      "tester": "winterfoxx_snow",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-02T22:20:27.877",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080",
+      "version": "89646e9",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

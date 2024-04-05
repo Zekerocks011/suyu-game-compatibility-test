@@ -1,0 +1,52 @@
+{
+  "name": "Ghostrunner",
+  "description": "Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in a grim, cyberpunk megastructure. Climb Dharma Tower, humanity’s last shelter, after a world-ending cataclysm. Make your way up from the bottom to the top, confront the tyrannical Keymaster, and take your revenge.\n\nThe streets of this tower city are full of violence. Mara the Keymaster rules with an iron fist and little regard for human life.\n\nAs resources diminish, the strong prey on the weak and chaos threatens to consume what little order remains. The decisive last stand is coming. A final attempt to set things right before mankind goes over the edge of extinction.\n\nAs the most advanced blade fighter ever created, you’re always outnumbered but never outclassed. Slice your enemies with a monomolecular katana, dodge bullets with your superhuman reflexes, and employ a variety of specialized techniques to\nprevail.\n\nOne-hit one-kill mechanics make combat fast and intense. Use your superior mobility (and frequent checkpoints!) to engage in a never-ending dance with death fearlessly.\n\nGhostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
+  "titleId": "010090F012916000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/df41c62c10115086914589f5d6776c26227c20282aff6f547e9cbb6547a39be7.jpg",
+  "tests": [
+    {
+      "tester": "AQUASEAWING",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-08T06:50:12.333",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 690/PCIe/SSE2",
+      "version": "5b1e158",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-06T10:20:05.138",
+      "cpu": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1650/PCIe/SSE2",
+      "version": "440d635",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-05T09:19:17.107",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-11-16T19:51:29.988",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "94c65f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Downwell",
+  "description": "Make your way further and further down into the darkness filled with nasty creatures and mysterious secrets to collect the spectacular red gems scattered about the rocks. Step into precariously placed shops and buy some helpful items or level up between levels to battle well-dwelling monsters and uncover hidden caves filled with riches and relics. No two trips down the well are ever the same!\n\nFeatures:\n\nThe Amazing Gunboots - The fashionable and lethal Gunboots allow players to unleash a torrent of firepower on the nasty creatures dwelling in the well and slow your decent with each shot. \n\nUnique Weapons & Items - Get different weapons, shop for peculiar items and obtain powerful upgrades that all stack and affect the way you play!\n\nA New Adventure Every Time - Each level in Downwell is procedurally generated, so no two trips down the well are ever the same providing a fresh new adventure each time!\n\n",
+  "titleId": "010093D00C726000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/ed918b0c2219394bd391fb825b79407c5415808958054aa4ada0b8e95dc675ac.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-07T14:42:33.036",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Puyo Puyo Tetris",
+  "description": "Two puzzle game juggernauts collide as Tetris®, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo™ from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other!  The game offers tons of gameplay styles – from single-player Adventure and Challenge modes to ferocious competition with up-to-four player Arcade modes, for tons of Tetris/Puyo variety. ",
+  "titleId": "010073C001D5E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/709be300cf44a0b3a69eddf1733b71bfaa8dac88a5516b0e055ec9c6540e9451.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-29T23:56:35.999",
+      "cpu": "AMD Ryzen 7 1700 Eight-Core Processor          ",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "e6a1782",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-08-16T00:18:02.404",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "f0d7a3d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-12T23:51:17.857",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "5f4d5dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-09-23T00:35:38.379",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "9696923",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-04T21:40:03.584",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB",
+      "version": "4434ddc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-12-21T14:09:54.914",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "574ff70",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-27T19:08:34.679",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080",
+      "version": "3ebfd04",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-12-02T13:54:34.202",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d4881e8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kanelakis",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-04-30T20:42:19.269",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "429f8cb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-30T02:15:53.817",
+      "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "65637c4",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

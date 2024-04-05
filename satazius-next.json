@@ -1,0 +1,19 @@
+{
+  "name": "Satazius NEXT",
+  "description": "Discover SATAZIUS NEXT the new classic shoot them up for your console.\nCompletely redesigned and animated for more gaming pleasure, Satazius Next takes you in a galaxy far away.\nLost on planet Agano, resist the attacks of space pirates and save the universe from destruction.\nAim to kill to defeat your enemies.",
+  "titleId": "01009580113A4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0b3b0aec712dc0c039585750519c9dbaa7c4049286689987729874654b50ac4b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-03T18:36:04.221",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "69b0b0d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "SAMURAI SHODOWN",
+  "description": "SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993. 11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay! Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players’ game actions and patterns in order to create CPU-controlled “ghost” characters. With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!\n\n■Carrying on the Legacy\nThe new game aims to bring the same tense and exhilarating battles that the series is known for. Intense and epic battles are back!\n\n■Evolving the Presentation\nUsing the power of UNREAL® ENGINE 4, the series is able to achieve a level of detail never before seen for a totally new visual experience!\n\n■A Revolutionary new AI system\nUsing revolutionary Deep Learning AI, the game will learn from player tactics and create Ghost characters which players around the globe can share and fight against.",
+  "titleId": "01002DF00F76C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3f4f0c3eacfa4f2052b70826b37d12a04767d4bbc858168b1886fe6bd2ab5298.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-02-08T06:09:04.97",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "9e38621",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-11T15:25:25.696",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "d464498",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-02-13T19:14:33.914",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2060/PCIe/SSE2",
+      "version": "edc029d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

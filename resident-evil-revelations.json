@@ -1,0 +1,52 @@
+{
+  "name": "Resident Evil Revelations",
+  "description": "The critically acclaimed survival horror title takes players back to the events that took place between Resident Evil 4 and Resident Evil 5, revealing the truth about the T-Abyss virus. Resident Evil Revelations features series favorites Jill Valentine and Chris Redfield, plus their respective BSAA partners - Parker Luciani and Jessica Sherawat. The action begins on board a supposedly abandoned cruise ship, the ‘Queen Zenobia’, where horrors lurk around every corner, before players head for the mainland and the devastated city of Terragrigia. With limited ammo and weapons available, the race is on to survive the horror of Resident Evil Revelations.\n\nEnhance your gameplay experience even further with additional motion controls that let you aim and wield your weapons with greater accuracy on the Nintendo Switch.",
+  "titleId": "0100643002136000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8322ce21865ef5dab6691fe906c59f758bc9d98ae8cac4836e07e1ad32285eec.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-10T16:04:11.402",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "673cf86",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-01-15T12:43:15.149",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "c427e5e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-03-27T13:51:22.426",
+      "cpu": "Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "24c798d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "naruga",
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-02T16:24:50.432",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "212d5e3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

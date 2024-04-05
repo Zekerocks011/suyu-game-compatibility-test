@@ -1,0 +1,41 @@
+{
+  "name": "AngerForce: Reloaded for Nintendo Switch",
+  "description": "AngerForce: Reloaded is a hardcore scrolling fly-and-shoot game done in the 90’s arcade style. It's set against the backdrop of a 19th century human world that has seen the outbreak of a robot rebellion.\n\nThe game uses an original cartoon/comic art style. Made with traditional 2D technology, thanks to free-form deformation technique, its character animation sequences are rich in detail, achieving a 3D-like effect.\nThe players will be able to improve their characters by choosing from randomly generated abilities. Your choices will impact your entire stage progression.\n\nYou can choose from dozens of upgrade choices to complement your characters’ special abilities, thereby creating a unique personal play style.\n\nIn addition, the game also features a Local Co-op Mode that will allow you to explore the story alongside your friend.\n\nStand-Out Features:\n- A straight-up hardcore STG that takes you back to the fast-paced 90's.\n- Original robotech and unique comic art style that employs FFD technique to achieve detailed and 3D-like effects in 2D animation.\n- 7 elaborate stages and 10+ crazed bosses to defeat.\n- 4 original characters, each of them having two special abilities and one powerful bomb.\n- A roguelike randomized ability system. Create your own unique play style by mixing and matching your character's abilities.\n- Explore the story behind each character and the secrets surrounding the enemy legion.\n- More than 20 original tracks.\n- Vertical screen mode.",
+  "titleId": "010001E00A5F6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/27c987779bace755f7ccebdd4108d53525a6659f2aa54498d98e6857edbd0a4c.jpg",
+  "tests": [
+    {
+      "tester": "gigaskun",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-26T18:49:02.19",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gigaskun",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-04-20T07:09:21.226",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-18T15:30:50.763",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "e04c91f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

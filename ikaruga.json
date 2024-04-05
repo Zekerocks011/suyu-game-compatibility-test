@@ -1,0 +1,41 @@
+{
+  "name": "Ikaruga",
+  "description": "A rebel pilot named Shinra must battle an enemy nation using a specially-designed fighter called the Ikaruga, which can switch between two energy polarities (black or white) at the touch of a button. Bullets that are the same color as Shinra’s ship can be absorbed, while the opposite color will do damage - this polarity-switching mechanic is the game's core feature and the foundation for its stage and enemy design. It's now up to Shinra makes his final stand, as the Ikaruga might be the rebel federation's last chance to defeat the oppressive Horai regime!",
+  "titleId": "01009F20086A0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8ee2e72dd791fb6da71ec349fc9cd2d63345db5bb226d2cbce74ece01f66e819.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-11T17:32:34.851",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-03-05T09:35:21.175",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "c5abe59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-02-20T09:56:34.19",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX Vega",
+      "version": "e12b245",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

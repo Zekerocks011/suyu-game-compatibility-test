@@ -1,0 +1,19 @@
+{
+  "name": "LA-MULANA",
+  "description": "Your destiny awaits in La-Mulana! Take control of archaeologist Lemeza Kosugi and navigate through puzzles, traps, and deadly Guardians in order to claim the Secret Treasure of Life. You'll need sharp wits, quick reflexes, and most importantly, all the courage you can muster. Will you succeed in unraveling the secrets of La-Mulana, or will you fall victim to the dangers that surround you?",
+  "titleId": "010026000F662000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/83928fc9f104118332b5bca7590881c8a3d8bd33a3999b69c0a3a281d0fcac58.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-01-26T18:02:48.785",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

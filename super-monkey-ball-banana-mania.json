@@ -1,0 +1,96 @@
+{
+  "name": "Super Monkey Ball Banana Mania",
+  "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It’s monkey business for the gang as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\n• The ultimate Super Monkey Ball Experience – More than 300 stages from Super Monkey Ball, Super Monkey Ball 2 and Super Monkey Ball Deluxe. \n• Go Bananas with 12 fun minigames including Monkey Racing, Monkey Soccer, Monkey Bowling, Monkey Baseball and much more! \n• Challenge your friends as you compete for top banana on the online leaderboards!\n• Immerse yourself in the Super Monkey Ball world with creative comic book-style story telling in Story Mode.\n• Want to be the coolest monkey on the block? Customize your character and Super Monkey Ball to make it your own!",
+  "titleId": "010001701248C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d77cf8370a37fc183d5b84679a3a6bbff3f52aa8cab2ecdef7de34ed04d23787.jpg",
+  "tests": [
+    {
+      "tester": "Kosmodows2000",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-30T19:08:08.416",
+      "cpu": "AMD Ryzen 7 2700X Eight-Core Processor         ",
+      "gpu": "Radeon RX 5500 XT",
+      "version": "90342a4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-03T10:23:09.336",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "bd8552e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rcalecomte",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-05T15:37:43.504",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3080 Ti",
+      "version": "7ce7d5c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ThatFluffDude",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-10T12:19:07.914",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "70bdaca",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Firewalk",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-26T12:38:13.21",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce RTX 2060",
+      "version": "f192e2a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thethiny",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-18T23:10:04.164",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti",
+      "version": "69ce8bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-10-03T09:47:55.347",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "bd8552e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "RinMaru",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-03T03:49:05.518",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "Radeon (TM) RX 480 Graphics",
+      "version": "bd8552e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

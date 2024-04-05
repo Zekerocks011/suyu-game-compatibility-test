@@ -1,0 +1,52 @@
+{
+  "name": "Thy Sword",
+  "description": "Thy Sword is a retro inspired hack and slash roguelike with procedural generated levels. Pick from different hero types like the Barbarian and Valkyrie to break the tyranny of the Dark Overlord!\n\nPick from three different difficulty modes to suit your playstyle. New to adventuring? Then select apprentice mode to have infinite credits or if you’re a heroic veteran, choose hero mode where you only have one credit. \n\nUnlock additional heroes throughout your journey! Bring along a friend in 2 player cooperative mode to save the land from the Dark Overlord. Can you collect all of the crystals?\n\nFeatures:\n * Fast paced, strategic sword and bow combat\n * Play solo or cooperatively locally\n * Choose from multiple heroes and unlock new ones\n * Pick from 3 different difficulty options to suit your playstyle",
+  "titleId": "01000AC011588000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3af622b99d5a83edfc8513e5a37cb6615539476d3ef590e95c8343895250b98a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-11T22:54:33.417",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 3080/PCIe/SSE2",
+      "version": "d49473f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-10-01T20:02:39.161",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-11-09T19:06:55.338",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "304f1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-02T17:00:45.865",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "66187c2",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

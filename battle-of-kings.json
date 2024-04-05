@@ -1,0 +1,19 @@
+{
+  "name": "Battle of Kings",
+  "description": "STORY\n\nMany years ago, the lands of four islands were divided into two kingdoms. One of them was handed over to you, and the other to your cousin Marcus. Since them, the people of your kingdom were living a peaceful and prosperous life under your reign. Those days are gone now, as your greedy cousin allied with the dark wizard Arfael plans to take over your rightfully owned lands. You need to fight off his attacks aimed against all of your strategic outposts and defeat him completely in the final battle.\n\nFEATURES\n\n•7 types of towers of different strategic use with 3 upgrade levels each\n\n•8 types of units (soldiers, war machines) with 4 upgrade levels each\n\n•4 different –from the forest, through the desert, up to snowy hills and lava mouths –environment themes and locations means lots of possible winning strategies\n\n•Singleplayer Campaign (PvE) mode where you play classic tower defense scenario and some 1 vs 1 key battle with your rival king (AI)\n\n•Battle Mode (PvEor PvP) where you have to:\n→defend your kingdom\n→attack the opponent\n→upgrade economy\n→improvise, adapt, overcome, repeat! (it’s all combined at the same time!)\n\n•Battle PvP Online Multiplayer where you can test and improve your strategic skills against your friends or other players\n\n•Play it any way you like! 3 comfortable playstyle modes: tabletop mode, handheld mode, or TV mode\n\nRise walls, upgrade towers, enhance army and be a kind ruler in classic tower defense game mixed with 1 v1 battle playstyle in ‘Battle of Kings’ realm!",
+  "titleId": "010035E00C1AE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7048fcc31c210465fc647d925fb1484abf5cf8edfd0e3ef90368ca58531c8b83.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-26T23:35:36.144",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER",
+      "version": "43df9f5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Gear.Club Unlimited 2",
+  "description": "With the pedal to the metal, race along more than 1800 miles of races!\nOn the mountainside, through a nature park, in the middle of the desert or along the coast, defend your position over the course of more than 250 races, including championships, missions and challenges.\n\nAs you progress through the races, admire the growing collection of cars in your personal garage. Gear.Club Unlimited 2 has more than 50 licensed cars from the world’s most famous manufacturers, such as the Porsche 718 Boxster, 918 Spyder, 911 GT2RS, Dodge Viper, Lotus 3-Eleven or McLaren 720s.\n\nPersonalize them and make them unique! You can change their appearance with the paint and bodywork, or change their driving performance with engine tuning.\n\nYou would be nothing, however, without your Club! Create and manage it with your friends, recruit the best drivers and take on rival clubs from all over the world, reach the top of the podium and enjoy exclusive content reserved for the best players.\n\nNo more borders. Drive with freedom!\n\nFeatures:\n\n• A huge playing area that includes more than 250 races, located in four rich and diverse environments.\n• Players begin with 51 famous racing cars made by some of the finest manufacturers in the world, including Porsche, Lotus, McLaren, Koenigsegg and Bugatti.\n• In the story mode, save the family team from bankruptcy by taking on charismatic riders of all nationalities.\n• Players can create and manage their Club and recruit the best drivers that cross their path. They are free to challenge rival clubs from around the world to see their crew’s name appear at the top of the leaderboard.\n• Players can manage and personalize their garage, as well as their racing cars, which can be visually customized and performance-tuned!\n• Play alone or with friends: the game features a local multiplayer mode with a four-way split screen.",
+  "titleId": "010072900AFF0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7cb73ca34ca2ef191b84f23732307736defdddfb4d71013e7ee142de111df755.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-04-04T16:39:37.195",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "22e869a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DragonsFear",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-26T15:38:22.569",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "289ac75",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Noobextremo",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-06-29T15:06:09.45",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "d96c57f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-02-25T15:14:18.743",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "0159182",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-03-18T17:23:40.35",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-10-13T04:47:42.658",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1650 Ti",
+      "version": "33f3be6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "EdgeGMR",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T02:43:11.504",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti",
+      "version": "b7cd227",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-04T16:42:09.463",
+      "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "22e869a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-06T01:47:03.538",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "8cd5dc3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "The Station",
+  "description": "The Station is a first-person sci-fi mystery set on a space station sent to study a sentient alien civilization. Assuming the role of a recon specialist, players must unravel a mystery which will decide the fate of two civilizations.",
+  "titleId": "010007F00AF56000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/acf9def243b3a2a24584bad61b729e9f7b8286268b8429fc4c7b71bfcb69e0f1.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T19:03:39.582",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

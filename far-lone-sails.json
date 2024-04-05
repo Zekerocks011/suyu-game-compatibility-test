@@ -1,0 +1,19 @@
+{
+  "name": "FAR: Lone Sails",
+  "description": "Traverse a dried-out seabed littered with the remains of a decaying civilization. Keep your unique vessel going, overcome numerous obstacles and withstand the hazardous weather conditions. How far can you make it? What will you find?\n\n- Master your vessel: Maintain and upgrade your vehicle to overcome numerous obstacles and natural hazards.\n- Discover a unique world: Explore a desolate dried-out seabed, follow the trails of your people and find relics and buildings, that tell the story of a civilization on the run.\n- Experience an atmospheric journey: Let the sky full of clouds pass by and heed the wind that drives your sails towards the horizon.",
+  "titleId": "010022700E7D6000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a8630a2fa23599da1233c5a0f5320b0a708718a599bd12cbbb718e8e8e1178e2.jpg",
+  "tests": [
+    {
+      "tester": "Blinkerfluidsout",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-26T23:23:49.239",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "AMD Radeon RX 5700 XT",
+      "version": "655226d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

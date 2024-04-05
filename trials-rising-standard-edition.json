@@ -1,0 +1,30 @@
+{
+  "name": "Trials Rising Standard Edition",
+  "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry in the Trials franchise. With over 125 new tracks, Trials® Rising is easy to pick up and play, challenging to master, and offers the best multiplayer racing experience ever.\n\nExperience the most challenging tracks around the world – from the Great Wall of China to the Eiffel Tower.\n\nTest your friendships with the new Tandem mode that allows two players to control one bike. Hilarity is guaranteed!\n\nCreate and share unique levels in Track Central with over 8,000 items available. The fun and possibilities are endless!\n\nFrom your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory.",
+  "titleId": "01003E800A102000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/747c27523756b092d93621f09e4f242212c1fc74dc4a448096d1b19eef566b37.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-05T17:30:38.708",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "9a9a1dc",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-06-11T10:06:34.871",
+      "cpu": "       Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 750 Ti/PCIe/SSE2",
+      "version": "dfd381d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

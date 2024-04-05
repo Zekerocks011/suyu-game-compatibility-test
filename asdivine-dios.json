@@ -1,0 +1,41 @@
+{
+  "name": "Asdivine Dios",
+  "description": "Among the many worlds the deities have created, there is one world that abounds with life known as Asdivine. But when a spate of disturbances erupts across the globe and an ever spreading murk threatens to destroy it, Izayoi, the deity of Asdivine himself, takes up his cause to save the world he created with his own hands. Suffering from an unfortunate loss of his own divine powers, is there any hope he can succeed? Find out as the curtain raises on this adventure of divine proportions!\n\nBoasting a voluminous story, an expansive world, treasure filled dungeons, exciting turn-based battles, weapon creation, and more, the all-inclusive RPG experience is here! Plus, limitless enemies and loot, a multitude of subquests, and even bosses that will blow your mind await!",
+  "titleId": "010054B00D4A2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/0715cf7f1d8f34df07c90534df3317ad7cfa30b00548b06b6a1ced4f709f7744.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-16T17:13:05.133",
+      "cpu": "Intel(R) Core(TM) i5-8200Y CPU @ 1.30GHz",
+      "gpu": "Intel(R) UHD Graphics 615",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T17:35:58.77",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-03T15:44:25.893",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 SUPER/PCIe/SSE2",
+      "version": "175a25a",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

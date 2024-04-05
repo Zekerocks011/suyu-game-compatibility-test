@@ -1,0 +1,52 @@
+{
+  "name": "Them Bombs!",
+  "description": "A text message leads you to a ticking bomb. Tick-tock! Tick-tock! Every second counts. Which wire to cut – the blue or the red one? How to set the control knobs? Tick-tock! Tick-tock! Only two minutes left… Your flashlight battery runs out. The adrenaline kicks in. Will you keep a cool head and defuse the bomb?\n\nFEATURES\n• Describe what you see to other players\n• Let your Expert Team talk you through the bomb defusal\n• Put your communication skills to the test\n\nWARNING: Time pressure and adrenaline may lead to shouting, swearing, and misunderstandings, which can cause temporary resentment between friends or silent treatment from loved ones!\n\nGAME RULES\nOne of the players takes on the role of the Unlikely Hero, who finds a bomb and tries to defuse it. The hero is the only player who uses the console. The other players become the Expert Team and they have access to the bomb defusal manual. They cannot see what the Unlikely Hero sees on the screen, and the hero cannot see the contents of the manual.\n\nDISCORD\nFind others to play with, chat or or report issues.\nJoin us on our Discords server: www.thembombs.com/discord",
+  "titleId": "01006C400ACEE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7771094aff42ae67525a1a84ff3e620ce2e8148f12f6b2531112e997381c8ec6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2019-01-11T14:14:46.926",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "d91d6ab",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2018-11-19T12:30:13.668",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "d37fe18",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2018-11-30T15:11:30.64",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "GeForce GTX 1060 3GB/PCIe/SSE2",
+      "version": "1bc7c92",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-04-07T02:56:28.457",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

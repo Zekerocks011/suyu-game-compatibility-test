@@ -1,0 +1,52 @@
+{
+  "name": "198X",
+  "description": "Welcome to Suburbia, just outside the City, sometime in 198X. This is the journey of Kid, a teenager stuck between the limitations of innocent youth and the obligations of inevitable adulthood. The story unfolds when Kid discovers the local arcade – finding new worlds, and new meaning, in video games. For every visit to the arcade – every game uncovered, every move mastered, every demon defeated – Kid grows stronger. And the lines between reality and game start to blur...",
+  "titleId": "01007BB00FC8A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/9301694a8c066b145de57a4e11e5239f46e425a32b3305d42461ada8dac6051c.jpg",
+  "tests": [
+    {
+      "tester": "Elcorsico28",
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-02-08T23:20:53.331",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2070",
+      "version": "7513f9b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-02-06T10:44:32.493",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER",
+      "version": "301dcac",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Eloeri",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-01-27T16:02:48.895",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "3404b5a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T10:09:52.102",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

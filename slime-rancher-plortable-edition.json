@@ -1,0 +1,19 @@
+{
+  "name": "Slime Rancher: Plortable Edition",
+  "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.\n\nIncludes the Secret Style Pack DLC!\n\n-Grow crops and raise chickadoos to feed your collection of hungry slimes.\n-Complete daily requests from other ranchers to get bonus rewards.\n-Earn money to upgrade your vacpack, build more corrals, or expand your ranch.\n-Use Slime Science to find rare resources, craft decorations, and create gadgets that will help you on your adventures.\n-Explore a sprawling world loaded with lots of secrets and hidden treasures.",
+  "titleId": "0100B9C0148D0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1df2e568f3f8e3a4b862e9b9b98650a6e6411acdcf7ad52485aceb8e7de70ed9.jpg",
+  "tests": [
+    {
+      "tester": "gdukofficial",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-14T03:41:31.841",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "174a2af",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

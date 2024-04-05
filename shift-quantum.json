@@ -1,0 +1,19 @@
+{
+  "name": "Shift Quantum",
+  "description": "Axon Vertigo, the world's leading authority and most trusted friend in cerebral contentedness programming, promises to deliver better life quality for everyone with the Shift Quantum program.\n \nConnected to the cyber-noir action-puzzle platformer, you will be tasked to solve puzzles and create negative space by inverting the world to transform barriers into escape routes.\n \nShift the world, twist your environment, bend your mind to unveil its secrets and solve each brain-drilling level .\n\nMake use of all special gameplay blocks to overcome obstacles and get to the exit to find the happiness you have been searching for and promised by Axon Vertigo.\n\nJoin Axon Vertigo's Level Editor for the Shift Quantum program to create your own custom levels and publish them to the community to get played, rated and featured.\nDon't limit your challenges, challenge your limits.",
+  "titleId": "01000E8009E1C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8eb471c2892de0327ecf18d769df249b6af917abf64a07aba660e93d4cd43417.jpg",
+  "tests": [
+    {
+      "tester": "juan_lopes",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-29T08:33:15.975",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1650 SUPER",
+      "version": "15a5950",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Air Hockey",
+  "description": "Play Air Hockey and re-discover the fun and excitement of this classic arcade game anywhere.\n\nWith stunning 3D graphics, you'll be transported straight back to the arcades of your youth.\n\nAir Hockey takes full advantage of HD giving you stunning crisp graphics.\n\nPlay against another player in TWO player mode or against the smart artificial intelligent (Ai) player, but be warned, winning won't come easy.",
+  "titleId": "010005A00A4F4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/771ec8bdac7f037b9aed871ea5c496034429abd24974f0b98e31af6cd8c6c02e.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T12:53:38.789",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "8baee48",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-17T23:37:22.019",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "f72d2fe",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-03-18T17:35:17.966",
+      "cpu": "       Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1070",
+      "version": "fc9cd29",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-08-26T18:39:01.695",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

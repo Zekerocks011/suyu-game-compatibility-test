@@ -1,0 +1,52 @@
+{
+  "name": "Golf With Your Friends",
+  "description": "Nothing is out of bounds as you take on  courses filled with fast paced, exciting, simultaneous mini golf for up to 12 players! \n\nKey Features:\n\n12 Player Multiplayer! Make sure your skills are up to scratch as you tee off against 11 other golfers in online multiplayer.\n\nThemed Courses! Get the Par-Tee started and go head to head on themed courses! Become a pro in the pirate ship, declare worms warfare on the worms course or aim for an albatross in the ancient theme.\n\nPowerups! Drive a wedge between your friends as you trap their ball in honey, freeze it or turn it into a cube.\n\nThree Game Modes! Tee off in classic mini golf, shoot for the pars in hoops or swap the hole for a goal in hockey\n\nCustomisations! Turn the fairway into the runway, with stylish hats, floaties and trails for your ball!",
+  "titleId": "01006FB00EBE0000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4ca4aad2ef36a3c38c2730d93bc7a4bbb784fa411295cfe19be93f4f952888e6.jpg",
+  "tests": [
+    {
+      "tester": "Moonlacer386",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-23T00:41:15.41",
+      "cpu": "AMD Ryzen 3 3100 4-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9ee3dcd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-09-08T08:48:40.457",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poncho",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-11T05:23:31.424",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "108df67",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-08-04T18:19:33.338",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "e155366",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

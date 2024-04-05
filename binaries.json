@@ -1,0 +1,19 @@
+{
+  "name": "Binaries",
+  "description": "Test your skills and reflexes as you simultaneously guide two lovable(1) balls through over 100 controller-smashingly(2) tough platform challenges. Control both balls at exactly the same time as you try to avoid the death and danger that awaits their every move.\n\nOh, and there are jokes.(3)\n(1) May not be lovable\n(2) May not even be a word\n(3) May not be funny\n\nFEATURES\n* Make your way through over 100 levels of fiendish puzzle solving and death-defying challenges.\n* Glutton for punishment? Replay levels against the clock to get the fastest time you can. Are you quick enough to get S rank on every level? (We’re not.)\n* A funky adaptive music score that ramps up when you do well and chills out if you’re stuck, to help you concentrate. It’s like the game wants you to do well (while it’s throwing spikes at you).\n* Choose your own route to completion through a non-linear map. Stuck on a super-tough stage? No worries! Just go and hone your skills on a different level.\n* Laugh along with up to ten jokes! Look, we’re going to keep saying it's funny. You'll come around eventually. (Don’t worry there is no extra charge if you laugh more than ten times.)\n\n(No controllers were harmed in the making of this game.)",
+  "titleId": "01002A1004C48000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/5cca8ad36c58e6fce98a81862fe98ff42330af21d6f4be2fa949c67a3ee67bd8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-08-26T21:49:55.776",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "25df959",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

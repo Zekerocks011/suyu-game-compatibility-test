@@ -1,0 +1,19 @@
+{
+  "name": "MX vs ATV All Out",
+  "description": "All Terrain, All Vehicles, All You! MX vs ATV All Out is the complete off-road racing and lifestyle experience!\n\nChoose between bikes, ATVs, UTVs, refine your rider style at your private compound and blast across massive open worlds to compete head to head in various game modes! The all new Freestyle mode allows you to win with style and crazy stunts! Or go All Out and show your riding skills in Multiplayer!\n\nFeatures:   \n- 2 player split-screen and 8 player online mode\n- Compete in various modes like Supercross, Nationals, Opencross, Waypoint, Tag and more\n- Master insane stunts and test your limits in freestyle mode\n- Turn your private compound into a show room for the all of your customized vehicles\n- Upgrade and tune your vehicles with original performance parts\n- Select your own style from numerous gear companies or choose to compete with one of the many top professional riders from around the world",
+  "titleId": "0100218011E7E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/eeb98bd4626e0ec61c7433ef8cddb19df94f226d46a8c8fd204674b9010704d8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-30T08:00:38.691",
+      "cpu": "Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz",
+      "gpu": "Radeon RX 580 Series",
+      "version": "57d5103",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

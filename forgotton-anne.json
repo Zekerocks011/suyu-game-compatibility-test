@@ -1,0 +1,41 @@
+{
+  "name": "Forgotton Anne",
+  "description": "Imagine a place where all that is lost and forgotten goes; old toys, letters, socks. The Forgotten Lands is a magical world inhabited by Forgotlings; living mislaid objects longing to be remembered.\n\nForgotton Anne is a seamless cinematic adventure with meaningful storytelling and light puzzle platforming. You are Anne, the enforcer who keeps order in the Forgotten Lands, as she sets out to squash a rebellion that might prevent her master, Bonku, and herself from returning to the human world...\n\nFeatures; \n- Discover a beautifully realised world of wonder filled with Forgotlings - charming everyday objects brought to life, bursting with personality. \n- Uncover the truth behind the harrowing conflict taking place between an impassioned ruler and ruthless rebellion.\n- Harness the power of Anima, the energy that brings life to the Forgotten Lands. Use it to solve puzzles and command ultimate control over Forgotlings’ lives.\n- Choose carefully. Your words and actions can alter the tale being told thanks to a branching dialogue system that places the power in your hands. \n- Run, leap, and soar as you strive to guide Anne home, unlocking areas and abilities along the way.\n- Enjoy hand-animated visuals created using the same traditional techniques that brought your favourite animated movies to life.   \n- Immerse yourself in a soaring orchestral score performed by the Copenhagen Philharmonic Orchestra.",
+  "titleId": "010059E00B93C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/7b5c4841af37156b731fcb574ad191947ec3a2dca2f7e327f94aa265b12881f3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-08-13T00:58:59.832",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "5b28eb1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-01-01T19:15:30.842",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "9ae9355",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-03-26T18:38:41.025",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1050 Ti",
+      "version": "a560834",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

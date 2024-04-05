@@ -1,0 +1,19 @@
+{
+  "name": "Super Soccer Blast",
+  "description": "Spiritual Nostalgia Successor\nIt's football with the fast-paced and skilled-based gameplay of over-the-top classic sports games such as International Superstar Soccer.\n\nYou are the stats\nAccessible controls that enable charging and aiming your shots, perform tackles and dashes, shoot lobs and more. Train your precision and reflexes to become a legendary football player.\n\nCreate your own team\nCustomize your players from head to toe with a range of cool looks and play against the AI or a buddy in a friendly match with various game modes. Test your skills in different leagues and soccer cups in the World Tour mode.\n\nJump into the grass pitch and have a blast!",
+  "titleId": "0100D61012270000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a8e291b89fedfacceacf23602493d540fafec9c3a726449a28ce27838de1ad88.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2020-06-29T16:19:26.302",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030/PCIe/SSE2",
+      "version": "6be8ca6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

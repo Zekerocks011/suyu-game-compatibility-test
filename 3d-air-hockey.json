@@ -1,0 +1,19 @@
+{
+  "name": "3D Air Hockey",
+  "description": "Enjoy fast-paced action in this very close to reality Air Hockey Game. Easy to play, tough to master.\n\nmain features:\n\n- Vey Accurate Controls, easy to pick up\n- 3D and 2D Views\n- Top Full 3D Graphics\n- Real Physic Engine\n- 3 AI Levels\n- 6 Tables, 4 Mallets",
+  "titleId": "01000220158C4000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3e73ac5822b909cabd7c15c2b468f764a1f1e0ae89f3f4b6beccf0054f101613.jpg",
+  "tests": [
+    {
+      "tester": "pascal1",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-19T19:04:43.436",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "5609727",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

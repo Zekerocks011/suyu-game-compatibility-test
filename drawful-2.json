@@ -1,0 +1,30 @@
+{
+  "name": "Drawful 2",
+  "description": "Updated with awesome new features:\nNow playable in English, French, Italian, German and Spanish.\nA content filtering tool that helps block offensive answers from players.\nA new moderation tool that allows player answers to be reviewed before they appear on the game screen.\n\nThe team behind the hit party games Fibbage, Quiplash, and YOU DON’T KNOW JACK presents Drawful 2 the game of terrible drawings and hilariously wrong answers! Use your phone or tablet to draw funny and challenging things like “creepy tiger” or “two moms having a great day.”\n\nPlayers type in what they think the (probably terrible) drawing really is and then everyone - even an audience of potentially thousands of players – votes on what they think is the correct answer.\n\nDrawful 2 is a go-to party game that everyone can play and enjoy!\n\nDrawful 2 improves on the original Drawful with the ability to add your own user-generated prompts to make even weirder games full of in-jokes with your friends, as well as expanded tools for streaming.\n\nNote: This game is local multiplayer, but can be enjoyed over streams with remote players.\n\n\n",
+  "titleId": "0100F7800A434000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/deed596cd4d093c9d0c196078ddb74aecfa4dc0682edffc75b54addf746ad3ee.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-05-20T23:31:12.69",
+      "cpu": "Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz",
+      "gpu": "GeForce GT 1030",
+      "version": "90b7b74",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-09-01T15:51:28.691",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 980 Ti/PCIe/SSE2",
+      "version": "2fd6945",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

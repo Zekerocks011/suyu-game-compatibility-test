@@ -1,0 +1,118 @@
+{
+  "name": "Just Dance 2018",
+  "description": "No matter where you come from, how old you are, if you are a panda or a carrot: turn up the volume and get ready to unleash your inner dancer!\n\nJust Dance 2018 is coming back on October 24th 2018 with over 40 tracks at launch, and more than 300 songs available with Just Dance Unlimited and the 3-month trial included!\n\nFrom the hottest hits to family favorites, dance to 40 new tracks, including:\nDespacito - Luis Fonsi & Daddy Yankee\n24K Magic - Bruno Mars\nJohn Wayne - Lady Gaga\nWaka Waka - Shakira\nNaughty Girl - Beyoncé\nRockabye - Clean Bandit Ft. Sean Paul & Anne-Marie\n...and many more!\n\nWhether you are a young dancer in the making or a pro dancer looking for new challenges, it’s never been so easy to Just Dance.",
+  "titleId": "0100A0500348A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a7d5f2a001377fd28f00a954336c0621c6f3bb2a9423b091e89554f18d377622.jpg",
+  "tests": [
+    {
+      "tester": "Mored4u",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-04-28T11:03:11.835",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080",
+      "version": "8f8bcd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cid",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-19T04:02:08.642",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-03-02T16:56:07.907",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "97bf301",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "LerainL",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-02T21:04:20.357",
+      "cpu": "AMD Ryzen 5 1600 Six-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "shivanshu100",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-17T18:31:34.252",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce GTX 1660 Ti",
+      "version": "a55b120",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-03-02T16:57:25.958",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "97bf301",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-05-22T20:19:05.611",
+      "cpu": "Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "004c7bf",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "cid",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-02T06:27:31.101",
+      "cpu": "AMD Ryzen 3 2200G with Radeon Vega Graphics    ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "d93e024",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-19T18:42:25.89",
+      "cpu": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "c658a54",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Igroorg87",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-20T22:29:38.174",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "49e4db3",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

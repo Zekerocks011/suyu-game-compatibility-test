@@ -1,0 +1,118 @@
+{
+  "name": "WarioWare™: Get It Together!",
+  "description": "Take on over 200 quick and quirky microgames—solo or with friends*! What is a microgame? First, choose from a kooky crew of characters, each with their own distinct abilities. Then, short-and-sweet instructions will appear on screen. Finally, use your character’s ability to follow instructions and complete the microgame within a short amount of time. For example, choose Wario, see “Tweeze!,” then use his dash to pull out a statue’s armpit hair! \n\nFind a friendly frenzy with a mountain of microgames\n\nPlay through Story mode (alone or with a second player) and take on microgames to help Wario and friends escape from a bug-ridden video game. Microgames are divided into categories like Fantasy and Nintendo Classics—successfully beat enough microgames in a row to progress through the Story and unlock more characters and modes. In Variety Pack, test your microgame meddle against up to three other players* in several fun and competitive party games (volleyball, anyone?). \n\nGet a taste of WarioWare with a free demo\n\nDip your toes into the wild world of the WarioWare™: Get It Together! game by downloading the free demo on Nintendo eShop. Play a selection of microgames from Story mode that appear in the full game. Complete either alone or with a friend and try out characters as you learn their abilities and play through a microgame gauntlet. Lose all your lives? Start again and try to beat your score!\n\nWario is trying his luck at video games again, but this time he’s really getting into it—literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames. \n\nWhen you aren’t bug busting in Story mode, check out Play-o-pedia to practice your microgame skills with each character. Spend some time with the kooky cast and give them items to promote them in Crew mode. Increasing their job points will come in handy during the weekly Wario Cup as you go for the high score! You can also turn on Ranked Mode** to compare your Wario Cup scores with friends and players around the world.\n",
+  "titleId": "0100563010E0C000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/37e0b0a38fc81f8cd10c2a0721747dc919a1662ac7ec19c20d107603b99cbed1.jpg",
+  "tests": [
+    {
+      "tester": "phaMR2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-05T06:56:10.021",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "e4d13c0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gkfisher",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-05T13:20:11.964",
+      "cpu": "Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+      "version": "6756f82",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-07T13:11:44.451",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "22f9fc7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thethiny",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-11-13T20:38:17.63",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3070 Ti",
+      "version": "174a2af",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "TinoPereira",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-13T07:22:33.458",
+      "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce GTX 1650",
+      "version": "daa362b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Night_Rider",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-31T02:31:18.701",
+      "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti",
+      "version": "52e6b55",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-09T03:37:46.795",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-12T14:19:22.451",
+      "cpu": "AMD Ryzen 5 5600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3070",
+      "version": "c5fcdf0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "jijo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-11-07T13:12:07.535",
+      "cpu": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+      "gpu": "GeForce MX330/PCIe/SSE2",
+      "version": "22f9fc7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "ComputerK",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-22T03:04:12.651",
+      "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+      "gpu": "NVIDIA GeForce GTX 1650 Ti/PCIe/SSE2",
+      "version": "b2ab75d",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

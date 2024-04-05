@@ -1,0 +1,19 @@
+{
+  "name": "rRootage Reloaded",
+  "description": "The classic bullet hell is back!\nrRootage Reloaded is a remastered version of the original rRootage by Kenta Cho. Featuring untouched gameplay from the original version, this remaster has been adapted for the features of the Nintendo Switch™. Featuring stable 60 FPS with low battery usage, HD graphics, and multiple control methods. \n\nPlay 4 different game modes, each of them with 40 levels, to a total of 160 unique levels. \n\nPlay using touchscreen, Joy-Con™, both on your TV and on the go.",
+  "titleId": "01005CD015986000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/e6f784dd69fa874852363f23275370d6bc7fa44ea3da5ceac475e8d331b7c158.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-01T18:34:48.954",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB",
+      "version": "6591103",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

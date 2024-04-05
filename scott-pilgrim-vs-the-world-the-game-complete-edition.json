@@ -1,0 +1,118 @@
+{
+  "name": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+  "description": "Complete Edition includes the remaster of Scott Pilgrim vs. The World™: The Game and its original DLCs: the Knives Chau and Wallace Wells Add-On Packs. Rediscover the beloved 2D arcade-style beat 'em up inspired by the iconic comic book series and movie, Scott Pilgrim vs. The World.\n\nPlay as your favorite characters – Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more! \n\nTeam up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball, all on your way to defeat the League of Ramona's Evil Exes!",
+  "titleId": "0100394011C30000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/357eedcc91f62e819aecc8a1f66347abecd1b48ed3c8c953697bb2130ed9a7b0.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-20T18:09:43.048",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "7197438",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-05-09T16:01:58.451",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "Radeon RX550/550 Series",
+      "version": "384c4ec",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-26T12:56:23.651",
+      "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "540014e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "unoaphex",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-07T00:13:31.422",
+      "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "9ff0a11",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2021-02-03T06:45:11.854",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "eea7582",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "solrac",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-16T18:38:38.167",
+      "cpu": "        Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "a4cfd22",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-06T16:23:32.913",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "7bc63c6",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-22T03:09:21.219",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-01-15T13:58:56.064",
+      "cpu": "AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "7272251",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "magnuzera",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-04T20:04:45.057",
+      "cpu": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+      "gpu": "GeForce MX150/PCIe/SSE2",
+      "version": "b3e45cd",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

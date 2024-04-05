@@ -1,0 +1,85 @@
+{
+  "name": "MY HERO ONE'S JUSTICE",
+  "description": "Fight for your justice in MY HERO ONE'S JUSTICE! The popular manga and anime series clashes head-to-head and Quirk-to-Quirk in this 3D arena fighter. Pave your path and choose between hero or villain and battle through iconic moments.\n\n・Choose from a cast of fan favorite characters like Deku, All Might, Shigaraki, and many more! \n・Use each character's Quirks to achieve superhuman feats such as One for All, Decay, Explosion, and many more!\n・Call upon your sidekicks to create your own unique team of heroes and villains\n・Unlock accessories to customize your favorite character's appearance\n・See the perspective of both heroes and villains as you enjoy the story from both sides, available only in MY HERO ONE'S JUSTICE\n・Engage in fully featured online combat and climb your way up the leaderboards to become the world's number one hero or villain!",
+  "titleId": "010039000B68E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/4a0b0bb5e5ea9d10da40e7ae3b62c8dd943e6cc52cb2a57db0ce47f9c0481a21.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-20T01:35:41.068",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "7809ffb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Mored4u",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-12-14T05:30:14.696",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "GeForce RTX 2080/PCIe/SSE2",
+      "version": "dbf907d",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2018-12-20T17:21:41.64",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "6320eb9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ghost666",
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-11-01T12:02:13.774",
+      "cpu": "Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "32639c5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "JosephSMASH",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-01T22:16:07.982",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "3d32cc5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-05-26T13:10:31.817",
+      "cpu": "Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz",
+      "gpu": "GeForce 920M/PCIe/SSE2",
+      "version": "00aa044",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-05-22T18:08:32.868",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "5c761c7",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

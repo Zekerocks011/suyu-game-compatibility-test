@@ -1,0 +1,19 @@
+{
+  "name": "Gothic Murder: Adventure That Changes Destiny",
+  "description": "Can she, a maid in an earl's household, change the fate of the lord she serves?\nAn original mystery game, developed by Orange--creator of many mystery ADVs, such as the \"Jake Hunter Detective Story\" series.\nIn each chapter, tragedy will befall our heroine, unless the player can stop them. There are five incidents to solve.\n\n{Story}\nOur story begins in early 20th-century England, at the manor of an eminent earl.\nOur heroine, a maid at this manor, often has dreams that foretell the death of the people around her. Her latest dream, has warned her that the life of the lord she serves is in danger.\nAs the manor buzzes with talks over the inheritance and will of the previous earl, a terrifying and sinister plot unfurls...\nIn order to save her lord's life, our heroine, with the information her dream has given her, races to find out the truth--\n\n{System Description}\nExamine the manor and formulate your reasoning based on the information you collect. Simple, intuitive controls will help you solve the mystery.\nIf your reasoning fails, the lord's deadly fate is sealed. If you can help him survive, a secret love awaits...?\nIt's a game that anyone can easily enjoy and experience all kinds of excitement.",
+  "titleId": "01001010121DE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/68bf253046d10fc1e535ac97d820a9c6cfd90d76d8e33219e86f12ba8beec9a6.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-02-08T17:28:06.851",
+      "cpu": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "4d4eeeb",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

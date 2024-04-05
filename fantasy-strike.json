@@ -1,0 +1,19 @@
+{
+  "name": "Fantasy Strike",
+  "description": "Fantasy Strike is a colorful fighting game where fantasy meets martial arts. It focuses on depth and strategy rather than difficult execution. It's designed for tournament play, but also to welcome you to the genre if you haven't played other fighting games before. Online play uses the excellent GGPO networking technology. Includes several single player modes.",
+  "titleId": "0100944003820000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/49b2e96f7e0779023677380c2c629194b85d983b9e46e5f4adaac5ff4a510235.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-01-29T09:13:37.139",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "a78657f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

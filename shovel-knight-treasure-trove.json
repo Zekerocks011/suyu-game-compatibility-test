@@ -1,0 +1,118 @@
+{
+  "name": "Shovel Knight: Treasure Trove",
+  "description": "Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action-adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Run, jump, and battle as Shovel Knight, wielder of the Shovel Blade, in a quest for his lost beloved. Take down the nefarious knights of the Order of No Quarter and confront their menacing leader, The Enchantress.\n\nBut that’s not everything! Shovel Knight: Treasure Trove also features four additional games all unto themselves! Take control of Plague Knight, Specter Knight, and King Knight on adventures of their own or battle each other in a local four player Showdown. Together, they form a grand and sweeping saga!\n\nWith Shovel Knight: Treasure Trove, you get it all. Play with a friend in Shovel of Hope's cooperative campaign, test your mettle in full-featured challenge modes, battle together in Showdown, and change the game with Body Swap mode. Uphold the virtues of Shovelry, earn relics and riches, and discover the true meaning of shovel justice!\n\nIncludes:\nShovel Knight: Shovel of Hope – Steel your Shovel Blade and start digging through the adventure that started it all! Jump, battle foes, and discover treasures as you quest to defeat the Order of No Quarter and their vile leader, The Enchantress.\n\nShovel Knight: Plague of Shadows – Prime your potions and become the maniacal alchemist Plague Knight in his adventure to brew the ultimate potion! Combine bomb parts to create custom combinations, discover new items, areas and bosses, and maybe even discover a bubbling romance.\n\nShovel Knight: Specter of Torment – Summon your scythe in the prequel to Shovel Knight! Take control of Specter Knight to dash through completely redesigned levels by climbing walls, mastering a new arsenal of weapons, and slashing your foes to ribbons. Become the reaper, discover your melancholy past, and recruit the Order of No Quarter!\n\nShovel Knight: King of Cards - Step into the gilded boots of King Knight in the biggest and most regal Shovel Knight game of them all! Leap, Shoulder Bash, gather new subjects, and strategize your way through this prequel in your quest to become King of Cards!\n\nShovel Knight Showdown - Duel with up to 4 players locally and scramble after gems, or take control of your favorite character and dig into Story Mode! Master every move, explore a vast array of items and locales, and discover new revelations in this platform fighting game.\n\nFeatures:\n• Yacht Club Games' beautifully authentic style bridges the gap between yesterday and today. Design, art, and audio hearken back to the days of 8-bit.\n\n• The systems of today also give Shovel Knight modern touches: detailed animation, multilayered parallax backgrounds, and evolved game design.\n\n• Leap over gaps! Duel with foes! Uncover treasure! Find Secrets! Upgrade! Shovel Knight is simple to learn and play, but challenge lies everywhere.\n\n• Multiple awesome soundtracks by Jake \"Virt\" Kaufman with additional songs by Manami Matsumae!\n\n• Amass riches to upgrade your armor and weapons.\n\n• Detailed, living background and animation! Big, beautiful pixels!\n\n• Lovable characters and bosses!\n\n• Balanced gameplay is a warm welcome to newcomers, and an old embrace for experts.\n\n• A light touch to narrative with humor, levity, and heart.\n\n• Retell the adventure and uncover all of the world's secrets with New Game+!\n\n• Challenge Mode - A full featured mode with over 50 challenge levels that up the ante in every way!\n\n• Body Swap - Did you ever wish Shovel Knight was a lady, or Shield Knight was a guy? Well, now you can change them all around however you want, with brand new designs for all of the main characters in Shovel of Hope!\n\n• Co-op! – Grab a friend and play through Shovel of Hope as a fully cooperative adventure!",
+  "titleId": "010057D0021E8000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/034f98b36f34420795a57274e0fa177333ff928f813eefc9257b6c98ac2d9131.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-04-07T14:40:44.49",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-02-16T00:19:53.678",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "6e09e59",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "consistent60",
+      "rating": 5,
+      "details": null,
+      "test_date": "2022-01-14T03:12:30.846",
+      "cpu": "AMD Ryzen 7 5800X 8-Core Processor             ",
+      "gpu": "AMD Radeon RX 6900 XT",
+      "version": "a482e35",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T15:59:36.49",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-04-16T13:28:13.43",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "0ca0261",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-05T20:15:15.146",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "a6e759f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-07T08:14:42.008",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1650",
+      "version": "72d7706",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Slash",
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-02-19T08:44:34.296",
+      "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-13T15:58:45.768",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "462d7bd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-17T01:04:31.33",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce GTX 1050 Ti/PCIe/SSE2",
+      "version": "1c4d282",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

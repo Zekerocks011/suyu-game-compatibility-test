@@ -1,0 +1,74 @@
+{
+  "name": "Star-Crossed Myth - The Department of Punishments -",
+  "description": "The Story:\nYour days are dreamless and mundane until, one night, you notice a star sparkling in the heavens.\nSuddenly, the beautiful gods of the stars appear before you.\nTheir goal? To erase their sins. This exquisite, heartrending true love…all began with a sin.\n\nCharacters:\nGod of Libra  Zyglavis\nGod of Scorpio  Scorpio\nGod of Aries  Krioff\nGod of Virgo  Partheno\nGod of Gemini  Dui\nGod of Pisces  Ichthys\n\nContents:\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story\".\nS1 Prologue\nMain Story\nHis PoV\nEpilogue\nSequel\nSequel His PoV\nSequel Epilogue\nMusings on Love\nS2 Prologue\nA Promise of Infinity\nA Promise of Infinity His PoV\n\nNotices:\n①The following characters' \"Musings on Love\" are not included.\n　Karno, Aigonorus, Krioff, Tauxolouve, Partheno\n\n②\"A Promise of Infinity: His PoV\" is only available in English",
+  "titleId": "01008AF00EA12000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/8f050e544c70efa28fa4ed07edb9327aa23a9eda9a00f482f2f4ace7cd1969bb.jpg",
+  "tests": [
+    {
+      "tester": "Miss-Lola",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-11-25T22:57:20.723",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti",
+      "version": "0a69685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-11-25T14:16:49.578",
+      "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 960/PCIe/SSE2",
+      "version": "f43e688",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Ishizu_Ikstar",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-23T15:34:11.494",
+      "cpu": "AMD FX(tm)-4100 Quad-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 760/PCIe/SSE2",
+      "version": "b6905b1",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Miss-Lola",
+      "rating": 1,
+      "details": null,
+      "test_date": "2021-11-25T16:31:17.699",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "0a69685",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-03-28T22:29:18.024",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-03-28T22:48:52.037",
+      "cpu": "Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz",
+      "gpu": "Intel(R) HD Graphics 620",
+      "version": "4435a46",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

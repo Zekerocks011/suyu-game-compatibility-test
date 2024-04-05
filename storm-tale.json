@@ -1,0 +1,19 @@
+{
+  "name": "Storm Tale",
+  "description": "The lives of peaceful villagers have changed the day an ancient prophecy became true. It spoke of an evil sorcerer who would bring destruction to our world. Now they need your help to build a new home and get ready to defend themselves against the evil that will return.\nEmbark on a medieval tale of hope and courage. Overcome many obstacles and win many trophies on your journey through this compelling match 3 game - and take your skills to the next level with the help of cool power-ups.\n\nFeatures\n - Collect gold to build a medieval village.\n - Prove your skill and win more than 50 Trophies.\n - Tons of challenge levels with unique features.\n - Exciting match-3 gameplay.\n - Plan your moves, race against time or play it relaxed.\n - Enjoy a variety of game modes and difficulty modes.\n - Tough obstacles and cool power ups.",
+  "titleId": "0100362014538000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/76c5172831101153240fe0c8fc6a4c7ea79a61652c31407c4a978b6fb4b9da86.jpg",
+  "tests": [
+    {
+      "tester": "Champ3n",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-04T12:55:29.609",
+      "cpu": "Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz",
+      "gpu": "AMD Radeon RX 5600 XT",
+      "version": "93a2d4f",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

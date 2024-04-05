@@ -1,0 +1,30 @@
+{
+  "name": "Mini Metro",
+  "description": "In Mini Metro, you take on the task of designing the subway layout for a rapidly expanding city. Your city starts with three stations. Draw routes between these stations to connect them with subway lines. Commuters travel along your lines to get around the city as fast as they can. Each station can only hold a handful of waiting commuters so your subway network will need to be well-designed to avoid delays.\n\nEventually your network will fail. Stations will open too quickly. Commuters will crowd the platforms. How long the city keeps moving is up to you.\n\nKey Features\n- Compelling, constructive, hectic, relaxed gameplay. If that makes sense.\n- 3 game modes: Normal for quick games, Endless for stress-free play, and Extreme for the ultimate challenge.\n- 20 real-world cities to design subways for. Each has a unique colour theme and set of obstacles.\n- Supports up to 4 players.  Build with your friends and argue over the best design.\n- Trains! Did we mention them yet?",
+  "titleId": "0100091008272000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6e6b593218f110340266f234c2d5df296474db1a241b7e63fc191305294a6ea8.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-03-18T00:44:47.644",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "6d200b9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-05T19:07:59.221",
+      "cpu": "AMD FX(tm)-6350 Six-Core Processor             ",
+      "gpu": "NVIDIA GeForce GTX 960/PCIe/SSE2",
+      "version": "0b934e6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

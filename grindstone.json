@@ -1,0 +1,52 @@
+{
+  "name": "Grindstone",
+  "description": "Grindstone is a puzzle game where epic adventures are just your 9-to-5. Part color-matching, part monster-slaying ridiculousness, in CAPY’s hit game Grindstone you are a stonegrinder and it’s your job to mine grindstones from the Creeps that lurk on the mountain. Climb the mountain by completing over 250 levels of intricate puzzles and hazards, all in the hopes of saving up enough grindstones to take your family on a much needed vacation.\n \nFeatures:\n\n-250+ levels of color-matching puzzles\n-A variety of modes with dedicated leaderboards\n-Choice of playable character: Jorj or Jorja\n-Challenges and NPCs to interact with\n-Dozens of weapons, outfits, enemies, and bosses\n-Ongoing updates that add more levels, gear, enemies, and modes\n-Award-winning soundtrack by Sam Webster\n",
+  "titleId": "0100538012496000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/36a247f027ad591697b98e94bedb5878ad8c6258fcefebbe5c4d49b979dd500e.jpg",
+  "tests": [
+    {
+      "tester": "juanchet",
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-12-22T21:12:16.661",
+      "cpu": "Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "0c3538b",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-25T12:55:18.237",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-05-25T08:13:32.625",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "514faa9",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-03-10T23:06:51.918",
+      "cpu": "AMD Ryzen 7 3700X 8-Core Processor             ",
+      "gpu": "GeForce RTX 2070 SUPER/PCIe/SSE2",
+      "version": "49f8b7b",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

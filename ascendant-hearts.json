@@ -1,0 +1,30 @@
+{
+  "name": "Ascendant Hearts",
+  "description": "Hayato lived an ordinary life until he wakes up one day with amnesia… and finds himself in a world closer to the video games he plays than the world he remembers.\n\nFetch quests? Skill points? Respawning after death? It’s all a bit much to accept. A mage named Shiori offers to help him find his way, and with her help, he learns how to fight monsters, perform fetch quests, and put items in a strange metaphysical space called an “inventory.”\n\nSoon he’s ready to take on NPC quests! But the town of Lightshire is in danger from deadly monsters—monsters that can kill you for real. Where did they come from? What is behind the attacks? Hayato and Shiori are determined to find out, and no matter what they encounter—from high-level dungeons to argumentative party members—they won’t stop until they learn the truth.\n\n- Parody of traditional JRPG and MMORPG tropes.\n- Immersive fantasy world filled with monsters and memorable characters.\n- Numerous distinct environments, including a haunted library, a mad scientist’s laboratory, and an eldritch temple.\n- Lighthearted and humorous atmosphere.\n- Three possible romance routes.\n- Three main endings based on your choices.",
+  "titleId": "01009C200F45A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3268939105091dbe9a5cdb2559967493e983fefbd09986a644e6e5f8704b03ef.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T13:35:47.972",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-24T12:48:32.335",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "1349ade",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

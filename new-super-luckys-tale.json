@@ -1,0 +1,52 @@
+{
+  "name": "New Super Lucky's Tale",
+  "description": "Join Lucky on his thrilling journey through the Book of Ages, a magical artifact that opens doors to amazing worlds. Meet new friends, explore exciting lands, and recover the missing pages from the evil sorcerer Jinx and his villainous family, the dreaded Kitty Litter. \n\n• Featuring a huge variety of gameplay, from expansive 3D hubs, to story-based adventure levels, 2D side-scrolling challenges, rewarding mini-games, mind-bending puzzles, and thrilling boss battles.\n\n• Thousands of collectibles to gather, tons of rewarding secrets to discover, a cast of memorable characters, and an entire wardrobe of costumes for the stylish adventurer.\n\n• This is the 3D platforming adventure you’ve been looking for, designed to delight and challenge players of all ages and skill levels.",
+  "titleId": "010017700B6C2000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/64ac3b5fec0550bef4be97b670e2a18b6e945bd103e79fc8fa6155533f2d5d1b.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2019-11-22T20:46:04.162",
+      "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+      "gpu": "AMD Radeon HD 6700 Series",
+      "version": "9158529",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-16T18:02:31.574",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "571698a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 4,
+      "details": null,
+      "test_date": "2019-12-28T14:56:44.566",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Poyo",
+      "rating": 3,
+      "details": null,
+      "test_date": "2019-12-28T14:52:19.565",
+      "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "e005870",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

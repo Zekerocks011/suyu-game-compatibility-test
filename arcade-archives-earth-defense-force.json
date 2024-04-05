@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Archives EARTH DEFENSE FORCE",
+  "description": "\"EARTH DEFENSE FORCE\" is a shooting game released by JALECO in 1991.\nControl your XA-1 space fighter and take part in a worldwide endeavor to stand up against the AGIMA EMPIRE'S plot to take over the Earth! With each power-up the might of your weapons and the types of optional formations increases!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+  "titleId": "01005960123CE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/58112554edb8270ee7b50757b7857ead6bc33f8b4ebccb8f47ce1f084e8e3b38.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-07-22T17:14:35.643",
+      "cpu": "Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "bbd83b6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

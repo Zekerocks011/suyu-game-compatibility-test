@@ -1,0 +1,30 @@
+{
+  "name": "Eagle Island",
+  "description": "The award-winning Eagle Island is a roguelite action-platformer that offers a unique blend of falconry-inspired combat mechanics, procedurally generated levels, and challenging boss fights. Players can choose between the narrative-driven story or speed-runner-like rogue mode, mixing and matching 85 abilities to diversify their gameplay.\n\nOVER 85 ABILITIES & PROCEDURALLY-GENERATED LEVELS IN CLASSIC MODE\n\"Throw\" your owl companion into battle imbued with special abilities! Explore procedurally-generated worlds, set to a beautifully modernized pixel art aesthetic. Levels are also packed with secrets and areas to explore.\n\nEXPLORE MORE IN HANDCRAFTED TWIST MODE\nIn Eagle Island TWIST, you'll experience 45 carefully crafted, retro-themed stages that can be traversed on a 16-bit era world map. TWIST offers even more content to an already well-rounded game, providing a range of mini-games to supplement Classic Mode's roguelite feel.\n\nLOADED WITH ACCESSIBILITY FEATURES\nThere are over 18 accessibility settings that can be easily enabled--Such as: remappable controls, difficulty options, text visibility, high contrast, and toggles for flashing and screen shaking.",
+  "titleId": "010037400C7DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/a056cb779264d41833ee164348bc431f6f94ea5fc03d3e7cbd6a5116ad4f9925.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-05-06T10:13:14.632",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "973b7f8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-08-12T22:02:09.707",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 970/PCIe/SSE2",
+      "version": "f35a0a6",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

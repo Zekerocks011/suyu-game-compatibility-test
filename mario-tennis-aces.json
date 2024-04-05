@@ -1,0 +1,118 @@
+{
+  "name": "Mario Tennis Aces",
+  "description": "Unleash an arsenal of shots and strategies in all-out tennis battles with friends, family, and fan-favorite Mushroom Kingdom characters. Whether you play locally,* online,** or using simple motion controls, intense rallies await! In Adventure mode, experience a new favor of tennis gameplay, with a variety of missions, boss battles and more. \n\nComplete missions and boss battles in Adventure mode while mastering the controls. Test your hard-earned skills in singles or doubles with up to 4 players in local* or online** multiplayer, not to mention Tournament Mode, which lets you challenge the CPU. Store up energy and use it to pull off amazing feats: move so fast the world slows down around you or aim in first-person to send the ball crashing down! Your rivals may attempt to block you, but if they fail, their racket will take damage—and break after three hits. Fully charge your energy to launch the ball with enough force to KO your opponent!\n\n",
+  "titleId": "0100BDE00862A000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fc49417f750582464961821c4e9e248d00941db65ec4fc0315fe5aa9ec8f0bf3.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-08-04T20:23:14.214",
+      "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "07f75ea",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "rodrigocofe",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-08T22:36:32.705",
+      "cpu": "        Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 650 Ti/PCIe/SSE2",
+      "version": "2cb517f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "R_av",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-08-30T23:08:15.029",
+      "cpu": "Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+      "version": "7d1a3b5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gervasao",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-06T00:25:35.571",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+      "version": "884f989",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "gervasao",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-23T15:57:25.149",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "GeForce RTX 2070 SUPER",
+      "version": "ed1e288",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Darkcp",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-09-29T11:27:51.006",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "c628df8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "djcanna",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-21T23:36:11.056",
+      "cpu": "       Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1650/PCIe/SSE2",
+      "version": "920354a",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Darkcp",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-31T13:34:38.333",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1050",
+      "version": "6dde5a5",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Roberto_Malaria",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-06T04:07:49.667",
+      "cpu": "Intel(R) Xeon(R) CPU           W3690  @ 3.47GHz",
+      "gpu": "AMD Radeon (TM) R9 390 Series",
+      "version": "23d6568",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-07-22T09:09:45.92",
+      "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+      "gpu": "Quadro P5000/PCIe/SSE2",
+      "version": "867a218",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

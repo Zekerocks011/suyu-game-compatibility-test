@@ -1,0 +1,19 @@
+{
+  "name": "PAN-PAN A tiny big adventure",
+  "description": "PAN-PAN is an open plain adventure that expands on the concept of environmental narrative storytelling with puzzle solving and exploration elements at its core. \n\nSet against a backdrop of soothing ambient sounds crafted by renowned sound composer Simon Viklund, your task is to fix your downed spaceship and begin the pilgrimage home. \n\nIn a world littered with world shifting riddles and sprinkled with the memorable characters - how you solve these riddles is firmly in your hands. \n\nMain features:\nSet in an open world: Unlock new areas by collecting items and solving puzzles.\nStellar soundtrack created by acclaimed sound producer – Simon Viklund.\nA balanced blend of exploration and puzzle solving game mechanics.\nStory beats told through environmental interactions.\nUse a mix of tools, gadgets and devices to solve puzzles and uncover the path home.",
+  "titleId": "0100F0D004CAE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/dd763275e25c7dea8f13815a6436d87ce342d1486bb7062ae50f42c866c92a64.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-04-20T05:19:44.492",
+      "cpu": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 980",
+      "version": "4af522e",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

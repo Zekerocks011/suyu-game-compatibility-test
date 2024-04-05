@@ -1,0 +1,30 @@
+{
+  "name": "Little Mouse's Encyclopedia",
+  "description": "INTERACTIVE ENCYCLOPEDIA\nLittle Mouse's Encyclopedia is ideal for born explorers. Wandering around the lively boards, you’ll find animals and plants by yourself. Using a magnifying glass, you can reveal cards that contain interesting information and drawings.\n\nAVAILABLE IN MANY LANGUAGES\nLittle Mouse's Encyclopedia is available in 18 languages, including English, Japanese, Portuguese, Russian, Simplified Chinese, Finnish, Czech, Polish, Dutch, German, Spanish, French, Ukrainian, Italian, Hungarian, and Turkish.\n\n\nGORGEOUS ILLUSTRATIONS\nThe graphic style of Little Mouse's Encyclopedia was inspired by classic fairy tales and... children's encyclopedias. This enchanting and original style makes the exploration even more enjoyable, and various animations breathe life into the surroundings.\n\nRELAXING MUSIC\nWhile playing, listen to pleasant, relaxing music and the sounds of nature, such as birds chirping or frog toad.\n\nEXPLORE THE WORLD\nWith a brave mouse, you’ll explore the area around its burrow, walk through the forest, sneak through the garden and swim in the pond. In each of these places, unique species of animals and plants await you.\n\nSO MUCH TO DISCOVER!\nDuring your wandering, you’ll come across over 160 unique species, about which you can learn something interesting.\n\nAVAILABLE IN MANY LANGUAGES\nLittle Mouse's Encyclopedia is available in 18 languages, including English, Japanese, German, Spanish and French.\nImmerse yourself in the extraordinary world of nature today with the brave little mouse!\n\nKEY FEATURES:\n— over 160 species of animals and plants to discover\n— 4 different habitats\n— beautiful illustrations\n— a fun way to learn\n— relaxing music\n— easy and intuitive controls\n— available in many languages",
+  "titleId": "0100FE0014200000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3cb5cca8917b27ba8510c61cc828e388dd4e0e11922d6ae5b38c851a76c192bc.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-06-06T05:52:13.272",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "715245e",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-06T03:53:04.732",
+      "cpu": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+      "gpu": "GeForce GTX 1050/PCIe/SSE2",
+      "version": "a913f83",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

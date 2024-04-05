@@ -1,0 +1,118 @@
+{
+  "name": "Super Mario Maker 2",
+  "description": "Mario fans of the world, unite! Now you can play, create, and share* the side-scrolling Super Mario™ courses of your dreams in the Super Mario Maker™ 2 game, available exclusively on the Nintendo Switch™ system! Dive into the single-player Story Mode and play built-in courses to rebuild Princess Peach’s castle. Make your own courses, alone or together. And with a Nintendo Switch Online membership*, share your courses, access a near-endless supply made by others, enjoy online multiplayer, and more!\n\nA new side-scrolling Mario adventure that unleashes the creative potential of Super Mario Maker 2 awaits in Story Mode, which contains over 100 built-in courses. And in Course Maker, a wide range of parts, tools, and more are available so you can construct your own courses. Want coin-shooting cannons? Bowser riding on a giant Goomba? Cat Mario sliding down slopes to take out an army of baddies? Go for it! You call the shots. Pass a Joy-Con™ controller to a partner to build cooperatively on a single system!\n\nPower-up the fun even further with a Nintendo Switch Online membership, which gives you access to Course World and its wealth of online content and functionality. Track your rankings, share your creations, and leave comments after you’ve played courses. With a Nintendo Switch Online membership, you can also tackle Endless Challenge, save online courses locally for later offline play, enjoy online multiplayer with players both near and far, and customize how you appear to others by dressing your Mii™ character with fun accessories!",
+  "titleId": "01009B90006DC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/6e3e4c0a8e88dd9470d686a55052dca29f1be48ae3af3249a0d34a39f77d2684.jpg",
+  "tests": [
+    {
+      "tester": "Stefan_580",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-28T16:31:02.973",
+      "cpu": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "177d1d4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Stefan_580",
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-20T22:26:51.538",
+      "cpu": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ",
+      "gpu": "AMD Radeon(TM) Vega 3 Graphics",
+      "version": "e4eadd3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "thekk5dire",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-25T22:23:06.366",
+      "cpu": "AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ",
+      "gpu": "GeForce GTX 1650",
+      "version": "c0793f0",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "AlonCV",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-27T17:48:35.319",
+      "cpu": "Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "23b86ba",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "FireD4sher",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-11T13:50:26.38",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "02cdcdd",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "CoderQC",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-09T03:38:59.326",
+      "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+      "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "version": "2361cd8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Fabric",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-10-27T14:28:57.652",
+      "cpu": "Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz",
+      "gpu": "GeForce GT 630/PCIe/SSE2",
+      "version": "f3e63a7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-11-15T16:16:21.365",
+      "cpu": "        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz",
+      "gpu": "NVIDIA GeForce GTX 650/PCIe/SSE2",
+      "version": "49af7e4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "nk20bot_v2",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-10-01T18:36:28.385",
+      "cpu": "        Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz",
+      "gpu": "NVIDIA GeForce GTX 1050 Ti",
+      "version": "9b3cdb4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "xor-128",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-08-23T06:07:27.242",
+      "cpu": "AMD Ryzen 5 3600X 6-Core Processor             ",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "version": "74e96d8",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

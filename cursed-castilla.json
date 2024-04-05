@@ -1,0 +1,30 @@
+{
+  "name": "Cursed Castilla",
+  "description": "The tears of a young witch have been turned into a key by a demon to open a gateway to hell.\n\nIn Cursed Castilla, one takes the role of Don Ramiro, a knight appointed by King Alphonse VI, to fight and banish the evil invading the lands of Tolomera.\n\nDon Ramiro will face Mouras, Ojáncanos, Nuberus and Malismos: creatures from the European folklore, as well as from chivalric romances such as Amadís de Gaula. For that, one will use a different range of weapons to defeat the enemies, in a pure classic arcade action style.\n\nFeatures:\nExplore Tolomera del Rey in depth through 8 game stages.\nFight against more than 48 types of enemies and 19 final bosses.\nDepending on the mission success, meet 1 of the 4 different possible endings.\nKnow all the myths featured in the game with the illustrated bestiary.\nBrag about your combat skills with 16 unlockable achievements.\nYell your battle cry with the songs of the original soundtrack.\nRevive the glory of the Arcade Times with 4 different view modes.",
+  "titleId": "0100ED700B376000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/f1b721e1ffa8b4005655d2d52772563b1f61e13b14a4872ccdbfaf317a1a9c54.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-24T18:46:57.961",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "fc348c3",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-04-06T19:15:58.034",
+      "cpu": "Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz",
+      "gpu": "Intel(R) HD Graphics 520",
+      "version": "29a47aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

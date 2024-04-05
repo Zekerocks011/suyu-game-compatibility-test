@@ -1,0 +1,41 @@
+{
+  "name": "Mercenaries Rebirth: Call of the Wild Lynx",
+  "description": "Mercenaries Rebirth is a tactical RPG set in a fantasy world. \nBattles occur on quarter-view maps with height differences, wherein the front, back, and side of the map determine each battle’s outcome. Support effects depend on where allied characters from your party are in position, etc., features of high strategic maneuvers.\n\nTalented Illustrator Makimura Shunsuke-san is the appointed character designer! Beautifully drawn characters play more active roles with rich facial expressions that vary from joy, sadness, anger, etc.\n\n・Rebirth Exceed\nThe gauge in the upper right corner of the screen builds up anytime the Player attacks and defends during battles. Store up enough power to activate a particular skill called “Rebirth Exceed”! Each character has unique talents, including dealing with godly damage to enemies and reviving fallen allies who cannot fight. \n\n\n\n・Smooth Character Animations\nAnimations play a more active role now. During battles, smooth animations were made by animating parts of the characters’ pixel art. Both human characters and monsters move a lot more vividly than ever compared to previous titles in the series!\n\n\n・Battle Maps Transformed Into 3D\n3D models produce battle maps, and the camera angles can rotate during the Player’s Turn. Hidden items, etc., can be found by rotating the camera !?\n\n\n・Full Options Setting \nOptions settings include turning the Grid Display ON/OFF on the 3D Battle Maps, “Skill Easy Play,” and “Faster Movement Play,” etc., which are more suitable for repeat play value. \n",
+  "titleId": "010031E01627E000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/2e7aef54b2a6dc081cfe936d01963d7e3e5bffe2554ea647ef375f35b4594136.jpg",
+  "tests": [
+    {
+      "tester": "Law",
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-12-25T17:43:09.552",
+      "cpu": "AMD Ryzen 9 3900X 12-Core Processor            ",
+      "gpu": "NVIDIA GeForce GTX 1070 Ti",
+      "version": "b924712",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-26T13:05:40.525",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "5dd8de8",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "Non_Notable",
+      "rating": 6,
+      "details": null,
+      "test_date": "2022-01-25T16:23:06.099",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "NVIDIA GeForce GTX 1060/PCIe/SSE2",
+      "version": "4f518b5",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

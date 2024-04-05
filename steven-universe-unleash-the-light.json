@@ -1,0 +1,19 @@
+{
+  "name": "Steven Universe: Unleash the Light",
+  "description": "9 PLAYABLE CHARACTERS\nPlay as your favorite Steven Universe characters, including Steven, Garnet, Pearl, Amethyst, Lapis Lazuli, Bismuth, Peridot, Connie, and Greg! \n \nCUSTOMIZE YOUR TEAM\nChoose which Gems are in your party, unlock awesome new abilities, and equip alternate costumes. Plus, change formation in battle to gain the advantage.\n \nTWO NEW GEMS\nFace off against two new Prism-wielding Gems co-created by Rebecca Sugar. Who are they and what are they plotting? \n \nFUSION TIME!\nTeam up for amazing combo attacks and Gem Fusions! Fuse to play as Smoky Quartz, Sunstone, Rainbow Quartz 2.0, and Obsidian!\n \nORIGINAL VO\n“Unleash the Light” features an original story co-written by Rebecca Sugar, and voiceover from the Steven Universe cast and special guest star Christine Baranski.",
+  "titleId": "0100599012F08000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/1212db15022a9e0994d7f23d3037bf37ac0c743599b000b4e1663ce8c67c3568.jpg",
+  "tests": [
+    {
+      "tester": "AMHAMH",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-04-19T18:33:56.135",
+      "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 1660 Ti",
+      "version": "c969305",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

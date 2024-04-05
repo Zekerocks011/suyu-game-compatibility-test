@@ -1,0 +1,85 @@
+{
+  "name": "DOOM (1993)",
+  "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993). First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nExperience the classic demon-blasting fun that popularized the genre home or on-the-go.\n\nDOOM (1993) includes:\n - The expansion, Episode IV: Thy Flesh Consumed, with 9 additional action-packed levels \n- Local 4 player deathmatch\n- Local 4 player co-op ",
+  "titleId": "010018900DD00000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/c08be09f3cf012e5c69e39dafe5b83b363ab2726eb2c7dc93bedc96062552706.jpg",
+  "tests": [
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-06-19T00:45:22.558",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "8060880",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-05-23T13:48:45.025",
+      "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+      "gpu": "GeForce GTX 1060 with Max-Q Design/PCIe/SSE2",
+      "version": "ed13ac4",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-19T17:56:30.983",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce RTX 2060 SUPER/PCIe/SSE2",
+      "version": "db8ff90",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2020-03-01T10:27:44.112",
+      "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "121d223",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "kyleseedorf",
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-06-26T12:30:15.048",
+      "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+      "gpu": "NVIDIA GeForce GTX 1070/PCIe/SSE2",
+      "version": "cd4d1bb",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2021-08-11T20:00:56.912",
+      "cpu": "Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz",
+      "gpu": "NVIDIA GeForce GTX 960M/PCIe/SSE2",
+      "version": "41ddf7f",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 2,
+      "details": null,
+      "test_date": "2020-12-11T09:51:54.702",
+      "cpu": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+      "gpu": "GeForce RTX 2070/PCIe/SSE2",
+      "version": "9811a72",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

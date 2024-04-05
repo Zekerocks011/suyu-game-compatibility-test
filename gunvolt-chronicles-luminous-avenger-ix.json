@@ -1,0 +1,41 @@
+{
+  "name": "Gunvolt Chronicles: Luminous Avenger iX",
+  "description": "Inti Creates brings you speedy and stylish 2D action the likes of which you've never seen before! Experience the apeX of 2D action with Luminous Avenger iX!\n\n● Fast-paced, stylish 2D action eXplodes onto the scene!\n\nThe hero, Copen, can dash into enemies to lock-on onto them so his shots never miss their mark. Put your ingenuity to the test, and you can use his \"Bullit Dash\" to fly through stages without touching the ground! You have many tools at your disposal, so make find a style that works for you and conquer each stage with style.\n\n● Acquire EX Weapons from bosses for eXtreme firepower!\n\nEach and every boss has a unique superpower called a \"Septima\" that powers their special abilities. When Copen defeats a boss, his partner robot Lola copies those Septimas and gives him access to a new arsenal of weapons. Each boss has a weakness to one of these EX Weapons, so make good use of them!\n\n● Utilize a wide variety of abilities that allow players of all skill levels to eXcel!\n\nWhen Copen reaches 0 HP, there's a chance his partner Lola will revive him in a powered up state—perfect for anyone who wants a second chance! Blitz through stages with style and precision to rack up Kudos points! Rack up over 1000 Kudos and Lola will transform and sing for you, so shoot for the stars and go for a high score! High scores also unlock flashy score result screens that you can share on social media!\n\n● Experience the story of people surviving in a world where they are on the brink of eXtermination!\n\nThe hero Copen swears to protect a group of children surviving in the ruins of society, hiding in the shadows from the watchful eyes of all-powerful Sumeragi Institute. To make matters worse, the threat of Sumeragi's elite soldiers, The Falcons, looms large. Meet a huge cast of colorful characters that shine through in this dark tale.\n\nVoice Cast\nCopen:  Yuma Uchida, Lola: Mayu Mineda\nKohaku: Yumiri Hanamori\nKyota: Nozomi Chikamura, Jin: Ryosuke Sakamaki, Maria: Maria Naganawa\nBlade: Yui Ishikawa\nRebellio: Ryota Yoshizaki, Stella: Ryoko Shiraishi, Crimm: Suguru Narisawa\nIsola: Miku Ito, Bakto: Atsushi Tanaka, Dystnine: Yuichiro Umehara",
+  "titleId": "01008C800E654000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/d9a4ae47b81bd49e737510cce753bd9a3ca10ef055e74ea779f9e247762bbe1f.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-03-23T03:26:06.049",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 980/PCIe/SSE2",
+      "version": "7a1f942",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 6,
+      "details": null,
+      "test_date": "2021-04-25T19:32:51.51",
+      "cpu": "Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz",
+      "gpu": "NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2",
+      "version": "ea37747",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-03-23T03:26:35.234",
+      "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+      "gpu": "GeForce GTX 980/PCIe/SSE2",
+      "version": "7a1f942",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

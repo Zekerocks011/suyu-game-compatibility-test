@@ -1,0 +1,30 @@
+{
+  "name": "Hyper Jam",
+  "description": "Hyper Jam is a fresh new arena brawler with a dynamic perk drafting system that makes each match different from the last. The hard-hitting fusion of lethal weapons, stackable perks, furious combat, and a killer synthwave soundtrack makes Hyper Jam a multiplayer experience that'll keep you coming back for more.\n\nFURIOUS COMBAT\nHyper Jam features fast-paced multiplayer arena gameplay for 1 - 4 players. Annihilate your opponents round after round using katanas, rocket launchers, sledgehammers, and more.\n \nPERK DRAFTING\nAfter every round, players choose new perks that stay with them for the rest of the game, stacking and combining with their existing ones to create more powerful effects. A wide pool of distinctive perks ensures no two games are ever the same. \n\nPLAY YOUR WAY\nGather your friends and play together using a combination of Pro Controllers, dual Joy-Con™ and even single Joy-Con! Battle it out in free-for-all or team up together, try out different game modes, and make your own rules with mutators!\n\nONLINE AND LOCAL WIRELESS\nTake on your friends at home, or test your skills against others online or nearby using Local Wireless. Cross-platform matchmaking means even more challengers to face!\n\nAI BOTS\nHone your skills against AI bots or team up with your friends. Customize bot difficulty, game rules and more to create your own challenge.\n \n'80s AESTHETIC\nPlay as a strong selection of '80s-inspired characters on a variety of beautiful and dangerous arenas, ranging from a sun-drenched Miami hotel rooftop to a gritty Neo-Tokyo subway. \n \nKILLER SYNTHWAVE SOUNDTRACK\nAn addictive soundtrack featuring Carpenter Brut, Dance With The Dead, Meteor and more will keep hearts racing as you blow each other to bits.",
+  "titleId": "0100B3300B4AA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/70d32cd2865697c7ca82056a4458b55c818fe7aa438a6ffd453edfd28562a2b2.jpg",
+  "tests": [
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-02-04T10:08:58.154",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "b8192f7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-26T15:59:17.9",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER",
+      "version": "79c20aa",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

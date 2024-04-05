@@ -1,0 +1,41 @@
+{
+  "name": "The Legend of Heroes: Trails of Cold Steel III",
+  "description": "Rean Schwarzer uncovers a dark plot that threatens his homeland. To face their enemies, he must prepare a new generation of heroes as an instructor at a new branch campus and guide them towards victory.",
+  "titleId": "01005420101DA000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/48fc607771d49158c8aaa8e21aee469988fa342d2f87f1f50d39c32c9e80bfd3.jpg",
+  "tests": [
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-21T21:22:43.214",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "a1fb79c",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2020-07-04T23:47:13.631",
+      "cpu": "Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz",
+      "gpu": "GeForce GTX 1080/PCIe/SSE2",
+      "version": "814bde7",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "DiabloTVHD_3D",
+      "rating": 6,
+      "details": null,
+      "test_date": "2020-06-23T17:20:06.273",
+      "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+      "gpu": "GeForce GTX 1060 6GB/PCIe/SSE2",
+      "version": "1e6a5bf",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

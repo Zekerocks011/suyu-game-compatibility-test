@@ -1,0 +1,41 @@
+{
+  "name": "Shakedown: Hawaii",
+  "description": "Shakedown: Hawaii follows three protagonists through a 16-bit open world. Build your own \"legitimate\" corporation by completing missions, acquiring businesses, sabotaging competitors, \"re-zoning\" land, and shaking down shops for protection money.\n\nExplore the island by foot, by car, or by boat. It's filled with arcade challenges, sidequests, stores to shop at, houses to burgle, civilians to interact with, and secrets to discover.\n\nYou begin your adventure as an aging CEO, struggling to make sense of the modern world. Online shopping killed his retail stores, ride sharing his taxi business, and streaming his video stores. To save the company, he'll need to learn the \"methods\" of modern business, and use them to rebuild his empire.\n\nThe entire island is up for grabs... or at least, could be with the right business model. \n\nIt's business in the front, and bodies in the back... in Shakedown: Hawaii.",
+  "titleId": "0100B10002904000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/3769e032f69fad22f3902c2c2fb6b198b3b136dd4e3d5182718d6121e83f1866.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2019-12-24T01:39:50.304",
+      "cpu": "AMD Ryzen 5 2600X Six-Core Processor           ",
+      "gpu": "GeForce GTX 1070/PCIe/SSE2",
+      "version": "6c94517",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": "capiqua",
+      "rating": 3,
+      "details": null,
+      "test_date": "2021-01-29T18:32:15.276",
+      "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+      "gpu": "GeForce GTX 1650 SUPER/PCIe/SSE2",
+      "version": "52b1362",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-07-17T02:27:39.78",
+      "cpu": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz",
+      "gpu": "GeForce GTX 1660 Ti",
+      "version": "3e6d45c",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

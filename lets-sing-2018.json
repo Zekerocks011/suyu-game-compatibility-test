@@ -1,0 +1,19 @@
+{
+  "name": "Let's Sing 2018",
+  "description": "Warm up those vocal chords, enter the virtual stage and experience the best Let’s Sing ever made!\n\n• Exclusively chosen playlist: 30 top tracks including\nThe Chainsmokers ft. Halsey - Closer\nLukas Graham – 7 Years\nCharlie Puth - Attention\nGnash ft. Olivia O’Brien – I Hate U, I Love U\nQueen – We Are The Champions\nKygo ft. Parson James – Stole The Show\nOneRepublic – Counting Stars\n\n...And many more!\n\n• New rewarding gameplay elements: Beat your high score, collect avatars and unlock music certification records!\n• Four challenging game modes: Compete against your friends in diverse modes including the brand new mode - Feat! \n• Additional Song Packs: Expand your Playlist with selected song packs from the Let's Sing store!\n\nIn-game purchases optional",
+  "titleId": "0100ECB00A0FC000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/fe4688ef816d8809af53f3842b08b05c4505a02a43d82aae68ce0b4ac41c669a.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 3,
+      "details": null,
+      "test_date": "2020-09-08T09:06:05.901",
+      "cpu": "AMD Ryzen 5 2600 Six-Core Processor            ",
+      "gpu": "GeForce GTX 1660 SUPER/PCIe/SSE2",
+      "version": "cf99058",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}

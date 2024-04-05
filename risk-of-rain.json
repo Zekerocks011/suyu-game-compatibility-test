@@ -1,0 +1,52 @@
+{
+  "name": "Risk of Rain",
+  "description": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op. With over 100 items at your disposal, you will find the tools you need to find the teleporter back home. Discover a myriad of randomly chosen stages, from the desolate forest to the frozen tundra. \n\nThe three main goals for our game are simple: \n\n1. Design a game that is randomly generated every play-through, to keep replayability high and fresh. \n\n2. Time = difficulty. The higher the in-game time gets, the harder the difficulty gets. Keeping a sense of urgency keeps the game exciting! \n\n3. Be enjoyable, regardless of whether you win or lose. No more fussing with complex and non-intuitive gameplay patterns. Players should not blame the game for their loss!",
+  "titleId": "0100AAA00ACBE000",
+  "img": "https://img-eshop.cdn.nintendo.net/i/517a26a06bf1c241c3e26c6afceb247e0688d84d7c002691b22d765cf3d3d831.jpg",
+  "tests": [
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-24T06:22:37.789",
+      "cpu": "AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",
+      "gpu": "AMD Radeon HD 7700 Series",
+      "version": "061c4b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-19T21:24:29.069",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "d344081",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 1,
+      "details": null,
+      "test_date": "2019-02-24T08:38:24.046",
+      "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+      "gpu": "GeForce GTX 1080 Ti/PCIe/SSE2",
+      "version": "061c4b2",
+      "os": "Windows",
+      "from_yuzu": true
+    },
+    {
+      "tester": null,
+      "rating": 5,
+      "details": null,
+      "test_date": "2021-01-17T21:56:02.145",
+      "cpu": "AMD Ryzen 5 3600 6-Core Processor              ",
+      "gpu": "Radeon RX 570 Series",
+      "version": "4535202",
+      "os": "Windows",
+      "from_yuzu": true
+    }
+  ]
+}
